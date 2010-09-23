@@ -1,0 +1,8 @@
+﻿Arabic - [zaher](http://gitorious.org/fluxbb-arabic/fluxbb-arabic)
+French - [FluxBB.fr](http://fluxbb.fr)
+German - [FluxBB.de Community](http://www.fluxbb.de)
+Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
+Polish - [FluxBB.orge.pl](http://fluxbb.orge.pl)
+Russian - [Форум FluxBB](http://fluxbb.org.ru/forum/viewtopic.php?id=3140)
+Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)
+Traditional_Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58) & [coolhd](http://fluxbb.org/forums/profile.php?id=99)
