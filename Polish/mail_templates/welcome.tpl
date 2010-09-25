@@ -1,4 +1,4 @@
-Temat: Witamy na <board_title>!
+Subject: Witamy na <board_title>!
 
 Dziękujemy za rejestrację na naszym forum - <base_url>. Dane do Twojego konta:
 

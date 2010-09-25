@@ -1,4 +1,4 @@
-Temat: Zmiana hasła
+Subject: Zmiana hasła
 
 Witaj <username>,
 

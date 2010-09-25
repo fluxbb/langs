@@ -1,4 +1,4 @@
-Temat: Zmiana adresu e-mail
+Subject: Zmiana adresu e-mail
 
 Witaj <username>,
 

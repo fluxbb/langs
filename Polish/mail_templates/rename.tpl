@@ -1,4 +1,4 @@
-Temat: Zmiana nazwy użytkownika
+Subject: Zmiana nazwy użytkownika
 
 Podczas aktualizacji na forum <base_url> ustalono, że Twoja nazwa użytkownika jest zbyt podobna do nazwy innego istniejącego użytkownika. 
 Stosownie do tego Twoja nazwa użytkownika została zmieniona.
