@@ -29,9 +29,11 @@ $lang_misc = array(
 'Reason desc'				=>	'الرجاء أدخل باختصار عن سبب إرسالك لهذا التقرير عن هذه المداخلة',
 
 // Subscriptions
-'Already subscribed'		=>	'لقد اشتركت للتو في هذا الموضوع.',
+'Already subscribed topic'		=>	'لقد اشتركت للتو في هذا الموضوع.',
+'Already subscribed forum'		=>	'لقد اشتركت للتو في هذا المنتدى.',
 'Subscribe redirect'		=>	'لقد تم إضافة اشتراكك. توجيه …',
-'Not subscribed'			=>	'أنت غير مشترك في هذا الموضوع.',
+'Not subscribed topic'			=>	'أنت غير مشترك في هذا الموضوع.',
+'Not subscribed forum'			=>	'أنت غير مشترك في هذا المنتدى.',
 'Unsubscribe redirect'		=>	'لقد تم إلغاء اشتراكك في هذا الموضوع. توجيه …',
 
 // General forum and topic moderation

@@ -10,5 +10,8 @@ $lang_forum = array(
 'Closed'		=>	'مغلق:',
 'Empty forum'	=>	'المنتدى فارغ.',
 'Mod controls'	=>	'أدوات الإشراف'
+'Is subscribed'	=>	'لقد اشتركت للتو في هذا المنتدى',
+'Unsubscribe'	=>	'إلغاء الاشتراك',
+'Subscribe'		=>	'اشترك في هذا المنتدى'
 
 );
