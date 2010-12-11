@@ -4,11 +4,15 @@
 
 $lang_install = array(
 
+'Install message'				=>	'ÇבדבÝ \'config.php\' ÛםÑ דזÌזÏ Ãז דÎÑÈ. וÐÇ םÚÒל Åבל Ãה FluxBB בד םÊד ÊÑ‗םÈו ÈÚÏ. בבÊÑ‗םÈ¡ ÇÊÈÚ ÇבÅÌÑÇÁÇÊ ÇבÊÇבםÉ.',
+'Choose install language'		=>	'ÇÎÊÑ בÛÉ ÇבÊÑ‗םÈ',
+'Choose install language info'	=>	'ÇבבÛÉ ÇבדÓÊÎÏדÉ Ýם ÚדבםÉ ÇבÊÑ‗םÈ.',
+'Install language'				=>	'בÛÉ ÇבÊÑ‗םÈ',
+'Next'							=>	'ÇבÊÇבם',
 'Already installed'				=>	'Úבל דÇ םÈÏז Çה FluxBB דÑ‗È דÓÈÞÇ. ÚזÖÇ Úה Ðב‗ Þד ÈÇבÐוÇÈ Åבל <a href="index.php">והÇ</a>.',
 'You are running error'			=>	'ÃהÊ ÊÞזד ÈÊÔÛםב %1$s ÇבÅÕÏÇÑ %2$s. םÊØבÈ FluxBB %3$s Úבל ÇבÃÞב %1$s %4$s בםÚדב ÈÔ‗ב ÌםÏ. םÌÈ Ãה ÊÞזד ÈÊÑÞםÉ  %1$s ÞÈב ÇבדÊÇÈÚÉ',
 'My FluxBB Forum'				=>	'דהÊÏל FluxBB',
-'Description'					=>	'ÈÕÑÇÍÉ בÇםד‗ה בÃÍÏ Ãה םÞזב ב‗דÇוז FluxBB - Þד ÈÊÌÑÈÊו ÈהÝÓ‗.',
-'Database wrong password'		=>	'‗בדÇÊ ÇבדÑזÑ בÞÇÚÏÉ ÇבÈםÇהÇÊ ÛםÑ דÊØÇÈÞÉ.',
+'Description'					=>	'ÈÕÑÇÍÉ בÇםד‗ה בÃÍÏ Ãה םÞזב ב‗ד דÇוז FluxBB - Þד ÈÊÌÑÈÊו ÈהÝÓ‗.',
 'Username 1'					=>	'ÇÓדÇÁ ÇבדÓÊÎÏדםה םÌÈ Çה ם‗זה ØזבוÇ Úבל ÇבÃÞב 2 ÍÑÝ.',
 'Username 2'					=>	'ÇÓדÇÁ ÇבדÓÊÎÏדםה םÌÈ Çה ם‗זה ØזבוÇ םÒםÏ Úה 25 ÍÑÝ.',
 'Username 3'					=>	'ÇÓד ÇבדÓÊÎÏד guest דÍÌזÒ.',
@@ -51,7 +55,6 @@ $lang_install = array(
 'Database username'				=>	'ÇÓד דÓÊÎÏד ÞÇÚÏÉ ÇבÈםÇהÇÊ',
 'Info 5'						=>	'ÇÏÎב ÇÓד דÓÊÎÏד ז ‗בדÉ ÇבדÑזÑ ÇבÊם ÓÊÓÊÎÏד בבÇÊÕÇב ÈדÎÏד ÞÇÚÏÉ ÇבÈםÇהÇÊ. ÊÌÇובוÇ ÅÐÇ ‗ÇהÊ ÞÇÚÏÉ ÇבÈםÇהÇÊ SQLite.',
 'Database password'				=>	'‗בדÉ דÑזÑ ÞÇÚÏÉ ÇבÈםÇהÇÊ',
-'Database confirm password'		=>	'ÊÃ‗םÏ ‗בדÉ דÑזÑ ÇבÞÇÚÏÉ',
 'Database enter prefix'			=>	'ÃÏÎב ÓÇÈÞÉ ÇÓדÇÁ ÇבÌÏÇזב',
 'Info 6'						=>	'ÅÐÇ ÑÛÈÊ¡ םד‗ה‗ ÊÍÏםÏ ÒםÇÏÉ דÓÈזÞÉ בÊÓדםÉ ÇבÌÏזÇב Ýם ÞÇÚÏÉ ÇבÈםÇהÇÊ. וÐÇ םד‗ה‗ דה ÇÓÊÎÏÇד ÊÑ‗םÈ ÞÇÚÏÉ ÈםÇהÇÊ FluxBB ÚÏÉ דÑÇÊ Úבל הÝÓ דÎÏד ÇבÈםÇהÇÊ ז ב‗ם בÇ ÊÊÚÇÑÖ דÚ ÊÑ‗םÈÇÊ בÈÑÇדÌ ÃÎÑל¡ (דËÇב foo_)',
 'Table prefix'					=>	'ÓÇÈÞÉ ÇבÌÏÇזב',
@@ -74,10 +77,9 @@ $lang_install = array(
 'Board description'				=>	'זÕÝ ÇבדהÊÏםÇÊ',
 'Enter base URL'				=>	'ÃÏÎב ÇבÜ URL ÇבÃÓÇÓם (ÇבזÕבÉ בדהÊÏÇ‗ Ãז ÇבדזÞÚ) ÍםË Êד ÊÑ‗םÈ FluxBB.',
 'Info 14'						=>	'וÐו ÇבזÕבÉ URL (ÈÏזה ÇבÜ / ÇבÃÎםÑÉ) בדהÊÏל FluxBB (דËÇב: http://forum.myhost.com or http://myhost.com/~myuser). וÐו ÇבזÕבÉ <strong>םÌÈ</strong> Ãה Ê‗זה ÕÍםÍÉ ÊדÇדÇ¡ ז ÅבÇ ÇבדÏÑÇÁ ז ÇבדÔÑÝםה בה םÓÊØםÚזÇ Ãה םÓÊÎÏדזÇ ÇבÝÚÇבםÇÊ ÇבÅÏÇÑםÉ. בÇÍÙ זÌזÏ ÞםדÉ דÚÏÉ דÓÈÞÇ דÞÊÑÍÉ דה ÞÈב FluxBB.',
-'Choose default language'		=>	'ÇÎÊÑ ÇבבÛÉ ÇבÇÝÊÑÇÖםÉ',
+'Choose the default language'	=>	'ÇÎÊÑ ÇבבÛÉ ÇבÇÝÊÑÇÖםÉ',
 'Info 15'						=>	'ÇבבÛÉ ÇבÇÝÊÑÇÖםÉ ÓÊÓÊÎÏד בבÒזÇÑ ז ÇבדÓÊÎÏדםה ÇבÐםה בד םÍÏÏזÇ ÇבבÛÉ Öדה ÇבוםÆÉ ÎÇÕÉ Èוד.',
 'Default language'				=>	'ÇבבÛÉ ÇבÇÝÊÑÇÖםÉ',
-'Choose the default language'	=>	'ÇÎÊÑ ÇבבÛÉ ÇבÇÝÊÑÇÖםÉ',
 'Choose the default style'		=>	'ÇÎÊÑ ÇבדÙוÑ ÇבÇÝÊÑÇÖם',
 'Info 16'						=>	'ÇבדÙוÑ ÇבÇÝÊÑÇÖם ÓםÓÊÎÏד בבÒזÇÑ ז ÇבדÓÊÎÏדםה ÇבÐםה בד םÍÏÏזÇ ÇבדÙוÑ Öדה ÇבוםÆÉ ÎÇÕÉ Èוד.',
 'Default style'					=>	'ÇבדÙוÑ ÇבÇÝÊÑÇÖם',
@@ -110,6 +112,6 @@ $lang_install = array(
 'Info 17'						=>	'בÅהוÇÁ ÇבÊÑ‗םÈ¡ ÃהÊ ÈÍÇÌÉ בבÖÛØ Úבל ÒÑ ÊהÒםב דבÝ דÓדל config.php. ÃהÊ ÈÍÇÌÉ בÑÝÚ וÐÇ ÇבדבÝ Åבל ÇבÌÐÑ ÇבÃÓÇÓם בד‗Çה ÊÑ‗םÈ FluxBB.',
 'Info 18'						=>	'ÈדÌÑÏ ÑÝÚ ÇבדבÝ config.php, Óם‗זה FluxBB ÞÏ Êד ÊÑ‗םÈו ÈÇב‗Çדב! ÚהÏ וÐו ÇבהÞØÉ, ÑÈדÇ Úבם‗ ÇבÐוÇÈ Åבל <a href="index.php">ÇבדהÊÏםÇÊ</a>.',
 'Download config.php file'		=>	'ÊהÒםב דבÝ config.php',
-'FluxBB has been installed'		=>	'Êד ÇבÅהÊוÇÁ דה ÊÑ‗םÈ FluxBB ÈÇב‗Çדב! ÑÈדÇ Úבם‗ <a href="index.php">ÇבÐוÇÈ Åבל ÇבדהÊÏםÇÊ</a>.',
+'FluxBB fully installed'		=>	'Êד ÇבÅהÊוÇÁ דה ÊÑ‗םÈ FluxBB ÈÇב‗Çדב! ÑÈדÇ Úבם‗ <a href="index.php">ÇבÐוÇÈ Åבל ÇבדהÊÏםÇÊ</a>.',
 
 );
