@@ -1,12 +1,14 @@
 <?php
 
-// Language definitions used in various scripts
+// Definizioni di lingua usate in vari script
+/* Traduzione di: Oscon.it */
+
 $lang_misc = array(
 
 'Mark read redirect'			=>	'Tutte le discussioni e i forum sono stati marcati come gi&agrave; letti. Reindirizzamento &hellip;',
 'Mark forum read redirect'		=>	'Tutte le discussioni nel forum selezionato sono state marcati come gi&agrave; lette.  Reindirizzamento &hellip;',
 
-// Send email
+// Invia email
 'Form email disabled'			=>	'L\'utente ha disabilitato la ricezione delle email.',
 'No email subject'				=>	'&Egrave; necessario inserire un oggetto.',
 'No email message'				=>	'&Egrave; necessario inserire un messaggio.',
@@ -19,7 +21,7 @@ $lang_misc = array(
 'Email disclosure note'			=>	'Utilizzando questo modulo l\'indirizzo email del mittente sar&agrave; visibile al destinatario.',
 'Write email'					=>	'Scrivere e inviare il messaggio',
 
-// Report
+// Segnalazioni
 'No reason'						=>	'Indicare un motivo.',
 'Reason too long'				=>	'Il messaggio non pu&ograve; eccedere i 65535 bytes (~64kb).',
 'Report flood'					=>	'Devono trascorrere almeno %s secondi tra ciascuna segnalazione. Si prega di attendere e riprovare pi&ugrave; tardi.',
@@ -28,13 +30,15 @@ $lang_misc = array(
 'Reason'						=>	'Motivo',
 'Reason desc'					=>	'Indicare una breve ragione per la quale il messaggio dovrebbe essere controllato',
 
-// Subscriptions
-'Already subscribed'			=>	'Sei gi&agrave; iscritto a questa discussione.',
+// Iscrizioni
+'Already subscribed topic'		=>	'Sei gi&agrave; iscritto a questa discussione.',
+'Already subscribed forum'		=>	'Sei gi&agrave; iscritto a questo forum.',
 'Subscribe redirect'			=>	'Iscrizione effettuata. Reindirizzamento &hellip;',
-'Not subscribed'				=>	'Non sei iscritto a questa discussione.',
+'Not subscribed topic'			=>	'Non sei iscritto a questa discussione.',
+'Not subscribed forum'			=>	'Non sei iscritto a questo forum.',
 'Unsubscribe redirect'			=>	'Iscrizione cancellata. Reindirizzamento &hellip;',
 
-// General forum and topic moderation
+// Forum e moderazioni
 'Moderate'						=>	'Modera',
 'Select'						=>	'Seleziona', // the header of a column of checkboxes
 'Move'							=>	'Sposta',
@@ -42,7 +46,7 @@ $lang_misc = array(
 'Delete'						=>	'Cancella',
 'Merge'							=>	'Unisci',
 
-// Moderate forum
+// Moderazioni forum
 'Open'							=>	'Apri',
 'Close'							=>	'Chiudi',
 'Move topic'					=>	'Sposta discussione',
@@ -70,20 +74,20 @@ $lang_misc = array(
 'Confirm merge legend'			=>	'Confermare l\'unione',
 'New subject'					=>	'Nuovo oggetto',
 
-// Split multiple posts in topic
+// Dividere discussioni
 'Confirm split legend'			=>	'Confermare la divisione delle discussioni slezionate.',
 'Split posts'					=>	'Dividi discussioni',
 'Split posts comply'			=>	'Sei sicuro di voler dividere le discusioni selezionate?',
 'Split posts redirect'			=>	'Discussioni divise. Reindirizzamento &hellip;',
 
-// Delete multiple posts in topic
+// Cancellare discussioni
 'Delete posts'					=>	'Cancella messaggi',
 'Cannot select first'			=>	'Il primo messaggio non pu&ograve; essere diviso/cancellato.',
 'Delete posts comply'			=>	'Sei sicuro di voler cancellare i messaggi selezionati?',
 'Delete posts redirect'			=>	'Messaggi cancellati. Reindirizzamento &hellip;',
 'No posts selected'				=>	'Selezionare almeno un messaggio!',
 
-// Get host
+// Dati IP
 'Host info 1'					=>	'L\'indirizzo IP &egrave;: %s',
 'Host info 2'					=>	'L\'host &egrave;: %s',
 'Show more users'				=>	'Visualizza altri utenti con questo IP',

@@ -1,9 +1,11 @@
 <?php
 
-// Language definitions used in register.php
+// Definizioni di lingua usate in register.php
+/* Traduzione di: Oscon.it */
+
 $lang_register = array(
 
-// Miscellaneous
+// Varie
 'No new regs'				=>	'Il forum non accetta nuove registrazioni.',
 'Reg cancel redirect'		=>	'Registrazione cancellata. Reindirizzamento &hellip;',
 'Forum rules'				=>	'Regole del forum',
@@ -13,7 +15,7 @@ $lang_register = array(
 'Cancel'					=>	'Cancella',
 'Register'					=>	'Registrati',
 
-// Form validation stuff (some of these are also used in post.php)
+// Validazione moduli (alcune usate anche in post.php)
 'Registration errors'		=>	'Errori di registrazione',
 'Registration errors info'	=>	'Prima di registrarsi &egrave; necessario correggere i seguenti errori:',
 'Username censor'			=>	'Il nome utente scelto utilizza una o pi&ugrave; parole oscurate. Scegline un altro, grazie.',
@@ -21,11 +23,11 @@ $lang_register = array(
 'Username dupe 2'			=>	'I nomi utente devono differire tra di loro almeno di un carattere (a-z o 0-9). Scegline un altro, grazie.',
 'Email not match'			=>	'Gli indirizzi email non corrispondono.',
 
-// Registration email stuff
+// Email di registrazione
 'Reg email'					=>	'Grazie per la registrazione! La password &egrave; stata spedita all\'indirizzo email indicato. Qualora non dovessi riceverla entro alcuni minuti contatta l\'amministratore.',
 'Reg complete'				=>	'Registrazione completa. Connessione in corso &hellip;',
 
-// Register info
+// Informazioni di registrazione
 'Desc 1'					=>	'La registrazione d&agrave; accesso a opzioni altrimenti non disponibili, tra queste: la possibilit&agrave; di modificare e cancellare i messaggi, inserire una firma personalizzata, un avatar e molto altro.',
 'Desc 2'					=>	'Per registrarti compila il modulo. Una volta registrato puoi accedere a tutte le ulteriori personalizzazioni dal tuo profilo utente.',
 'Username legend'			=>	'Inserire un nome utente di lunghezza compresa tra 2 e 25 caratteri',
@@ -33,6 +35,5 @@ $lang_register = array(
 'Pass info'					=>	'La password deve avere una lunghezza di almeno 4 caratteri. Le password sono sensibili alle maiuscole/minuscole.',
 'Email info'				=>	'Inserire un indirizzo email valido in modo che la password generata venga inviata correttamente.',
 'Confirm email' 			=>	'Conferma l\'indirizzo email',
-
 
 );

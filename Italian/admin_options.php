@@ -1,12 +1,15 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Definizioni di lingua usate in admin-options.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'HTTP_REFERER non valido. Se il sistema &egrave; stato spostato da una cartella a un\'altra o il dominio &egrave; stato cambiato. Aggiornare manualmente il \"Base URL\" nel database (cambiando il valore di "o_base_url" nella tabella "config") e successivamente svuotare la cache eliminando tutti i documenti .php (solo quelli) nella cartella /cache.',
 'Must enter title message'			=>	'Inserire un nome.',
 'Invalid e-mail message'			=>	'L\'indirizzo email inserito &egrave; errato.',
 'Invalid webmaster e-mail message'	=>	'L\'indirizzo email inserito &egrave; errato.',
+'SMTP passwords did not match' 		=>  'Inserire la password SMTP due volte esattamente per mofificarla.',
 'Enter announcement here'			=>	'Scrivere un annuncio.',
 'Enter rules here'					=>	'Scrivere le regole di utilizzo.',
 'Default maintenance message'		=>	'Il sistema &egrave; attualmente in manutenzione. Prova pi&ugrave; tardi, grazie.',
@@ -14,7 +17,7 @@ $lang_admin_options = array(
 'Options updated redirect'			=>	'Opzioni aggiornate. Reindirizzamento &hellip;',
 'Options head'						=>	'Opzioni',
 
-// Essentials section
+// Sezione "essenziali"
 'Essentials subhead'				=>	'Dati essenziali',
 'Board title label'					=>	'Titlo',
 'Board title help'					=>	'Il titolo mostrato all\'inizio di ogni pagina (esempio: "Forum di Oscon"). Questo campo <strong>non pu&ograve;</strong> contenere HTML.',
@@ -31,7 +34,7 @@ $lang_admin_options = array(
 'Default style label'				=>	'Stile predefinito',
 'Default style help'				=>	'Lo stile grafico predefinito per gli ospiti e gli utenti che non hanno modificato l\'impostazione nel proprio profilo.',
 
-// Essentials section timezone options
+// Sezione essenziali (fuso orario)
 'UTC-12:00'							=>	'(UTC-12:00) International Date Line West',
 'UTC-11:00'							=>	'(UTC-11:00) Niue, Samoa',
 'UTC-10:00'							=>	'(UTC-10:00) Hawaii-Aleutian, Cook Island',
@@ -73,7 +76,7 @@ $lang_admin_options = array(
 'UTC+13:00'							=>	'(UTC+13:00) Tonga, Phoenix Islands',
 'UTC+14:00'							=>	'(UTC+14:00) Line Islands',
 
-// Timeout Section
+// Sezione "Orario e scadenze"
 'Timeouts subhead'					=>	'Orario e scadenze',
 'Time format label'					=>	'Formato ora',
 'PHP manual'						=>	'Manuale PHP',
@@ -87,8 +90,8 @@ $lang_admin_options = array(
 'Redirect time label'				=>	'Tempo di reindirizzamento',
 'Redirect time help'				=>	'Secondi da attendere durante il reindirizzamento. Se impostato su 0 la pagina di reindirizzamento non sar&agrave; visualizzata.',
 
-// Display Section
-'Display subhead'					=>	'Display',
+// Sezioni "Visualizzazioni"
+'Display subhead'					=>	'Visualizzazioni',
 'Version number label'				=>	'Numero versione',
 'Version number help'				=>	'Mostrare il numero di versione di FluxBB nel pi&eacute; di pagina.',
 'Info in posts label'				=>	'Informazioni utente nelle discussioni',
@@ -112,7 +115,7 @@ $lang_admin_options = array(
 'Quote depth label'					=>	'Massima nidificazione del marcatore [quote]',
 'Quote depth help'					=>	'Il numero massimo di marcatori [quote] che pu&ograve; essere nidificato. Ogni marcatore ulteriore sar&agrave; scartato.',
 
-// Features section
+// Sezione "Funzionalità"
 'Features subhead'					=>	'Funzionalit&agrave;',
 'Quick post label'					=>	'Risposta celere',
 'Quick post help'					=>	'Visualizza un modulo per la risposta veloce in fondo a ogni discussione. In questo modo gli utenti potranno rispondere direttamente dalla pagina corrente.',
@@ -142,7 +145,7 @@ $lang_admin_options = array(
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
 
-// Reports section
+// Sezione "segnalazioni"
 'Reports subhead'					=>	'Segnalazioni',
 'Reporting method label'			=>	'Metodo di invio segnalazioni',
 'Internal'							=>	'Interno',
@@ -152,7 +155,7 @@ $lang_admin_options = array(
 'Mailing list label'				=>	'Mailing list',
 'Mailing list help'					=>	'Separare ciascun indirizzo email con una virgola. Gli utenti in questa lista sono i destinatari delle segnalazioni.',
 
-// Avatars section
+// Sezione "immagine personale"
 'Avatars subhead'					=>	'Avatar',
 'Use avatars label'					=>	'Uso avatar',
 'Use avatars help'					=>	'Permette agli utenti di caricare un\'immagine personale (avatar) che sar&agrave; mostrata sotto il proprio rango o titolo.',
@@ -165,24 +168,27 @@ $lang_admin_options = array(
 'Max size label'					=>	'Peso massimo',
 'Max size help'						=>	'Il peso massimo consentito dell\'immagine personale (in byte, si raccomanda 60).',
 
-// E-mail section
+// Sezione "email"
 'E-mail subhead'					=>	'Email',
 'Admin e-mail label'				=>	'Email dell\'amministratore',
 'Admin e-mail help'					=>	'L\'indirizzo email dell\'amministratore.',
 'Webmaster e-mail label'			=>	'Email del webmaster',
 'Webmaster e-mail help'				=>	'L\'indirizzo al quale verranno spediti i messaggi dal sistema.',
-'Subscriptions label'				=>	'Iscrizioni',
-'Subscriptions help'				=>	'Permette agli utenti di iscriversi alle discussioni e ricevere un\'email automatica quando qualcuno risponde.',
+'Forum subscriptions label'     	=>  'Iscrizioni ai forum',
+'Forum subscriptions help'      	=>  'Abilita l\'iscrizione ai forum (invio di un\'email quando qualcuno apre una nuova discussione).',
+'Topic subscriptions label'      	=>  'Iscrizioni alle discussioni',
+'Topic subscriptions help'      	=>  'Abilita l\'iscrizione alle discussioni (invio di un\'email quando qualcuno risponde).',
 'SMTP address label'				=>	'Indirizzo server SMTP',
 'SMTP address help'					=>	'L\'indirizzo di un server SMTP esterno col quale inviare email. Si pu&ograve; indicare una porta specifica se il server non usa automaticamente la porta 25 (esempio: mail.dominio.est:3580). Lasciare vuoto per utilizzare il programma di posta locale.',
 'SMTP username label'				=>	'Nome utente SMTP',
 'SMTP username help'				=>	'Nome utente per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiesde</strong> autenticazione).',
 'SMTP password label'				=>	'Password SMTP',
-'SMTP password help'				=>	'Password per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiesde</strong> autenticazione).',
+'SMTP change password help'      	=>  'Selezionare per cambiare o cancellare l\'attuale password.',
+'SMTP password help'				=>	'Password due volte la password per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiesde</strong> autenticazione).',
 'SMTP SSL label'					=>	'Criptare SMTP tramite SSL',
 'SMTP SSL help'						=>	'Cripta la connessione al server SMTP usando il protocollo SSL. Funzione da attivare solo se il server lo richiede e la versione in uso di PHP supporta SSL.',
 
-// Registration Section
+// Sezione "registrazione"
 'Registration subhead'				=>	'Registrazione',
 'Allow new label'					=>	'Permetti nuove registrazioni',
 'Allow new help'					=>	'Abilita la registrazione di nuovi utenti. Disabilitare solo in circostanze eccezionali.',
@@ -200,14 +206,14 @@ $lang_admin_options = array(
 'Hide allow form label'				=>	'Nascondi l\'indirizzo email ma abilita l\'invio di email tramite il forum.',
 'Hide both label'					=>	'Nascondi l\'indirizzo email e disabilita l\'invio di email tramite forum.',
 
-// Announcement Section
+// Sezione "annunci"
 'Announcement subhead'				=>	'Annunci',
 'Display announcement label'		=>	'Mostra annuncio',
 'Display announcement help'			=>	'Visualizza nei forum il seguente messaggio.',
 'Announcement message label'		=>	'Messaggio',
 'Announcement message help'			=>	'Il testo pu&ograve; contenere HTML.',
 
-// Maintenance Section
+// Sezione "manutenzione"
 'Maintenance subhead'				=>	'Manutenzione',
 'Maintenance mode label'			=>	'Modo manutenzione',
 'Maintenance mode help'				=>	'Se abilitato, il sistema sar&agrave; accessibile solo agli amministratori. &Egrave; da abilitare quando il sistema &egrave; irraggiungibile per qualisasi necessit&agrave; di amministrazione (aggiornamenti, gestione server, ecc.). <strong>ATTENZIONE! Non disconnettersi quando il modo manutenzione &egrave; attivo o non sar&agrave; possibile accedere nuovamente</strong>!',

@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_index.php
+// Definizioni di lingua usate in admin_index.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Impossibile verificare la presenza di aggiornamenti. Abilitare la funzione <em>allow_url_fopen</em> all\'interno del documento di configurazione di PHP (PHP.ini).',

@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_bans.php
+// Definizioni di lingua usate in admin_bans.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_bans = array(
 
 'No user message'			=>	'Il nome utente indicato non esiste. Se desideri attivare una interdizione non legata a uno specifico nome utente lascia il campo vuoto.',
@@ -24,7 +26,7 @@ $lang_admin_bans = array(
 
 'Ban search head'			=>	'Cerca interdizione',
 'Ban search subhead'		=>	'Criteri di ricerca',
-'Ban search info'			=>	'Ricerca di interdizioni nel database. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly * &egrave; accettato.',
+'Ban search info'			=>	'Ricerca di interdizioni nel database. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly * &egrave; supportato. Per visualizzare tutte le interdizioni lasciare vuoto.',
 'Date help'					=>	'(aaaa-mm-gg)',
 'Message label'				=>	'Messagio',
 'Expire after label'		=>	'Scade dopo il',

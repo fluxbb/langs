@@ -1,9 +1,11 @@
 <?php
 
-// Language definitions used in search.php
+// Definizioni di lingua usate in search.php
+/* Traduzione di: Oscon.it */
+
 $lang_search = array(
 
-// The search form
+// Modulo di ricerca
 'User search'				=>	'Ricerca utente',
 'No search permission'		=>	'Non si dispone dei permessi necessari per effettuare la ricerca.',
 'Search flood'				=>	'Almeno %s devono trascorrere tra ciascuna ricerca. Si prega di attendere e provare pi&ugrave; tardi, grazie.',
@@ -34,12 +36,13 @@ $lang_search = array(
 'Show as topics'			=>	'Titolo discussione',
 'Show as posts'				=>	'Testo del messaggio',
 
-// Results
+// Risultati
 'Search results'			=>	'Risultati',
 'No terms'					=>	'Inserire almeno una parola o un nome utente.',
 'No hits'					=>	'La ricerca non ha prodotto risultati.',
 'No user posts'				=>	'Non sono presenti messaggi dell\'utente indicato.',
-'No subscriptions'			=>	'Non ci sono iscrizioni attive.',
+'No user topics'  		    =>  'Non sono presenti discussioni dell\'utente indicato.',
+'No subscriptions'      	=>  'Non sono presenti iscrizioni per l\'utente indicato.'
 'No new posts'				=>	'Non ci sono discussioni con nuovi messaggi.',
 'No recent posts'			=>	'Nessun nuovo messaggio &egrave; stato pubblicato nelle utlime 24 ore.',
 'No unanswered'				=>	'Non ci sono messaggi senza risposta.',

@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_ranks.php
+// Definizioni di lingua usate in admin_ranks.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_ranks = array(
 
 'Must be integer message'	=>	'Il numero minimo di messaggi deve essere un numero positivo intero.',

@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_maintenance.php
+// Definizioni di lingua usate in admin_maintenance.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_maintenance = array(
 
 'Maintenance head'				=>	'Manutenzione forum',

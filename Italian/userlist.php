@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in userlist.php
+// Definizioni di lingua usate in userlist.php
+/* Traduzione di: Oscon.it */
+
 $lang_ul = array(
 
 'User find legend'	=>	'Cerca utenti',

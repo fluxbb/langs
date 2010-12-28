@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Definizioni di lingua usate in admin-groups.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Inserire il nome di un gruppo.',

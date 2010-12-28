@@ -1,9 +1,11 @@
 <?php
 
-// Language definitions used in admin_common
+// Definizioni di lingua usate in admin_common
+/* Traduzione di: Oscon.it */
+
 $lang_admin_common = array(
 
-// The menu
+// Il menu
 'Admin menu'			=>	'Menu amministratore',
 'Plugins menu'			=>	'Menu plugin',
 'Moderator menu'		=>	'Menu moderatore',
@@ -35,9 +37,9 @@ $lang_admin_common = array(
 'here'					=>	'qui',
 'Action'				=>	'Azione',
 'None'					=>	'Niente',
-'Maintenance mode'		=>	'modo manutenzione', // Used for link text in more than one file
+'Maintenance mode'		=>	'modo manutenzione', // sfuttato in varie occasioni
 
-// Admin loader
+// Amministrazione
 'No plugin message'		=>	'Nella cartella dei plugin non &egrave; presente alcun plugin chiamato %s.',
 'Plugin failed message'	=>	'Caricamento del plugin - <strong>%s</strong> - fallito.',
 

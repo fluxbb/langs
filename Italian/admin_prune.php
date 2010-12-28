@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_prune.php
+// Definizioni di lingua usate in admin_prune.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_prune = array(
 
 'Must be integer message'	=>	'Il giorno indicato deve essere un numero positivo intero.',

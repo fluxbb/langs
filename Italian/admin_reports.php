@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_reports.php
+// Definizioni di lingua usate in admin_reports.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_reports = array(
 
 'Report zapped redirect'	=>	'Segnalazione archiviata. Reindirizzamento &hellip;',

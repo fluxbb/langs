@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in both profile.php and register.php
+// Definizioni di lingua usate in profile.php e register.php
+/* Traduzione di: Oscon.it */
+
 $lang_prof_reg = array(
 
 'Email legend'				=>	'Indirizzo email valido',
@@ -21,7 +23,7 @@ $lang_prof_reg = array(
 'Confirm pass'				=>	'Conferma password',
 
 'Username too short'		=>	'Il nome utente deve essere composto da almeno 2 caratteri. Scegline un altro, grazie.',
-'Username too long'			=>	'Il nome utente deve essere composto da al massimo 25 caratteri. Scegline un altro, grazie.',
+'Username too long'			=>	'Il nome utente non pu&ograve; eccedere i 25 caratteri. Scegline un altro, grazie.',
 'Username guest'			=>	'Il nome utente ospite è riservato. Scegline un altro, grazie.',
 'Username IP'				=>	'Il nome utente non pu&ograve; essere un indirizzo IP. Scegline un altro, grazie.',
 'Username reserved chars'	=>	'Il nome utente non pu&ograve; contenere i caratteri \', ", [, ]. Scegline un altro, grazie.',

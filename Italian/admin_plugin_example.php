@@ -1,7 +1,9 @@
 <?php
 
-// Language definitions used in example Plugin
-$lang_admin_plugin_example = array(
+// Definizioni di lingua usate in example Plugin
+/* Traduzione di: Oscon.it */
+
+/* $lang_admin_plugin_example = array(
 
 'No text'				=>	'Ma come? Non hai scritto nulla! Come pu&ograve; funzionare il plugin? :) ',
 'Example plugin title'	=>	'Esempio di plugin',
@@ -15,3 +17,5 @@ $lang_admin_plugin_example = array(
 'Input content'			=>	'Il testo da elaborare.',
 
 );
+
+*/

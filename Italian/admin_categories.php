@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin-categories.php
+// Definizioni di lingua usate in admin-categories.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'Inserire un nome per la categoria',

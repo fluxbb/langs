@@ -1,9 +1,11 @@
 <?php
 
-// Language definitions used in profile.php
+// Definizioni di lingua usate in profile.php
+/* Traduzione di: Oscon.it */
+
 $lang_profile = array(
 
-// Navigation and sections
+// Navigazione e sezioni
 'Profile menu'					=>	'Menu profilo',
 'Section essentials'			=>	'Essenziali',
 'Section personal'				=>	'Personali',
@@ -13,14 +15,14 @@ $lang_profile = array(
 'Section privacy'				=>	'Riservatezza',
 'Section admin'					=>	'Amministrazione',
 
-// Miscellaneous
+// Varie
 'Username and pass legend'		=>	'Nome utente e password',
 'Personal details legend'		=>	'Dettagli personali',
 'Contact details legend'		=>	'Dettagli di contatto',
 'User activity'					=>	'Attivit&agrave; utente',
 'Paginate info'					=>	'Numero di discussioni e messaggi per ogni pagina.',
 
-// Password stuff
+// Password
 'Pass key bad'					=>	'La chiave di attivazione della password &egrave; errata o scaduta. Richiedere una nuova password. Se il problema persiste contattare l\'amministratore del forum',
 'Pass updated'					=>	'La password &egrave; stata aggionrata.',
 'Pass updated redirect'			=>	'Password aggiornata. Reindirizzamento &hellip;',
@@ -32,7 +34,7 @@ $lang_profile = array(
 'Confirm new pass'				=>	'Conferma nuova password',
 'Pass info'						=>	'La password deve essere composta da almeno 4 caratteri (&egrave; sensibile alle maiuscole/minuscole).',
 
-// Email stuff
+// Email
 'Email key bad'					=>	'La chiave di attivazione dell\'email &egrave; errata o scaduta. Richiedere nuovamente il cambio. Se il problema persiste contattare l\'amministratore del forum',
 'Email updated'					=>	'L\'email &egrave; stata aggiornata.',
 'Activate email sent'			=>	'Un\'email &egrave; stata spedita all\'indirizzo indicato con le istruzioni su come attivarlo. In caso di mancato arrivo contattare l\'amministratore del forum',
@@ -41,7 +43,7 @@ $lang_profile = array(
 'Change email'					=>	'Cambia indirizzo email',
 'New email'						=>	'Nuovo indirizzo email',
 
-// Avatar upload stuff
+// Immagine personale
 'Avatars disabled'				=>	'Il caricamento delle immagini personali &egrave; disabilitato.',
 'Too large ini'					=>	'L\'immagine selezionata &egrave; troppo larga.',
 'Partial upload'				=>	'L\'immagine selezionata &egrave; stata caricata solo parzialmente. Prova di nuovo, grazie.',
@@ -59,15 +61,15 @@ $lang_profile = array(
 'Avatar desc'					=>	'Un avatar &egrave; un\'immagine personale che viene visualizzata sotto il proprio nome utente in ciascun messaggio come identificativo. Non pu&ograve; eccedere i',
 'Upload avatar'					=>	'Carica immagine',
 'Upload avatar legend'			=>	'Inserire una immagine da caricare',
-'Delete avatar'					=>	'Cancella avatar', // only for admins
+'Delete avatar'					=>	'Cancella avatar', // solo per amministratori
 'File'							=>	'File',
-'Upload'						=>	'Carica', // submit button
+'Upload'						=>	'Carica', // pulsante di invio
 
-// Form validation stuff
+// Validazione moduli
 'Forbidden title'				=>	'Il titolo inserito contiente parole poco carine. Scegli un titolo differente, grazie.',
 'Profile redirect'				=>	'Profilo aggiornato. Reindirizzamento &hellip;',
 
-// Profile display stuff
+// Visualizzazione profilo
 'Users profile'					=>	'Profilo di %s',
 'Username info'					=>	'Nome utente: %s',
 'Email info'					=>	'Email: %s',
@@ -75,6 +77,8 @@ $lang_profile = array(
 'Registered info'				=>	'Registrato il: %s',
 'Last post info'				=>	'Ultimo messaggio: %s',
 'Show posts'					=>	'Tutti i messaggi',
+'Show topics'         			=>  'Tutte le discussioni',
+'Show subscriptions'      		=>  'Tutte le iscrizioni'
 'Realname'						=>	'Nome reale',
 'Location'						=>	'Luogo',
 'Website'						=>	'Sito web',
@@ -113,7 +117,7 @@ $lang_profile = array(
 'Post display info'				=>	'Disattivare queste opzioni (in particolare la visualizzazione delle immagini) qualora si utilizzi una connessione ad internet lenta.',
 'Instructions'					=>	'Una volta aggiornato il profilo, si torner&agrave; a questa pagina.',
 
-// Administration stuff
+// Amministrazione
 'Group membership legend'		=>	'Scegli gruppo utenti',
 'Save'							=>	'Salva',
 'Set mods legend'				=>	'Accesso moderatori',
@@ -124,10 +128,10 @@ $lang_profile = array(
 'Ban user'						=>	'Interdici utente',
 'Confirm delete legend'			=>	'Importante: leggere prima di cancellare l\'utente',
 'Confirm delete user'			=>	'Conferma la cancellazione',
-'Confirmation info'				=>	'Confermare la cancellazione dell\'utente', // the username will be appended to this string
+'Confirmation info'				=>	'Confermare la cancellazione dell\'utente', // il nome utente sarà aggiunto a questa stringa
 'Delete warning'				=>	'Attenzione! La cancellazione di un utente e/o dei suoi messaggi &egrave; irreversibile. Non cancellando in questo momento i messaggi dell\'utente, potranno poi essere cancellati solo manualmente.',
 'Delete posts'					=>	'Cancella ogni messaggio e discussione di questo utente.',
-'Delete'						=>	'Cancella', // submit button (confirm user delete)
+'Delete'						=>	'Cancella', // pulsante per confermare la cancellazione
 'User delete redirect'			=>	'Utente cancellato. Reindirizzamento &hellip;',
 'Group membership redirect'		=>	'Iscrizione al gruppo salvata. Reindirizzamento &hellip;',
 'Update forums redirect'		=>	'Attribuzione salvata. Reindirizzamento &hellip;',

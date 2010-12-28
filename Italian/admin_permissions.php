@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin-permissions.php
+// Definizioni di lingua usate in admin-permissions.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_permissions = array(
 
 'Perms updated redirect'	=>	'Permessi aggiornati. Reindirizzamento &hellip;',

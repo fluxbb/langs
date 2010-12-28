@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in viewforum.php
+// Definizioni di lingua usate in viewforum.php
+/* Traduzione di: Oscon.it */
+
 $lang_forum = array(
 
 'Post topic'	=>	'Nuova discussione',
@@ -10,5 +12,8 @@ $lang_forum = array(
 'Closed'		=>	'Chiusa:',
 'Empty forum'	=>	'Il forum &egrave; vuoto!',
 'Mod controls'	=>	'Controlli moderatore'
+'Is subscribed' =>  'Sei iscritto al forum',
+'Unsubscribe'   =>  'Disiscrizione',
+'Subscribe'     =>  'Avvertimi in caso di nuove discussioni!',
 
 );

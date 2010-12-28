@@ -1,9 +1,11 @@
 <?php
 
-// Language definitions used in login.php
+// Definizioni di lingua usate in login.php
+/* Traduzione di: Oscon.it */
+
 $lang_login = array(
 
-// Miscellaneous
+// Varie
 'Wrong user/pass'			=>	'Nome utente o password errati.',
 'Forgotten pass'			=>	'Password dimenticata?',
 'Login redirect'			=>	'Accesso effettuato. Reindirizzamento &hellip;',
@@ -19,7 +21,7 @@ $lang_login = array(
 'New password errors'		=>	'Errore',
 'New passworderrors info'	=>	'Correggere i seguenti errori per ricevere una nuova passord:',
 
-// Forget password mail stuff
+// Mail per password dimenticata
 'Forget mail'				=>	'Un\'email &egrave; stata inviata all\'indirizzo indicato con le istruzioni necessarie. Qualora non arrivasse &egrave; possibile contattare l\'amministratore del forum ',
 'Email flood'				=>	'Questo utente ha richiesto una nuova password durante l\'ultima ora. Si prega di attendere e provare nuovamente pi&ugrave; tardi.'
 

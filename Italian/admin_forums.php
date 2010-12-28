@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin-forums.php
+// Definizioni di lingua usate in admin-forums.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'Forum aggiunto. Reindirizzamento &hellip;',
@@ -12,7 +14,7 @@ $lang_admin_forums = array(
 'Must be integer message'	=>	'La posizione deve essere un numero positivo intero.',
 'New forum'					=>	'Nuovo forum',
 
-// Entry page
+// Prima pagina
 'Add forum head'			=>	'Aggiungi forum',
 'Create new subhead'		=>	'Crea un nuovo forum',
 'Add forum label'			=>	'Aggiungi forum a categoria',
@@ -31,7 +33,7 @@ $lang_admin_forums = array(
 'Confirm delete info'		=>	'Sei sicuro di voler cancellare il forum <strong>%s</strong>?',
 'Confirm delete warn'		=>	'ATTENZIONE! Cancellare un forum causer&agrave; l\'eliminazione degli eventuali messaggi contenuti!',
 
-// Detailed edit page
+// Pagina di modifica dettagliata
 'Edit forum head'			=>	'Modifica forum',
 'Edit details subhead'		=>	'Modifica dettagli forum',
 'Forum name label'			=>	'Nome forum',

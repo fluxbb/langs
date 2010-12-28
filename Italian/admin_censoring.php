@@ -1,6 +1,8 @@
 <?php
 
-// Language definitions used in admin_censoring.php
+// Definizioni di lingua usate in admin_censoring.php
+/* Traduzione di: Oscon.it */
+
 $lang_admin_censoring = array(
 
 'Must enter both message'	=>	'Inserire sia il testo da oscurare, sia il testo con cui sostituirlo.',
