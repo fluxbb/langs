@@ -20,12 +20,13 @@ $lang_topic = array(
 'Delete'			=>	'Cancella',
 'Edit'				=>	'Modifica',
 'Quote'				=>	'Cita',
-'Is subscribed'		=>	'Attualmente sei sottoscritto al topic',
-'Unsubscribe'		=>	'Rimuovi sottoscrizione',
-'Subscribe'			=>	'Sottoscrivi questa discussione',
+'Is subscribed'		=>	'Sei iscritto alla discussione',
+'Unsubscribe'		=>	'Rimuovi iscrizione',
+'Subscribe'			=>	'Avvertimi in caso di risposta!',
 'Quick post'		=>	'Risposta rapida',
 'Mod controls'		=>	'Controlli moderatore',
 'New icon'			=>	'Nuovo messaggio',
 'Re'				=>	'Re:'
+
 
 );

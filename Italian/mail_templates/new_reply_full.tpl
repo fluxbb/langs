@@ -1,18 +1,18 @@
 Subject: Risposta alla discussione: <topic_subject>
 
-<replier> ha risposto alla discussione <topic_subject> che hai sottoscritto. Ci potrebbero essere altri nuovi messaggi, ma questa è l'unica notifica che riceverai finché non visiterai nuovamente il forum.
+<replier> ha risposto alla discussione <topic_subject>, alla quale sei iscritto. Nel frattempo potrebbero essere state pubblicate altre risposte, ma fino a quando non tornerai a visitare il forum non riceverai ulteriori notifiche.
 
-Il messaggio è il seguente:
+Di seguito il testo del messaggio:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-Il messaggio si trova in <post_url>
+La discussione � consultabile a: <post_url>
 
-Puoi rimuovere la tua sottoscrizione cliccando qui <unsubscribe_url>
+Puoi cancellare in qualsiasi momento la tua iscrizione a: <unsubscribe_url>
 
 -- 
 <board_mailer>
-(Non rispondere a questo messaggio)
+(messaggio generato automaticamente)

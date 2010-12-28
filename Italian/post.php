@@ -4,33 +4,33 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'		=>	'Le discussioni devono contenere un oggetto.',
-'Too long subject'	=>	'Gli oggetti non possono superare i 70 caratteri in lunghezza.',
-'No message'		=>	'Devi inserire un messaggio.',
-'Too long message'	=>	'I messaggi non possono essere più lunghi di %s byte.',
-'All caps subject'	=>	'Gli oggetti non possono essere composti da sole lettere maiuscole',
-'All caps message'	=>	'I messaggi non possono essere composti da sole lettere maiuscole.',
+'No subject'		=>	'Inserire un titolo.',
+'Too long subject'	=>	'Il titolo non pu&ograve; eccedere i 70 caratteri.',
+'No message'		=>	'Inserire un messaggio.',
+'Too long message'	=>	'Il messaggio non pu&ograve; eccedere i %s byte.',
+'All caps subject'	=>	'Il titolo non pu&ograve; essere composto da sole lettere maiuscole.',
+'All caps message'	=>	'Il messaggio non pu&ograve; essere composto da sole lettere maiuscole.',
 
 // Posting
-'Post errors'		=>	'Errori nel messaggio',
-'Post errors info'	=>	'I seguenti errori devo essere corretti prima di poter essere inviati:',
-'Post preview'		=>	'Anteprima del messaggio',
-'Guest name'		=>	'Nome',	// For guests (instead of Username)
-'Post redirect'		=>	'Messaggio inserito. Reindirizzamento …',
+'Post errors'		=>	'Errori',
+'Post errors info'	=>	'Correggere i seguenti errori per inviare il messaggio:',
+'Post preview'		=>	'Anteprima messaggio',
+'Guest name'		=>	'Nome', // For guests (instead of Username)
+'Post redirect'		=>	'Messaggio pubblicato. Reindirizzamento &hellip;',
 'Post a reply'		=>	'Rispondi',
-'Post new topic'	=>	'Apri una nuova discussione',
-'Hide smilies'		=>	'Non mostrare le faccine come icone per questo messaggio',
-'Subscribe'			=>	'Sottoscrivi questa discussione',
-'Stay subscribed'	=>	'Rimani sottoscritto a questa discussione',
-'Topic review'		=>	'Anteprima discussione (le più nuove all\'inizio)',
+'Post new topic'	=>	'Nuova discussione',
+'Hide smilies'		=>	'Non convertire le emoticon testuali in icone grafiche',
+'Subscribe'			=>	'Avvertimi in caso di risposta!',
+'Stay subscribed'	=>	'Resta iscritto alla discussione',
+'Topic review'		=>	'Revisione discussione (dal messaggio pi&ugrave; recente)',
 'Flood start'		=>	'Almeno',
-'flood end'			=>	'secondi devono passare tra l\'inserimento di due messaggi. Per favore riprova tra un poco.',
-'Preview'			=>	'Anteprima',	// submit button to preview
+'flood end'			=>	'secondi devono trascorrere tra ciascun invio. Si prega di attendere e riprovare pi&ugrave; tardi.',
+'Preview'			=>	'Anteprima', // submit button to preview message
 
 // Edit post
-'Edit post legend'	=>	'Modifica il messaggio ed invia le modifiche',
-'Silent edit'		=>	'Modifica silenziosa (non mostrare "Modificato da ..." nella visualizzazione della discussione)',
+'Edit post legend'	=>	'Modifica del messaggio e invio',
+'Silent edit'		=>	'Modifica silenziosa (non mostrare "modificato da ..." nel messaggio)',
 'Edit post'			=>	'Modifica messaggio',
-'Edit redirect'		=>	'Messaggio aggiornato. Reindirizzamento …'
+'Edit redirect'		=>	'Messaggio modificato. Reindirizzamento &hellip;'
 
 );

@@ -1,14 +1,14 @@
-Subject: Richiesta nuova password
+Subject: Richiesta di cambio password
 
 Ciao <username>,
 
-Hai richiesto di avere una nuova password assegnata al tuo account nel forum di discussione <base_url>. Se non hai inoltrato questa richiesta o se non vuoi piÃ¹ cambiare password semplicemente ignora questo messaggio. Solo se clicchi sul link che ti abbiamo inviato la tua password verrÃ  cambiata.
+qualcuno ha richiesto di assegnare una nuova password al tuo account su <base_url>. Se non ti risulta di aver effettuato questa richiesta o non vuoi più cambiare la password, ignora semplicemente questo messaggio.
 
-La tua nuova password Ã¨: <new_password>
+La tua nuova password è: <new_password>
 
-Per cambiare la tua password per favore visita il seguente collegamento:
+Per cambiare la password associata al tuo profilo, vai alla pagina:
 <activation_url>
 
 -- 
 <board_mailer>
-(Non rispondere a questo messaggio)
+(messaggio generato automaticamente)

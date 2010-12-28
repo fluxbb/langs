@@ -1,12 +1,12 @@
-Subject: Richiesta di cambio indirizzo e-mail
+Subject: Richiesta di cambio indirizzo Email
 
 Ciao <username>,
 
-Hai richiesto di avere un nuovo indirizzo email assegnato al tuo account nel forum di discussione <base_url>. Se non hai inoltrato questa richiesta o se non vuoi più cambiare il tuo indirizzo email semplicemente ignora questo messaggio. Solo se clicchi sul link che ti abbiamo inviato il tuo indirizzo email verrà cambiato. Per far sì che l'attivazione funzioni, devi aver eseguito correttamente l'accesso al forum.
+qualcuno ha richiesto di assegnare un nuovo indirizzo email al tuo account su <base_url>. Se non ti risulta di aver effettuato questa richiesta o non vuoi pi� cambiare l'indirizzo, ignora semplicemente questo messaggio.
 
-Per cambiare il tuo indirizzo email per favore visita il seguente collegamento:
+Per cambiare l'indirizzo e-mail associato al tuo profilo, vai alla pagina:
 <activation_url>
 
 -- 
 <board_mailer>
-(Non rispondere a questo messaggio)
+(messaggio generato automaticamente)

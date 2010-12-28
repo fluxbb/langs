@@ -4,23 +4,23 @@
 $lang_login = array(
 
 // Miscellaneous
-'Wrong user/pass'			=>	'Nome utente e/o password errati.',
-'Forgotten pass'			=>	'Hai dimenticato la password?',
-'Login redirect'			=>	'Autenticazione effettuata con successo. Ridirezionamento in corso …',
-'Logout redirect'			=>	'Log out effettuato. Ridirezionamento in corso …',
+'Wrong user/pass'			=>	'Nome utente o password errati.',
+'Forgotten pass'			=>	'Password dimenticata?',
+'Login redirect'			=>	'Accesso effettuato. Reindirizzamento &hellip;',
+'Logout redirect'			=>	'Disconnessione effettuata. Reindirizzamento &hellip;',
 'No email match'			=>	'Non ci sono utenti registrati con questo indirizzo email',
-'Request pass'				=>	'Password richiesta',
-'Request pass legend'		=>	'Inserisci l\'indirizzo email con il quale ti sei registrato',
-'Request pass info'			=>	'Una nuova password e un link di attivazione sono state inviate a quell\'indirizzo.',
-'Not registered'			=>	'Non ancora registrato?',
-'Login legend'				=>	'Inserisci il tuo username e la tua password qui sotto',
-'Remember me'				=>	'Loggati automaticamente ad ogni visita.',
-'Login info'				=>	'Se non vi siete ancora registrati, o avete dimenticato la password, cliccate il link qui sotto.',
-'New password errors'		=>	'Errore nella richiesta della password',
-'New passworderrors info'	=>	'Gli errori seguenti devono essere corretti prima che una nuova pasword possa essere inviata:',
+'Request pass'				=>	'Richiesta password',
+'Request pass legend'		=>	'Inserire l\'indirizzo email di registrazione al forum',
+'Request pass info'			=>	'Una nuova password e un collegamento di attivazione sono stati inviati all\'indirizzo email indicato.',
+'Not registered'			=>	'Registrati!',
+'Login legend'				=>	'Inserire nome utente e password',
+'Remember me'				=>	'Accesso automatico.',
+'Login info'				=>	'Informazioni di accesso al forum.',
+'New password errors'		=>	'Errore',
+'New passworderrors info'	=>	'Correggere i seguenti errori per ricevere una nuova passord:',
 
 // Forget password mail stuff
-'Forget mail'				=>	'Una email è stata inviata con le istruzioni su come cambiare la password. In caso non sia arrivata, contattare gli amministratori del forum presso',
-'Email flood'				=>	'Questo account ha già richiesto un reset della password nell\'ora trascorsa. Attendere ancora un po\' prima di effettuare una nuova richiesta di password.'
+'Forget mail'				=>	'Un\'email &egrave; stata inviata all\'indirizzo indicato con le istruzioni necessarie. Qualora non arrivasse &egrave; possibile contattare l\'amministratore del forum ',
+'Email flood'				=>	'Questo utente ha richiesto una nuova password durante l\'ultima ora. Si prega di attendere e provare nuovamente pi&ugrave; tardi.'
 
 );

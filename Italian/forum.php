@@ -3,12 +3,12 @@
 // Language definitions used in viewforum.php
 $lang_forum = array(
 
-'Post topic'	=>	'Apri una nuova discussione',
+'Post topic'	=>	'Nuova discussione',
 'Views'			=>	'Visite',
-'Moved'			=>	'Spostato',
-'Sticky'		=>	'In rilievo',
-'Closed'		=>	'Chiuso',
-'Empty forum'	=>	'Forum vuoto.',
-'Mod controls'	=>	'Controlli moderatore',
+'Moved'			=>	'Spostata:',
+'Sticky'		=>	'In evidenza:',
+'Closed'		=>	'Chiusa:',
+'Empty forum'	=>	'Il forum &egrave; vuoto!',
+'Mod controls'	=>	'Controlli moderatore'
 
 );

@@ -2,6 +2,7 @@
 *  French - [FluxBB.fr](http://fluxbb.fr)
 *  German - [FluxBB.de Community](http://www.fluxbb.de)
 *  Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
+*  Italian - [Oscon](http://www.oscon.it)
 *  Polish - [FluxBB.orge.pl](http://fluxbb.orge.pl)
 *  Russian - [Форум FluxBB](http://fluxbb.org.ru/forum/viewtopic.php?id=3140)
 *  Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)

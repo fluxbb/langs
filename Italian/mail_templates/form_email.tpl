@@ -1,8 +1,8 @@
 Subject: <mail_subject>
 
-<sender> da <board_title> ti ha inviato un messagio. Puoi rispondere a <sender> rispondendo a questa email.
+<sender> di <board_title> ti ha mandato un messaggio. Puoi rispondergli direttamente da questa e-mail.
 
-Il messaggio è il seguente:
+Di seguito il testo del messaggio:
 -----------------------------------------------------------------------
 
 <mail_message>

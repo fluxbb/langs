@@ -8,48 +8,48 @@ $lang_common = array(
 'lang_identifier'					=>	'it',
 
 // Number formatting
-'lang_decimal_point'				=>	'.',
-'lang_thousands_sep'				=>	',',
+'lang_decimal_point'				=>	',',
+'lang_thousands_sep'				=>	'\'',
 
 // Notices
-'Bad request'						=>	'Richiesta non valida. Il link che hai seguito non è valido oppure è scaduto.',
-'No view'							=>	'Non hai il permesso di visualizzare questo forum.',
-'No permission'						=>	'Non hai il permesso di accere a questa pagina.',
-'Bad referrer'						=>	'HTTP_REFERER non valido. Sei stato indirizzato a questa pagina da una fonte non autorizzata. Se il problema persiste per favore assicurati che l\'indirizzo di base\' sia correttamente impostato nelle Amministrazione/Opzioni e che tu stia navigando nel forum con quell\'URL. Altre informazioni al riguardo possono essere reperite nella documentazione di FluxBB.',
-'No cookie'							=>	'Hai eseguito correttamente l\'accesso, ma non è stato creato alcun cookie. Perfavore controlla le tue impostazioni e se possibile, abilita i cookie per questo sito.',
-'Pun include error'					=>	'Unable to process user include %s from template %s. There is no such file in neither the template directory nor in the user include directory.',
+'Bad request'						=>	'Errore. Il link &egrave; errato o non pi&ugrave; valido.',
+'No view'							=>	'Non si dispone dei permessi per visualizzare questo forum.',
+'No permission'						=>	'Non si dispone dei permessi per visualizzare questa pagina.',
+'Bad referrer'						=>	'HTTP_REFERER non valido. Si proviene da una fonte non autorizzata. Se il problema persiste controllare che il \'Base URL\' sia correttamente impostato in "Amministrazione -> Opzioni" e di non avere il Referer disattivato nel proprio browser. Ulteriori informazioni sono disponibili nella documentazione online di FluxBB.',
+'No cookie'							=>	'L\'accesso &egrave; avvenuto correttamente, tuttavia i cookie sembrano disattivati. Verificare le impostazioni del browser e abilitare i cookie per questo sito.',
+'Pun include error'					=>	'Impossibile includere %s dal template %s. Non esiste tale file n&eacute; nella cartella template, n&eacute; nella cartella include.',
 
 // Miscellaneous
 'Announcement'						=>	'Annuncio',
 'Options'							=>	'Opzioni',
 'Submit'							=>	'Invia', // "Name" of submit buttons
 'Ban message'						=>	'Sei stato interdetto da questo forum.',
-'Ban message 2'						=>	'L\'interdizione scadrà alla fine di',
-'Ban message 3'						=>	'L\'amministratore o il moderatore che ti hanno interdetto ha lasciato il seguente messaggio:',
-'Ban message 4'						=>	'Please direct any inquiries to the forum administrator at',
+'Ban message 2'						=>	'L\'interdizione scadr&agrave; alla fine di',
+'Ban message 3'						=>	'L\'amministratore o il moderatore che ti ha interdetto ha lasciato il seguente messaggio:',
+'Ban message 4'						=>	'Per dubbi puoi contattare l\'amministratore',
 'Never'								=>	'Mai',
 'Today'								=>	'Oggi',
 'Yesterday'							=>	'Ieri',
 'Info'								=>	'Info', // A common table header
-'Go back'							=>	'Torna indietro',
+'Go back'							=>	'Indietro',
 'Maintenance'						=>	'Manutenzione',
 'Redirecting'						=>	'Reindirizzamento',
-'Click redirect'					=>	'Clicca qui se non vuoi più aspettare (o se il tuo browser non ti indirizza automaticamente)',
-'on'								=>	'attivato', // As in "BBCode is on"
-'off'								=>	'disattivato',
-'Invalid email'						=>	'L\'indirizzo e-mail che hai inserito non è valido.',
+'Click redirect'					=>	'Cliccare per non attendere oltre (o nel caso di incompatibilit&agrave; del browser)',
+'on'								=>	'attivo', // As in "BBCode is on"
+'off'								=>	'disattivo',
+'Invalid email'						=>	'L\'indirizzo email inserito &egrave; errato.',
 'Required'							=>	'(Richiesto)',
-'required field'					=>	'è richiesto in questo forum.', // For javascript form validation
-'Last post'							=>	'Ultimo messaggio',
+'required field'					=>	'&egrave; un campo richiesto.', // For javascript form validation
+'Last post'							=>	'Messaggio pi&ugrave; recente',
 'by'								=>	'di', // As in last post by someuser
-'New posts'							=>	'Nuovi messaggi', // The link that leads to the first new post
-'New posts info'					=>	'Vai al primo nuovo messaggio di questa discussione.', // The popup text for new posts links
+'New posts'							=>	'Nuovo messaggio', // The link that leads to the first new post
+'New posts info'					=>	'Al primo nuovo messaggio in questa discussione.', // The popup text for new posts links
 'Username'							=>	'Nome utente',
 'Password'							=>	'Password',
-'Email'								=>	'E-mail',
-'Send email'						=>	'Invia e-mail',
+'Email'								=>	'Email',
+'Send email'						=>	'Invia email',
 'Moderated by'						=>	'Moderato da',
-'Registered'						=>	'Registrato',
+'Registered'						=>	'Data di registrazione',
 'Subject'							=>	'Oggetto',
 'Message'							=>	'Messaggio',
 'Topic'								=>	'Argomento',
@@ -59,16 +59,16 @@ $lang_common = array(
 'Pages'								=>	'Pagine:',
 'Page'								=>	'Pagina %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
-'img tag'							=>	'tag [img]:',
-'Smilies'							=>	'Faccine:',
+'img tag'							=>	'Marcatore [img]:',
+'Smilies'							=>	'Emoticon:',
 'and'								=>	'e',
 'Image link'						=>	'immagine', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'								=>	'ha scritto:', // For [quote]'s
 'Mailer'							=>	'Mailer', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'Informazione importante',
-'Write message legend'				=>	'Scrivi il tuo messaggio ed invia',
-'Previous'							=>	'Precedente',
-'Next'								=>	'Successivo',
+'Write message legend'				=>	'Scrivere il messaggio e inviare',
+'Previous'							=>	'Indietro',
+'Next'								=>	'Avanti',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -80,13 +80,13 @@ $lang_common = array(
 'Guest'								=>	'Ospite',
 
 // Stuff for include/parser.php
-'BBCode error no opening tag'		=>	'[/%1$s] è stato trovato senza il corrispondente [%1$s]',
-'BBCode error invalid nesting'		=>	'[%1$s] è stato aperto all\'interno di [%2$s], questo non è consentito',
-'BBCode error invalid self-nesting'	=>	'[%s] è stato aperto all\'interno di se stesso, questo non è consentito',
-'BBCode error no closing tag'		=>	'[%1$s] è stato trovato senza il corrispondente [/%1$s]',
-'BBCode error empty attribute'		=>	'Il tag [%s] è una sezione vuota',
-'BBCode code problem'				=>	'C\'è un problema con i tags [code]',
-'BBCode list size error'			=>	'La tua lista era troppo lunga da analizzare, perfavore accorciala!',
+'BBCode error no opening tag'		=>	'[/%1$s] &egrave; stato trovato senza un rispettivo [%1$s]',
+'BBCode error invalid nesting'		=>	'[%1$s] &egrave; stato aperto dentro a [%2$s], ci&ograve; non &grave; consentito',
+'BBCode error invalid self-nesting'	=>	'[%s] &egrave; stato aperto dentro s&eacute; stesso, ci&ograve; non &grave; consentito',
+'BBCode error no closing tag'		=>	'[%1$s] &egrave; stato trovato senza un rispettivo [/%1$s]',
+'BBCode error empty attribute'		=>	'[%s] ha un attributo sezione vuoto',
+'BBCode code problem'				=>	'Si &egrave; verificato un problema col marcatore [code]',
+'BBCode list size error'			=>	'La lista &egrave; troppo lunga per essere elaborata, si prega di riprovare!',
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'Indice',
@@ -95,25 +95,25 @@ $lang_common = array(
 'Search'							=>	'Cerca',
 'Register'							=>	'Registrati',
 'Login'								=>	'Accedi',
-'Not logged in'						=>	'Non hai eseguito l\'accesso.',
+'Not logged in'						=>	'Accesso non effettuato.',
 'Profile'							=>	'Profilo',
-'Logout'							=>	'Esci',
-'Logged in as'						=>	'Connesso come',
-'Admin'								=>	'Amministra',
+'Logout'							=>	'Disconnetti',
+'Logged in as'						=>	'Ciao', // Connesso come:
+'Admin'								=>	'Amministrazione',
 'Last visit'						=>	'Ultima visita: %s',
-'Show new posts'					=>	'Mostra i nuovi messaggi dall\'ultima visita',
-'Mark all as read'					=>	'Imposta tutti i topic come letti',
-'Mark forum read'					=>	'Segna questa discussione come letta',
+'Show new posts'					=>	'Nuovi messaggi dall\'ultima visita',
+'Mark all as read'					=>	'Marca discussioni come lette',
+'Mark forum read'					=>	'Marca questo forum come letto',
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
-'Board footer'						=>	'Footer forum',
+'Board footer'						=>	'Pi&egrave; di pagina',
 'Search links'						=>	'Cerca collegamenti',
-'Show recent posts'					=>	'Mostra i messaggi recenti',
-'Show unanswered posts'				=>	'Mostra i messaggi senza risposta',
-'Show your posts'					=>	'Mostra i tuoi ultimi messaggi',
-'Show subscriptions'				=>	'Mostra le discussione sottoscritte',
-'Jump to'							=>	'Salta a',
+'Show recent posts'					=>	'Messaggi recenti',
+'Show unanswered posts'				=>	'Messaggi senza risposta',
+'Show your posts'					=>	'I miei messaggi',
+'Show subscriptions'				=>	'Le mie iscrizioni',
+'Jump to'							=>	'Vai a',
 'Go'								=>	' Vai ', // Submit button in forum jump
 'Moderate topic'					=>	'Modera discussione',
 'Move topic'						=>	'Sposta discussione',
@@ -121,49 +121,49 @@ $lang_common = array(
 'Close topic'						=>	'Chiudi discussione',
 'Unstick topic'						=>	'Disevidenzia discussione',
 'Stick topic'						=>	'Evidenzia discussione',
-'Moderate forum'					=>	'Modera categoria',
+'Moderate forum'					=>	'Modera forum',
 'Powered by'						=>	'Powered by %s',
 
 // Debug information
-'Debug table'						=>	'Informationi di debug',
-'Querytime'							=>	'Generato in %1$s secondi, %2$s query eseguite',
-'Memory usage'						=>	'Utilizzo memoria: %1$s',
-'Peak usage'						=>	'(Vetta: %1$s)',
+'Debug table'						=>	'Informazioni sui problemi',
+'Querytime'							=>	'Generato in %1$ secondi, %2$ interrogazioni eseguite',
+'Memory usage'						=>	'Uso memoria: %1$s',
+'Peak usage'						=>	'(Picco: %1$)',
 'Query times'						=>	'Tempo (s)',
-'Query'								=>	'Query',
-'Total query time'					=>	'Tempo totale della query: %s',
+'Query'								=>	'Interrogazione',
+'Total query time'					=>	'Tempo totale di interrogazione: %s',
 
 // Email related notifications
 'New user notification'				=>	'Avviso - Nuova registrazione',
-'New user message'					=>	'L\utente \'%s\' si è registrato al forum il %s',
-'Banned email notification'			=>	'Avviso - E-mail interdetta individuata',
-'Banned email register message'		=>	'L\'utente \'%s\' si è registrato con un indirizzo interdetto: %s',
-'Banned email change message'		=>	'L\'utente \'%s\' ha cambiat l\'e-mail con un\'e-mail interdetta: %s',
-'Banned email post message'			=>	'L\'utente \'%s\' ha scritto utilizzando un indirizzo e-mail interdetto: %s',
-'Duplicate email notification'		=>	'Avviso - Indirizzo e-mail duplicato rilevato',
-'Duplicate email register message'	=>	'L\'utente \'%s\' si è registrato con un indirizzo e-mail che appartiene a: %s',
-'Duplicate email change message'	=>	'L\'utente \'%s\' ha cambiato l\'indirizzo e-mail con uno che appartiene a: %s',
+'New user message'					=>	'L\'utente \'%s\' si &egrave; registrato al forum %s',
+'Banned email notification'			=>	'Avviso - Individuata email interdetta',
+'Banned email register message'		=>	'L\'utente \'%s\' si &egrave; con l\'indirizzo inderdetto: %s',
+'Banned email change message'		=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo nell\'indirizzo interdetto: %s',
+'Banned email post message'			=>	'L\'utente \'%s\' ha scritto utilizzando l\'indirizzo interdetto: %s',
+'Duplicate email notification'		=>	'Avviso - Individuata email duplicata',
+'Duplicate email register message'	=>	'L\'utente \'%s\' si &egrave; registrato con un indirizzo gi&agrave; in uso da: %s',
+'Duplicate email change message'	=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo con un indirizzo gi&agrave; in uso da: %s',
 'Report notification'				=>	'Segnalazione(%d) - \'%s\'',
-'Report message 1'					=>	'L\'utente \'%s\' ha riportato il seguente messaggio: %s',
+'Report message 1'					=>	'L\'utente \'%s\' ha segnalato il seguente messaggio: %s',
 'Report message 2'					=>	'Motivo: %s',
 
 'User profile'						=>	'Profilo utente: %s',
-'Post URL'							=>	'URL messaggio: %s',
-'Email signature'					=>	'Inviato da'."\n".'(Non rispondere a questo messaggio)',
+'Post URL'							=>	'Indirizzo messaggio: %s',
+'Email signature'					=>	'Inviato da '."\n".'(messaggio generato automaticamente)',
 
 // For extern.php RSS feed
-'RSS description'					=>	'Le discussioni recenti in %s.',
-'RSS description topic'				=>	'I messaggi recenti in %s.',
+'RSS description'					=>	'Discussioni pi&grave; recenti in %s.',
+'RSS description topic'				=>	'Messaggi pi&grave; recenti in %s.',
 'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
-'RSS active topics feed'			=>	'Feed RSS discussioni attive',
-'Atom active topics feed'			=>	'Feed Atom discussioni attive',
-'RSS forum feed'					=>	'feed RSS categoria',
-'Atom forum feed'					=>	'feed Atom categoria',
-'RSS topic feed'					=>	'feed RSS discussione',
-'Atom topic feed'					=>	'feed Atom discussione',
+'RSS active topics feed'			=>	'RSS discussioni',
+'Atom active topics feed'			=>	'Atom discussioni',
+'RSS forum feed'					=>	'RSS forum',
+'Atom forum feed'					=>	'Atom forum',
+'RSS topic feed'					=>	'RSS discussione',
+'Atom topic feed'					=>	'Atom discussione',
 
 // Admin related stuff in the header
-'New reports'						=>	'Ci sono nuove segnalazioni',
-'Maintenance mode enabled'			=>	'Il forum è in manutenzione!',
+'New reports'						=>	'C\'&egrave; una nuova segnalazione',
+'Maintenance mode enabled'			=>	'Il forum &egrave; in manutenzione!',
 
 );
