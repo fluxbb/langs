@@ -24,5 +24,6 @@ $lang_topic = array (
   'Quick post' => '快速發帖',
   'Mod controls' => '主持人控制',
   'New icon' => '新員額',
-  'Re' => '回复：',
+  'Re' => '回复： ',
+  'Preview' => '預覽',
 );

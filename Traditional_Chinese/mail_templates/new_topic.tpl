@@ -1,6 +1,6 @@
-主題：新主題論壇： <forum_name>
+主題：新的話題在論壇：' <forum_name> ' 
 
-<poster>已經發布了一個新的話題<topic_subject>在論壇<forum_name> ，對此您訂閱。 
+<poster>發布了一個新的主題' <topic_subject>在該論壇的<forum_name> '，到您所訂閱的。 
 
 位於該主題<topic_url>
 
