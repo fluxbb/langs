@@ -10,6 +10,7 @@ $lang_post = array(
 'Too long message'	=>	'Beiträge dürfen nicht größer als %s Byte sein.',
 'All caps subject'	=>	'Der Betreff darf nicht nur Großbuchstaben enthalten.',
 'All caps message'	=>	'Der Beitrag darf nicht nur Großbuchstaben enthalten.',
+'Empty after strip'	=>	'Scheinbar besteht Dein Beitrag nur aus leerem BBCode. Möglicherweise wurden zu tief geschachtelte Zitate verworfen.',
 
 // Beiträge
 'Post errors'		=>	'Versandfehler',

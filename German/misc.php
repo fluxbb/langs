@@ -29,9 +29,11 @@ $lang_misc = array(
 'Reason desc'					=>	'Bitte gib eine kurze Begründung an, warum du diesen Beitrag meldest',
 
 // Abonnements
-'Already subscribed'			=>	'Du hast dieses Thema bereits abonniert.',
+'Already subscribed topic'		=>	'Du hast dieses Thema bereits abonniert',
+'Already subscribed forum'		=>	'Du hast dieses Forum bereits abonniert',
 'Subscribe redirect'			=>	'Das Thema wurde erfolgreich abonniert. Leite weiter …',
-'Not subscribed'				=>	'Du hast dieses Thema nicht abonniert.',
+'Not subscribed topic'			=>	'Du hast dieses Thema nicht abonniert.',
+'Not subscribed forum'			=>	'Du hast dieses Forum nicht abonniert.',
 'Unsubscribe redirect'			=>	'Dein Abonnement wurde abbestellt. Leite weiter  …',
 
 // Allgemeine Foren- und Themenmoderation

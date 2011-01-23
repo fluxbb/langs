@@ -9,6 +9,9 @@ $lang_forum = array(
 'Sticky'		=>	'Fixiert:',
 'Closed'		=>	'Geschlossen:',
 'Empty forum'	=>	'Das Forum enthält noch keine Themen.',
-'Mod controls'	=>	'Moderationsfunktionen'
+'Mod controls'	=>	'Moderationsfunktionen',
+'Is subscribed'	=>	'Du hast dieses Forum abonniert',
+'Unsubscribe'	=>	'Abonnement abbestellen',
+'Subscribe'		=>	'Dieses Forum abonnieren'
 
 );

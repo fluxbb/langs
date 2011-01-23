@@ -39,6 +39,7 @@ $lang_search = array(
 'No terms'					=>	'Du musst mindestens ein Schlüsselwort und/oder Autor für die Suche eingeben.',
 'No hits'					=>	'Deine Suche ergab leider keine Treffer.',
 'No user posts'				=>	'Es gibt keine Beiträge von diesem Mitglied in diesem Forum.',
+'No user topics'			=>	'Es gibt keine Themen von diesem Mitglied in diesem Forum.',
 'No subscriptions'			=>	'Du hast aktuell kein Thema abonniert.',
 'No new posts'				=>	'Es gibt keine neuen Beiträge seit deinem letzten Besuch.',
 'No recent posts'			=>	'Es gibt keine neuen Beiträge in den letzten 24 Stunden.',
