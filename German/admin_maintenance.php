@@ -16,7 +16,7 @@ $lang_admin_maintenance = array(
 'Rebuild index'					=>	'Index neu erstellen',
 'Rebuilding search index'		=>	'Der Suchindex wird neu erstellt',
 'Rebuilding index info'			=>	'Der Suchindex wird jetzt neu erstellt. Daher hast Du nun etwas Zeit für eine kleine Kaffeepause :-)',
-'Processing post'				=>	'Der Beitrag <strong>%s</strong> im Thema <strong>%s</strong> wird verarbeitet',
+'Processing post'				=>	'Der Beitrag <strong>%s</strong> wird verarbeitet',
 'Click here'					=>	'Hier klicken',
 'Javascript redirect failed'	=>	'Die JavaScript-Weiterleitung ist fehlgeschlagen. %s um weiterzumachen …',
 
