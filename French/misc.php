@@ -29,9 +29,11 @@ $lang_misc = array(
 'Reason desc'			=>	'Indiquez la raison pour laquelle vous signalez ce message.',
  
 // Subscriptions
-'Already subscribed'		=>	'Vous suivez déjà cette discussion.',
+'Already subscribed topic'      =>      'Vous suivez déjà cette discussion.',
+'Already subscribed forum'      =>      'Vous suivez déjà ce forum.',
 'Subscribe redirect'		=>	'Votre demande de suivi a été prise en compte. Redirection&#160;…',
-'Not subscribed'		=>	'Vous ne suivez pas cette discussion.',
+'Not subscribed topic'		=>	'Vous ne suivez pas cette discussion.',
+'Not subscribed forum'		=>	'Vous ne suivez pas ce forum.',
 'Unsubscribe redirect'		=>	'Vous ne suivez plus cette discussion. Redirection&#160;…',
  
 // General forum and topic moderation

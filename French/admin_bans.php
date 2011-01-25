@@ -24,7 +24,7 @@ $lang_admin_bans = array(
 
 'Ban search head'			=>	'Recherche de bannissements',
 'Ban search subhead'			=>	'Indiquer les critères de recherche',
-'Ban search info'			=>	'Recherche de bannissements dans la base de données. Vous pouvez indiquer un ou plusieurs termes à retrouver. Les jokers sous formes d\'astérisques (*) sont acceptés.',
+'Ban search info'			=>	'Recherche de bannissements dans la base de données. Vous pouvez indiquer un ou plusieurs termes à retrouver. Les jokers sous formes d\'astérisques (*) sont acceptés. Pour afficher tous les bannissements, laisser tous les champs vides.',
 'Date help'				=>	'(yyyy-mm-dd)',
 'Message label'				=>	'Message',
 'Expire after label'			=>	'Expire après',

@@ -72,7 +72,7 @@ $lang_common = array(
 'Spacer'                        =>      '…', // Ellipsis for paginate
 
 // Title
-'Title'				=>	'Identité',
+'Title'				=>	'Titre de l\'utilisateur',
 'Member'			=>	'Membre',	// Default title
 'Moderator'			=>	'Modérateur',
 'Administrator'			=>	'Administrateur',
@@ -101,18 +101,18 @@ $lang_common = array(
 'Logged in as'			=>	'Connecté(e) sous l\'identité&#160;',
 'Admin'				=>	'Administration',
 'Last visit'			=>	'Dernière visite&#160;: %s',
-'Show new posts'		=>	'Afficher les nouveaux messages depuis la dernière visite',
+'New posts'			=>	'Nouveaux messages',
+'Active topics'			=>	'Messages actifs',
+'Unanswered topics'		=>	'Messages sans réponse',
+'Show new posts'		=>	'Trouver les discussions avec de nouveaux messages depuis votre dernière visite.',
+'Show active topics'		=>	'Trouver les discussions comportant de nouveaux messages.',
+'Show unanswered topics'	=>	'Trouver les discussions qui n\'ont pas obtenu de réponse.',
 'Mark all as read'		=>	'Marquer toutes les discussions comme lues',
 'Mark forum read'               =>      'Marquer ce forum comme lu',
 'Title separator'		=>	' / ',
 
 // Stuff for the page footer
 'Board footer'			=>	'Pied de page des forums',
-'Search links'			=>	'Liens de recherche',
-'Show recent posts'		=>	'Afficher les messages récents',
-'Show unanswered posts'		=>	'Afficher les messages sans réponse',
-'Show your posts'		=>	'Afficher vos messages',
-'Show subscriptions'		=>	'Afficher les discussions que vous suivez',
 'Jump to'			=>	'Atteindre',
 'Go'				=>	'Aller',		// submit button in forum jump
 'Moderate topic'                =>      'Modérer la discussion',

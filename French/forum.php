@@ -9,6 +9,8 @@ $lang_forum = array(
 'Sticky'	=>	'Épinglée&#160;:',
 'Closed'	=>	'Fermée&#160;:',
 'Empty forum'	=>	'Le forum ne contient aucune discussion.',
-'Mod controls'	=>	'Actions des modérateurs'
-
+'Mod controls'	=>	'Interventions pour modérateurs',
+'Is subscribed'	=>	'Vous suivez ce forum',
+'Unsubscribe'	=>	'Ne plus suivre',
+'Subscribe'	=>	'Suivre ce forum'
 );

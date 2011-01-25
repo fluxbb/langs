@@ -10,6 +10,7 @@ $lang_post = array(
 'Too long message'		=>	'Les messages ne peuvent contenir plus de %s octets.',
 'All caps subject'  		=>  	'Il n\'est pas autorisé d\'écrire un sujet entièrement en lettres capitales.',
 'All caps message'  		=>  	'Il n\'est pas autorisé d\'écrire un message entièrement en lettres capitales.',
+'Empty after strip'	        =>	'Il semblerait que votre message ne comporte que des balises BBCode vides. Il est possible que cela se soit passé par exemple parce que la citation imbriquée la plus ancienne a été supprimé pour cause de niveau d\'imbrication de citations supérieur à celui autorisé.',
 
 // Posting
 'Post errors'			=>	'Erreurs dans le message',
