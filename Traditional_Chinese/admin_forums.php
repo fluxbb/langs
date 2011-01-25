@@ -34,6 +34,7 @@ $lang_admin_forums = array (
   'Sort by label' => '排序方式',
   'Last post' => '最後發表',
   'Topic start' => '主題開始',
+  'Subject' => '科目',
   'Redirect label' => '重定向網址',
   'Redirect help' => '只在空論壇',
   'Group permissions subhead' => '編輯組這個論壇的權限',
