@@ -1,0 +1,169 @@
+<?php
+
+// Language definitions for frequently used strings
+$lang_common = array(
+
+// Text orientation and encoding
+'lang_direction'					=>	'ltr', // ltr (Left-To-Right) or rtl (Right-To-Left)
+'lang_identifier'                                       =>      'zh-Hans',
+
+// Number formatting
+'lang_decimal_point'				=>	'.',
+'lang_thousands_sep'				=>	',',
+
+// Notices
+'Bad request'						=>	'错误请求。您所打开的链接不存在或已失效。',
+'No view'							=>	'您没有权限查看这些论坛。',
+'No permission'						=>	'您没有权限访问该页面。',
+'Bad referrer'						=>	'HTTP_REFERER 错误。您从一个未经授权的地址接入本页。如果该问题再次发生，请检查设置 管理设置/配置选项 中的 \'根目录网址\' 填写是否正确，并确认您访问论坛的链接正是指向该网址。要获得关于此问题的更多信息请访问FluxBB官方论坛。',
+'No cookie'							=>	'您似乎已经登录成功，但是cookie未能正确设置。请检查您的相关设置，如果该功能可用，请对本站启用cookies。',
+'Pun include error'					=>	'Unable to process user include %s from template %s. There is no such file in neither the template directory nor in the user include directory.',
+
+// Miscellaneous
+'Announcement'						=>	'公告',
+'Options'							=>	'选项',
+'Submit'							=>	'提交', // "Name" of submit buttons
+'Ban message'						=>	'您的账号已被论坛封禁。',
+'Ban message 2'						=>	'该封禁会持续至',
+'Ban message 3'						=>	'以下是论坛管理人员给您的封禁通知：',
+'Ban message 4'						=>	'任何疑问，请直接联系论坛管理员',
+'Never'								=>	'从未',
+'Today'								=>	'今天',
+'Yesterday'							=>	'昨天',
+'Info'								=>	'信息', // A common table header
+'Go back'							=>	'返回',
+'Maintenance'						=>	'维护',
+'Redirecting'						=>	'正在跳转',
+'Click redirect'					=>	'如果您不想继续等待(或者您的浏览器不支持自动跳转)，请点击这里',
+'on'								=>	'可用', // As in "BBCode is on"
+'off'								=>	'禁用',
+'Invalid email'						=>	'您填写的电子信箱无效。',
+'Required'							=>	'(必需)',
+'required field'					=>	'不能为空。', // For javascript form validation
+'Last post'							=>	'最后发表',
+'by'								=>	'by', // As in last post by someuser
+'New posts'							=>	'查看更新', // The link that leads to the first new post
+'New posts info'					=>	'查看该主题中新增的帖子。', // The popup text for new posts links
+'Username'							=>	'用户名',
+'Password'							=>	'密码',
+'Email'								=>	'电子信箱',
+'Send email'						=>	'发送邮件',
+'Moderated by'						=>	'版主：',
+'Registered'						=>	'注册时间',
+'Subject'							=>	'主题',
+'Message'							=>	'内容',
+'Topic'								=>	'主题',
+'Forum'								=>	'论坛',
+'Posts'								=>	'帖子',
+'Replies'							=>	'回复',
+'Pages'								=>	'页次：',
+'Page'								=>	'页 %s',
+'BBCode'							=>	'BBCode：', // You probably shouldn't change this
+'img tag'							=>	'[img] 贴图：',
+'Smilies'							=>	'表情：',
+'and'								=>	'以及',
+'Image link'						=>	'图片', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
+'wrote'								=>	'说：', // For [quote]'s
+'Mailer'							=>	'邮件服务', // As in "MyForums Mailer" in the signature of outgoing emails
+'Important information'				=>	'重要信息',
+'Write message legend'				=>	'填写内容后点击按钮提交',
+'Previous'							=>	'上一页',
+'Next'								=>	'下一页',
+'Spacer'							=>	'…', // Ellipsis for paginate
+
+// Title
+'Title'								=>	'头衔',
+'Member'							=>	'会员', // Default title
+'Moderator'							=>	'版主',
+'Administrator'						=>	'管理员',
+'Banned'							=>	'封禁',
+'Guest'								=>	'访客',
+
+// Stuff for include/parser.php
+'BBCode error no opening tag'		=>	'[/%1$s] 缺少匹配的标签 [%1$s]',
+'BBCode error invalid nesting'		=>	'[%1$s] 标签不允许在 [%2$s] 标签内部使用',
+'BBCode error invalid self-nesting'	=>	'[%s] 标签不允许在其自身内部使用',
+'BBCode error no closing tag'		=>	'[%1$s] 缺少匹配的标签 [/%1$s]',
+'BBCode error empty attribute'		=>	'[%s] 标签属性不允许为空',
+'BBCode code problem'				=>	'[code] 标签出现错误，请检查。',
+'BBCode list size error'			=>	'列表内容过长无法解析，请缩短后再试！',
+
+// Stuff for the navigator (top of every page)
+'Index'								=>	'首页',
+'User list'							=>	'用户列表',
+'Rules'								=>	'服务条款',
+'Search'							=>	'搜索',
+'Register'							=>	'注册',
+'Login'								=>	'登录',
+'Not logged in'						=>	'您尚未登录。',
+'Profile'							=>	'个人资料',
+'Logout'							=>	'注销',
+'Logged in as'						=>	'欢迎回来：',
+'Admin'								=>	'管理设置',
+'Last visit'						=>	'上次登录： %s',
+'New posts'							=>	'新帖子',
+'Active topics'						=>	'活跃的主题',
+'Unanswered topics'					=>	'未回复的主题',
+'Show new posts'					=>	'查看您上次登录后出现的新帖子。',
+'Show active topics'				=>	'查看包含最近回复的主题。',
+'Show unanswered topics'			=>	'查看还未被回复过的主题。',
+'Mark all as read'					=>	'标记所有帖子为已读',
+'Mark forum read'					=>	'标记该论坛为已读',
+'Title separator'					=>	' / ',
+
+// Stuff for the page footer
+'Board footer'						=>	'页脚',
+'Jump to'							=>	'论坛跳转',
+'Go'								=>	'前往', // Submit button in forum jump
+'Moderate topic'					=>	'管理主题',
+'Move topic'						=>	'移动主题',
+'Open topic'						=>	'开启主题',
+'Close topic'						=>	'关闭主题',
+'Unstick topic'						=>	'解除置顶',
+'Stick topic'						=>	'置顶主题',
+'Moderate forum'					=>	'管理论坛',
+'Powered by'						=>	'Powered by %s',
+
+// Debug information
+'Debug table'						=>	'Debug信息',
+'Querytime'							=>	'Generated in %1$s seconds, %2$s queries executed',
+'Memory usage'						=>	'Memory usage: %1$s',
+'Peak usage'						=>	'(Peak: %1$s)',
+'Query times'						=>	'Time (s)',
+'Query'								=>	'Query',
+'Total query time'					=>	'Total query time: %s',
+
+// Email related notifications
+'New user notification'				=>	'警报 - 有新用户注册',
+'New user message'					=>	'用户 \'%s\' 已在论坛注册如下 %s',
+'Banned email notification'			=>	'警报 - 发现封禁的电子信箱',
+'Banned email register message'		=>	'用户 \'%s\' 注册时使用了一个被封禁的电子信箱： %s',
+'Banned email change message'		=>	'用户 \'%s\' 已更改为一个被封禁的电子邮箱： %s',
+'Banned email post message'			=>	'用户 \'%s\' 发帖时使用了被封禁的电子信箱： %s',
+'Duplicate email notification'		=>	'警报 - 发现重复的电子信箱',
+'Duplicate email register message'	=>	'用户 \'%s\' 注册使用的电子邮箱已经被 %s 使用',
+'Duplicate email change message'	=>	'用户 \'%s\' 更改后的电子信箱地址已经被 %s 使用',
+'Report notification'				=>	'Report(%d) - \'%s\'',
+'Report message 1'					=>	'用户 \'%s\' 举报了以下内容： %s',
+'Report message 2'					=>	'理由： %s',
+
+'User profile'						=>	'用户个人资料： %s',
+'Post URL'							=>	'帖子URL： %s',
+'Email signature'					=>	'论坛邮件服务'."\n".'(请勿回复该邮件)',
+
+// For extern.php RSS feed
+'RSS description'					=>	'%s 最近发表的主题。',
+'RSS description topic'				=>	'%s 最近发表的帖子。',
+'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
+'RSS active topics feed'			=>	'RSS订阅',
+'Atom active topics feed'			=>	'Atom订阅',
+'RSS forum feed'					=>	'RSS订阅该版',
+'Atom forum feed'					=>	'Atom订阅该版',
+'RSS topic feed'					=>	'RSS订阅该主题',
+'Atom topic feed'					=>	'Atom订阅该主题',
+
+// Admin related stuff in the header
+'New reports'						=>	'有新的举报',
+'Maintenance mode enabled'			=>	'维护模式已启用！'
+
+);
