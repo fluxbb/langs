@@ -1,7 +1,7 @@
 <?php
 
 $lang_admin_options = array (
-  'Bad HTTP Referer message' => '壞 HTTP_REFERER。如果您移動這些論壇從一個位置到另一個位置或交換域，你需要手動更新的基礎 URL數據庫中（尋找 o_base_url在配置表），然後清除緩存，刪去所有。php文件中/高速緩存目錄。 ',
+  'Bad HTTP Referer message' => '壞 HTTP_REFERER。如果您移動這些論壇從一個位置到另一個位置或交換域，你需要手動更新相應的網址數據庫中（尋找 o_base_url在配置表），然後清除緩存，刪去所有。php文件在/緩存目錄。 ',
   'Must enter title message' => '您必須輸入板冠軍。 ',
   'Invalid e-mail message' => ' admin的電子郵件地址您輸入無效。 ',
   'Invalid webmaster e-mail message' => '在您輸入管理員的電子郵件地址是無效的。 ',

@@ -16,5 +16,6 @@ $lang_admin_maintenance = array (
   'Rebuilding index info' => '重建索引。這可能是一個好時機，把一些咖啡:-) ',
   'Processing post' => '處理後<strong>%s</strong> ... ',
   'Click here' => '點擊這裡',
-  'Javascript redirect failed' => ' JavaScript重定向失敗。 %s繼續 ...',
+  'Javascript redirect failed' => ' JavaScript重定向失敗。 %s繼續 ... ',
+  'Must be integer message' => '篇每個週期必須是正整數。',
 );
