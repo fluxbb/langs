@@ -29,9 +29,11 @@ $lang_misc = array(
 'Reason desc'					=>	'通報する理由を簡潔に入力します。',
 
 // Subscriptions
-'Already subscribed'			=>	'あなたはすでにこのトピックを購読しています。',
+'Already subscribed topic'		=>	'あなたはすでにこのトピックを購読しています。',
+'Already subscribed forum'		=>	'あなたはすでにこのフォーラムを購読しています。',
 'Subscribe redirect'			=>	'購読を設定しました。リダイレクト中 …',
-'Not subscribed'				=>	'あなたはこのトピックを購読していません.',
+'Not subscribed topic'			=>	'あなたはこのトピックを購読していません。',
+'Not subscribed forum'			=>	'あなたはこのフォーラムを購読していません。',
 'Unsubscribe redirect'			=>	'購読を解除しました。リダイレクト中 …',
 
 // General forum and topic moderation

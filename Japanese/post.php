@@ -10,6 +10,7 @@ $lang_post = array(
 'Too long message'	=>	'投稿は、%s バイト以下で入力してください。',
 'All caps subject'	=>	'大文字のみのタイトルは入力できません。',
 'All caps message'	=>	'大文字のみのメッセージは入力できません。',
+'Empty after strip'	=>	'空のBBCodeだけのメッセージは投稿できません。この状態は[quote]タグが入れ子の最大数を超えている場合などに起こります。',
 
 // Posting
 'Post errors'		=>	'投稿エラー',

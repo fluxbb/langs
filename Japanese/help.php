@@ -27,6 +27,7 @@ $lang_help = array(
 'Links info'			=>	'以下のタグで、他の文書やメールアドレスにリンクを張れます。',
 'My email address'		=>	'My メールアドレス',
 'Images info'			=>	'画像を表示したい場合は、img タグを使います。以下のようにスタートタグの後に"=" を付け、その後にAlt属性を記入します。',
+'FluxBB bbcode test'	=>	'FluxBB bbcode test',
 
 'Quotes'				=>	'引用',
 'Quotes info'			=>	'何かを引用したい場合、quote タグを使います。',

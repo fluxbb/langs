@@ -24,7 +24,7 @@ $lang_admin_bans = array(
 
 'Ban search head'			=>	'アクセス制限の検索',
 'Ban search subhead'		=>	'検索条件',
-'Ban search info'			=>	'データベース内のアクセス制限情報を検索します。１つ以上の項目を入力します。ワイルドカード(*)が使えます。',
+'Ban search info'			=>	'データベース内のアクセス制限情報を検索します。１つ以上の項目を入力します。ワイルドカード(*)が使えます。すべての情報を表示する場合は何も入力せずに検索してください。',
 'Date help'					=>	'(yyyy-mm-dd)',
 'Message label'				=>	'メッセージ',
 'Expire after label'		=>	'解除日（以後）',

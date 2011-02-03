@@ -39,6 +39,7 @@ $lang_search = array(
 'No terms'					=>	'キーワードまたは投稿者を指定してください。',
 'No hits'					=>	'一致する情報はありません。',
 'No user posts'				=>	'指定ユーザーの投稿はありません。',
+'No user topics'			=>	'ユーザーが立てたトピックはありません。',
 'No subscriptions'			=>	'現在どのトピックも購読していません。',
 'No new posts'				=>	'最近投稿のあったトピックはありません。',
 'No recent posts'			=>	'24時間以内の投稿はありません。',

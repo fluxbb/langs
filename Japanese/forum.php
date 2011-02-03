@@ -9,6 +9,9 @@ $lang_forum = array(
 'Sticky'		=>	'注目:',
 'Closed'		=>	'閉鎖:',
 'Empty forum'	=>	'フォーラムは空です。',
-'Mod controls'	=>	'モデレータ管理セクション'
+'Mod controls'	=>	'モデレータ管理セクション',
+'Is subscribed'	=>	'現在このフォーラムを購読しています。',
+'Unsubscribe'	=>	'フォーラムの購読をやめる',
+'Subscribe'		=>	'フォーラムを購読'
 
 );
