@@ -15,6 +15,6 @@ $lang_admin_prune = array (
   'Prune from help' => '該論壇由要修剪的職位。 ',
   'Prune info' => '謹慎使用此功能。 <strong>剪枝職位永遠不能恢復。</strong>為了獲得最佳性能，你應該把%s的論壇期間，修剪。 ',
   'Confirm prune subhead' => '確認修剪篇',
-  'Confirm prune info' => '你確定要刪除所有年齡超過 %s天的主題從 %s（%s主題）。 ',
+  'Confirm prune info' => '你確定要刪除所有年齡超過 %s天的主題從 %s（%s主題）。',
   'Confirm prune warn' => '警告！修剪篇它們永久刪除。',
 );
