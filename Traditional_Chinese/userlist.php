@@ -1,10 +1,13 @@
 <?php
 
-$lang_ul = array (
-  'User find legend' => '查找和排序用戶',
-  'User search info' => '輸入一個用戶名來搜索和/或用戶組來過濾。用戶名字段可以為空。使用通配符*部分匹配。 ',
-  'User sort info' => '排序用戶名稱，日期或編號登記的職位和升序/降序排列。 ',
-  'User group' => '用戶組',
-  'No of posts' => '員額數',
-  'All users' => '所有',
+// Language definitions used in userlist.php
+$lang_ul = array(
+
+'User find legend'	=>	'查找並排列用戶',
+'User search info'	=>	'填寫一個用戶名來查找，並/或選擇用戶組以篩選。用戶名欄可以留空。使用通配符 * 可模糊匹配。',
+'User sort info'	=>	'支持按用戶名、註冊時間或發帖數的升序/降序排列。',
+'User group'		=>	'用戶組',
+'No of posts'		=>	'發帖數',
+'All users'			=>	'全部'
+
 );
