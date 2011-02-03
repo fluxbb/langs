@@ -18,7 +18,7 @@ $lang_register = array(
 'Registration errors info'	=>	'以下のエラーを修正してください。:',
 'Username censor'			=>	'あなたが入力したユーザー名は、１つまたはそれ以上の禁止用語を含んでいます。他のユーザー名を入力してください。',
 'Username dupe 1'			=>	'そのユーザー名はすでに使われています。',
-'Username dupe 2'			=>	'ユーザー名は最低１文字（a～zまたは0～9）は、他のユーザーと異なっている必要があります。違うユーザー名を入力してください。',
+'Username dupe 2'			=>	'ユーザー名は最低１文字<strong>（a～zまたは0～9）</strong>は、他のユーザーと異なっている必要があります。違うユーザー名を入力してください（例えば、「megu」と「megu-」は、同じと見なされます。「megux」や「megu1」であれば登録できます）。',
 'Email not match'			=>	'メールアドレスが一致しません。',
 
 // Registration email stuff
