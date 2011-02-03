@@ -1,12 +1,12 @@
-主題：歡迎<board_title> ！ 
+標題: 歡迎光臨 <board_title>!
 
-謝謝您在論壇上註冊<base_url> 。您的帳戶資料如下： 
+感謝您在 <base_url> 註冊。以下是您的賬號細節：
 
-用戶名： <username>
-密碼： <password>
+用戶名: <username>
+密碼: <password>
 
-在登錄<login_url>激活帳戶。 
+請通過頁面 <login_url> 登錄以激活您的賬號。
 
- - 
+--
 <board_mailer>
- （請不要回复此郵件） 
+（請勿回復該郵件）
