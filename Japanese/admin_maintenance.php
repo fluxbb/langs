@@ -14,17 +14,11 @@ $lang_admin_maintenance = array(
 'Empty index help'				=>	'インデクスを一旦削除してから再構築する場合にチェックします（下記参照）。',
 'Rebuild completed info'		=>	'処理中はブラウザのJavaScriptを有効にすることを強く推奨します（１サイクルの処理が終わるたびにこのページにリダイレクトされるため）。やむを得ず処理を中断する場合は、最後に処理されたIDをメモし、"開始ID"にID+1を指定して再開します（この場合"インデクスのクリア"は選択しません）。',
 'Rebuild index'					=>	'再構築',
-
-//*** 文字化けしない環境はこちらを推奨 ***
 'Rebuilding search index'		=>	'検索インデクスを再構築しています。',
 'Rebuilding index info'			=>	'インデクスを再構築しています。コーヒーでも飲んでお待ちください。 ^^',
 'Processing post'				=>	'<strong>%s</strong> を処理中 …',
 'Click here'					=>	'クリック',
 'Javascript redirect failed'	=>	'JavaScriptでのリダイレクトに失敗しました。%s で継続 …',
-//*** 文字化けする環境はこちら（英語のまま）を推奨 ***
-//'Rebuilding search index'		=>	'Rebuilding search index',
-//'Rebuilding index info'			=>	'Rebuilding index. This might be a good time to put on some coffee :-)',
-//'Processing post'				=>	'Processing post <strong>%s</strong> …',
-//'Click here'					=>	'Click here',
-//'Javascript redirect failed'	=>	'JavaScript redirect unsuccessful. %s to continue …',
+'Must be integer message'		=>	'投稿サイクルは正の整数を指定してください。',
+
 );

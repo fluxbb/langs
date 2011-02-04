@@ -40,6 +40,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'トピックの表示順',
 'Last post'					=>	'新しい投稿順',
 'Topic start'				=>	'古い投稿順',
+'Subject'					=>	'タイトル',
 'Redirect label'			=>	'リダイレクトURL',
 'Redirect help'				=>	'フォーラムが空の場合のみ指定できます。',
 'Group permissions subhead'	=>	'グループパーミッション',

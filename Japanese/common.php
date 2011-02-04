@@ -69,6 +69,7 @@ $lang_common = array(
 'Write message legend'				=>	'メッセージを書いて送信してください。',
 'Previous'							=>	'前へ',
 'Next'								=>	'次へ',
+'Forum index'						=>	'フォーラムの索引',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -101,12 +102,15 @@ $lang_common = array(
 'Logged in as'						=>	'ログイン:',
 'Admin'								=>	'管理',
 'Last visit'						=>	'前回の訪問: %s',
-'New posts'							=>	'新しい投稿',
-'Active topics'						=>	'活発なトピック',
-'Unanswered topics'					=>	'返信のないトピック',
+'Topic searches'					=>	'トピック:',
+'New posts header'					=>	'未読',
+'Active topics'						=>	'活発',
+'Unanswered topics'					=>	'未返信',
+'Posted topics'						=>	'投稿',
 'Show new posts'					=>	'未読の投稿を表示します。',
-'Show active topics'				=>	'最近投稿のあったトピックを表示します。',
+'Show active topics'				=>	'最近投稿されたトピックを表示します。',
 'Show unanswered topics'			=>	'返信のないトピックを表示します。',
+'Show posted topics'				=>	'あなたが投稿したトピックを表示します。',
 'Mark all as read'					=>	'すべてのトピックを既読にする',
 'Mark forum read'					=>	'このフォーラムを既読にする',
 'Title separator'					=>	' / ',
@@ -164,6 +168,6 @@ $lang_common = array(
 
 // Admin related stuff in the header
 'New reports'						=>	'新しい通報があります。',
-'Maintenance mode enabled'			=>	'メンテナンスモードが可能です！',
+'Maintenance mode enabled'			=>	'メンテナンスモード中',
 
 );

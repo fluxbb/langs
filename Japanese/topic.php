@@ -26,6 +26,7 @@ $lang_topic = array(
 'Quick post'		=>	'クィック投稿',
 'Mod controls'		=>	'モデレータ管理セクション',
 'New icon'			=>	'新しい投稿',
-'Re'				=>	'Re:'
+'Re'				=>	'Re:',
+'Preview'			=>	'プレビュー'
 
 );
