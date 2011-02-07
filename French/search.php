@@ -36,6 +36,18 @@ $lang_search = array(
  
 // Results
 'Search results'		=>	'Résultats de la recherche',
+'Search topics'			=>	'Discussions de la recherche',
+'Search posts'			=>	'Messages de la recherche',
+'Quick search show_new'		=>	'Nouveaux',
+'Quick search show_recent'	=>	'Actives',
+'Quick search show_unanswered'	=>	'Sans réponse',
+'Quick search show_replies'	=>	'Les vôtres',
+'Quick search show_user_topics'	=>	'De %s',
+'Quick search show_user_posts'	=>	'De %s',
+'Quick search show_subscriptions'       =>	'Suivies par %s',
+'By keywords'			=>	'Contenant le(s) mot(s)-clé(s) «&#160;%s&#160;»',
+'By user'			=>	'Contenant des messages de %s',
+'By both'			=>	'Contenant le(s) mot(s)-clé(s) «&#160;%s&#160;» dans les messages de %s',
 'No terms'			=>	'Vous devez saisir au moins un mot-clé et/ou un auteur à rechercher.',
 'No hits'			=>	'Désolé, aucun résultat n\'a été trouvé pour votre recherche.',
 'No user posts'			=>	'Il n\'y a pas de message de cet utilisateur dans ce forum.',

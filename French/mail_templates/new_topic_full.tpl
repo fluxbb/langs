@@ -1,6 +1,6 @@
-Subject: Nouvelle discussion dans le forum : <forum_name>
+Subject: Nouvelle discussion dans le forum « <forum_name> »
 
-<poster> a lancé une nouvelle discussion <topic_subject> dans le forum <forum_name> que vous suivez.
+<poster> a lancé une nouvelle discussion intitulée « <topic_subject> » dans le forum « <forum_name> » que vous suivez.
 
 Contenu du message :
 =======================================================================

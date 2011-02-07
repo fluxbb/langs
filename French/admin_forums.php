@@ -40,6 +40,7 @@ $lang_admin_forums = array(
 'Sort by label'			=>	'Trier les discussions par',
 'Last post'			=>	'Dernier message',
 'Topic start'			=>	'Début du sujet',
+'Subject'					=>	'Sujet',
 'Redirect label'		=>	'URL de redirection',
 'Redirect help'			=>	'Uniquement disponible pour les forums vides',
 'Group permissions subhead'	=>	'Modifier les permissions des groupes pour ce forum',

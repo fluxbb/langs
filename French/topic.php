@@ -26,6 +26,7 @@ $lang_topic = array(
 'Quick post'		=>	'Réponse rapide',
 'Mod controls'		=>	'Modération',
 'New icon'		=>	'Nouveau message',
-'Re'			=>	'Re&#160;:'
+'Re'			=>	'Re&#160;:',
+'Preview'		=>	'Aperçu'
 
 );
