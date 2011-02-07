@@ -38,6 +38,18 @@ $lang_search = array(
 
 // Risultati
 'Search results'			=>	'Risultati',
+'Search topics'             =>  'Cerca discussioni',
+'Search posts'              =>  'Cerca messaggi',
+'Quick search show_new'     =>  'Nuovo',	
+'Quick search show_recent'  =>  'Recente',
+'Quick search show_unanswered'      =>  'Orfano',
+'Quick search show_replies' =>  'Tuo',
+'Quick search show_user_topics'     =>  'Di %s',
+'Quick search show_user_posts'      =>  'Di %s',
+'Quick search show_subscriptions'   =>  'Inscritti da %s',
+'By keywords'               =>  'Con la keywords \'%s\'',
+'By user'                   =>  'Con messaggi di %s',
+'By both'                   =>  'Con la parola \'%s\' nei messagggi di %s',
 'No terms'					=>	'Inserire almeno una parola o un nome utente.',
 'No hits'					=>	'La ricerca non ha prodotto risultati.',
 'No user posts'				=>	'Non sono presenti messaggi dell\'utente indicato.',

@@ -21,5 +21,6 @@ $lang_admin_maintenance = array(
 'Processing post'				=>	'Elaborazione messaggio <strong>%s</strong> in corso …',
 'Click here'					=>	'Cliccare qui',
 'Javascript redirect failed'	=>	'Aggiornamento pagina via JavaScript non riuscito. %s per continuare …',
+'Must be integer message'       =>  'Il numero di discussioni per ogni ricaricamento deve essere un numero positivo intero.',
 
 );

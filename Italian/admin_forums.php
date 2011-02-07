@@ -42,6 +42,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'Ordina per',
 'Last post'					=>	'Ultimo messaggio',
 'Topic start'				=>	'Invio discussioni',
+'Subject'                   =>  'Oggetto',
 'Redirect label'			=>	'Reindirizza URL',
 'Redirect help'				=>	'Disponibile solo nei forum vuoti',
 'Group permissions subhead'	=>	'Modifica i permessi per questo forum',

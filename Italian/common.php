@@ -71,6 +71,7 @@ $lang_common = array(
 'Write message legend'				=>	'Scrivere il messaggio e inviare',
 'Previous'							=>	'Indietro',
 'Next'								=>	'Avanti',
+'Forum index'                       =>  'Indice forum',
 'Spacer'							=>	'&hellip;', // Puntini per la paginazione
 
 // Titolo
@@ -103,12 +104,15 @@ $lang_common = array(
 'Logged in as'						=>	'Ciao', // Connesso come:
 'Admin'								=>	'Amministrazione',
 'Last visit'						=>	'Ultima visita: %s',
-'New posts'							=>	'Nuovi messaggi',
-'Active topics'          			=>  'Discussioni attive',
-'Unanswered topics'   		        =>  'Discussioni senza risposta',
+'Topic searches'                    =>  'Discussioni:',
+'New posts header'                  =>  'Nuove',
+'Active topics'                     =>  'Attive',
+'Unanswered topics'                 =>  'Orfane',	
+'Posted topics'                     =>  'Pubblicate',
 'Show new posts'     			    =>  'Mostra discussioni con nuovi messaggi dalla tua ultima visita.',
 'Show active topics'     		    =>  'Mostra discussioni con messaggi recenti.',
 'Show unanswered topics'      		=>  'Mostra discussioni senza risposta.',
+'Show posted topics'                =>  'Mostra discussioni con tue risposte.',
 'Mark all as read'					=>	'Marca discussioni come lette',
 'Mark forum read'					=>	'Marca questo forum come letto',
 'Title separator'					=>	' / ',
@@ -136,15 +140,15 @@ $lang_common = array(
 'Total query time'					=>	'Tempo totale di interrogazione: %s',
 
 // Notifiche relative alle email
-'New user notification'				=>	'Avviso - Nuova registrazione',
-'New user message'					=>	'L\'utente \'%s\' si &egrave; registrato al forum %s',
+'New user notification'				=>	'Avviso - Nuova registrazione!',
+'New user message'					=>	'Il nuovo utente \'%s\' fa ora parte di %s',
 'Banned email notification'			=>	'Avviso - Individuata email interdetta',
-'Banned email register message'		=>	'L\'utente \'%s\' si &egrave; con l\'indirizzo inderdetto: %s',
+'Banned email register message'		=>	'L\'utente \'%s\' ha utilizzato l\'indirizzo inderdetto: %s',
 'Banned email change message'		=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo nell\'indirizzo interdetto: %s',
 'Banned email post message'			=>	'L\'utente \'%s\' ha scritto utilizzando l\'indirizzo interdetto: %s',
 'Duplicate email notification'		=>	'Avviso - Individuata email duplicata',
-'Duplicate email register message'	=>	'L\'utente \'%s\' si &egrave; registrato con un indirizzo gi&agrave; in uso da: %s',
-'Duplicate email change message'	=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo con un indirizzo gi&agrave; in uso da: %s',
+'Duplicate email register message'	=>	'L\'utente \'%s\' si è registrato con un indirizzo utilizzato anche da: %s',
+'Duplicate email change message'	=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo con un indirizzo utilizzato anche da: %s',
 'Report notification'				=>	'Segnalazione(%d) - \'%s\'',
 'Report message 1'					=>	'L\'utente \'%s\' ha segnalato il seguente messaggio: %s',
 'Report message 2'					=>	'Motivo: %s',
