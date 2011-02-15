@@ -10,11 +10,11 @@ $lang_admin_reports = array(
 'Report subhead'			=>	'تقارير %s',
 'Reported by'				=>	'مرسلة بواسطة %s',
 'Reason'					=>	'السبب',
-'Zap'						=>	'تسوية',
+'Zap'						=>	'اجعلها مقروءة',
 'No new reports'			=>	'لا يوجد أي تقرير.',
-'Last 10 head'				=>	'آخر 10 تقارير تم تسويتها',
+'Last 10 head'				=>	'آخر 10 تقارير تم قراءتها',
 'NA'						=>	'N/A',
-'Zapped subhead'			=>	'تم تسويتها في %s بواسطة %s',
-'No zapped reports'			=>	'لا يوجد تقارير تم تسويتها.',
+'Zapped subhead'			=>	'تم قراءتها في %s بواسطة %s',
+'No zapped reports'			=>	'لا يوجد تقارير تم قراءتها.',
 
 );

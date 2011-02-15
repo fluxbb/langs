@@ -143,6 +143,13 @@ $lang_admin_options = array(
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
 
+// Feeds section
+'Feed subhead'						=>	'الوحدة',
+'Feed TTL label'					=>	'فترة بقاء الخبيئة للتدفق',
+'Feed TTL help'						=>	'التدفق يمكن وضعة في الخبيئة (الكاش) لتخفبف العبئ على الموارد.',
+'No cache'							=>	'لا تستعمل الخبيئة',
+'Minutes'							=>	'%d دقيقة',
+
 // Reports section
 'Reports subhead'					=>	'تقارير',
 'Reporting method label'			=>	'طريقة التقارير',

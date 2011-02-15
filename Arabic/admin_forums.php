@@ -40,6 +40,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'ترتيب المواضيع',
 'Last post'					=>	'آخر مداخلة',
 'Topic start'				=>	'بداية الموضوع',
+'Subject'					=>	'الموضوع',
 'Redirect label'			=>	'توجيه خارجي URL',
 'Redirect help'				=>	'فقط متاح للمنتديات الفارغة',
 'Group permissions subhead'	=>	'تعديل صلاحيات المجموعات للمنتدى',

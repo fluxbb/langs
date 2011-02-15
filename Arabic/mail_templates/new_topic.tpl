@@ -1,6 +1,6 @@
 Subject: موضوع جديد في المنتدى: <forum_name>
 
-قام <poster> بإضافة موضوع جديد <topic_subject> في المنتدى <forum_name>, الذي أنت مشترك فيه.
+قام <poster> بإضافة موضوع جديد '<topic_subject>' في المنتدى '<forum_name>', الذي أنت مشترك فيه.
 
 هذا الموضوع في <topic_url>
 

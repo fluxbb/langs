@@ -73,7 +73,7 @@ $lang_misc = array(
 'New subject'					=>	'موضوع جديد',
 
 // Split multiple posts in topic
-'Confirm split legend'			=>	'يرجى تأكيد فصل المداخلات المحددة.',
+'Confirm split legend'			=>	'يرجى تأكيد فصل المداخلات المحددة و تحديد الوجهة لعملية النقل.',
 'Split posts'					=>	'فصل مداخلات',
 'Split posts comply'			=>	'هل أنت متأكد من فصل المداخلات المحددة?',
 'Split posts redirect'			=>	'المداخلات تم فصلها. توجيه …',

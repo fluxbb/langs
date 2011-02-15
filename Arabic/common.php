@@ -69,6 +69,7 @@ $lang_common = array(
 'Write message legend'	=>	'اكتب رسالتك ثم أرسل',
 'Previous'							=>	'السابق',
 'Next'								=>	'التالي',
+'Forum index'						=>	'فهرس المنتدى',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -101,12 +102,16 @@ $lang_common = array(
 'Logged in as'			=>	'مسجل دخول كـ ',
 'Admin'					=>	'الإدارة',
 'Last visit'			=>	'آخر زيارة %s',
-'New posts'				=>	'مداخلات جديدة',
-'Active topics'			=>	'مواضيع نشطة',
-'Unanswered topics'		=>	'مواضيع بدون ردود',
+'Topic searches'					=>	'المواضيع:',
+'Post searches'						=>	'المداخلات:',
+'New posts header'							=>	'جديدة',
+'Active topics'						=>	'نشيطة',
+'Unanswered topics'					=>	'بدون رد',
+'Posted topics'						=>	'مدخلة',
 'Show new posts'		=>	'ابحث عن المواضيع و المداخلات الجديدة من آخر زيارة.',
 'Show active topics'	=>	'ابحث عن المواضيع التي تحوي مداخلات حديثة.',
 'Show unanswered topics'=>	'ابحث عن المواضيع التي لم يتم الرد عليها.',
+'Show posted topics'					=>	'بحث عن المواضيع التي ساهمت فيها.',
 'Mark all as read'		=>	'اعتبر كل المنتديات مقروءة',
 'Mark forum read'		=>	'اعتبر هذا المنتدى مقروء',
 'Title separator'		=>	' / ',
