@@ -4,7 +4,7 @@
 
 $lang_update = array(
 
-'Update'						=>	'Update FluxBB',
+'Update'						=>	'نوێکردنەوەی FluxBB',
 'Update message'				=>	'Your FluxBB database is out-of-date and must be upgraded in order to continue. If you are the board administrator, please follow the instructions below to complete the upgrade.',
 'Note'							=>	'Note:',
 'Members message'				=>	'This process is for board administators only. If you are a member there is nothing to worry about - the forums will be back shortly!',
