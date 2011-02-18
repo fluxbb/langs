@@ -8,6 +8,6 @@ $lang_ul = array(
 'User sort info'	=>	'Sort users by name, date registered or number of posts and in ascending/descending order.',
 'User group'		=>	'User group',
 'No of posts'		=>	'Number of posts',
-'All users'			=>	'All'
+'All users'			=>	'هەموو'
 
 );
