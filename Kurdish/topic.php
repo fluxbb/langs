@@ -3,8 +3,8 @@
 // Language definitions used in viewtopic.php
 $lang_topic = array(
 
-'Post reply'		=>	'Post reply',
-'Topic closed'		=>	'Topic closed',
+'Post reply'		=>	'وەڵامدانەوەی بابەت',
+'Topic closed'		=>	'بابەت داخراوە',
 'From'				=>	'From:', // User location
 'IP address logged'	=>	'IP address logged',
 'Note'				=>	'Note:', // Admin note
