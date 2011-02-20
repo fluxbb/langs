@@ -48,9 +48,9 @@ $lang_admin_bans = array(
 'Ban message label'			=>	'Ban message',
 'Ban message help'			=>	'A message that will be displayed to the banned user when he/she visits the board.',
 'Message expiry subhead'	=>	'Ban message and expiry',
-'Ban IP range info'			=>	'You should be very careful when banning an IP-range because of the possibility of multiple users matching the same partial IP.',
-'Expire date label'			=>	'Expire date',
-'Expire date help'			=>	'The date when this ban should be automatically removed (format: yyyy-mm-dd). Leave blank to remove manually.',
+'Ban IP range info'			=>	'زۆزۆر وریابە لە کاتی قەدەغەکردنی ئایپیدا کە هەموو کەس دەگرێتەوە کە لەهامن ئایپیەوە دێن',
+'Expire date label'			=>	'ڕێکەوتی بەسەرچوون',
+'Expire date help'			=>	'ئەو ڕێکەوتەی کە قەدەغەکردنی لەسەر لادەبرێت، بەم جۆرە فۆرماتەیە (format: yyyy-mm-dd). بەبەتاڵی جێبهێڵە بۆ دەستکاریکردنی بەئارەزوومەندانە.',
 
 'Results head'				=>	'ئەنجامی گەڕان',
 'Results username head'		=>	'ناویبەکارهێنەر',
