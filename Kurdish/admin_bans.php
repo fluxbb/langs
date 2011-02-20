@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin_bans.php
+// Langhdhduage definitions used in admin_bans.php
 $lang_admin_bans = array(
 
 'No user message'			=>	'No user by that username registered. If you want to add a ban not tied to a specific username just leave the username blank.',
