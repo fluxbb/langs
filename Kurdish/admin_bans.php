@@ -48,7 +48,7 @@ $lang_admin_bans = array(
 'Ban message label'			=>	'Ban message',
 'Ban message help'			=>	'A message that will be displayed to the banned user when he/she visits the board.',
 'Message expiry subhead'	=>	'Ban message and expiry',
-'Ban IP range info'			=>	'زۆزۆر وریابە لە کاتی قەدەغەکردنی ئایپیدا کە هەموو کەس دەگرێتەوە کە لەهامن ئایپیەوە دێن',
+'Ban IP range info'			=>	'زۆزۆر وریابە لە کاتی قەدەغەکردنی ئایپیدا کە هەموو کەس دەگرێتەوە کە لەهەمان ئایپیەوە دێن',
 'Expire date label'			=>	'ڕێکەوتی بەسەرچوون',
 'Expire date help'			=>	'ئەو ڕێکەوتەی کە قەدەغەکردنی لەسەر لادەبرێت، بەم جۆرە فۆرماتەیە (format: yyyy-mm-dd). بەبەتاڵی جێبهێڵە بۆ دەستکاریکردنی بەئارەزوومەندانە.',
 
