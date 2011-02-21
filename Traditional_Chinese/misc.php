@@ -34,7 +34,7 @@ $lang_misc = array(
 'Subscribe redirect'			=>	'訂閱已添加。正在跳轉 …',
 'Not subscribed topic'			=>	'您未訂閱該主題。',
 'Not subscribed forum'			=>	'您未訂閱該版塊。',
-'Unsubscribe redirect'			=>	'訂閱已去除。正在跳轉 …',
+'Unsubscribe redirect'			=>	'訂閱已退除。正在跳轉 …',
 
 // General forum and topic moderation
 'Moderate'						=>	'管理',
@@ -45,7 +45,7 @@ $lang_misc = array(
 'Merge'							=>	'合併',
 
 // Moderate forum
-'Open'							=>	'開啟',
+'Open'							=>	'開放',
 'Close'							=>	'關閉',
 'Move topic'					=>	'轉移該主題',
 'Move topics'					=>	'轉移主題',
@@ -59,8 +59,8 @@ $lang_misc = array(
 'Delete topics'					=>	'刪除主題',
 'Delete topics comply'			=>	'您確信要刪除所選主題？',
 'Delete topics redirect'		=>	'主題已刪除。正在跳轉 …',
-'Open topic redirect'			=>	'該主題已開啟。正在跳轉 …',
-'Open topics redirect'			=>	'主題已開啟。正在跳轉 …',
+'Open topic redirect'			=>	'該主題已開放。正在跳轉 …',
+'Open topics redirect'			=>	'主題已開放。正在跳轉 …',
 'Close topic redirect'			=>	'該主題已關閉。正在跳轉 …',
 'Close topics redirect'			=>	'主題已關閉。正在跳轉 …',
 'No topics selected'			=>	'您必須至少選擇一個主題以轉移/刪除/打開/關閉。',

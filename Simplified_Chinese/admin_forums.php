@@ -40,6 +40,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'帖子排序方式',
 'Last post'					=>	'最后发表',
 'Topic start'				=>	'主题起始',
+'Subject'					=>	'标题',
 'Redirect label'			=>	'转向 URL',
 'Redirect help'				=>	'仅对空版块有效',
 'Group permissions subhead'	=>	'编辑该论坛各用户组的权限',
