@@ -19,5 +19,6 @@ $lang_admin_maintenance = array(
 'Processing post'				=>	'正在处理帖子 <strong>%s</strong> …',
 'Click here'					=>	'点击这里',
 'Javascript redirect failed'	=>	'JavaScript重定向不成功。 %s 继续 …',
+'Must be integer message'		=>	'每个周期的帖子数必须定义为正整数。',
 
 );
