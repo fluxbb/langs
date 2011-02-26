@@ -4,10 +4,10 @@
 $lang_ul = array(
 
 'User find legend'	=>	'دۆزینەوە و جیاکردنەوەی بەکارهێنەران',
-'User search info'	=>	'Enter a username to search for and/or a user group to filter by. The username field can be left blank. Use the wildcard character * for partial matches.',
-'User sort info'	=>	'Sort users by name, date registered or number of posts and in ascending/descending order.',
-'User group'		=>	'گرووپی بەکارهێنەران',
-'No of posts'		=>	'Number of posts',
+'User search info'	=>	'ناوێکی بەکارهێنەر بنووسە بۆ گەڕان لەگەڵ/یان گروپێکی بەکارهێنەری فلتەرکراو بۆی',
+'User sort info'	=>	'بەکارهێنەران ڕێکبخە بەهۆی ناو ،بەرواری تۆماربوون ،ژمارەی پەیامەکان',
+'User group'		=>	'گروپی بەکارهێنەر',
+'No of posts'		=>	'ژمارەی پەیامەکان',
 'All users'			=>	'هەموو'
 
 );

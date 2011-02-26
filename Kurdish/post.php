@@ -4,36 +4,36 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'		=>	'Topics must contain a subject.',
-'No subject after censoring'	=>	'Topics must contain a subject. After applying censoring filters, your subject was empty.',
-'Too long subject'	=>	'Subjects cannot be longer than 70 characters.',
-'No message'		=>	'You must enter a message.',
-'No message after censoring'	=>	'You must enter a message. After applying censoring filters, your message was empty.',
-'Too long message'	=>	'Posts cannot be longer that %s bytes.',
-'All caps subject'	=>	'Subjects cannot contain only capital letters.',
-'All caps message'	=>	'Posts cannot contain only capital letters.',
-'Empty after strip'	=>	'It seems your post consisted of empty BBCodes only. It is possible that this happened because e.g. the innermost quote was discarded because of the maximum quote depth level.',
+'No subject'		=>	'بابەتەکان پێویستە سەردێڕێک لەخۆبگرن',
+'No subject after censoring'	=>	'بابەتەکان پێویستە سەردێڕێک لەخۆبگرن ،لەدوای فلتەرکردنی سانسۆز ،دەرکەوت سەردێڕەکەت بەتاڵە',
+'Too long subject'	=>	'سەردێڕەکان ناتوانرێن لە ٧٠ تیپ درێژتربن',
+'No message'		=>	'پێویستە پەیامێک بنووسیت',
+'No message after censoring'	=>	'پێویستە پەیامێک بنووسیت ،لەدوای جێبەجێکردنی فلتەری سانسۆرکردن دەرکەوت پەیامەکەت بەتاڵە',
+'Too long message'	=>	'درێژتربن %s پەیامەکان ناتوانرێن لە',
+'All caps subject'	=>	'سەردێڕەکان ناتوانرێن تەنها پیتە گەورەکان لەخۆبگرن',
+'All caps message'	=>	'پەیامەکان ناتوانرێن تەنها پیتە گەورەکان لەخۆبگرن',
+'Empty after strip'	=>	'وادیارە پەیامەکەت بەتاڵە لە کۆدەکانی بیبی ،ئەوە ڕوودەدات',
 
 // Posting
-'Post errors'		=>	'Post errors',
-'Post errors info'	=>	'The following errors need to be corrected before the message can be posted:',
-'Post preview'		=>	'Post preview',
-'Guest name'		=>	'Name', // For guests (instead of Username)
-'Post redirect'		=>	'Post entered. Redirecting …',
-'Post a reply'		=>	'Post a reply',
-'Post new topic'	=>	'Post new topic',
-'Hide smilies'		=>	'Never show smilies as icons for this post',
-'Subscribe'			=>	'Subscribe to this topic',
-'Stay subscribed'	=>	'Stay subscribed to this topic',
-'Topic review'		=>	'Topic review (newest first)',
-'Flood start'		=>	'At least',
-'flood end'			=>	'seconds have to pass between posts. Please wait a little while and try posting again.',
-'Preview'			=>	'Preview', // submit button to preview message
+'Post errors'		=>	'هەڵەکانی پەیام',
+'Post errors info'	=>	':ئەو هەڵانە پێویستە ڕاستبکرنەوە پێش ناردنی پەیامەکە',
+'Post preview'		=>	'پێشبینی پەیام',
+'Guest name'		=>	'ناو', // For guests (instead of Username)
+'Post redirect'		=>	'..پەیام نووسرا ،گەڕاندنەوە',
+'Post a reply'		=>	'وەڵامێک بنێرە',
+'Post new topic'	=>	'بابەتی نوێ بنێرە',
+'Hide smilies'		=>	'هەرگیز خەندەکان بۆ ئەو پەیامە نیشانمەدە',
+'Subscribe'			=>	'بەشداریبکە بۆ ئەو بابەتە',
+'Stay subscribed'	=>	'بە بەشداریکراوی بمێنەوە بۆ ئەو بابەتە',
+'Topic review'		=>	'پێدواچوونەوەی بابەت',
+'Flood start'		=>	'بەلایەنی کەم',
+'flood end'			=>	'چرکە تێپەڕببێت لەنێوان پەیامەکان ،تکایە کەمێک چاوەڕوانبە و دووبارە هەوڵبدەوە',
+'Preview'			=>	'پێشبینین', // submit button to preview message
 
 // Edit post
-'Edit post legend'	=>	'Edit the post and submit changes',
-'Silent edit'		=>	'Silent edit (don\'t display "Edited by ..." in topic view)',
-'Edit post'			=>	'Edit post',
-'Edit redirect'		=>	'Post updated. Redirecting …'
+'Edit post legend'	=>	'پەیامەکە دەستکاری بکە و گۆڕانکارییەکان بنێرە',
+'Silent edit'		=>	'دەستکاریکردنی بێدەنگ ،دەستکاریکراوە لەلایەن نیشان نادات لە بینینی بابەت',
+'Edit post'			=>	'دەستکاری پەیام',
+'Edit redirect'		=>	'..پەیام نوێکرایەوە ،گەڕاندنەوە'
 
 );

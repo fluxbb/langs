@@ -3,18 +3,18 @@
 // Language definitions used in index.php
 $lang_index = array(
 
-'Topics'		=>	'Topics',
-'Link to'		=>	'Link to:', // As in "Link to: http://fluxbb.org/"
-'Empty board'	=>	'Board is empty.',
-'Newest user'	=>	'Newest registered user: %s',
-'Users online'	=>	'Registered users online: %s',
-'Guests online'	=>	'Guests online: %s',
-'No of users'	=>	'Total number of registered users: %s',
-'No of topics'	=>	'Total number of topics: %s',
-'No of posts'	=>	'Total number of posts: %s',
-'Online'		=>	'Online:', // As in "Online: User A, User B etc."
-'Board info'	=>	'Board information',
-'Board stats'	=>	'Board statistics',
-'User info'		=>	'User information'
+'Topics'		=>	'بابەتەکان',
+'Link to'		=>	':بەستەر بۆ', // As in "Link to: http://fluxbb.org/"
+'Empty board'	=>	'تەختە بەتاڵە',
+'Newest user'	=>	'%s :نوێترین ئەندامی تۆماربوو',
+'Users online'	=>	'%s :ئەندامە تۆماربووەکانی سەرهێڵ',
+'Guests online'	=>	'%s :میوانەکانی سەرهێڵ',
+'No of users'	=>	'%s :سەرجەم بەکارهێنەرە تۆماربووەکان',
+'No of topics'	=>	'%s :سەرجەم بابەتەکان',
+'No of posts'	=>	'%s :سەرجەم پەیامەکان',
+'Online'		=>	':لەسەرهێڵە', // As in "Online: User A, User B etc."
+'Board info'	=>	'زانیاری سەکۆ',
+'Board stats'	=>	'باری سەکۆ',
+'User info'		=>	'زانیاری بەکارهێنەر'
 
 );

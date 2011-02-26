@@ -4,23 +4,23 @@
 $lang_login = array(
 
 // Miscellaneous
-'Wrong user/pass'			=>	'Wrong username and/or password.',
-'Forgotten pass'			=>	'Forgotten your password?',
-'Login redirect'			=>	'Logged in successfully. Redirecting …',
-'Logout redirect'			=>	'Logged out. Redirecting …',
-'No email match'			=>	'There is no user registered with the email address',
-'Request pass'				=>	'Request password',
-'Request pass legend'		=>	'Enter the email address with which you registered',
-'Request pass info'			=>	'A new password together with a link to activate the new password will be sent to that address.',
-'Not registered'			=>	'Not registered yet?',
-'Login legend'				=>	'Enter your username and password below',
-'Remember me'				=>	'Log me in automatically each time I visit.',
-'Login info'				=>	'If you have not registered or have forgotten your password click on the appropriate link below.',
-'New password errors'		=>	'Password request error',
-'New passworderrors info'	=>	'The following error needs to be corrected before a new password can be sent:',
+'Wrong user/pass'			=>	'تێپەڕەووشەی هەڵە لەگەڵ/یان ناوی بەکارهێنەری هەڵە',
+'Forgotten pass'			=>	'تێپەڕەووشەت لەبیرکردووە؟',
+'Login redirect'			=>	'...بەسەرکەوتوویی هاتیتە ژوورەوە ،گەڕاندنەوە',
+'Logout redirect'			=>	'...چوویتە دەرەوە ،گەڕاندنەوە',
+'No email match'			=>	'هیچ بەکارهێنەرێک تۆمارنەبووە بەو پۆستی ئەلیکترۆنییە',
+'Request pass'				=>	'داواکردنی تێپەڕەووشە',
+'Request pass legend'		=>	'ئەو پۆستی ئەلیکترۆنییە بنووسە کە تۆماربوویت پێی',
+'Request pass info'			=>	'تێپەڕەووشەیەکی نوێ پێکەوە لەگەڵ بەستەرێک بۆ چالاککردنی تێپەڕەووشەکەت بۆ ئەو ناونیشانە دەنێردرێت',
+'Not registered'			=>	'هێشتا تۆمارنەبوویت؟',
+'Login legend'				=>	'تێپەڕەووشە و ناوی بەکارهێنەر بنووسە',
+'Remember me'				=>	'خۆکارانە بمهێنە ژوورەوە بۆ هەر سەردانێک',
+'Login info'				=>	'ئەگەر تۆمارنەبوویت یان تێپەڕەووشەت لەبیرکردووە کرتە لەسەر بەستەری تەرخانکراو بکە',
+'New password errors'		=>	'هەڵەی داواکردنی تێپەڕەووشە',
+'New passworderrors info'	=>	':ئەو هەڵانە پێویستیان بەوەیە ڕاستبکرێنەوە پێش ناردنی تێپەڕەووشەی نوێ',
 
 // Forget password mail stuff
-'Forget mail'				=>	'An email has been sent to the specified address with instructions on how to change your password. If it does not arrive you can contact the forum administrator at',
-'Email flood'				=>	'This account has already requested a password reset in the past hour. Please wait a while before requesting a new password again.'
+'Forget mail'				=>	':ئیمەیڵێک نێردرا بۆ ناونیشانی دراوە لەگەڵ ڕێنمایی چۆنیەتی دانانەوەی تێپەڕەووشەکەت ،ئەگەر نەگەیشت تکایە پەیوەندی بکە بە بەڕێوەبەرایەتی لە',
+'Email flood'				=>	'ئەو هەژمارە پێشتر داوای دانانەوەی تێپەڕەووشەی کردووە لە کاتژمێری پێشوو ،تکایە ماوەیەک ڕاوەستە'
 
 );

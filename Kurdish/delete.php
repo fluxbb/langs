@@ -3,14 +3,14 @@
 // Language definitions used in delete.php
 $lang_delete = array(
 
-'Delete post'			=>	'Delete post',
-'Warning'				=>	'You are about to permanently delete this post.',
-'Topic warning'			=>	'Warning! This is the first post in the topic, the whole topic will be permanently deleted.',
-'Delete info'			=>	'The post you have chosen to delete is set out below for you to review before proceeding.',
-'Reply by'				=>	'Reply by %s - %s',
-'Topic by'				=>	'Topic started by %s - %s',
-'Delete'				=>	'Delete', // The submit button
-'Post del redirect'		=>	'Post deleted. Redirecting …',
-'Topic del redirect'	=>	'Topic deleted. Redirecting …'
+'Delete post'			=>	'پەیام بسڕەوە',
+'Warning'				=>	'تۆ خەریکیت ئەم پەیامە بەیەکجاری دەسڕیتەوە',
+'Topic warning'			=>	'ووریابە! ئەمە یەکەم پەیامە لە بابەتەکە ،گشت بابەتەکە بەیەکجاری دەسڕدرێتەوە',
+'Delete info'			=>	'ئەو پەیامەی هەڵتبژاردووە بۆ سڕینەوە وا دەنەنراوە بۆ پێداچوونەوەی پێش کردارەکە',
+'Reply by'				=>	'%s - %s وەڵام بەهۆی',
+'Topic by'				=>	'%s - %s بابەت دەستپێکراوە لەلایەن',
+'Delete'				=>	'سڕینەوە', // The submit button
+'Post del redirect'		=>	'...پەیام سڕایەوە ،گەڕانەوە',
+'Topic del redirect'	=>	'...بابەت سڕایەوە ،گەڕانەوە'
 
 );

@@ -3,30 +3,30 @@
 // Language definitions used in viewtopic.php
 $lang_topic = array(
 
-'Post reply'		=>	'وەڵامدانەوەی بابەت',
+'Post reply'		=>	'وەڵام بنێرە',
 'Topic closed'		=>	'بابەت داخراوە',
-'From'				=>	'From:', // User location
+'From'				=>	':لە', // User location
 'IP address logged'	=>	'IP address logged',
-'Note'				=>	'Note:', // Admin note
-'Posts'				=>	'Posts:',
-'Registered'		=>	'Registered:',
-'Replies'			=>	'Replies:',
-'Website'			=>	'Website',
-'Guest'				=>	'Guest',
-'Online'			=>	'Online',
-'Offline'			=>	'Offline',
-'Last edit'			=>	'Last edited by',
-'Report'			=>	'Report',
-'Delete'			=>	'Delete',
-'Edit'				=>	'Edit',
-'Quote'				=>	'Quote',
-'Is subscribed'		=>	'You are currently subscribed to this topic',
-'Unsubscribe'		=>	'Unsubscribe',
-'Subscribe'			=>	'Subscribe to this topic',
-'Quick post'		=>	'Quick post',
-'Mod controls'		=>	'Moderator controls',
-'New icon'			=>	'New post',
+'Note'				=>	':تێبینی', // Admin note
+'Posts'				=>	':پەیامەکان',
+'Registered'		=>	':تۆماربوو',
+'Replies'			=>	':وەڵامەکان',
+'Website'			=>	'ماڵپەر',
+'Guest'				=>	'میوان',
+'Online'			=>	'سەرهێڵ',
+'Offline'			=>	'دەرهێڵ',
+'Last edit'			=>	'دوایین دەستکاری لەلایەن',
+'Report'			=>	'ڕاپۆرت',
+'Delete'			=>	'سڕینەوە',
+'Edit'				=>	'دەستکاری',
+'Quote'				=>	'ئاماژە',
+'Is subscribed'		=>	'تۆ پێشتر بەشدارکراویت لەم بابەتە',
+'Unsubscribe'		=>	'بەشدارینەکردن',
+'Subscribe'			=>	'بەشداریبکە بۆ ئەم بابەتە',
+'Quick post'		=>	'پەیامی خێرا',
+'Mod controls'		=>	'کۆنترۆڵ پانێڵی چاودێر',
+'New icon'			=>	'پەیامی نوێ',
 'Re'				=>	'Re:',
-'Preview'			=>	'Preview'
+'Preview'			=>	'پێشبینین'
 
 );
