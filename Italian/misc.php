@@ -75,7 +75,7 @@ $lang_misc = array(
 'New subject'					=>	'Nuovo oggetto',
 
 // Dividere discussioni
-'Confirm split legend'			=>	'Confermare la divisione delle discussioni slezionate e seleziona la destinazione.',
+'Confirm split legend'			=>	'Confermare la divisione delle discussioni slezionate e scegliere la destinazione.',
 'Split posts'					=>	'Dividi discussioni',
 'Split posts comply'			=>	'Sei sicuro di voler dividere le discusioni selezionate?',
 'Split posts redirect'			=>	'Discussioni divise. Reindirizzamento &hellip;',

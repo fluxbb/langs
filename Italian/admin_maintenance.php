@@ -21,7 +21,7 @@ $lang_admin_maintenance = array(
 'Processing post'				=>	'Elaborazione messaggio <strong>%s</strong> in corso …',
 'Click here'					=>	'Cliccare qui',
 'Javascript redirect failed'	=>	'Aggiornamento pagina via JavaScript non riuscito. %s per continuare …',
-'MPosts must be integer message'=>  'Il numero di discussioni per ogni ricaricamento deve essere un numero positivo intero.',
+'Posts must be integer message' =>  'Il numero di discussioni per ogni ricaricamento deve essere un numero positivo intero.',
 
 'Days must be integer message'  =>  'Il giorno indicato deve essere un numero positivo intero.',
 'No old topics message'		    =>	'Non sono presenti discussioni vecchie di %s giorni. Diminuisci il valore "Giorni" e riprova.',
