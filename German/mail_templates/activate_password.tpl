@@ -9,6 +9,6 @@ Dein neues Passwort ist: <new_password>
 Klicke diesen Link, um das neue Passwort zu aktivieren:
 <activation_url>
 
--- 
+--
 <board_mailer>
 (Antworte nicht auf diese Nachricht)

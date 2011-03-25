@@ -3,8 +3,7 @@
 // Sprachdefinitionen, die in admin_censoring.php verwendet werden
 $lang_admin_censoring = array(
 
-'Must enter both message'	=>	'Du musst sowohl ein Wort, welches zensiert werden soll, als auch einen Text, durch den das zensierte Wort ersetzt wird, eingeben.',
-'Must search both message'	=>	'Du musst sowohl den Text, der gesucht werden soll, als auch den Text, durch den der gesuchte Text ersetzt werden soll, eingeben.',
+'Must enter word message'	=>	'Du musst ein Wort eingeben, welches zensiert werden soll.',
 'Word updated redirect'		=>	'Zensierte Wörter aktualisiert. Leite weiter …',
 'Word added redirect'		=>	'Zensierte Wörter hinzugefügt. Leite weiter …',
 'Word removed redirect'		=>	'Zensierte Wörter entfernt. Leite weiter …',

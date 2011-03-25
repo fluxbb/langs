@@ -22,15 +22,15 @@ $lang_common = array(
 // Verschiedenes
 'Announcement'						=>	'Ankündigung',
 'Options'							=>	'Beitragsoptionen',
-'Submit'							=>	'Absenden',	// Beschriftung des Submit-Buttons
-'Ban message'						=>	'Du wurdest in diesem Forum gebannt.',
-'Ban message 2'						=>	'Der Bann endet am',
-'Ban message 3'						=>	'Der Administrator oder Moderator, der dich gebannt hat, hat folgende Nachricht hinterlassen:',
+'Submit'							=>	'Absenden', // Beschriftung des Submit-Buttons
+'Ban message'						=>	'Du wurdest in diesem Forum gesperrt.',
+'Ban message 2'						=>	'Die Sperre endet am',
+'Ban message 3'						=>	'Der Administrator oder Moderator, der dich gesperrt hat, hat folgende Nachricht hinterlassen:',
 'Ban message 4'						=>	'Bei Fragen kontaktiere bitte den Foren-Administrator unter',
 'Never'								=>	'Niemals',
 'Today'								=>	'Heute',
 'Yesterday'							=>	'Gestern',
-'Info'								=>	'Info',	// Die allgemeine Tabellenkopfzeile
+'Info'								=>	'Info', // Die allgemeine Tabellenkopfzeile
 'Go back'							=>	'Zurück',
 'Maintenance'						=>	'Wartung',
 'Redirecting'						=>	'Weiterleitung',
@@ -41,10 +41,10 @@ $lang_common = array(
 'Required'							=>	'(Pflichtfeld)',
 'required field'					=>	'ist in diesem Formular ein Pflichtfeld.', // für die Formularprüfung via Javascript
 'Last post'							=>	'Letzter Beitrag',
-'by'								=>	'von',	// erscheint z.Bsp. in "Letzter Beitrag von" (irgend einem Mitglied)
+'by'								=>	'von', // erscheint z.Bsp. in "Letzter Beitrag von" (irgend einem Mitglied)
 'New posts'							=>	'Neue Beiträge', // der Link, der zum neuen Thema/Beitrag führt
 'New posts info'					=>	'Zum ersten neuen Beitrag dieses Themas gehen.', // der Popup-Text für die Links neuer Beiträge
-'Username'							=>	'Benutzername',
+'Username'							=>	'Mitgliedsname',
 'Password'							=>	'Passwort',
 'Email'								=>	'E-Mail',
 'Send email'						=>	'E-Mail senden',
@@ -62,21 +62,22 @@ $lang_common = array(
 'img tag'							=>	'[img] Tag:',
 'Smilies'							=>	'Smilies:',
 'and'								=>	'und',
-'Image link'						=>	'Bild',	// Dieses Bild wird angezeigt, wenn im Profil die Option "Bilder anzeigen" deaktiviert ist
+'Image link'						=>	'Bild', // Dieses Bild wird angezeigt, wenn im Profil die Option "Bilder anzeigen" deaktiviert ist
 'wrote'								=>	'schrieb:', // für Zitate (quote)
 'Mailer'							=>	'Mailer', // Die Signatur der ausgehenden Emails des "MyForum-Mailers"
 'Important information'				=>	'Wichtige Information',
 'Write message legend'				=>	'Schreibe deinen Beitrag und versende ihn',
 'Previous'							=>	'Vorherige',
 'Next'								=>	'Nächste',
+'Forum index'						=>	'Foren-Übersicht',
 'Spacer'							=>	'…', // Ellipse für den Seitentrenner
 
 // Titel
 'Title'								=>	'Titel',
-'Member'							=>	'Mitglied',	// Voreingestellter Titel
+'Member'							=>	'Mitglied', // Voreingestellter Titel
 'Moderator'							=>	'Moderator',
 'Administrator'						=>	'Administrator',
-'Banned'							=>	'Gebannt',
+'Banned'							=>	'Gesperrt',
 'Guest'								=>	'Gast',
 
 // Sprachstrings für include/parser.php
@@ -89,7 +90,7 @@ $lang_common = array(
 'BBCode list size error'			=>	'Deine Liste ist für eine Verarbeitung zu lang, bitte kürze die Liste!',
 
 // Links, die sich in der Navigation befinden (oben auf jeder Seite)
-'Index'								=>	'Index',
+'Index'								=>	'Übersicht',
 'User list'							=>	'Mitglieder',
 'Rules'								=>	'Nutzungsbedingungen',
 'Search'							=>	'Suche',
@@ -101,11 +102,15 @@ $lang_common = array(
 'Logged in as'						=>	'Angemeldet als:',
 'Admin'								=>	'Administration',
 'Last visit'						=>	'Dein letzter Besuch: %s',
-'Active topics'						=>	'Aktuelle Themen',
-'Unanswered topics'					=>	'Unbeantwortete Themen',
-'Show new posts'					=>	'Alle Beiträge seit dem letzten Besuch anzeigen',
-'Show active topics'				=>	'Aktuelle Themen anzeigen',
+'Topic searches'					=>	'Themen:',
+'New posts header'					=>	'Neu',
+'Active topics'						=>	'Aktiv',
+'Unanswered topics'					=>	'Unbeantwortet',
+'Posted topics'						=>	'Beantwortet',
+'Show new posts'					=>	'Alle Themen mit neuen Beiträge seit deinem letzten Besuch anzeigen',
+'Show active topics'				=>	'Themen mit aktuellen Beiträgen anzeigen',
 'Show unanswered topics'			=>	'Unbeantwortete Themen anzeigen',
+'Show posted topics'				=>	'Themen anzeigen, auf die du geantwortet hast',
 'Mark all as read'					=>	'Alle Themen als gelesen markieren',
 'Mark forum read'					=>	'Dieses Forum als gelesen markieren',
 'Title separator'					=>	' / ',
@@ -121,7 +126,7 @@ $lang_common = array(
 'Unstick topic'						=>	'Themenfixierung lösen',
 'Stick topic'						=>	'Thema fixieren',
 'Moderate forum'					=>	'Forum moderieren',
-'Powered by'						=>	'Powered by %s', //Denglisch
+'Powered by'						=>	'Powered by %s', // Denglisch
 
 // Informationen zur Fehlersuche
 'Debug table'						=>	'Debug-Informationen',
@@ -135,10 +140,10 @@ $lang_common = array(
 // E-Mail-bezogene Benachrichtigungen
 'New user notification'				=>	'Achtung - neue Registrierung',
 'New user message'					=>	'Das Mitglied \'%s\' wurde in den Foren als %s registriert',
-'Banned email notification'			=>	'Achtung - Gebannte E-Mail-Adresse erkannt',
-'Banned email register message'		=>	'Das Mitglied \'%s\' hat sich mit einer gebannten E-Mail-Adresse registriert: %s',
-'Banned email change message'		=>	'Das Mitglied \'%s\' hat seine E-Mail-Adresse auf eine gebannte E-Mail-Adresse geändert: %s',
-'Banned email post message'			=>	'Das Mitglied \'%s\' hat mit einer gebannten E-Mail-Adresse geantwortet: %s',
+'Banned email notification'			=>	'Achtung - Gesperrte E-Mail-Adresse erkannt',
+'Banned email register message'		=>	'Das Mitglied \'%s\' hat sich mit einer gesperrten E-Mail-Adresse registriert: %s',
+'Banned email change message'		=>	'Das Mitglied \'%s\' hat seine E-Mail-Adresse auf eine gesperrte E-Mail-Adresse geändert: %s',
+'Banned email post message'			=>	'Das Mitglied \'%s\' hat mit einer gesperrten E-Mail-Adresse geantwortet: %s',
 'Duplicate email notification'		=>	'Achtung - E-Mail-Duplikat erkannt',
 'Duplicate email register message'	=>	'Das Mitglied \'%s\' hat sich mit einer E-Mail-Adresse registriert, die auch folgendem Mitglied zugeordnet ist: %s',
 'Duplicate email change message'	=>	'Das Mitglied \'%s\' hat seine E-Mail-Adresse auf eine E-Mail-Adresse geändert, die auch folgendem Mitglied zugeordnet ist: %s',
@@ -148,7 +153,7 @@ $lang_common = array(
 
 'User profile'						=>	'Mitgliedsprofil: %s',
 'Post URL'							=>	'Antwort-URL: %s',
-'Email signature'					=>	'Forums-Mailer'."\n".'(Antworte nicht auf diese Nachricht)',
+'Email signature'					=>	'Foren-Mailer'."\n".'(Antworte nicht auf diese Nachricht)',
 
 // Für den RSS-Feed der extern.php
 'RSS description'					=>	'Die aktuellsten Themen aus %s.',
@@ -156,8 +161,8 @@ $lang_common = array(
 'RSS reply'							=>	'Re: ', // Dem Betreff des Themas wird diese Zeichenkette vorangestellt (um eine Antwort zu kennzeichnen)
 'RSS active topics feed'			=>	'RSS - aktiver Themen-Feed',
 'Atom active topics feed'			=>	'Atom - aktiver Themen-Feed',
-'RSS forum feed'					=>	'RSS-Forums-Feed',
-'Atom forum feed'					=>	'Atom-Forums-Feed',
+'RSS forum feed'					=>	'RSS-Foren-Feed',
+'Atom forum feed'					=>	'Atom-Foren-Feed',
 'RSS topic feed'					=>	'RSS-Themen-Feed',
 'Atom topic feed'					=>	'Atom-Themen-Feed',
 

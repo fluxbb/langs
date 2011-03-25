@@ -1,11 +1,11 @@
-Subject: Benutzername wurde geändert
+Subject: Mitgliedsname wurde geändert
 
-Während eines Software-Upgrades unter <base_url> wurde festgestellt, dass Dein Benutzername eine zu große Ähnlichkeit zu einem anderen Benutzer aufweist. Dein Benutzername wurde daher geändert.
+Während eines Software-Aktualisierung des Forums auf <base_url> wurde festgestellt, dass dein Mitgliedsname eine zu große Ähnlichkeit zu einem anderen Mitglied aufweist. Dein Mitgliedsname wurde daher geändert.
 
-Alter Benutzername: <old_username>
-Neuer Benutzername: <new_username>
+Alter Mitgliedsname: <old_username>
+Neuer Mitgliedsname: <new_username>
 
-Wir bitten diese Unannehmlichkeit zu entschuldigen.
+Wir bitten, diese Unannehmlichkeit zu entschuldigen.
 
 --
 <board_mailer>

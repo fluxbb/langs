@@ -7,6 +7,6 @@ Du hast im Diskussionsforum <base_url> eine neue E-Mail-Adresse in deinem Profil
 Klicke diesen Link, um die neue E-Mail-Adresse zu aktivieren:
 <activation_url>
 
--- 
+--
 <board_mailer>
 (Antworte nicht auf diese Nachricht)

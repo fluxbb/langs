@@ -34,7 +34,7 @@ $lang_help = array(
 'Quotes info 2'			=>	'Wenn du nur allgemein zitieren möchtest, kannst du diesen Tag auch ohne Namen verwenden.',
 'Quote text'			=>	'Dies ist der Text, den du zitieren möchtest.',
 'produces quote box'	=>	'ergibt folgende Zitat-Box:',
-'quote note'			=>	'Hinweis: Wenn ein Benutzername die Zeichen [ oder ] enthält, musst du diesen mit doppelten Anführungsstrichen umschließen.',
+'quote note'			=>	'Hinweis: Wenn ein Mitgliedsname die Zeichen [ oder ] enthält, musst du diesen mit doppelten Anführungsstrichen umschließen.',
 
 'Code'					=>	'Code',
 'Code info'				=>	'Wenn du den Quellcode einer Programmiersprache anzeigen möchtest, kannst du den [code]-Tag verwenden. Der mit dem [code]-Tag umschlossene Text wird in einem Zeichensatz mit konstanter Zeichenbreite angezeigt, um die Lesbarkeit zu erhöhen. Weitere Tags werden nicht berücksichtigt.',

@@ -1,6 +1,6 @@
 <?php
 
-// Sprachdefinitionen, die in admin-options.php verwendet werden
+// Sprachdefinitionen, die in admin_options.php verwendet werden
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'Falscher HTTP_REFERER. Wenn Du diese Foren innerhalb Ihrer Verzeichnisstruktur oder auf eine andere Domain verschoben hast, musst Du die Basis-URL in der Datenbank manuell aktualisieren (schau in der Tabelle config nach o_base_url) und leere dann den Zwischenspeicher, indem Du alle im Verzeichnis /cache enthaltenen .php-Dateien löschst.',
@@ -88,12 +88,12 @@ $lang_admin_options = array(
 'Redirect time label'				=>	'Weiterleitungsdauer',
 'Redirect time help'				=>	'Anzahl der Sekunden, die vor einer Weiterleitung gewartet werden soll. Ist der Wert 0, wird keine Weiterleitungsseite angezeigt (nicht empfohlen).',
 
-// Anzeige-Sektion
+// Sektion Anzeige
 'Display subhead'					=>	'Anzeige',
 'Version number label'				=>	'Versionsnummer',
 'Version number help'				=>	'Zeigt die FluxBB-Versionsnummer in der Fußzeile an.',
 'Info in posts label'				=>	'Mitglieder-Informationen in Beiträgen',
-'Info in posts help'				=>	'Zeigt in der Themenansicht Informationen über den Autor des Beitrags unter dem Benutzernamen an. Die Einstellung hat Auswirkungen auf den Ort, das Registrierungsdatum, den Beitragszähler und die Kontakt-Links (Email und Webseite).',
+'Info in posts help'				=>	'Zeigt in der Themenansicht Informationen über den Autor des Beitrags unter dem Mitgliedsnamen an. Die Einstellung hat Auswirkungen auf den Ort, das Registrierungsdatum, den Beitragszähler und die Kontakt-Links (Email und Webseite).',
 'Post count label'					=>	'Mitglieder-Beitragszähler',
 'Post count help'					=>	'Zeigt die bisherige Anzahl der Beiträge eines Mitgliedes an (hat Auswirkungen auf die Themenansicht, das Profil und die Mitgliederliste).',
 'Smilies label'						=>	'Smilies in Beiträgen',
@@ -113,18 +113,18 @@ $lang_admin_options = array(
 'Quote depth label'					=>	'Maximale [quote] Tiefe',
 'Quote depth help'					=>	'Die maximale Anzahl an [quote]-Tags, die in anderen [quote]-Tags enthalten sein können. Tiefer verschachtelte Tags werden nicht mehr angezeigt.',
 
-// Features-Sektion
+// Sektion Features
 'Features subhead'					=>	'Funktionen',
 'Quick post label'					=>	'Schnellantwort',
 'Quick post help'					=>	'Wird dies aktiviert, zeigt FluxBB unterhalb des Themas einen Textbereich an, über den eine schnelle Antwort zu diesem Thema erstellt werden kann. Auf diesem Weg können die Mitglieder Ihre Antworten direkt in der Themen-Ansicht eingeben.',
 'Users online label'				=>	'Mitglieder online',
 'Users online help'					=>	'Zeigt auf der Übersichtsseite Informationen an, wie viele Gäste und Mitglieder sich aktuell im Forum aufhalten.',
 'Censor words label'				=>	'Wortzensur',
-'Censor words help'					=>	'Aktiviert die Zensur bestimmter Wörter im Forum. Weitere Informationen dazu finden Sie unter %s.',
+'Censor words help'					=>	'Aktiviere dies, um bestimmte Wörter im Forum zu zensieren. Weitere Informationen dazu finden Sie unter %s.',
 'Signatures label'					=>	'Signaturen',
 'Signatures help'					=>	'Erlaubt den Mitgliedern, ihren Beiträgen eine Signatur anzuhängen.',
-'User ranks label'						=>	'Benutzerränge',
-'User ranks help'					=>	'Aktivieren Sie dies, um Mitgliederränge zu verwenden. Weitere Informationen dazu finden Sie unter %s.',
+'User ranks label'					=>	'Mitgliederränge',
+'User ranks help'					=>	'Aktiviere dies, um Mitgliederränge zu verwenden. Weitere Informationen dazu finden Sie unter %s.',
 'User has posted label'				=>	'Mitglied hat einen Beitrag verfasst',
 'User has posted help'				=>	'Diese Funktion zeigt einen Punkt vor jedem Thema in der viewforum.php an, wenn das aktuell angemeldete Mitglied in diesem Thema irgendwann einen Beitrag verfasst hat. Deaktivieren Sie dies, falls Sie eine hohe Serverauslastung festgestellt haben.',
 'Topic views label'					=>	'Thema gelesen',
@@ -137,11 +137,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'Wird dies deaktiviert, wird nur ein Forum pro Durchlauf durchsucht. Wenn die Serverauslastung aufgrund der Suchvorgänge zu hoch ist, solltest Du dies deaktivieren.',
 'Menu items label'					=>	'Zusätzliche Menü-Einträge',
 'Menu items help'					=>	'Wenn Du in dieses Textfeld HTML-Hyperlinks eingibst, werden diese Einträge dem Navigations-Menü in der Kopfzeile jeder Seite hinzugefügt. Das Format für das Hinzufügen von neuen Links ist folgendes X = <a href="URL">LINK</a>. Dabei ist X die Position, an welcher der neue Link eingefügt werden soll (z.B. 0 zum Einfügen am Anfang des Menüs und 2 zum Einfügen nach der "Mitgliederliste"). Die einzelnen Einträge müssen durch einen Zeilenumbruch voneinander getrennt werden.',
+
+// Sektion Feeds
+'Feed subhead'						=>	'Syndication',
 'Default feed label'				=>	'Voreingestellter Feed-Typ',
 'Default feed help'					=>	'Wähle den anzuzeigenden Feed-Typ. Hinweis: Die Auswahl "Ohne Vorgabe" daktiviert nicht die Feeds, sondern versteckt sie nur.',
 'None'								=>	'Ohne Vorgabe',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'					=>	'Zeitdauer für die Zwischenspeicherung von Feeds',
+'Feed TTL help'						=>	'Damit die Nutzung von Feeds die Ressourcen deines Servers weniger belastet, können Feeds zwischengespeichert werden.',
+'No cache'							=>	'Nicht zwischenspeichern',
+'Minutes'							=>	'%d Minuten',
 
 // Sektion Meldungen
 'Reports subhead'					=>	'Meldungen',
@@ -153,7 +160,7 @@ $lang_admin_options = array(
 'Mailing list label'				=>	'Mailingliste',
 'Mailing list help'					=>	'Eine durch Kommata getrennte Liste von Empfängern. An diese Personen werden die eingehenden Foren-Meldungen versandt.',
 
-// Avatar-Sektion
+// Sektion Avatare
 'Avatars subhead'					=>	'Avatare',
 'Use avatars label'					=>	'Avatare verwenden',
 'Use avatars help'					=>	'Wird dies aktiviert, können Mitglieder einen eigenen Avatar hochladen, der dann unter dem Titel/Rang angezeigt wird.',
@@ -166,7 +173,7 @@ $lang_admin_options = array(
 'Max size label'					=>	'Maximale Größe',
 'Max size help'						=>	'Die maximal erlaubte Dateigröße des Avatars in Bytes (empfohlen 10240).',
 
-// Email-Sektion
+// Sektion Email
 'E-mail subhead'					=>	'Email',
 'Admin e-mail label'				=>	'Administratoren-Email',
 'Admin e-mail help'					=>	'Die Email-Adresse des Foren-Administrators.',
@@ -186,7 +193,7 @@ $lang_admin_options = array(
 'SMTP SSL label'					=>	'SMTP mit SSL verschlüsseln',
 'SMTP SSL help'						=>	'Verschlüsselt die Verbindung mit dem SMTP-Server mit SSL. Sollte nur dann verwendet werden, wenn Dein SMTP-Server es erfordert und Deine PHP-Version SSL unterstützt.',
 
-// Registrierungs-Sektion
+// Sektion Registrierungen
 'Registration subhead'				=>	'Registrierung',
 'Allow new label'					=>	'Neue Registrierungen erlauben',
 'Allow new help'					=>	'Legt fest, ob dieses Forum neue Registrierungen akzeptiert. Sollte nur unter besonderen Umständen deaktiviert werden.',
@@ -196,7 +203,7 @@ $lang_admin_options = array(
 'Report new help'					=>	'Wird dies aktiviert, benachrichtigt FluxBB die Mitglieder auf der Mailingliste (siehe unten), wenn sich neue Mitglieder in den Foren registrieren.',
 'Use rules label'					=>	'Nutzungsbedingungen',
 'Use rules help'					=>	'Wird dies aktiviert, müssen neue Mitglieder bei der Registrierung den Nutzungsbedingungen zustimmen (Text unten eingeben). Die Nutzungsbedingungen sind immer über einen Link in der Navigationsleiste im Kopf jeder Seite zu erreichen.',
-'Rules label'						=>	'Geben Sie hier die Nutzungsbedingungen ein',
+'Rules label'						=>	'Gib hier die Nutzungsbedingungen ein',
 'Rules help'						=>	'Hier kannst Du die Nutzungsbedingungen und sonstige Informationen eingeben, die sich jedes neue Mitglied durchlesen und akzeptieren muss. Um diese Option zu aktivieren, gib in dieses Feld Deine Nutzungsbedingungen ein - ohne Eintrag bleibt diese Option deaktiviert. Dieser Text wird nicht wie reguläre Beiträge verarbeitet und kann daher HTML enthalten.',
 'E-mail default label'				=>	'Standard-Email-Einstellungen',
 'E-mail default help'				=>	'Wähle die die Privatsphären-Einstellungen für neu registrierte Mitglieder.',
@@ -204,14 +211,14 @@ $lang_admin_options = array(
 'Hide allow form label'				=>	'Die Email-Adresse verbergen, aber die Kontaktaufnahme via Formular erlauben.',
 'Hide both label'					=>	'Die Email-Adresse verbergen und die Kontaktaufnahme via Formular verbieten.',
 
-// Ankündigungs-Sektion
+// Sektion Ankündigungen
 'Announcement subhead'				=>	'Ankündigungen',
 'Display announcement label'		=>	'Ankündigungen anzeigen',
-'Display announcement help'			=>	'Aktivieren Sie diese Option, um die unten angezeigte Nachricht in den Foren anzuzeigen.',
-'Announcement message label'		=>	'Ankündigungs-Nachricht',
+'Display announcement help'			=>	'Aktiviere diese Option, um die unten angezeigte Nachricht oberhalb der Foren anzuzeigen.',
+'Announcement message label'		=>	'Text der Ankündigung',
 'Announcement message help'			=>	'Dieser Text wird nicht wie reguläre Beiträge verarbeitet und kann daher HTML enthalten.',
 
-// Wartungs-Sektion
+// Sektion Wartung
 'Maintenance subhead'				=>	'Wartung',
 'Maintenance mode label'			=>	'Wartungs-Modus',
 'Maintenance mode help'				=>	'Wird diese Option aktiviert, können nur die Administratoren auf das Board zugreifen. Dieser Modus sollte verwendet werden, wenn zeitlich beschränkte Wartungsarbeiten am Board erforderlich sind. WARNUNG! Melde Dich NIEMALS ab, wenn sich das Board im Wartungs-Modus befindet. Du kannst Dich anschließend niemals wieder anmelden.',

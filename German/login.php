@@ -4,7 +4,7 @@
 $lang_login = array(
 
 // Verschiedenes
-'Wrong user/pass'			=>	'Der Benutzername und/oder das Passwort sind falsch.',
+'Wrong user/pass'			=>	'Der Mitgliedsname und/oder das Passwort sind falsch.',
 'Forgotten pass'			=>	'Hast du dein Passwort vergessen?',
 'Login redirect'			=>	'Anmeldung erfolgreich. Leite weiter …',
 'Logout redirect'			=>	'Abmeldung erfolgreich. Leite weiter …',
@@ -13,7 +13,7 @@ $lang_login = array(
 'Request pass legend'		=>	'Gib die E-Mail-Adresse ein, mit der du dich registriert hast',
 'Request pass info'			=>	'Das neue Passwort wird zusammen mit einem Link zur Aktivierung an diese E-Mail-Adresse geschickt.',
 'Not registered'			=>	'Noch nicht registriert?',
-'Login legend'				=>	'Gib deinen Benutzernamen und das Passwort ein',
+'Login legend'				=>	'Gib deinen Mitgliedsnamen und das Passwort ein',
 'Remember me'				=>	'Automatisch bei jedem Besuch anmelden.',
 'Login info'				=>	'Wenn du noch nicht registriert bist oder dein Passwort vergessen hast, klicke auf den entsprechenden Link unten.',
 'New password errors'		=>	'Fehler bei der Passwort-Abfrage',

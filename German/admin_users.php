@@ -1,11 +1,42 @@
 <?php
 
-// Sprachdefinitionen, die in admin-users.php verwendet werden
+// Sprachdefinitionen, die in admin_users.php verwendet werden
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Du hast einen nichtnumerischen Wert in eine Spalte für numerische Werte eingetragen.',
 'Invalid date time message'	=>	'Du hast einen ungültigen Wert für Datum und/oder Zeit eingegeben.',
 'Not verified'				=>	'Nicht geprüft',
+
+// Aktionen: Massenlöschungen/-sperrungen etc.
+'No users selected'			=>	'Keine Mitglieder ausgewählt.',
+'No move admins message'	=>	'Aus Sicherheitsgründen ist es nicht erlaubt, mehrere Administratoren auf einmal einer anderen Gruppe zuzuordnen. Administratoren können nur über deren Mitgliedsprofil einer anderen Gruppe zugeordnet werden.',
+'No delete admins message'	=>	'Administratoren können nicht gelöscht werden. Um Administratoren zu löschen, musst Du diese zunächst einer anderen Mitgliedergruppe zuordnen.',
+'No ban admins message'		=>	'Administratoren können nicht gesperrt werden. Um Administratoren zu sperren, musst du diese zunächst einer anderen Mitgliedergruppe zuordnen.',
+'No ban mods message'		=>	'Moderatoren können nicht gesperrt werden. Um Moderatoren zu sperren, musst Du diese zunächst einer anderen Mitgliedergruppe zuordnen.',
+'Move users'				=>	'Mitgliedergruppe ändern',
+'Move users subhead'		=>	'Wähle eine neue Mitgliedergruppe',
+'New group label'			=>	'Neue Gruppe',
+'New group help'			=>	'Wähle die Gruppe, der die ausgewählten Mitglieder zugeordnet werden sollen. Aus Sicherheitsgründen ist es nicht möglich, der Administratorgruppe mehrere Mitglieder auf einmal zuzuordnen.',
+'Invalid group message'		=>	'Ungültige Gruppen-ID.',
+'Users move redirect'		=>	'Mitgliedergruppe geändert. Leite weiter …',
+'Delete users'				=>	'Mitglieder löschen',
+'Confirm delete legend'		=>	'WICHTIG: Bitte lesen, bevor du Mitglieder löschst',
+'Confirm delete info'		=>	'Bitte bestätige, dass du diese Mitglieder wirklich löschen möchtest.',
+'Delete posts'				=>	'Alle durch diese Mitglieder erstellten Beiträge und Themen löschen.',
+'Delete warning'			=>	'Warnung! Die Löschung von Mitgliedern und/oder Beiträgen kann nicht rückgängig gemacht werden. Wenn Du dich dafür entscheidest, die Beiträge dieser Mitglieder nicht zu löschen, können die Beiträge später nur noch manuell gelöscht werden.',
+'Users delete redirect'		=>	'Mitglieder gelöscht. Leite weiter …',
+'Ban users'					=>	'Mitglieder sperren',
+'Message expiry subhead'	=>	'Sperrnachricht und Ablaufdatum',
+'Ban message label'			=>	'Sperrnachricht',
+'Ban message help'			=>	'Die Nachricht, die den gesperrten Mitgliedern angezeigt wird, wenn sie das Forum besuchen.',
+'Expire date label'			=>	'Ablaufdatum',
+'Expire date help'			=>	'Das Datum, an dem die Sperren automatisch entfernt werden (Format: yyyy-mm-dd). Lass das Feld leer, wenn du die Sperre manuell entfernen möchtest.',
+'Ban IP label'				=>	'IP-Adressen sperren',
+'Ban IP help'				=>	'Auch die IP-Adresse der gesperrten Mitglieder sperren, um ihnen eine Neuanmeldung zu erschweren.',
+'Invalid date message'		=>	'Das eingegebene Ablaufdatum ist ungültig.',
+'Invalid date reasons'		=>	'Das Format für das Datum ist YYYY-MM-DD und muss mindesten einen Tag in der Zukunft liegen.',
+'Users banned redirect'		=>	'Mitglieder gesperrt. Leite weiter …',
+
 'User search head'			=>	'Mitgliedersuche',
 'User search subhead'		=>	'Gib Deine Suchkriterien ein',
 'User search info'			=>	'Mitgliedersuche in der Datenbank. Du kannst einen oder mehrere Begriffe eingeben, nach denen Du suchen willst. Sternchen (*) werden als Wildcards akzeptiert.',
@@ -59,7 +90,13 @@ $lang_admin_users = array(
 'Results times found head'	=>	'mal gefunden',
 'Results action head'		=>	'Aktion',
 'Results find more link'	=>	'Weitere Mitglieder mit dieser IP finden',
-'Results no posts found'	=>	'Dieses Mitglied hat bislang noch keinen Beitrag im Forum hinterlassen.',
+'Results no posts found'	=>	'Dieses Mitglied hat bislang noch keinen Beitrag im Forum geschrieben.',
+'Select'					=>	'Auswahl',
+'Select all'				=>	'Alle',
+'Unselect all'				=>	'Keiner',
+'Ban'						=>	'Sperren',
+'Delete'					=>	'Löschen',
+'Change group'				=>	'Gruppe ändern',
 'Bad IP message'			=>	'Die eingegebene IP-Adresse ist nicht richtig formatiert.',
 'Results view IP link'		=>	'IP-Statistiken anzeigen',
 'Results show posts link'	=>	'Beiträge anzeigen',
