@@ -7,7 +7,8 @@ $lang_admin_bans = array(
 
 'No user message'			=>	'Il nome utente indicato non esiste. Se desideri attivare una interdizione non legata a uno specifico nome utente lascia il campo vuoto.',
 'No user ID message'		=>	'Non esistono utenti con l\'ID indicato.',
-'User is admin message'		=>	'L\'utente %s &egrave; amministratore e non pu&ograve; essere interdetto. Per interdire un amminsitraore &egrave; necessario precedentemente renderlo moderatore o utente.',
+'User is admin message'		=>	'L\'utente %s &egrave; un amministratore e non pu&ograve; essere interdetto. Per interdire un amministratore &egrave; necessario prima modificarne i privilegi.',
++'User is mod message'      =>  'L\'utente %s &egrave; un moderatore e non pu&ograve; essere interdetto. Per interdire un moderatore &egrave; necessario prima modificarne i privilegi.',
 'Must enter message'		=>	'Inserire almeno un nome utente, o un indirizzo IP, o un\'email.',
 'Cannot ban guest message'	=>	'Gli ospiti non possono essere interdetti.',
 'Invalid IP message'		=>	'L\'indirizzo IP inserito non &egrave; corretto.',

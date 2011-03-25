@@ -139,11 +139,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'Abilita la ricerca in tutti i forum. Se disabilitato, le ricerche saranno permesse solo in un forum per volta. Disattivare in caso di alto carico del server.',
 'Menu items label'					=>	'Collegamenti supplementari',
 'Menu items help'					=>	'Aggiunge collegamenti al menu di navigazione presente in cima a ogni pagina. Il formato &egrave; X = &lt;a href="URL"&gt;LINK&lt;/a&gt; dove X &egrave; la posizione alla quale il collegamento deve essere inserito (esempio: 0 per inserirlo all\'inizio, 2 per inserirlo dopo "Lista utenti", ecc.). Scrivere un collegamento per ogni riga.',
+
+// Sezione feed
+'Feed subhead'                      =>  'Syndication',
 'Default feed label'				=>	'Tipo di Feed predefinito',
 'Default feed help'					=>	'&Egrave; possibile presentare i feed dei forum in due differenti formati (RSS o Atom) o nasconderli.',
 'None'								=>	'Nascondi',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'                    =>  'Durata della cache dei feed',
+'Feed TTL help'                     =>  'I feed possono essere archiviati in una <em>cache</em> per diminuire l\'uso delle risorse.',	
+'No cache'                          =>  'Non archiviare',
+'Minutes'                           =>  '%d minuti',
 
 // Sezione "segnalazioni"
 'Reports subhead'					=>	'Segnalazioni',
@@ -166,7 +173,7 @@ $lang_admin_options = array(
 'Max height label'					=>	'Altezza massima',
 'Max height help'					=>	'L\'altezza massima consentita dell\'immagine personale (in pixel, si raccomanda 60).',
 'Max size label'					=>	'Peso massimo',
-'Max size help'						=>	'Il peso massimo consentito dell\'immagine personale (in byte, si raccomanda 60).',
+'Max size help'						=>	'Il peso massimo consentito dell\'immagine personale (in byte, si raccomanda 10240).',
 
 // Sezione "email"
 'E-mail subhead'					=>	'Email',
@@ -181,7 +188,7 @@ $lang_admin_options = array(
 'SMTP address label'				=>	'Indirizzo server SMTP',
 'SMTP address help'					=>	'L\'indirizzo di un server SMTP esterno col quale inviare email. Si pu&ograve; indicare una porta specifica se il server non usa automaticamente la porta 25 (esempio: mail.dominio.est:3580). Lasciare vuoto per utilizzare il programma di posta locale.',
 'SMTP username label'				=>	'Nome utente SMTP',
-'SMTP username help'				=>	'Nome utente per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiesde</strong> autenticazione).',
+'SMTP username help'				=>	'Nome utente per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiede</strong> autenticazione).',
 'SMTP password label'				=>	'Password SMTP',
 'SMTP change password help'      	=>  'Selezionare per cambiare o cancellare l\'attuale password.',
 'SMTP password help'				=>	'Password due volte la password per il server SMTP. Specificare un nome utente solo se richiesto dal server SMTP (la maggioranza <strong>non richiesde</strong> autenticazione).',
