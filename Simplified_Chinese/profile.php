@@ -74,6 +74,7 @@ $lang_profile = array(
 'Posts info'					=>	'帖子： %s',
 'Registered info'				=>	'注册时间： %s',
 'Last post info'				=>	'最后发表： %s',
+'Last visit info'				=>	'最后查看： %s',
 'Show posts'					=>	'显示该用户的所有帖子',
 'Show topics'					=>	'显示该用户的所有主题',
 'Show subscriptions'			=>	'显示该用户的所有订阅',

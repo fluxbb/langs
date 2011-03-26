@@ -137,11 +137,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'禁用后，每次搜索只可针对一个版块。当过度搜索导致服务器负载过高时应禁用该功能。',
 'Menu items label'					=>	'附加菜单项',
 'Menu items help'					=>	'在文本框中填写HTML超链接，可实现将菜单项添加到所有页面的导航菜单中的任一排位数。添加新链接的格式为X = &lt;a href="URL"&gt;LINK&lt;/a&gt;，X表示在第几位插入该链接(例如：0表示插入到最前面而2表示插入到“用户列表”的后面)。每行填写一条。',
+
+// Feeds section
+'Feed subhead'						=>	'联合供稿',
 'Default feed label'				=>	'默认订阅类型',
 'Default feed help'					=>	'选择要显示的供稿订阅的类型。注意：选择无并不能关闭订阅，只表示默认不显示。',
 'None'								=>	'无',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'					=>	'订阅的缓存时间',
+'Feed TTL help'						=>	'订阅可使用缓存，以减少订阅所消耗的资源。',
+'No cache'							=>	'不使用缓存',
+'Minutes'							=>	'%d 分',
 
 // Reports section
 'Reports subhead'					=>	'举报',

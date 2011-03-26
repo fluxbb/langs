@@ -7,6 +7,7 @@ $lang_admin_reports = array(
 'New reports head'			=>	'新举报',
 'Deleted user'				=>	'删除用户',
 'Deleted'					=>	'删除',
+'Post ID'					=>	'帖子 #%s',
 'Report subhead'			=>	'举报： %s',
 'Reported by'				=>	'举报人： %s',
 'Reason'					=>	'理由',

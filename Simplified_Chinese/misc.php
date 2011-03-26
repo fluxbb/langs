@@ -73,7 +73,7 @@ $lang_misc = array(
 'New subject'					=>	'新主题',
 
 // Split multiple posts in topic
-'Confirm split legend'			=>	'确认所选帖子的分离操作。',
+'Confirm split legend'			=>	'确认所选帖子的分离操作并选择移往何处。',
 'Split posts'					=>	'分离帖子',
 'Split posts comply'			=>	'您确信要分离所选帖子？',
 'Split posts redirect'			=>	'帖子已分离。正在跳转 …',
