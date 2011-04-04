@@ -1,21 +1,21 @@
 <?php
 
 // Language definitions used in admin_bans.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_bans = array(
 
 'No user message'			=>	'Brak zarejestrowanego użytkownika o podanej nazwie. Jeśli nie chcesz dodać bana konkretnemu użytkownikowi, pozostaw to pole puste.',
 'No user ID message'		=>	'Brak zarejestrowanego użytkownika o podanym ID.',
-'User is admin message'		=>	'Użytkownik %s jest Administratorem, więc nie może zostać zbanowany. Jeśli chcesz dodać bana Administratorowi, najpierw musi on zostać zdegradowany do grupy Moderatora lub Użytkownika.',
+'User is admin message'		=>	'Użytkownik %s jest administratorem, więc nie może zostać zbanowany. Jeśli chcesz dodać bana Administratorowi, najpierw musi on zostać zdegradowany do grupy użytkownika.',
+'User is mod message'		=>	'Użytkownik %s jest moderatorem, więc nie może zostać zbanowany. Jeśli chcesz dodać bana moderatorowi, najpierw musi on zostać zdegradowany do grupy użytkownika.',
 'Must enter message'		=>	'Należy wprowadzić co najmniej nazwę użytkownika, adres IP lub adres e-mail.',
 'Cannot ban guest message'	=>	'Konto Gościa nie może zostać zbanowane.',
 'Invalid IP message'		=>	'Wprowadziłeś niepoprawny adres IP, bądź zakres adresów IP.',
 'Invalid e-mail message'	=>	'Wprowadziłeś niepoprawny adres e-mail, bądź domenę.',
 'Invalid date message'		=>	'Wprowadziłeś niepoprawną datę wygaśnięcia bana.',
 'Invalid date reasons'		=>	'Format daty powinien wyglądać następująco: RRRR-MM-DD. Data bana musi być ustawiona co najmniej jeden dzień do przodu.',
-'Ban added redirect'		=>	'Ban został dodany. Przekierowywanie…' ,
-'Ban edited redirect'		=>	'Ban został zaktualizowany. Przekierowywanie…',
-'Ban removed redirect'		=>	'Ban został usunięty. Przekierowywanie…',
+'Ban added redirect'		=>	'Ban został dodany. Przekierowywanie …',
+'Ban edited redirect'		=>	'Ban został zaktualizowany. Przekierowywanie …',
+'Ban removed redirect'		=>	'Ban został usunięty. Przekierowywanie …',
 
 'New ban head'				=>	'Banowanie użytkowników',
 'Add ban subhead'			=>	'Dodaj nowy ban',
@@ -42,7 +42,8 @@ $lang_admin_bans = array(
 'E-mail label'				=>	'E-mail',
 'E-mail help'				=>	'Adres e-mail lub domena do zbanowania (np. email@domena.pl lub domena.pl). Zobacz "Zezwalaj na zbanowane adresy e-mail" w Uprawnieniach, w celu uzyskania dodatkowych informacji.',
 'IP label'					=>	'Adres IP/Zakres adresów IP',
-'IP help'					=>	'Adres IP lub zakres adresów IP do zbanowania (np. 150.11.110.1 lub 150.11.110). Adresy oddzielaj pojedynczą spacją. Jeśli wprowadzony adres IP jest już zbanowany, poprzednie bany nie ulegną zmianie.','IP help link'				=>	'Kliknij %s, aby sprawdzić statystyki adresów IP dla tego użytkownika.',
+'IP help'					=>	'Adres IP lub zakres adresów IP do zbanowania (np. 150.11.110.1 lub 150.11.110). Adresy oddzielaj pojedynczą spacją. Jeśli wprowadzony adres IP jest już zbanowany, poprzednie bany nie ulegną zmianie.',
+'IP help link'				=>	'Kliknij %s, aby sprawdzić statystyki adresów IP dla tego użytkownika.',
 'Ban advanced head'			=>	'Zaawansowane ustawienia bana',
 'Ban advanced subhead'		=>	'Uzupełnianie danych',
 'Ban message label'			=>	'Wiadomość',

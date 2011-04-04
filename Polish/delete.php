@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in delete.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
 $lang_delete = array(
 
 'Delete post'			=>	'Usuwanie posta',
@@ -11,7 +11,7 @@ $lang_delete = array(
 'Reply by'				=>	'Post napisany przez %s - %s',
 'Topic by'				=>	'Wątek rozpoczęty przez %s - %s',
 'Delete'				=>	'Usuń', // The submit button
-'Post del redirect'		=>	'Post został usunięty. Przekierowywanie…',
-'Topic del redirect'	=>	'Wątek został usunięty. Przekierowywanie…',
+'Post del redirect'		=>	'Post został usunięty. Przekierowywanie …',
+'Topic del redirect'	=>	'Wątek został usunięty. Przekierowywanie …'
 
 );

@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions for frequently used strings
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_common = array(
 
 // Text orientation and encoding
@@ -34,7 +33,7 @@ $lang_common = array(
 'Info'								=>	'Informacja', // A common table header
 'Go back'							=>	'Wstecz',
 'Maintenance'						=>	'Konserwacja forum',
-'Redirecting'						=>	'Przekierowywanie…',
+'Redirecting'						=>	'Przekierowywanie …',
 'Click redirect'					=>	'Kliknij tutaj, jeśli nie chcesz dłużej czekać (albo jeśli Twoja przeglądarka nie obsługuje automatycznego przekierowywania).',
 'on'								=>	'wł.', // As in "BBCode is on"
 'off'								=>	'wył.',
@@ -70,6 +69,7 @@ $lang_common = array(
 'Write message legend'				=>	'Wprowadź wiadomość i wyślij',
 'Previous'							=>	'Poprzednia',
 'Next'								=>	'Następna',
+'Forum index'						=>	'Strona główna',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -102,18 +102,21 @@ $lang_common = array(
 'Logged in as'						=>	'Zalogowany jako',
 'Admin'								=>	'Administracja',
 'Last visit'						=>	'Ostatnia wizyta: %s',
-'Show new posts'					=>	'Pokaż nowe posty od ostatniej wizyty',
-'Mark all as read'					=>	'Oznacz wszystkie wątki jako przeczytane',
-'Mark forum read'					=>	'Oznacz to forum jako przeczytane',
+'Topic searches'					=>	'Tematy:',
+'New posts header'					=>	'Nowe',
+'Active topics'						=>	'Aktywne',
+'Unanswered topics'					=>	'Bez odpowiedzi',
+'Posted topics'						=>	'Twoje odpowiedzi',
+'Show new posts'					=>	'Szukaj nowych postów od ostatniej wizyty',
+'Show active topics'				=>	'Szukaj ostatnich tematów.',
+'Show unanswered topics'			=>	'Szukaj tematów bez odpowiedzi.',
+'Show posted topics'				=>	'Szukaj tematów, w których pisałeś.',
+'Mark all as read'					=>	'Oznacz fora jako przeczytane',
+'Mark forum read'					=>	'Oznacz forum jako przeczytane',
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
 'Board footer'						=>	'Stopka',
-'Search links'						=>	'Szukaj linków',
-'Show recent posts'					=>	'Pokaż nowe posty',
-'Show unanswered posts'				=>	'Pokaż posty bez odpowiedzi',
-'Show your posts'					=>	'Pokaż moje posty',
-'Show subscriptions'				=>	'Pokaż moje subskrybowane wątki',
 'Jump to'							=>	'Skocz do',
 'Go'								=>	' Idź ', // Submit button in forum jump
 'Moderate topic'					=>	'Moderuj wątek',
@@ -150,7 +153,8 @@ $lang_common = array(
 
 'User profile'						=>	'Profil użytkownika: %s',
 'Post URL'							=>	'Adres do posta: %s',
-'Email signature'					=>	'System mailingowy FluxBB'."\n".'(Wiadomość wysłana automatycznie, nie odpowiadaj na nią)',
+'Email signature'					=>	'System mailingowy FluxBB
+(Wiadomość wysłana automatycznie, nie odpowiadaj na nią)',
 
 // For extern.php RSS feed
 'RSS description'					=>	'Najwięcej nowych wątków w %s.',

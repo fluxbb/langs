@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in viewtopic.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_topic = array(
 
 'Post reply'		=>	'Odpowiedz',
@@ -28,5 +27,5 @@ $lang_topic = array(
 'Mod controls'		=>	'Opcje moderatora',
 'New icon'			=>	'Nowy post',
 'Re'				=>	'Odp:',
-
+'Preview'			=>	'Podgląd',
 );

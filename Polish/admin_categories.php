@@ -1,18 +1,18 @@
 <?php
 
 // Language definitions used in admin-categories.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'Należy wprowadzić nazwę kategorii.',
-'Category added redirect'		=>	'Kategoria została dodana. Przekierowywanie…',
-'Category deleted redirect'		=>	'Kategoria została usunięta. Przekierowywanie…',
+'Category added redirect'		=>	'Kategoria została dodana. Przekierowywanie …',
+'Category deleted redirect'		=>	'Kategoria została usunięta. Przekierowywanie …',
 'Delete category head'			=>	'Usuwanie kategorii (razem ze wszystkimi forami i postami)',
 'Confirm delete subhead'		=>	'Potwierdź usunięcie kategorii',
 'Confirm delete info'			=>	'Czy jesteś pewny, że chcesz usunąć kategorię <strong>%s</strong>?',
 'Delete category warn'			=>	'<strong>OSTRZEŻENIE!</strong> Usunięcie kategorii powoduje usunięcie wszystkich for i postów w tej kategorii!',
 'Must enter integer message'	=>	'Numer pozycji musi być liczbą naturalną.',
-'Categories updated redirect'	=>	'Kategorie zostały zaktualizowane. Przekierowywanie…',
+'Categories updated redirect'	=>	'Kategorie zostały zaktualizowane. Przekierowywanie …',
 'Add categories head'			=>	'Kategorie for',
 'Add categories subhead'		=>	'Dodaj kategorie',
 'Add category label'			=>	'Nazwa kategorii',
@@ -25,6 +25,6 @@ $lang_admin_categories = array(
 'Edit categories head'			=>	'Edtuj kategorie',
 'Edit categories subhead'		=>	'Edytuj kategorie',
 'Category position label'		=>	'Pozycja',
-'Category name label'			=>	'Nazwa kategorii',
+'Category name label'			=>	'Nazwa kategorii'
 
 );

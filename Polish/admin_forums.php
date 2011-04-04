@@ -1,17 +1,16 @@
 <?php
 
 // Language definitions used in admin-forums.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_forums = array(
 
-'Forum added redirect'		=>	'Forum zostało dodane. Przekierowywanie…',
-'Forum deleted redirect'	=>	'Forum zostało usunięte. Przekierowywanie…',
-'Forums updated redirect'	=>	'Fora zostały zaktualizowane. Przekierowywanie…',
-'Forum updated redirect'	=>	'Forum zostało zaktualizowane. Przekierowywanie…',
-'Perms reverted redirect'	=>	'Domyślne uprawnienia zostały przywrócone. Przekierowywanie…',
+'Forum added redirect'		=>	'Forum zostało dodane. Przekierowywanie …',
+'Forum deleted redirect'	=>	'Forum zostało usunięte. Przekierowywanie …',
+'Forums updated redirect'	=>	'Fora zostały zaktualizowane. Przekierowywanie …',
+'Forum updated redirect'	=>	'Forum zostało zaktualizowane. Przekierowywanie …',
+'Perms reverted redirect'	=>	'Domyślne uprawnienia zostały przywrócone. Przekierowywanie …',
 'Must enter name message'	=>	'Należy wprowadzić nazwę forum.',
 'Must be integer message'	=>	'Numer pozycji musi być liczbą naturalną.',
-'New forum'                 =>  'Nowe forum',
+'New forum'					=>	'Nowe forum',
 
 // Entry page
 'Add forum head'			=>	'Fora kategorii',
@@ -40,7 +39,8 @@ $lang_admin_forums = array(
 'Category label'			=>	'Kategoria',
 'Sort by label'				=>	'Sortuj tematy według',
 'Last post'					=>	'Ostatni post',
-'Topic start'				=>	'Data rozpoczęcia tematu',
+'Topic start'				=>	'Data rozpoczęcia wątku',
+'Subject'					=>	'Tytuł wątku',
 'Redirect label'			=>	'Adres przekierowania',
 'Redirect help'				=>	'Dostępne, gdy forum jest puste.',
 'Group permissions subhead'	=>	'Edytuj uprawnienia grup w tym forum',

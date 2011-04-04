@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in viewforum.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_forum = array(
 
 'Post topic'	=>	'Nowy wątek',
@@ -11,5 +10,7 @@ $lang_forum = array(
 'Closed'		=>	'Zamknięty:',
 'Empty forum'	=>	'Forum jest puste.',
 'Mod controls'	=>	'Opcje moderatora',
-
+'Is subscribed'	=>	'You are currently subscribed to this forum',
+'Unsubscribe'	=>	'Unsubscribe',
+'Subscribe'		=>	'Subscribe to this forum',
 );

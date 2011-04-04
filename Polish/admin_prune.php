@@ -1,12 +1,12 @@
 <?php
 
 // Language definitions used in admin_prune.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
 $lang_admin_prune = array(
 
 'Must be integer message'	=>	'Liczba dni musi być liczbą naturalną.',
 'No old topics message'		=>	'Na forum nie ma wątków z postami starszymi niż %s dni. Zmniejsz wartość w polu "Ilość dni wstecz" i spróbuj ponownie.',
-'Posts pruned redirect'		=>	'Posty zostały usunięte. Przekierowywanie…',
+'Posts pruned redirect'		=>	'Posty zostały usunięte. Przekierowywanie …',
 'Prune head'				=>	'Czyszczenie forum',
 'Prune subhead'				=>	'Wyczyść stare posty',
 'Days old label'			=>	'Ilość dni wstecz',
@@ -19,6 +19,6 @@ $lang_admin_prune = array(
 'Prune info'				=>	'Używaj tej funkcji z ostrożnością. <strong>Wyczyszczonych postów nie można przywrócić.</strong> Dla lepszej wydajności, włącz na forum funkcję %s podczas czyszczenia.',
 'Confirm prune subhead'		=>	'Potwierdź czyszczenie postów',
 'Confirm prune info'		=>	'Czy jesteś pewny, że chcesz wyczyścić forum z postów i wątków starszch niż %s dni.',
-'Confirm prune warn'		=>	'OSTRZEŻENIE! Wyczyszczonych postów i wątków nie można przywrócić.',
+'Confirm prune warn'		=>	'OSTRZEŻENIE! Wyczyszczonych postów i wątków nie można przywrócić.'
 
 );
