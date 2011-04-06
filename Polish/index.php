@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in index.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_index = array(
 
 'Topics'		=>	'Wątki',
@@ -16,6 +16,6 @@ $lang_index = array(
 'Online'		=>	'Online:', // As in "Online: User A, User B etc."
 'Board info'	=>	'Informacje o forum',
 'Board stats'	=>	'Statystyki forum',
-'User info'		=>	'Informacje o użytkowniku'
+'User info'		=>	'Informacje o użytkowniku',
 
 );

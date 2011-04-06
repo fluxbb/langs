@@ -1,6 +1,7 @@
 <?php
 
 // Language definitions used in profile.php
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_profile = array(
 
 // Navigation and sections
@@ -23,7 +24,7 @@ $lang_profile = array(
 // Password stuff
 'Pass key bad'					=>	'Kod aktywacyjny dla hasła jest nieprawidłowy, bądź przedawniony. Złóż ponownie prośbę o nowe hasło. Jeśli to zawiedzie, skontaktuj się z Administratorem forum -',
 'Pass updated'					=>	'Twoje hasło zostało zmienione. Możesz się teraz logować za pomocą nowego hasła.',
-'Pass updated redirect'			=>	'Hasło zostało zmienione. Przekierowywanie …',
+'Pass updated redirect'			=>	'Hasło zostało zmienione. Przekierowywanie…',
 'Wrong pass'					=>	'Stare hasło jest wprowadzone błędnie.',
 'Change pass'					=>	'Zmień hasło',
 'Change pass legend'			=>	'Wprowadź nowe hasło',
@@ -54,8 +55,8 @@ $lang_profile = array(
 'bytes'							=>	'bajtów',
 'Move failed'					=>	'Nie można wgrać pliku na serwer. Skontaktuj się z administratorem forum -',
 'Unknown failure'				=>	'Wystąpił nieznany błąd. Spróbuj ponownie.',
-'Avatar upload redirect'		=>	'Avatar został wgrany. Przekierowywanie …',
-'Avatar deleted redirect'		=>	'Avatar został usunięty. Przekierowywanie …',
+'Avatar upload redirect'		=>	'Avatar został wgrany. Przekierowywanie…',
+'Avatar deleted redirect'		=>	'Avatar został usunięty. Przekierowywanie…',
 'Avatar desc'					=>	'Avatar jest małym plikiem graficznym, który będzie wyświetlany w postach poniżej nazwy użytkownika. Obrazek nie może być większy niż',
 'Upload avatar'					=>	'Wgraj avatar',
 'Upload avatar legend'			=>	'Wybierz plik z avatarem',
@@ -65,7 +66,7 @@ $lang_profile = array(
 
 // Form validation stuff
 'Forbidden title'				=>	'Tytuł zawiera zabronione słowo. Wybierz inny tytuł.',
-'Profile redirect'				=>	'Profil został zaktualizowany. Przekierowywanie …',
+'Profile redirect'				=>	'Profil został zaktualizowany. Przekierowywanie…',
 
 // Profile display stuff
 'Users profile'					=>	'Profil użytkownika - %s',
@@ -74,18 +75,18 @@ $lang_profile = array(
 'Posts info'					=>	'Liczba postów: %s',
 'Registered info'				=>	'Data rejestracji: %s',
 'Last post info'				=>	'Ostatni post: %s',
-'Last visit info'				=>	'Ostatnia wizyta: %s',
+'Last visit info'               =>  'Ostatnia wizyta: %s',
 'Show posts'					=>	'Pokaż wszystkie posty',
-'Show topics'					=>	'Pokaż wszystkie wątki',
-'Show subscriptions'			=>	'Pokaż wszystkie subskrybcje',
+'Show topics'                   =>  'Pokaż wszystkie wątki',
+'Show subscriptions'            =>  'Pokaż wszystkie subskrybcje',
 'Realname'						=>	'Prawdziwe imię',
 'Location'						=>	'Lokalizacja',
 'Website'						=>	'Strona WWW',
 'Jabber'						=>	'Jabber',
-'ICQ'							=>	'GG',
-'MSN'							=>	'MSN',
+'ICQ'							=>	'ICQ',
+'MSN'							=>	'MSN Messenger',
 'AOL IM'						=>	'AOL IM',
-'Yahoo'							=>	'Skype',
+'Yahoo'							=>	'Yahoo! Messenger',
 'Avatar'						=>	'Avatar',
 'Signature'						=>	'Podpis',
 'Sig max size'					=>	'Maksymalna długość: %s znaków / Maksymalna wysokość: %s linii',
@@ -131,10 +132,10 @@ $lang_profile = array(
 'Delete warning'				=>	'OSTRZEŻENIE! Usunięci użytkownicy i/lub posty nie mogą zostać zostać przywrócone. Jeżeli nie zaznaczysz powyższej opcji, posty i wątki użytkownika mogą być usunięte wyłącznie ręcznie.',
 'Delete posts'					=>	'Usuń wszystkie posty i wątki użytkownika.',
 'Delete'						=>	'Usuń', // submit button (confirm user delete)
-'User delete redirect'			=>	'Użytkownik został usunięty. Przekierowywanie …',
-'Group membership redirect'		=>	'Grupa użytkownika została zapisana. Przekierowywanie …',
-'Update forums redirect'		=>	'Prawa moderatora zostały zaktualizowane. Przekierowywanie …',
-'Ban redirect'					=>	'Przekierowywanie …',
+'User delete redirect'			=>	'Użytkownik został usunięty. Przekierowywanie…',
+'Group membership redirect'		=>	'Grupa użytkownika została zapisana. Przekierowywanie…',
+'Update forums redirect'		=>	'Prawa moderatora zostały zaktualizowane. Przekierowywanie…',
+'Ban redirect'					=>	'Przekierowywanie…',
 'No delete admin message'		=>	'Administratorzy nie mogą zostać usunięci. Jeśli chcesz usunąć takiego użytkownika, najpierw musisz go zdegradować do rangi Użytkownika.',
 
 );

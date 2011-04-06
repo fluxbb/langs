@@ -1,6 +1,7 @@
 <?php
 
 // Language definitions used in search.php
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_search = array(
 
 // The search form
@@ -36,29 +37,30 @@ $lang_search = array(
 
 // Results
 'Search results'					=>	'Wyniki wyszukiwania',
-'Search topics'						=>	'Szukaj wątków',
-'Search posts'						=>	'Szukaj postów',
-'Quick search show_new'				=>	'Nowe',
-'Quick search show_recent'			=>	'Aktywne',
-'Quick search show_unanswered'		=>	'Bez odpowiedzi',
-'Quick search show_replies'			=>	'Twoje odpowiedzi',
-'Quick search show_user_topics'		=>	'Przez %s',
-'Quick search show_user_posts'		=>	'Przez %s',
-'Quick search show_subscriptions'	=>	'Subskrybowane przez %s',
-'By keywords show as topics'		=>	'Z postami zawierającymi słowo \'%s\'',
-'By keywords show as posts'			=>	'Zawierających słowo  \'%s\'',
-'By user show as topics'			=>	'Z postami %s',
-'By user show as posts'				=>	'Przez %s',
-'By both show as topics'			=>	'Z postami %2$s zawierającymi słowo \'%1$s\'',
-'By both show as posts'				=>	'Zawierających słowo \'%s\' przez %s',
+'Search topics'						=>	'Wyszukane wątki',
+'Search posts'						=>	'Wyszukane posty',
+'Quick search show_new'				=>	'nowe',
+'Quick search show_recent'			=>	'aktywne',
+'Quick search show_unanswered'		=>	'bez odpowiedzi',
+'Quick search show_replies'			=>	'z odpowiedzią',
+'Quick search show_user_topics'		=>	'napisane przez %s',
+'Quick search show_user_posts'		=>	'napisane przez %s',
+'Quick search show_subscriptions'	=>	'subskrybowane przez %s',
+'By keywords show as topics'		=>	'posty ze słowami kluczowymi \'%s\'',
+'By keywords show as posts'			=>	'ze słowami kluczowymi \'%s\'',
+'By user show as topics'			=>	'z postami użytkownika %s',
+'By user show as posts'				=>	'napisane przez %s',
+'By both show as topics'			=>	'ze słowami kluczowymi \'%s\' w postach użytkownika %s',
+'By both show as posts'				=>	'Ze słowami kluczowymi \'%s\' użykownika %s',
 'No terms'							=>	'Należy wprowadzić co najmniej jedno słowo kluczowe i/lub nazwę autora do wyszukania.',
-'No hits'							=>	'Brak wyników.',
+'No hits'							=>	'Brak wyników wyszukiwania.',
 'No user posts'						=>	'Na forum nie ma żadnych postów tego użytkownika.',
 'No user topics'					=>	'Na forum nie ma żadnych wątków tego użytkownika.',
-'No subscriptions'					=>	'Aktualnie nie subskrybujesz żadnego wątku.',
-'No new posts'						=>	'Od twojej ostatniej wizyty na forum nie pojawiły się nowe posty.',
-'No recent posts'					=>	'W ciągu ostatnich 24h na forum nie pojawiły się nowe posty.No new posts have been made within the last 24 hours.',
+'No subscriptions'					=>	'Użytkownik aktualnie nie subskrybuje żadnych wątków.',
+'No new posts'						=>	'Od Twojej ostatniej wizyty na forum nie pojawiły się nowe posty.',
+'No recent posts'					=>	'W ciągu ostatnich 24h na forum nie pojawiły się nowe posty.',
 'No unanswered'						=>	'Na forum nie ma żadnych wątków bez odpowiedzi.',
-'Go to post'						=>	'Przejdź do posta',
-'Go to topic'						=>	'Przejdź do wątku',
+'Go to post'						=>	'Przejdź do postów',
+'Go to topic'						=>	'Przejdź do wątku'
+
 );

@@ -1,10 +1,10 @@
 <?php
 
 // Language definitions used in admin-permissions.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_permissions = array(
 
-'Perms updated redirect'	=>	'Uprawnienia zostały zaktualizowane. Przekierowywanie …',
+'Perms updated redirect'	=>	'Uprawnienia zostały zaktualizowane. Przekierowywanie…',
 'Permissions head'			=>	'Uprawnienia',
 'Posting subhead'			=>	'Pisanie postów',
 'BBCode label'				=>	'BBCode',

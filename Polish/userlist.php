@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in userlist.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_ul = array(
 
 'User find legend'	=>	'Znajdź użytkowników',
@@ -9,6 +9,6 @@ $lang_ul = array(
 'User sort info'	=>	'Wyniki wyszukiwania można posortować według nazwy użytkownika, daty rejestracji lub liczby postów w postaci listy rosnącej, bądź malejącej.',
 'User group'		=>	'Grupa',
 'No of posts'		=>	'Liczba postów',
-'All users'			=>	'Wszystkie'
+'All users'			=>	'Wszystkie',
 
 );

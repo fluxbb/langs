@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin_index.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Nie udało się sprawdzić aktualizacji, gdyż funkcja \'allow_url_fopen\' została wyłączona na serwerze.',
@@ -11,7 +11,7 @@ $lang_admin_index = array(
 'PHPinfo disabled message'			=>	'Funkcja phpinfo() została wyłączona na tym serwerze.',
 'Not available'						=>	'Niedostępne',
 'Forum admin head'					=>	'Administracja forum',
-'NA'								=>	'Niedostępne',
+'NA'								=>	'N/A',
 'Welcome to admin'					=>	'Witamy w panelu administracyjnym FluxBB. Z tego miejsca możesz kontrolować głównymi ustawieniami i preferencjami forum. W zależności od tego, czy jesteś administratorem, czy moderatorem, możesz:',
 'Welcome 1'							=>	'organizować kategorie i fora,',
 'Welcome 2'							=>	'dostosowywać ustawienia i preferencje,',
@@ -48,4 +48,5 @@ $lang_admin_index = array(
 'Database label'					=>	'Baza danych',
 'Database data rows'				=>	'Rekordów: %s',
 'Database data size'				=>	'Rozmiar: %s',
+
 );

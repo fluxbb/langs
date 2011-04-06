@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in both profile.php and register.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_prof_reg = array(
 
 'Email legend'				=>	'Ustawienia adresu e-mail',
@@ -32,9 +32,9 @@ $lang_prof_reg = array(
 'Pass not match'			=>	'Podane hasła nie pasują do siebie.',
 'Banned email'				=>	'Wprowadzony adres e-mail jest zbanowany na forum. Wybierz inny adres e-mail.',
 'Dupe email'				=>	'Na forum jest już zarejestrowany użytkownik z podanym adresem e-mail. Wybierz inny adres e-mail.',
-'Sig too long'				=>	'Podpis użytkownika nie może składać się z więcej niż %1$s znaków. Musisz usunąć %2$s znaków.',
-'Sig too many lines'		=>	'Podpis użytkownika nie może mieć więcej wierszy niż %s.',
-'Bad ICQ'					=>	'Wprowadzono nieprawidłowy numer GG. Wróć i popraw numer.',
+'Sig too long'              =>  'Podpis użytkownika nie może być dłuższy niż %1$s znaków. Skróć podpis o co najmniej %2$s znaków.',
+'Sig too many lines'        =>  'Podpis użytkownika nie może składać się z więcej niż %s linii.',
+'Bad ICQ'					=>	'Wprowadzono nieprawidłowy numer ICQ. Wróć i popraw numer.',
 
 'UTC-12:00'					=>	'(UTC -12:00) Międzynarodowa Linia Zmiany Daty',
 'UTC-11:00'					=>	'(UTC -11:00) Niue, Samoa, Samoa Amerykańskie',
@@ -76,4 +76,5 @@ $lang_prof_reg = array(
 'UTC+12:45'					=>	'(UTC +12:45) Wyspy Chatham',
 'UTC+13:00'					=>	'(UTC +13:00) Tonga, Wyspy Feniks',
 'UTC+14:00'					=>	'(UTC +14:00) Kiribati (Line Islands)',
+
 );

@@ -1,13 +1,13 @@
 <?php
 
 // Language definitions used in admin_common
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'Panel Administratora',
-'Plugins menu'			=>	'Panel wtyczek',
-'Moderator menu'		=>	'Panel Moderatora',
+'Admin menu'			=>	'Administrator',
+'Plugins menu'			=>	'Wtyczki',
+'Moderator menu'		=>	'Moderator',
 'Index'					=>	'Informacje',
 'Categories'			=>	'Kategorie',
 'Forums'				=>	'Fora',
@@ -40,6 +40,6 @@ $lang_admin_common = array(
 
 // Admin loader
 'No plugin message'		=>	'Nie znaleziono wtyczki %s w katalogu.',
-'Plugin failed message'	=>	'Ładowanie wtyczki - <strong>%s</strong> - nie powiodło się.'
+'Plugin failed message'	=>	'Ładowanie wtyczki - <strong>%s</strong> - nie powiodło się.',
 
 );

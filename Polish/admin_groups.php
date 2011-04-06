@@ -1,16 +1,16 @@
 <?php
 
 // Language definitions used in admin-groups.php
-// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Należy wprowadzić nazwę grupy.',
 'Title already exists message'	=>	'Już istnieje grupa o nazwie <strong>%s</strong>.',
-'Default group redirect'		=>	'Grupa domyślna została ustawiona. Przekierowywanie …',
+'Default group redirect'		=>	'Grupa domyślna została ustawiona. Przekierowywanie…',
 'Cannot remove default message'	=>	'Grupa domyślna nie może zostać usunięta. W celu usnięcia tej grupy, ustaw inną grupę domyślną.',
-'Group removed redirect'		=>	'Grupa została usunięta. Przekierowywanie …',
-'Group added redirect'			=>	'Grupa została dodana. Przekierowywanie …',
-'Group edited redirect'			=>	'Grupa została zaktualizowana. Przekierowywanie …',
+'Group removed redirect'		=>	'Grupa została usunięta. Przekierowywanie…',
+'Group added redirect'			=>	'Grupa została dodana. Przekierowywanie…',
+'Group edited redirect'			=>	'Grupa została zaktualizowana. Przekierowywanie…',
 
 'Add groups head'				=>	'Grupy użytkowników',
 'Add group subhead'				=>	'Dodaj nową grupę',
@@ -78,6 +78,6 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'Liczba sekund, po których użytkownic tej grupy mogą ponownie korzystać z wyszukiwarki. Usatw 0, aby wyłączyć blokadę.',
 'E-mail flood label'			=>	'Blokada czasowa wysyłania wiadomości e-mail',
 'E-mail flood help'				=>	'Liczba sekund, po których użytkownicy tej grupy mogą ponownie wysłać wiadomość e-mail. Ustaw 0, aby wyłączyć blokadę.',
-'Moderator info'				=>	'Aby użytkownik mógł moderować forum, musi zostać on przypisany jako moderator do co najmniej jednego forum. Możesz to zrobić w profilu użytkownika, na stronie Administracja.',
+'Moderator info'				=>	'Użytkownicy należący do grupy Moderator mogą moderować fora tylko wtedy, gdy zostaną przypisani do jednego lub więcej for. Można to zrobić poprzez zakładkę Administracja w profilu użytkownika.',
 
 );
