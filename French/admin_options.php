@@ -136,12 +136,19 @@ $lang_admin_options = array(
 'Search all label'				=>	'Rechercher dans tous les forums',
 'Search all help'				=>	'Si désactivée, les recherches ne pourront être effectuées que dans un forum à la fois. Désactivez ceci si la charge du serveur est trop élevée à cause d\'un nombre de recherches trop important.',
 'Menu items label'				=>	'Éléments de menu supplémentaires',
-'Menu items help'				=>	'En ajoutant des hyperliens HTML dans cette boîte, un nombre illimité d\'éléments peuvent être ajoutés au menu de navigation situé en haut de chaque page. Le format pour ajouter de nouveaux liens est le suivant : X = &lt;a href="URL"&gt;INTITULE DU LIEN&lt;/a&gt; où X est la position à laquelle le lien devra être inséré (ex. : 0 pour insérer au début et 2 pour insérer après l\'élément «&#160;Liste d\'utilisateurs&#160;»). Chaque élément devra se trouver dans une nouvelle ligne.',
+'Menu items help'				=>	'En ajoutant des hyperliens HTML dans cette boîte, un nombre illimité d\'éléments peuvent être ajoutés au menu de navigation situé en haut de chaque page. Le format pour ajouter de nouveaux liens est le suivant&#160;: X = &lt;a href="URL"&gt;INTITULE DU LIEN&lt;/a&gt; où X est la position à laquelle le lien devra être inséré (ex. : 0 pour insérer au début et 2 pour insérer après l\'élément «&#160;Liste d\'utilisateurs&#160;»). Chaque élément devra se trouver dans une nouvelle ligne.',
+
+// Feeds section
+'Feed subhead'                                  =>      'Syndication',
 'Default feed label'				=>	'Type de flux par défaut',
 'Default feed help'				=>	'Type d\'abonnement de flux devant être affiché. Remarque&#160;: le choix «&#160;Aucun&#160;» ne désactive pas le flux mais le masque simplement par défaut.',
 'None'						=>	'Aucun',
 'RSS'						=>	'RSS',
 'Atom'						=>	'Atom',
+'Feed TTL label'                                =>      'Temps de mise en cache des flux',
+'Feed TTL help'                                 =>      'Les flux peuvent être placés dans le cache afin de réduire l\'utilisation des ressources.',
+'No cache'                                      =>      'Ne pas placer dans le cache',
+'Minutes'                                       =>      '%d minutes',
 
 // Reports section
 'Reports subhead'				=>	'Signalements',

@@ -102,11 +102,11 @@ $lang_common = array(
 'Logged in as'			=>	'Connecté(e) sous l\'identité&#160;',
 'Admin'				=>	'Administration',
 'Last visit'			=>	'Dernière visite&#160;: %s',
-'Topic searches'		=>	'Dicussions&#160;:',
-'New posts header'		=>	'Nouveaux',
-'Active topics'			=>	'Actives',
+'Topic searches'		=>	'Contributions&#160;:',
+'New posts header'		=>	'Nouvelles',
+'Active topics'			=>	'Récentes',
 'Unanswered topics'		=>      'Sans réponse',
-'Posted topics'			=>	'Contributions',
+'Posted topics'			=>	'Personnelles',
 'Show new posts'		=>	'Trouver les discussions avec de nouveaux messages depuis votre dernière visite.',
 'Show active topics'		=>	'Trouver les discussions comportant des messages récents.',
 'Show unanswered topics'	=>	'Trouver les discussions sans réponse.',
@@ -167,7 +167,7 @@ $lang_common = array(
 'Atom topic feed'				  =>	    'Flux Atom de la discussion',
 
 // Admin related stuff in the header
-'New reports'					  =>	    'De nouveaux signalements ont été envoyés',
+'New reports'					  =>	    'De nouveaux signalements ont été envoyés&#160;!',
 'Maintenance mode enabled'			  =>	    'Le mode maintenance est activé&#160;!'
 
 ); 
