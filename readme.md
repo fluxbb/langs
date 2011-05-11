@@ -1,5 +1,5 @@
 *  Arabic - [zaher](http://gitorious.org/fluxbb-arabic/fluxbb-arabic)
-*  Brazilian_Portuguese - [wkoch](http://fluxbb.com.br)
+*  Brazilian_Portuguese - [FluxBB.com.br](http://fluxbb.com.br)
 *  French - [FluxBB.fr](http://fluxbb.fr)
 *  German - [FluxBB.de Community](http://www.fluxbb.de)
 *  Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
