@@ -1,0 +1,62 @@
+<?php
+
+// Language definitions used in search.php
+$lang_search = array(
+
+// The search form
+'User search'						=>	'Pesquisa do usuário',
+'No search permission'				=>	'Você não possui permissão para usar a função de pesquisa.',
+'Search flood'						=>	'Você deve esperar ao menos %s segundos antes de fazer outra pesquisa. Por favor, espere um pouco e tente novamente.',
+'Search'							=>	'Pesquisa',
+'Search criteria legend'			=>	'Digite seu termo de pesquisa',
+'Search info'						=>	'Para pesquisar por uma palavra-chave, digite um ou mais termos de pesquisa. Separe os termos com espaços. Use AND (e), OR (ou) e NOT (não) para refinar sua pesquisa. Para pesquisar por autor digite o nome de usuário autor das mensagens que deseja pesquisar. Use o caractere curinga * para combinações parciais.',
+'Keyword search'					=>	'Pesquisa por palavra-chave',
+'Author search'						=>	'Pesquisa por autor',
+'Search in legend'					=>	'Selecione onde pesquisar',
+'Search in info'					=>	'Escolha em qual fórum você deseja fazer a pesquisa e se você deseja pesquisar no título dos tópicos, texto da mensagem ou ambos.',
+'Forum search'						=>	'Fórum',
+'All forums'						=>	'Todos os fóruns',
+'Search in'							=>	'Pesquisar em',
+'Message and subject'				=>	'Texto da mensagem e título do tópico',
+'Message only'						=>	'Apenas no texto da mensagem',
+'Topic only'						=>	'Apenas no título do tópico',
+'Sort by'							=>	'Ordenar por',
+'Sort order'						=>	'Ordem',
+'Search results legend'				=>	'Selecione o modo de visualização dos resultados',
+'Search results info'				=>	'Você pode escolher como deseja ordenar e exibir seus resultados.',
+'Sort by post time'					=>	'Horário da mensagem',
+'Sort by author'					=>	'Autor',
+'Sort by subject'					=>	'Título',
+'Sort by forum'						=>	'Fórum',
+'Ascending'							=>	'Ascendente',
+'Descending'						=>	'Descendente',
+'Show as'							=>	'Exibir resultados como',
+'Show as topics'					=>	'Tópicos',
+'Show as posts'						=>	'Mensagens',
+
+// Results
+'Search results'					=>	'Resultados da pesquisa',
+'Search topics'						=>	'Pesquisar tópicos',
+'Search posts'						=>	'Pesquisar mensagens',
+'Quick search show_new'				=>	'Novo',
+'Quick search show_recent'			=>	'Ativo',
+'Quick search show_unanswered'		=>	'Sem resposta',
+'Quick search show_replies'			=>	'Suas',
+'Quick search show_user_topics'		=>	'De %s',
+'Quick search show_user_posts'		=>	'De %s',
+'Quick search show_subscriptions'	=>	'Inscrito por %s',
+'By keywords'						=>	'Com as palavras-chave \'%s\'',
+'By user'							=>	'Com mensagens por %s',
+'By both'							=>	'Com palavras-chaves \'%s\' em mensagens de %s',
+'No terms'							=>	'Você deve digitar ao menos uma palavra-chave e/ou um autor para pesquisar.',
+'No hits'							=>	'Sua pesquisa não retornou resultados.',
+'No user posts'						=>	'Não há mensagens deste usuário neste fórum.',
+'No user topics'					=>	'Não existem tópicos deste usuário neste fórum.',
+'No subscriptions'					=>	'Este usuário não está atualmente inscrito em nenhum tópico.',
+'No new posts'						=>	'Não há tópicos com novas mensagens desde sua última visita.',
+'No recent posts'					=>	'Não houveram novas mensagens nas últimas 24 horas.',
+'No unanswered'						=>	'Não existem mensagens sem resposta neste fórum.',
+'Go to post'						=>	'Ir à mensagem',
+'Go to topic'						=>	'Ir ao tópico'
+
+);
