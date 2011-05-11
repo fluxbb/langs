@@ -5,7 +5,8 @@ $lang_admin_bans = array(
 
 'No user message'			=>	'尚无用户以该用户名注册。如果您想添加一个非针对指定用户的封禁请将用户名栏留空。',
 'No user ID message'		=>	'尚无用户注册该用户名。',
-'User is admin message'		=>	'用户 %s 是管理员不可被封禁。如果您要封禁一个管理员，请先将他/她降级为版主或普通用户。',
+'User is admin message'		=>	'用户 %s 是管理员不可被封禁。如果您要封禁一个管理员，请先将其降级。',
+'User is mod message'		=>	'用户 %s 是版主不可被封禁。如果您要封禁一个版主，请先将其降级。',
 'Must enter message'		=>	'您必须填写一个用户名，一个IP地址或者一个电子信箱(至少其中一项)。',
 'Cannot ban guest message'	=>	'访客无法被封禁。',
 'Invalid IP message'		=>	'您填写了一个无效的IP/IP段。',

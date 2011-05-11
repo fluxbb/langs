@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in various scripts
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_misc = array(
 
 'Mark read redirect'			=>	'Wszystkie wątki i fora zostały oznaczone jako przeczytane. Przekierowywanie…',
@@ -30,9 +30,11 @@ $lang_misc = array(
 'Reason desc'					=>	'Podaj krótki powód, dla którego raportujesz ten post',
 
 // Subscriptions
-'Already subscribed'			=>	'Subskrybujesz ten wątek.',
+'Already subscribed topic'		=>	'Subskrybujesz ten wątek.',
+'Already subscribed forum'      =>  'Subskrybujesz to forum.',
 'Subscribe redirect'			=>	'Subskrypcja wątku została dodana. Przekierowywanie…',
-'Not subscribed'				=>	'Nie subskrybujesz tego wątku.',
+'Not subscribed topic'			=>	'Nie subskrybujesz tego wątku.',
+'Not subscribed forum'          =>  'Nie subskrybujesz tego forum.',
 'Unsubscribe redirect'			=>	'Subskrypcja wątku została usunięta. Przekierowywanie…',
 
 // General forum and topic moderation
@@ -72,7 +74,7 @@ $lang_misc = array(
 'New subject'					=>	'Nowy temat',
 
 // Split multiple posts in topic
-'Confirm split legend'			=>	'Potwierdzenie rozłączenia postów w wątku',
+'Confirm split legend'			=>	'Potwierdź rozłączenie wybranych postów w wątku oraz wskaż miejsce ich przeniesienia.',
 'Split posts'					=>	'Rozłączenie postów',
 'Split posts comply'			=>	'Czy jesteś pewny, że chcesz rozłączyć wybrane posty?',
 'Split posts redirect'			=>	'Posty zostały rozłączone. Przekierowywanie…',

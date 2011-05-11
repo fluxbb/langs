@@ -137,11 +137,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'禁用後，每次搜索只可針對一個版塊。當過度搜索導致服務器負載過高時應禁用該功能。',
 'Menu items label'					=>	'附加菜單項',
 'Menu items help'					=>	'在文本框中填寫HTML超鏈接，可實現將菜單項添加到所有頁面的導航菜單中的任一排位數。添加新鏈接的格式為X = &lt;a href="URL"&gt;LINK&lt;/a&gt;，X表示在第幾位插入該鏈接(例如：0表示插入到最前面而2表示插入到「用戶列表」的後面)。每行填寫一條。',
+
+// Feeds section
+'Feed subhead'						=>	'聯合供稿',
 'Default feed label'				=>	'默認訂閱類型',
 'Default feed help'					=>	'選擇要顯示的供稿訂閱的類型。注意：選擇無並不能關閉訂閱，只表示默認不顯示。',
 'None'								=>	'無',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'					=>	'訂閱的緩存時間',
+'Feed TTL help'						=>	'訂閱可使用緩存，以減少訂閱所消耗的資源。',
+'No cache'							=>	'不使用緩存',
+'Minutes'							=>	'%d 分',
 
 // Reports section
 'Reports subhead'					=>	'舉報',

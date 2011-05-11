@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in help.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_help = array(
 
 'Help'					=>	'Pomoc',
@@ -28,6 +28,7 @@ $lang_help = array(
 'Links info'			=>	'Możesz stworzyć linki do różnych dokumentów, stron internetowch lub adresów e-mail:',
 'My email address'		=>	'Mój adres e-mail',
 'Images info'			=>	'Jeżeli chcesz wyświetlić obrazek w wiadomości, powinieneś skorzystać z tagu [img]. Teskt zawarty po znaku "=" używany jest jako atrybut alt (tekst alternatywny) dla obrazka.',
+'FluxBB bbcode test'    =>  'FluxBB BBCode test',
 
 'Quotes'				=>	'Cytaty',
 'Quotes info'			=>	'Jeżeli chcesz zacytować jakiegoś użytkownika, powinieneś skorzystać z tagu [quote].',

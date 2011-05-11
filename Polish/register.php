@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in register.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_register = array(
 
 // Miscellaneous
@@ -31,7 +31,7 @@ $lang_register = array(
 'Desc 2'					=>	'Poniżej znajduje się formularz rejestracyjny, który należy wypełnić, aby zarejestrować konto na forum. Po rejestracji powinieneś odwiedzić swój profil i uzupełnić informacje o sobie. Poniższe pola są tylko częścią niezbędnych informacji, dodatkowe ustawienia dostępne są na stronie profilu.',
 'Username legend'			=>	'Wprowadź nazwę użytkownika (2-25 znaków)',
 'Pass legend'				=>	'Wprowadź hasło do logowania',
-'Pass info'					=>	'Hasło musi się składać z co najmniej 4 znaków. Wielkość liter ma znaczenie.',
+'Pass info'					=>	'Hasło musi się składać z co najmniej 4 znaków. Wielkość znaków ma znaczenie.',
 'Email info'				=>	'Wprowadzony adres e-mail musi być poprawny, gdyż na podaną skrzynkę pocztową zostanie wysłana wiadomość z losowo wygenerowanym hasłem.',
 'Confirm email'				=>	'Potwierdź adres e-mail',
 

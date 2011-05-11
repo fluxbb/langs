@@ -1,12 +1,42 @@
 <?php
 
 // Language definitions used in admin-users.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Wprowadzono niepoprawny znak w kolumnie numerycznej.',
 'Invalid date time message'	=>	'Wprowadzono niepoprawną datę lub czas.',
 'Not verified'				=>	'Niezweryfikowany',
+
+// Actions: mass delete/ban etc.
+'No users selected'         =>  'Nie wybrano użytkowników.',
+'No move admins message'    =>  'Ze względów bezpieczeństwa nie można zmieniać grupy kilku Administratorom jednocześnie. Jeśli chcesz zmienić grupę Administratorom, możesz to zrobić w ustawieniach profilu.',
+'No delete admins message'  =>  'Administratorzy nie mogą zostać usunięci. Jeśli chcesz usunąć Administratora, najpierw musi on zostać zdegradowany do grupy Użytkowników.',
+'No ban admins message'     =>  'Administratorzy nie mogą zostać zbanowani. Jeśli chcesz dodać bana Administratorowi, najpierw musi on zostać zdegradowany do grupy Użytkowników.',
+'No ban mods message'       =>  'Moderatorzy nie mogą zostać zbanowani. Jeśli chcesz dodać bana Moderatorowi, najpierw musi on zostać zdegradowany do grupy Użytkowników.',
+'Move users'                =>  'Zmień grupę użytkownika',
+'Move users subhead'        =>  'Wybierz nową grupę',
+'New group label'           =>  'Nowa grupa',
+'New group help'            =>  'Wybierz grupę, do której zostaną przeniesieni wybrani użytkownicy. Ze względów bezpieczeństwa niemożliwe jest przenoszenie kilku użytkowników jednocześnie do grupy Administratorów.',
+'Invalid group message'     =>  'Niepoprawny klucz ID grupy.',
+'Users move redirect'       =>  'Grupa użytkowników została zmieniona. Przekierowywanie…',
+'Delete users'              =>  'Usuń użytkowników',
+'Confirm delete legend'     =>  'UWAGA: przeczytaj przed usunięciem użytkowników',
+'Confirm delete info'       =>  'Potwierdź usunięcie wybranych użytkowników',
+'Delete posts'              =>  'Usuń wszystkie posty i wątki napisane przez użytkowników.',
+'Delete warning'            =>  'Ostrzeżenie! Usunięci użytkownicy i/lub posty nie mogą zostać przywrócone. Jeśli nie chcesz usuwać postów użytkowników automatycznie, można zrobić to ręcznie w późniejszym czasie.',
+'Users delete redirect'     =>  'Użytkownicy zostali usunięci. Przekierowywanie…',
+'Ban users'                 =>  'Banowanie użytkowników',
+'Message expiry subhead'    =>  'Wiadomość i data wygaśnięcia',
+'Ban message label'         =>  'Wiadomość',
+'Ban message help'          =>  'Wiadomość zostanie wyświetlona użytkownikowi, gdy odwiedzi forum.',
+'Expire date label'         =>  'Data wygaśnięcia bana',
+'Expire date help'          =>  'Data, kiedy ban zostanie automatycznie zdjęty (format: rrrr-mm-dd). Jeśli chcesz ręcznie usunąć bana, pozostaw to pole puste.',
+'Ban IP label'              =>  'Banowanie adresów IP',
+'Ban IP help'               =>  'Banowanie adresu IP użytkownika utrudnia ponowną rejestrację konta na forum.',
+'Invalid date message'      =>  'Wprowadziłeś niepoprawną datę wygaśnięcia bana.',
+'Invalid date reasons'      =>  'Format daty powinien wyglądać następująco: RRRR-MM-DD. Data bana musi być ustawiona co najmniej jeden dzień do przodu.',
+'Users banned redirect'     =>  'Użytkownicy zostali zbanowani. Przekierowywanie…',
 'User search head'			=>	'Wyszukiwanie użytkowników',
 'User search subhead'		=>	'Wprowadź kryteria wyszukiwania',
 'User search info'			=>	'Wyszukiwanie użytkowników w bazie. Wprowadź jedno lub więcej kryteriów. Znak (*) zastępuje dowolny ciąg znaków.',
@@ -61,6 +91,12 @@ $lang_admin_users = array(
 'Results action head'		=>	'Akcja',
 'Results find more link'	=>	'Znajdź więcej użytkowników z tym IP',
 'Results no posts found'	=>	'Nie znaleziona żadnych postów użytkownika na forum.',
+'Select'                    =>  'Zaznacz',
+'Select all'                =>  'Zaznacz wszystko',
+'Unselect all'     			=>  'Odznacz wszystko',
+'Ban'                       =>  'Banuj',
+'Delete'                    =>  'Usuń',
+'Change group'              =>  'Zmień grupę',
 'Bad IP message'			=>	'Wprowadzono niepoprawny adres IP.',
 'Results view IP link'		=>	'Zobacz IP',
 'Results show posts link'	=>	'Pokaż posty',

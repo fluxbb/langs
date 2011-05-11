@@ -7,6 +7,7 @@ $lang_post = array(
 
 // Validazioni
 'No subject'		=>	'Inserire un titolo.',
+'No subject after censoring'  =>  'Il titolo della discussione contiene solo parole vietate.',
 'Too long subject'	=>	'Il titolo non pu&ograve; eccedere i 70 caratteri.',
 'No message'		=>	'Inserire un messaggio.',
 'Too long message'	=>	'Il messaggio non pu&ograve; eccedere i %s byte.',

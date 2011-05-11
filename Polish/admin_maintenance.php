@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin_maintenance.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_maintenance = array(
 
 'Maintenance head'				=>	'Konserwacja forum',
@@ -20,5 +20,22 @@ $lang_admin_maintenance = array(
 'Processing post'				=>	'Przebudowywanie w trakcie - post ID <strong>%s</strong>',
 'Click here'					=>	'Kliknij tutaj',
 'Javascript redirect failed'	=>	'Przekierowanie za pomocą skryptu JavaScript nie powiodło się. %s, aby kontynuować…',
+'Posts must be integer message' =>  'Liczba postów na cykl musi być liczbą naturalną.',
+'Days must be integer message'  =>  'Liczba dni musi być liczbą naturalną.',
+'No old topics message'         =>  'Na forum nie ma wątków z postami starszymi niż %s dni. Zmniejsz wartość w polu "Ilość dni wstecz" i spróbuj ponownie.',
+'Posts pruned redirect'         =>  'Forum zostało wyczyszczone. Przekierowywanie…',
+'Prune head'                    =>  'Czyszczenie forum',
+'Prune subhead'                 =>  'Usuwanie starych wątków',
+'Days old label'                =>  'Ilość dni wstecz',
+'Days old help'                 =>  'Liczba dni wstecz, od których starsze wątki będą czyszczone (np. jeśli wpiszesz 30, każdy wątek, w którym ostatni post napisany został więcej niż 30 dni temu, zostanie usunięty).',
+'Prune sticky label'            =>  'Usuń przyklejone wątki',
+'Prune sticky help'             =>  'Kiedy opcja jest włączona, przyklejone wątki zostaną usunięte z forum.',
+'Prune from label'              =>  'Wybierz forum',
+'All forums'                    =>  'Wszystkie fora',
+'Prune from help'               =>  'Forum, z którego mają zostać usunięte stare wątki.',
+'Prune info'                    =>  'Używaj tej funkcji z ostrożnością. <strong>Wyczyszczonych wątków i postów nie można przywrócić.</strong> Dla lepszej wydajności, włącz na forum funkcję %s podczas czyszczenia.',
+'Confirm prune subhead'         =>  'Potwierdź czyszczenie forum',
+'Confirm prune info'            =>  'Czy jesteś pewny, że chcesz wyczyścić wątki starsze niż %s dni z forum "%s" (%s wątków)?',
+'Confirm prune warn'            =>  'OSTRZEŻENIE! Wyczyszczonych postów i wątków nie można przywrócić.',
 
 );

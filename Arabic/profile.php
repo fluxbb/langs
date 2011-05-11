@@ -74,6 +74,7 @@ $lang_profile = array(
 'Posts info'				=>	'المداخلات: %s',
 'Registered info'			=>	'سجل في: %s',
 'Last post info'			=>	'آخر مداخلة: %s',
+'Last visit info'				=>	'آخر زيارة: %s',
 'Show posts'				=>	'اعرض كل المداخلات',
 'Show topics'				=>	'اعرض كل المواضيع',
 'Show subscriptions'		=>	'اعرض كل الاشتراكات',

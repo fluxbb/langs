@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in example Plugin
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish language: kumiech (Polish FluxBB Support - fluxbb.orge.pl) [kumiech@gmail.com]
 $lang_admin_plugin_example = array(
 
 'No text'				=>	'Nic nie wpisałeś!',

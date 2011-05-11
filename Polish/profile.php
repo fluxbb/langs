@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in profile.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_profile = array(
 
 // Navigation and sections
@@ -75,7 +75,10 @@ $lang_profile = array(
 'Posts info'					=>	'Liczba postów: %s',
 'Registered info'				=>	'Data rejestracji: %s',
 'Last post info'				=>	'Ostatni post: %s',
+'Last visit info'               =>  'Ostatnia wizyta: %s',
 'Show posts'					=>	'Pokaż wszystkie posty',
+'Show topics'                   =>  'Pokaż wszystkie wątki',
+'Show subscriptions'            =>  'Pokaż wszystkie subskrybcje',
 'Realname'						=>	'Prawdziwe imię',
 'Location'						=>	'Lokalizacja',
 'Website'						=>	'Strona WWW',

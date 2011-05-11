@@ -26,6 +26,7 @@ $lang_topic = array(
 'Quick post'		=>	'مداخلة سريعة',
 'Mod controls'	=>	'أدوات الإشراف',
 'New icon'		=>	'مداخلة جديدة',
-'Re'			=>	'رد:'
+'Re'			=>	'رد:',
+'Preview'			=>	'معينة'
 
 );

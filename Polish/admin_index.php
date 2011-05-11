@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin_index.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Nie udało się sprawdzić aktualizacji, gdyż funkcja \'allow_url_fopen\' została wyłączona na serwerze.',

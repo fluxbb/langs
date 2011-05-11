@@ -3,8 +3,7 @@
 // Language definitions used in admin_censoring.php
 $lang_admin_censoring = array(
 
-'Must enter both message'	=>	'يجب إدخال كلا من الكلمة المراد حجبها و النص المستبدل لها.',
-'Must search both message'	=>	'يجب إدخال كلا من النصين للبحث عن و يستبدل بـ.',
+'Must enter word message'	=>	'يجب ادخال الكلمة المراد حجبها.',
 'Word updated redirect'		=>	'تم تحديث الكلمة المحجوبة. Redirecting …',
 'Word added redirect'		=>	'تم إضافة الكلمة المحجوبة. توجيه …',
 'Word removed redirect'		=>	'تم حذف الكلمة المحجوبة. توجيه …',

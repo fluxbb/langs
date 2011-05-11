@@ -1,13 +1,14 @@
 <?php
 
 // Language definitions used in admin_reports.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_reports = array(
 
 'Report zapped redirect'	=>	'Raport został zatwierdzony. Przekierowywanie…',
 'New reports head'			=>	'Nowe raporty',
 'Deleted user'				=>	'Użytkownik usunięty',
 'Deleted'					=>	'Usunięto',
+'Post ID'                   =>  'Post #%s',
 'Report subhead'			=>	'Data raportu: %s',
 'Reported by'				=>	'Raportowany przez: %s',
 'Reason'					=>	'Powód',

@@ -1,13 +1,13 @@
 <?php
 
 // Language definitions used in admin_common
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'Panel Administratora',
-'Plugins menu'			=>	'Panel wtyczek',
-'Moderator menu'		=>	'Panel Moderatora',
+'Admin menu'			=>	'Administrator',
+'Plugins menu'			=>	'Wtyczki',
+'Moderator menu'		=>	'Moderator',
 'Index'					=>	'Informacje',
 'Categories'			=>	'Kategorie',
 'Forums'				=>	'Fora',

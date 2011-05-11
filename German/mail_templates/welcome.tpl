@@ -1,8 +1,8 @@
 Subject: Willkommen im Forum <board_title>!
 
-Danke, dass du Dich im Forum <base_url> registriert hast. Deine Zugangsdaten lauten:
+Vielen Dank für deine Registrierung im Forum <base_url>. Deine Zugangsdaten lauten:
 
-Benutzername: <username>
+Mitgliedsname: <username>
 Passwort: <password>
 
 Melde dich unter <login_url> an, um die Registrierung abzuschließen.

@@ -1,13 +1,14 @@
 <?php
 
 // Language definitions used in admin-options.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'Zły HTTP_REFERER. Jeśli przeniosłeś forum do innej lokalizacji, bądź zmieniłeś domenę, musisz zaktualizować pole "Adres URL" ręcznie w bazie danych (wiersz o_base_url w tabeli \'config\') i wyczyścić cache poprzez usunięcie wszystkich plików *.php w katalogu /cache.',
 'Must enter title message'			=>	'Należy wprowadzić tytuł forum.',
 'Invalid e-mail message'			=>	'Wprowadzony adres e-mail administratora jest nieprawidłowy.',
 'Invalid webmaster e-mail message'	=>	'Wprowadzony adres e-mail webmastera jest nieprawidłowy.',
+'SMTP passwords did not match'      =>  'Należy wprowadzić poprawne hasło SMTP dwukrotnie, aby je zmienić.',
 'Enter announcement here'			=>	'Wprowadź tekst ogłoszenia w tym miejscu.',
 'Enter rules here'					=>	'Wprowadź zasady korzystania z forum w tym miesjcu.',
 'Default maintenance message'		=>	'Forum jest tymczasowo niedostępne z powodu konserwacji. Spróbuj ponownie za kilka minut.',
@@ -18,7 +19,7 @@ $lang_admin_options = array(
 // Essentials section
 'Essentials subhead'				=>	'Ustawienia główne',
 'Board title label'					=>	'Tytuł forum',
-'Board title help'					=>	'Tytuł forum (wyświetlany w nagłówku strony). To pole <strong>nie może</strong> zaweirać kodu HTML.',
+'Board title help'					=>	'Tytuł forum (wyświetlany w nagłówku strony). To pole <strong>nie może</strong> zawierać kodu HTML.',
 'Board desc label'					=>	'Opis forum',
 'Board desc help'					=>	'Krótki opis forum (wyświetlany w nagłówku strony). To pole może zawierać kod HTML.',
 'Base URL label'					=>	'Adres URL',
@@ -137,11 +138,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'Kiedy funkcja jest wyłączona, w jednej chwili może być przeszukiwane tylko jedno forum. Wyłącz funkcję, jeśli serwer jest obciążony.',
 'Menu items label'					=>	'Dodatkowe pozycje menu',
 'Menu items help'					=>	'Dodatkowe odnośniki, które będą wyświetlane w menu forum. Format wprowadzania linków: X = &lt;a href="URL"&gt;LINK&lt;/a&gt;, gdzie X oznacza pozycję odnośnika na liście menu (np. 0 = na początku menu, 2 = po "Liście użytkowników"). Każdy odnośnik wpisuj w nowym wierszu.',
+
+// Feeds section
+'Feed subhead'                      =>  'Syndication',
 'Default feed label'				=>	'Domyślny typ kanału',
 'Default feed help'					=>	'Wybierz typ kanału do wyświetlania. Informacja: Wybranie "Brak" nie oznacza wyłączenia kanałów, a jedynie ukrycie odnośników do nich.',
 'None'								=>	'Brak',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'                    =>  'Duration to cache feeds',
+'Feed TTL help'                     =>  'Feeds can be cached to lower the resource usage of feeds.',
+'No cache'                          =>  'Don\'t cache',
+'Minutes'                           =>  '%d minutes',
 
 // Reports section
 'Reports subhead'					=>	'Ustawienia raportowania',
@@ -172,14 +180,17 @@ $lang_admin_options = array(
 'Admin e-mail help'					=>	'Adres e-mail do administratora forum.',
 'Webmaster e-mail label'			=>	'E-mail webmastera',
 'Webmaster e-mail help'				=>	'Adres e-mail, którym adresowane są wszystkie maile wysyłane za pomocą formularzy na forum.',
-'Subscriptions label'				=>	'Subskrypcje',
-'Subscriptions help'				=>	'Kiedy funkcja jest włączona, użytkownicy mogą subskybować wybrane wątki (odbieranie wiadomości e-mail, gdy ktoś odpowie w wątku).',
+'Forum subscriptions label'			=>	'Subskrypcje for',
+'Forum subscriptions help'			=>	'Kiedy funkcja jest włączona, użytkownicy mogą subskybować wybrane fora (odbieranie wiadomości e-mail, gdy ktoś utworzy nowy wątek).',
+'Topic subscriptions label'         =>  'Subskrypcje wątków',
+'Topic subscriptions help'          =>  'Kiedy funkcja jest włączona, użytkownicy mogą subskybować wybrane wątki (odbieranie wiadomości e-mail, gdy ktoś odpowie w wątku).',
 'SMTP address label'				=>	'Adres serwera SMTP',
 'SMTP address help'					=>	'Adres zewnętrznego serwera SMTP, do obsługi wysyłania wiadommości e-mail. Można określić niestandardowy numer portu, jeżeli serwer SMTP nie działa prawidłowo na domyślnym porcie 25 (np. mail.myhost.com:3580). Pozostaw to pole puste, jeżeli używasz lokalnego programu do obsługi wiadomości e-mail.',
 'SMTP username label'				=>	'Nazwa użytkownika SMTP',
 'SMTP username help'				=>	'Nazwa użytkownika dla serwera SMTP. Wpisz jedynie, gdy nazwa użytkownika jest wymagana przez serwer SMTP. (większość serwerów <strong>nie wymaga</strong> autoryzacji).',
 'SMTP password label'				=>	'Hasło SMTP',
-'SMTP password help'				=>	'Hasło dla serwera SMTP. Wpisz jedynie, gdy hasło jest wymagane przez serwer SMTP (większość serwerów <strong>nie wymaga</strong> autoryzacji).',
+'SMTP change password help'         =>  'Zaznacz to pole, jeśli chcesz zmienić, bądź usunąć aktualnie zapisane hasło.',
+'SMTP password help'				=>	'Hasło dla serwera SMTP. Wpisz jedynie, gdy hasło jest wymagane przez serwer SMTP (większość serwerów <strong>nie wymaga</strong> autoryzacji). W celu zatwierdzenia wprowadź hasło dwukrotnie.',
 'SMTP SSL label'					=>	'Szyfrowanie SMTP za pomocą SSL',
 'SMTP SSL help'						=>	'Szyfruj połączenie z serwerem SMTP za pomocą SSL. Funkcja ta powinna być używana jeśli serwer SMTP wymaga szyfrowania oraz jeśli używana wersja PHP obsługuje protokół SSL.',
 

@@ -1,11 +1,10 @@
 <?php
 
 // Language definitions used in admin_censoring.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_censoring = array(
 
-'Must enter both message'	=>	'Należy wprowadzić słowo do ocenzurowania oraz słowo, którym zostanie zamienione.',
-'Must search both message'	=>	'Należy wprowadzić słowo do wyszukania oraz słowo, którym zostanie zamienione.',
+'Must enter word message'   =>  'Wprowadź słowo do ocenzurowania.',
 'Word updated redirect'		=>	'Cenzura słowa została zaktualizowana. Przekierowywanie…',
 'Word added redirect'		=>	'Cenzura słowa została dodana. Przekierowywanie…',
 'Word removed redirect'		=>	'Cenzura słowa została usunięta. Przekierowywanie…',

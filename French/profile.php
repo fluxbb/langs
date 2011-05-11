@@ -69,11 +69,12 @@ $lang_profile = array(
  
 // Profile display stuff
 'Users profile'			=>	'Profil de %s',
-'Username info'			=>	'Nom d\utilisateur&#160;: %s',
+'Username info'			=>	'Nom d\'utilisateur&#160;: %s',
 'Email info'			=>	'E-mail&#160;: %s',
 'Posts info'			=>	'Messages&#160;: %s',
 'Registered info'		=>	'Inscription&#160;: %s',
 'Last post info'		=>	'Dernier message&#160;: %s',
+'Last visit info'               =>      'Dernière visite&#160;: %s',
 'Show posts'			=>	'Voir les messages de cet utilisateur',
 'Show topics'			=>	'Afficher toutes les discussions',
 'Show subscriptions'		=>	'Afficher toutes les discussions suivies',

@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin_ranks.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_ranks = array(
 
 'Must be integer message'	=>	'Minimalna liczba postów musi być liczbą naturalną.',

@@ -1,9 +1,9 @@
 <?php
 
-// Sprachdefinitionen, die in verschiedenen Seiten verwendet werden
+// Sprachdefinitionen, die in verschiedenen Bereichen verwendet werden
 $lang_misc = array(
 
-'Mark read redirect'			=>	'Alle Foren und Beiträge wurden als gelesen markiert. Leite weiter …',
+'Mark read redirect'			=>	'Alle Foren und Themen wurden als gelesen markiert. Leite weiter …',
 'Mark forum read redirect'		=>	'Alle Themen des angegebenen Forums wurden als gelesen markiert. Leite weiter …',
 
 // E-Mail-Versand
@@ -22,7 +22,7 @@ $lang_misc = array(
 // Bericht
 'No reason'						=>	'Du musst einen Grund angeben.',
 'Reason too long'				=>	'Deine Nachricht ist zu lang.',
-'Report flood'					=>	'Zwischen zwei Meldungen müssen mindestens %s Sekunden vergangen sein. Bitte warte etwas und versuchen es später noch einmal.',
+'Report flood'					=>	'Zwischen zwei Meldungen müssen mindestens %s Sekunden vergangen sein. Bitte warte etwas und versuche es später noch einmal.',
 'Report redirect'				=>	'Beitrag gemeldet. Leite weiter …',
 'Report post'					=>	'Beitrag melden',
 'Reason'						=>	'Begründung',
@@ -51,20 +51,20 @@ $lang_misc = array(
 'Move topics'					=>	'Themen verschieben',
 'Move legend'					=>	'Wähle ein Ziel aus, wohin dieses Thema verschoben werden soll',
 'Move to'						=>	'Verschieben nach',
-'Nowhere to move'				=>	'Es gibt keine Foren, in die du die Themen verschieben könntest.',
+'Nowhere to move'				=>	'Es gibt keine Foren, in die du Themen verschieben könntest.',
 'Leave redirect'				=>	'Aktiviere diese Option, wenn ein Hinweis auf das verschobene Thema hinterlassen werden soll.',
 'Move topic redirect'			=>	'Thema verschoben. Leite weiter …',
 'Move topics redirect'			=>	'Themen verschoben. Leite weiter …',
 'Confirm delete legend'			=>	'Bitte bestätige das Löschen',
 'Delete topics'					=>	'Themen löschen',
-'Delete topics comply'			=>	'Willst du die ausgewählten Themen wirklich löschen?',
+'Delete topics comply'			=>	'Willst du wirklich die ausgewählten Themen löschen?',
 'Delete topics redirect'		=>	'Themen gelöscht. Leite weiter …',
 'Open topic redirect'			=>	'Thema geöffnet. Leite weiter …',
 'Open topics redirect'			=>	'Themen geöffnet. Leite weiter …',
 'Close topic redirect'			=>	'Thema geschlossen. Leite weiter …',
 'Close topics redirect'			=>	'Themen geschlossen. Leite weiter …',
 'No topics selected'			=>	'Du musst mindestens ein Thema auswählen, um es zu ändern/löschen/öffnen/schließen.',
-'Not enough topics selected'	=>	'Du musst mindestens 2 Themen auswählen, die du zusammenführen möchten.',
+'Not enough topics selected'	=>	'Du musst mindestens 2 Themen auswählen, die du zusammenführen möchtest.',
 'Stick topic redirect'			=>	'Thema fixiert. Leite weiter …',
 'Unstick topic redirect'		=>	'Themenfixierung gelöst. Leite weiter …',
 'Merge topics'					=>	'Themen zusammenführen',
@@ -73,10 +73,10 @@ $lang_misc = array(
 'New subject'					=>	'Neuer Betreff',
 
 // Mehrere Beiträge in Themen teilen
-'Confirm split legend'			=>	'Bitte bestätige das Teilen der ausgewählten Beiträge.',
-'Split posts'					=>	'Beiträge teilen',
-'Split posts comply'			=>	'Willst du wirklich die ausgewählten Beiträge teilen?',
-'Split posts redirect'			=>	'Die Beiträge wurden geteilt. Leite weiter …',
+'Confirm split legend'			=>	'Bitte bestätige das Teilen der ausgewählten Beiträge und wähle das Zielforum für das neue Thema.',
+'Split posts'					=>	'Beiträge abtrennen',
+'Split posts comply'			=>	'Willst du wirklich die ausgewählten Beiträge abtrennen?',
+'Split posts redirect'			=>	'Die Beiträge wurden abgetrennt. Leite weiter …',
 
 // Beiträge in Themen löschen
 'Delete posts'					=>	'Beiträge löschen',
@@ -88,6 +88,6 @@ $lang_misc = array(
 // Hostinformationen
 'Host info 1'					=>	'Die IP-Adresse ist: %s',
 'Host info 2'					=>	'Der Hostname ist: %s',
-'Show more users'		        =>	'Weitere Mitglieder mit dieser IP anzeigen',
+'Show more users'				=>	'Weitere Mitglieder mit dieser IP anzeigen',
 
 );

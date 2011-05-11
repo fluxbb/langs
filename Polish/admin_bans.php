@@ -1,12 +1,13 @@
 <?php
 
 // Language definitions used in admin_bans.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_bans = array(
 
 'No user message'			=>	'Brak zarejestrowanego użytkownika o podanej nazwie. Jeśli nie chcesz dodać bana konkretnemu użytkownikowi, pozostaw to pole puste.',
 'No user ID message'		=>	'Brak zarejestrowanego użytkownika o podanym ID.',
-'User is admin message'		=>	'Użytkownik %s jest Administratorem, więc nie może zostać zbanowany. Jeśli chcesz dodać bana Administratorowi, najpierw musi on zostać zdegradowany do grupy Moderatora lub Użytkownika.',
+'User is admin message'		=>	'Użytkownik %s jest Administratorem, więc nie może zostać zbanowany. Jeśli chcesz dodać bana Administratorowi, najpierw musi on zostać zdegradowany do grupy Użytkowników.',
+'User is mod message'       =>  'Użytkownik %s jest Moderatorem, więc nie może zostać zbandowany. Jeśli chcesz dodać bana Moderatorowi, najpierw musi on zostać zdegradowany do grupy Użytkowników.', 
 'Must enter message'		=>	'Należy wprowadzić co najmniej nazwę użytkownika, adres IP lub adres e-mail.',
 'Cannot ban guest message'	=>	'Konto Gościa nie może zostać zbanowane.',
 'Invalid IP message'		=>	'Wprowadziłeś niepoprawny adres IP, bądź zakres adresów IP.',
@@ -25,7 +26,7 @@ $lang_admin_bans = array(
 
 'Ban search head'			=>	'Wyszukiwanie banów',
 'Ban search subhead'		=>	'Kryteria wyszukiwania',
-'Ban search info'			=>	'Wyszukiwarka banów w bazie forum. Możesz wprowadzić jedno lub więcej kryteriów wyszukiwania. Znak (*) zastępuje dowolny ciąg znaków.',
+'Ban search info'			=>	'Wyszukiwarka banów w bazie forum. Możesz wprowadzić jedno lub więcej kryteriów wyszukiwania. Znak (*) zastępuje dowolny ciąg znaków. W celu wyświetlenia wszystkich banów, pozostaw poniższe pola puste.',
 'Date help'					=>	'(rrrr-mm-dd)',
 'Message label'				=>	'Wiadomość',
 'Expire after label'		=>	'Data wygaśnięcia po',

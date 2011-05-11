@@ -26,6 +26,7 @@ $lang_topic = array(
 'Quick post'		=>	'快速回復',
 'Mod controls'		=>	'Moderator controls',
 'New icon'			=>	'New post',
-'Re'				=>	'Re:'
+'Re'				=>	'Re:',
+'Preview'			=>	'預覽'
 
 );

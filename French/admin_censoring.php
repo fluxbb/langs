@@ -3,7 +3,7 @@
 // Language definitions used in admin_censoring.php
 $lang_admin_censoring = array(
 
-'Must enter both message'		=>	'Vous devez indiquer un mot à censurer.',
+'Must enter word message'		=>	'Vous devez indiquer un mot à censurer.',
 'Word updated redirect'			=>	'Mot censuré mis à jour. Redirection&#160;…',
 'Word added redirect'			=>	'Mot censuré ajouté. Redirection&#160;…',
 'Word removed redirect'			=>	'Mot censuré supprimé. Redirection&#160;…',

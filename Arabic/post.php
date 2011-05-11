@@ -5,8 +5,10 @@ $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'			=>	'من فضلك أدخل عنوان الموضوع',
+'No subject after censoring'	=>	'عنواين المواضيع يجب أن لا تكون فارغة، بعد تطبيق حجب الكلمات، العنوان اصبح فارغاً.',
 'Too long subject'		=>	'يرجى إدخال عنوان الموضوع أقل من70 حرفا',
 'No message'			=>	'أدخل نص المداخلة.',
+'No message after censoring'	=>	'المداخلة يجب أن لا تكون فارغة، بعد تطبيق حجب الكلمات، المداخلة اصبحت فارغة.',
 'Too long message'		=>	'المداخلات أكبر من 65535 بايت غير مسموح.',
 'All caps subject'	=>	'العناوين يجب أن لا تحوي فقط أحرف لاتينية عالية.',
 'All caps message'	=>	'المداخلات يجب أن لا تحوي فقط أحرف لاتينية عالية.',

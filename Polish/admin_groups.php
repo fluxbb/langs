@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin-groups.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Należy wprowadzić nazwę grupy.',

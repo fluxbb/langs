@@ -50,7 +50,7 @@ $lang_common = array(
 'Send email'						=>	'發送郵件',
 'Moderated by'						=>	'版主：',
 'Registered'						=>	'註冊時間',
-'Subject'							=>	'主題',
+'Subject'							=>	'標題',
 'Message'							=>	'內容',
 'Topic'								=>	'主題',
 'Forum'								=>	'論壇',
@@ -69,6 +69,7 @@ $lang_common = array(
 'Write message legend'				=>	'填寫內容後點擊按鈕提交',
 'Previous'							=>	'上一頁',
 'Next'								=>	'下一頁',
+'Forum index'						=>	'論壇首頁',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -101,14 +102,17 @@ $lang_common = array(
 'Logged in as'						=>	'歡迎回來：',
 'Admin'								=>	'管理設置',
 'Last visit'						=>	'上次登錄： %s',
-'New posts'							=>	'新帖子',
-'Active topics'						=>	'活躍的主題',
-'Unanswered topics'					=>	'未回復的主題',
+'Topic searches'					=>	'主題:',
+'New posts header'					=>	'已更新',
+'Active topics'						=>	'活躍中',
+'Unanswered topics'					=>	'無回復',
+'Posted topics'						=>	'已參與',
 'Show new posts'					=>	'查看您上次登錄後出現的新帖子。',
 'Show active topics'				=>	'查看包含最近回復的主題。',
 'Show unanswered topics'			=>	'查看還未被回復過的主題。',
+'Show posted topics'				=>	'查看您參與過的主題。',
 'Mark all as read'					=>	'標記所有帖子為已讀',
-'Mark forum read'					=>	'標記該論壇為已讀',
+'Mark forum read'					=>	'標記該版塊為已讀',
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
@@ -117,11 +121,11 @@ $lang_common = array(
 'Go'								=>	'前往', // Submit button in forum jump
 'Moderate topic'					=>	'管理主題',
 'Move topic'						=>	'移動主題',
-'Open topic'						=>	'開啟主題',
+'Open topic'						=>	'開放主題',
 'Close topic'						=>	'關閉主題',
 'Unstick topic'						=>	'解除置頂',
 'Stick topic'						=>	'置頂主題',
-'Moderate forum'					=>	'管理論壇',
+'Moderate forum'					=>	'管理該版',
 'Powered by'						=>	'Powered by %s',
 
 // Debug information

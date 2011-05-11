@@ -28,8 +28,8 @@ $lang_admin_permissions = array(
 'Max sig lines label'		=>	'Maximale Signaturzeilen-Anzahl',
 'Max sig lines help'		=>	'Legt die maximale Anzahl von Zeilen fest, die eine Mitglieder-Signatur enthalten darf.',
 'Registration subhead'		=>	'Registrierung',
-'Banned e-mail label'		=>	'Gebannte Email-Adressen erlauben',
-'Banned e-mail help'		=>	'Erlaubt Mitgliedern, sich mit einer gebannten Email-Adresse/Domain zu registrieren oder die Email-Adresse auf einen solchen Wert zu ändern. Bleiben die Voreinstellungen unverändert (ja), wird diese Aktion erlaubt, aber es wird eine Warn-Nachricht an die Mailingliste versandt (ein effektiver Weg, um Mehrfachregistrierungen zu erkennen).',
+'Banned e-mail label'		=>	'Gesperrte Email-Adressen erlauben',
+'Banned e-mail help'		=>	'Erlaubt Mitgliedern, sich mit einer gesperrten Email-Adresse/Domain zu registrieren oder die Email-Adresse auf einen solchen Wert zu ändern. Bleiben die Voreinstellungen unverändert (ja), wird diese Aktion erlaubt, aber es wird eine Warn-Nachricht an die Mailingliste versandt (ein effektiver Weg, um Mehrfachregistrierungen zu erkennen).',
 'Duplicate e-mail label'	=>	'Doppelte Email-Adressen erlauben',
 'Duplicate e-mail help'		=>	'Legt fest, ob sich ein neues Mitglied mit einer Email-Adresse registrieren darf, die bereits von einem anderen Mitglied verwendet wird. Ist dies erlaubt, wird eine Warn-Nachricht an die Mailingliste versandt, sobald die Dopplung festgestellt wird.',
 

@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in admin-forums.php
-// Polish (UTF-8 v1.4.2): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'Forum zostało dodane. Przekierowywanie…',
@@ -41,6 +41,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'Sortuj tematy według',
 'Last post'					=>	'Ostatni post',
 'Topic start'				=>	'Data rozpoczęcia tematu',
+'Subject'                   =>  'Temat',
 'Redirect label'			=>	'Adres przekierowania',
 'Redirect help'				=>	'Dostępne, gdy forum jest puste.',
 'Group permissions subhead'	=>	'Edytuj uprawnienia grup w tym forum',

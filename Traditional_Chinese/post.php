@@ -5,8 +5,10 @@ $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'		=>	'主題必須要包含一個標題。',
+'No subject after censoring'	=>	'主題必須要包含一個標題。您的主題經過詞彙過濾後，標題已為空。',
 'Too long subject'	=>	'標題長度不能超過70字節。',
 'No message'		=>	'帖子內容必須填寫。',
+'No message after censoring'	=>	'帖子內容必須填寫。您的帖子經過詞彙過濾後，內容已為空。',
 'Too long message'	=>	'帖子長度不能超過%s字節。',
 'All caps subject'	=>	'標題不能只包含大寫字母。',
 'All caps message'	=>	'帖子不能只包含大寫字母。',
