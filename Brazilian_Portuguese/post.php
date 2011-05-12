@@ -5,8 +5,10 @@ $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'		=>	'Tópicos devem ter um assunto.',
+'No subject after censoring'	=>	'Tópicos devem conter um assunto. Após aplicar os filtros de censura, o seu assunto ficou vazio.',
 'Too long subject'	=>	'Assuntos não podem ter mais de 70 caracteres.',
 'No message'		=>	'Você deve digitar um mensagem.',
+'No message after censoring'	=>	'Você deve digitar uma mensagem. Após aplicar os filtros de censura, sua mensagem ficou vazia.',
 'Too long message'	=>	'Mensagens não podem ter mais que %s bytes.',
 'All caps subject'	=>	'Assuntos não podem conter apenas letras em maiúsculas.',
 'All caps message'	=>	'Mensagens não podem conter apenas letras em maiúsculas.',

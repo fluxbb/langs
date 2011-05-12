@@ -73,7 +73,7 @@ $lang_misc = array(
 'New subject'					=>	'Novo assunto',
 
 // Split multiple posts in topic
-'Confirm split legend'			=>	'Por favor confirme a divisão das mensagens selecionadas.',
+'Confirm split legend'			=>	'Por favor confirme a divisão das mensagens selecionadas e selecione o destino para onde movê-las.',
 'Split posts'					=>	'Dividir mensagens',
 'Split posts comply'			=>	'Você tem certeza que deseja dividir as mensagens selecionadas?',
 'Split posts redirect'			=>	'Mensagens divididas. Redirecionando …',
