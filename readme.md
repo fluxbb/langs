@@ -8,6 +8,6 @@
 *  Kurdish - [webchin.org](http://www.webchin.org/)
 *  Polish - [FluxBB.orge.pl](http://fluxbb.orge.pl)
 *  Russian - [Форум FluxBB](http://fluxbb.org.ru/forum/viewtopic.php?id=3140)
-*  Simplified Chinese - [crlin](https://fluxbb.org/forums/profile.php?id=56389) & [ehtime](https://fluxbb.org/forums/profile.php?id=3031)
+*  Simplified Chinese - [ehtime](https://fluxbb.org/forums/profile.php?id=3031)
 *  Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)
-*  Traditional Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58), [coolhd](http://fluxbb.org/forums/profile.php?id=99) & [taylorchu](http://tailinchu.tk/bbs)
+*  Traditional Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58), [coolhd](http://fluxbb.org/forums/profile.php?id=99) , [taylorchu](http://tailinchu.tk/bbs), [crlin](https://fluxbb.org/forums/profile.php?id=56389)
