@@ -30,7 +30,7 @@ $lang_help = array(
 'My email address'		=>	'Il mio indirizzo email',
 'Images info'			=>	'Per pubblicare un\'immagine utilizzare il marcatore [img]. Il testo che precede l\'uguale ("=") nel marcatore di apertura pu&ograve; essere usato per indicare un testo alternativo.',
 
-'FluxBB bbcode test'  	=>  'Test BBcode'
+'FluxBB bbcode test'  	=>  'Test BBcode',
 'Quotes'				=>	'Citazioni',
 'Quotes info'			=>	'Per citare un testo a cui fare riferimento o rispondere, utilizzare il marcatore [quote].',
 'Quotes info 2'			=>	'Per non citare qualcuno in particolare, utilizzare il marcatore senza specificare un nome utente.',
