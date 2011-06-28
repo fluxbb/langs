@@ -13,7 +13,7 @@ $lang_install = array(
 'Already installed'				=>	'Parece que o FluxBB já está instalado. Você deve seguir para <a href="index.php">here</a> ao invés disso.',
 'You are running error'			=>	'Você está rodando %1$s versão %2$s. FluxBB %3$s exige ao menos %1$s %4$s para funcionar corretamente. Você deve atualizar sua instalação %1$s antes de poder continuar.',
 'My FluxBB Forum'				=>	'Meu Fórum FluxBB',
-'Description'					=>	'Infelizmente não é possível definir o que é o FluxBB - você tem que ver po si mesmo.',
+'Description'					=>	'Infelizmente não é possível definir o que é o FluxBB - você tem que ver por si mesmo.',
 'Username 1'					=>	'Nomes de usuários devem ter ao menos 2 caracteres.',
 'Username 2'					=>	'Nomes de usuários não podem ter mais que 25 caracteres.',
 'Username 3'					=>	'O nome de usuário visitante é reservado.',
