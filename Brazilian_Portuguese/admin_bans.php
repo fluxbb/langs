@@ -5,7 +5,8 @@ $lang_admin_bans = array(
 
 'No user message'			=>	'Nenhum usuário registrado com este nome de usuário. Se você deseja adicionar um ban não ligado à um nome de usuário específico apenas deixe o nome de usuário em branco.',
 'No user ID message'		=>	'Nenhum usuário registrado com esta ID.',
-'User is admin message'		=>	'O usuário %s é um administrador e não pode ser banido. Se você deseja banir um administrador, você precisa primeiro rebaixá-lo para moderador ou usuário.',
+'User is admin message'		=>	'O usuário %s é um administrador e não pode ser banido. Se você deseja banir um administrador, precisa primeiro rebaixá-lo para usuário.',
+'User is mod message'		=>	'O usuário %s é um moderador e não pode ser banido. Se você deseja banir um moderador, precisa primeiro rebaixá-lo para usuário.',
 'Must enter message'		=>	'Você deve fornecer um nome de usuário, endereço IP ou endereço de email (ao menos).',
 'Cannot ban guest message'	=>	'O usuário visitante não pode ser banido.',
 'Invalid IP message'		=>	'Você forneceu um endereço ou faixa de endereços IP inválido.',

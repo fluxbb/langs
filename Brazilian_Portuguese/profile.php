@@ -74,6 +74,7 @@ $lang_profile = array(
 'Posts info'					=>	'Mensagens: %s',
 'Registered info'				=>	'Registrado: %s',
 'Last post info'				=>	'Última mensagem: %s',
+'Last visit info'				=>	'Última visita: %s',
 'Show posts'					=>	'Exibir todas as mensagens',
 'Show topics'					=>	'Exibir todos os tópicos',
 'Show subscriptions'			=>	'Exibir todas as inscrições',

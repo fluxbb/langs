@@ -137,11 +137,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'Quando desativado, pesquisas só serão permitidas em um fórum por vez. Desative se o servidor estiver sobrecarregado devido ao excesso de pesquisas.',
 'Menu items label'					=>	'Itens de menu adicionais',
 'Menu items help'					=>	'Ao inserir hyperlinks HTML nesta caixa de texto, qualquer número de itens pode ser adicionado ao menu de navegação no topo de todas as páginas. O formato para adicionar novos links é X = &lt;a href="URL"&gt;LINK&lt;/a&gt; onde X é a posição na qual o link deverá ser inserido (ex. 0 para inserir no início e 2 para inserir após "Lista de usuários"). Separe cada item com uma quebra de linha.',
+
+// Feeds section
+'Feed subhead'						=>	'Feeds',
 'Default feed label'				=>	'Tipo de feed padrão',
 'Default feed help'					=>	'Selecione o tipo de feed de distribuição a ser utilizado. Nota: Não escolher nenhum não irá desativar os feeds, apenas ocultá-los por padrão.',
 'None'								=>	'Nenhum',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'					=>	'Duração de cache dos feeds',
+'Feed TTL help'						=>	'Os feeds podem ter um cache para reduzir o uso de recursos com os feeds.',
+'No cache'							=>	'Não usar cache',
+'Minutes'							=>	'%d minutos',
 
 // Reports section
 'Reports subhead'					=>	'Relatórios',
