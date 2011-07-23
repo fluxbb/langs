@@ -75,8 +75,7 @@ $lang_admin_groups = array(
 'Post flood help'				=>	'ژمارەی ئەو چرکانەی کە دەبێت ئەم گرووپە چاوەڕێ بن بۆ ناردنی بابەتی نوێ، بیکە بە 0 بۆ ناچالاککردن.',
 'Search flood label'			=>	'کاتی شەپۆلی گەڕان',
 'Search flood help'				=>	'ژمارەی ئەو چرکانەی کە دەبێت ئەم گرووپە چاوەڕێ بن بۆ گەڕانێکی نوێ، بیکە بە 0 بۆ ناچالاککردنی.',
-'E-mail flood label'			=>	'Email flood interval',
-'E-mail flood help'				=>	'Number of seconds that users in this group have to wait between emails. Set to 0 to disable.',
-'Moderator info'				=>	'Please note that in order for a user in this group to have moderator abilities, he/she must be assigned to moderate one or more forums. This is done via the user administration page of the user\'s profile.',
-
+'E-mail flood label'			=>	'کاتی شەپۆلی پۆستی ئەلیکترۆنی',
+'E-mail flood help'				=>	'ژمارەی ئەو چرکانەی کە دەبێت ئەم گرووپە چاوەڕێ بن بۆ ناردنی پۆستیێکی نوێ، بیکە بە 0  بۆ ناچالاککردن.',
+'Moderator info'				=>	'کاتێک بتەوێت بەکارهێنەرێکی نێو ئەم گرووپە دەسەڵاتی چاودێری هەبێت، دەبێت هیچ نەبێت چاودێری مەکۆیەک یان زۆرتر بکات ئەمەش لە ڕێگای پەڕەی بەڕێوبەرایەتی بۆ پرۆفایلی ئەندام دەکرێت',
 );
