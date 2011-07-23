@@ -5,7 +5,7 @@
 *  Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
 *  Italian - [Oscon](http://www.oscon.it)
 *  Japanese - [sama55 & megu](http://cmsbox.jp/forums/)
-*  Kurdish - [webchin.org](http://www.webchin.org/)
+*  Kurdish - 
 *  Polish - [FluxBB.orge.pl](http://fluxbb.orge.pl)
 *  Russian - [Форум FluxBB](http://fluxbb.org.ru/forum/viewtopic.php?id=3140)
 *  Simplified Chinese - [ehtime](https://fluxbb.org/forums/profile.php?id=3031)
