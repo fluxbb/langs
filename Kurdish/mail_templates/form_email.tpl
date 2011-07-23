@@ -1,8 +1,8 @@
 Subject: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
+<sender> لە <board_title> پەیامێکی بۆ ناردووی. دەتوانی وەڵامی  <sender> بدەیتەوە ئەویش بەوەی وەڵامی ئەم پۆستی ئەلکترۆنیە بدەیتەوە
 
-The message reads as follows:
+پەیامەکە بەم شێوەیە دەخوێندرێتەوە:
 -----------------------------------------------------------------------
 
 <mail_message>

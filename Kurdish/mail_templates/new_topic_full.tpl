@@ -1,18 +1,22 @@
-Subject: New topic in forum: '<forum_name>'
+Subject:  بابەتی نوێ لە مەکۆی: '<forum_name>'
 
-<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
+<poster> بابەتێکی نوێی نووسی '<topic_subject>' لە مەکۆی '<forum_name>', کە تۆ بەشداری لەو مەکۆیەدا.
 
-The message reads as follows:
+بابەت لێرەوەیە <topic_url>
+
+
+
+پەیام بەم شێوەیە دەخوێندرێتەوەs:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-The topic is located at <topic_url>
+بابەت لێرەوەیە <topic_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+دەتواننی بەشداربوونت لەم بابەتە بسڕیتەوە ئەویش بەوەی سەردانی ئەمە بکەی <unsubscribe_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(وەڵامی ئەم پەیامە مەدەرەوە)
