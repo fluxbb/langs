@@ -3,18 +3,18 @@
 // Language definitions used in admin_reports.php
 $lang_admin_reports = array(
 
-'Report zapped redirect'	=>	'Report marked as read. Redirecting …',
-'New reports head'			=>	'New reports',
-'Deleted user'				=>	'Deleted user',
-'Deleted'					=>	'Deleted',
-'Report subhead'			=>	'Reported %s',
-'Reported by'				=>	'Reported by %s',
-'Reason'					=>	'Reason',
-'Zap'						=>	'Mark as read',
-'No new reports'			=>	'There are no new reports.',
-'Last 10 head'				=>	'10 last read reports',
+'Report zapped redirect'	=>	'ڕاپۆرت نیشانکرا وەکو خوێندراوە. گەڕاندنەوە...',
+'New reports head'			=>	'ڕاپۆرتە نوێیەکان',
+'Deleted user'				=>	'بەکارهێنەری سڕاوە',
+'Deleted'					=>	'سڕاوە',
+'Report subhead'			=>	'%s ڕاپۆرتکراو',
+'Reported by'				=>	'ڕاپۆرتکراوە لەلایەن %s',
+'Reason'					=>	'هۆکار',
+'Zap'						=>	'نیشانبکە وەکو خوێندراوە',
+'No new reports'			=>	'هیچ ڕاپۆرتێکی نوێ نییە.',
+'Last 10 head'				=>	'دوایین 10 ڕاپۆرتی خوێندراوە',
 'NA'						=>	'N/A',
-'Zapped subhead'			=>	'Marked as read %s by %s',
-'No zapped reports'			=>	'There are no read reports.',
+'Zapped subhead'			=>	'نیشانکرا وەکو خوێندراوە %s لەلایەن %s',
+'No zapped reports'			=>	'هیچ ڕاپۆرتێکی خوێندراو نییە.',
 
 );
