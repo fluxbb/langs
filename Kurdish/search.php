@@ -58,7 +58,7 @@ $lang_search = array(
 'No subscriptions'					=>	'ئەو بەکارهێنەرە لە هیچ بابەتێک بەشدارینەکراوە',
 'No new posts'						=>	'هیچ پەیامێکی نوێ نییە لەدوا سەردانتەوە',
 'No recent posts'					=>	'هیچ پەیامی نوێ نەنێردراوە لەماوەی ٢٤ کاتژمێری ڕابردوو',
-'No unanswered'						=>	'هیچ پەیامێکی وەڵامندەراو نییە لەو مەکۆیەThere are no unanswered posts in this forum.',
+'No unanswered'						=>	'هیچ پەیامێکی وەڵامندەراو نییە لەو مەکۆیە',
 'Go to post'						=>	'بڕۆ بۆ پەیام',
 'Go to topic'						=>	'بڕۆ بۆ بابەت'
 

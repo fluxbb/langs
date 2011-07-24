@@ -16,7 +16,7 @@ $lang_post = array(
 
 // Posting
 'Post errors'		=>	'هەڵەکانی پەیام',
-'Post errors info'	=>	':ئەو هەڵانە پێویستە ڕاستبکرنەوە پێش ناردنی پەیامەکە',
+'Post errors info'	=>	'ئەو هەڵانە پێویستە ڕاستبکرنەوە پێش ناردنی پەیامەکە:',
 'Post preview'		=>	'پێشبینی پەیام',
 'Guest name'		=>	'ناو', // For guests (instead of Username)
 'Post redirect'		=>	'..پەیام نووسرا ،گەڕاندنەوە',

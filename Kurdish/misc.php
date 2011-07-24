@@ -66,28 +66,28 @@ $lang_misc = array(
 'No topics selected'			=>	'دەبێ بە لایەنی کەم بابەتێک هەڵبژێری بۆ گواستنەوە.سرینەوە/کردنەوە/داخستن',
 'Not enough topics selected'	=>	'دەبێ بە لایەنی کەم بابەتێک یان دووان هەڵبژێری بۆ یەکخستن',
 'Stick topic redirect'			=>	'..بابەت جێگیرکرا ،گەڕاندنەوە',
-'Unstick topic redirect'		=>	'Topic unsticked. Redirecting …',
+'Unstick topic redirect'		=>	'بابەت لادرا لە جێگیریی. گەڕاندنەوە...',
 'Merge topics'					=>	'بابەتەکان یەکبخە',
 'Merge topics redirect'			=>	'بابەتەکان یەکخران ،گەڕاندنەوە',
-'Confirm merge legend'			=>	'Please confirm merge',
+'Confirm merge legend'			=>	'تکایە لکاندن دڵنیابکەوە',
 'New subject'					=>	'سەردێڕی نوێ',
 
 // Split multiple posts in topic
-'Confirm split legend'			=>	'Please confirm split of selected posts and select destination of move.',
-'Split posts'					=>	'Split posts',
-'Split posts comply'			=>	'Are you sure you want to split the selected posts?',
-'Split posts redirect'			=>	'Posts have been split. Redirecting …',
+'Confirm split legend'			=>	'تکایە جیاکردنەوەی پەیامە دەستنیشان کراوەکان دڵنیابکەوە و مەودای گواستنەوە دیاریبکە.',
+'Split posts'					=>	'پەیامەکان جیابکەوە',
+'Split posts comply'			=>	'دڵنیایت کە دەتەوێ پەیامە دەستنیشان کراوەکان جیابکەیەوە؟',
+'Split posts redirect'			=>	'پەیامەکان جیاکرانەوە. گەڕاندنەوە...',
 
 // Delete multiple posts in topic
 'Delete posts'					=>	'پەیامەکان بسڕەوە',
-'Cannot select first'			=>	'First post cannot be selected for split/delete.',
-'Delete posts comply'			=>	'Are you sure you want to delete the selected posts?',
-'Delete posts redirect'			=>	'Posts deleted. Redirecting …',
-'No posts selected'				=>	'You must select at least one post for split/delete.',
+'Cannot select first'			=>	'پەیامی سەرەتا ناتوانرێ دەستنیشان بکرێ بۆ جیاکردنەوە/سڕینەوە.',
+'Delete posts comply'			=>	'دڵنیایت لە سڕینەوەی پەیامە دەستنیشان کراوەکان؟',
+'Delete posts redirect'			=>	'پەیامەکان سڕانەوە. گەڕاندنەوە...',
+'No posts selected'				=>	'پێویستە بەلایەنی کەم پەیامێک دەستنیشان بکەی بۆ جیاکردنەوە/سڕینەوە.',
 
 // Get host
-'Host info 1'					=>	'The IP address is: %s',
-'Host info 2'					=>	'The host name is: %s',
-'Show more users'				=>	'Show more users for this IP',
+'Host info 1'					=>	'ناونیشانی IP بریتییە: %s',
+'Host info 2'					=>	'ناوی خانەجوێ بریتییە: %s',
+'Show more users'				=>	'بەکارهێنەری زیاتر نیشانبدە بۆ ئەم IP ــە',
 
 );
