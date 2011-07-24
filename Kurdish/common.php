@@ -43,13 +43,13 @@ $lang_common = array(
 'Last post'							=>	'دوایین پەیام',
 'by'								=>	'لەلایەن', // As in last post by someuser
 'New posts'							=>	'پەیامە نوێیەکان', // The link that leads to the first new post
-'New posts info'					=>	'Go to the first new post in this topic.', // The popup text for new posts links
+'New posts info'					=>	'بڕۆ بۆ یەکەم پەیام لەم بابەتە.', // The popup text for new posts links
 'Username'							=>	'ناوی بەکارهێنەر',
 'Password'							=>	'تێپەڕەووشە',
 'Email'								=>	'ئیمەیڵ',
 'Send email'						=>	'ئیمەیڵ بنێرە',
 'Moderated by'						=>	'چاودێریکردن لەلایەن',
-'Registered'						=>	'تۆماربوو',
+'Registered'						=>	'تۆماربوو: ',
 'Subject'							=>	'سەردێڕ',
 'Message'							=>	'پەیام',
 'Topic'								=>	'بابەت',
@@ -126,7 +126,7 @@ $lang_common = array(
 'Unstick topic'						=>	'دەرهێنانی لە جێگیریی',
 'Stick topic'						=>	'بابەت جێگیربکە',
 'Moderate forum'					=>	'مەکۆ چاودێریبکە',
-'Powered by'						=>	'بەهێزە بەدوا سەردان: %s',
+'Powered by'						=>	'بەهێزە بە : %s',
 
 // Debug information
 'Debug table'						=>	'زانیاری هەڵەدۆزین',
