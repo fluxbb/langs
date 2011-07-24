@@ -65,14 +65,14 @@ $lang_profile = array(
 'Upload'						=>	'بارکردن', // submit button
 
 // Form validation stuff
-'Forbidden title'				=>	'The title you entered contains a forbidden word. You must choose a different title.',
+'Forbidden title'				=>	'ئەو ناونیشانەی هەڵتبژاردووە قەدەغەکراوە، بۆیە ناونیشانێکی تر هەڵبژێرە.',
 'Profile redirect'				=>	'..پرۆفایل نوێکرایەوە ،گەڕاندنەوە',
 
 // Profile display stuff
 'Users profile'					=>	'پرۆفایلی %s\'',
 'Username info'					=>	'بەکارهێنەر: %s',
 'Email info'					=>	'ئیمەیڵ: %s',
-'Posts info'					=>	'پەیامەکان: %s',
+'Posts info'					=>	'پەیامەکانی:  %s',
 'Registered info'				=>	'تۆماربووە: %s',
 'Last post info'				=>	'دوایین پەیام: %s',
 'Show posts'					=>	'نیشاندانی سەرجەم پەیامەکان',
