@@ -10,5 +10,5 @@ Klicke diesen Link, um das neue Passwort zu aktivieren:
 <activation_url>
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Antworte nicht auf diese Nachricht)

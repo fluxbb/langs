@@ -14,6 +14,7 @@ $lang_search = array(
 'Author search'						=>	'Autor suchen',
 'Search in legend'					=>	'Wähle, wo gesucht werden soll',
 'Search in info'					=>	'Wähle, in welchem Forum gesucht werden soll und ob sich die Suche nur auf Thementitel, Beitragstexte oder beides erstrecken soll.',
+'Search multiple forums info'		=>	'Wenn keine Foren ausgewählt sind, werden alle Foren durchsucht.',
 'Forum search'						=>	'Forum',
 'All forums'						=>	'Alle Foren',
 'Search in'							=>	'Suche in',
@@ -36,8 +37,6 @@ $lang_search = array(
 
 // Ergebnisse
 'Search results'					=>	'Suchergebnisse',
-'Search topics'						=>	'Themen suchen',
-'Search posts'						=>	'Beiträge suchen',
 'Quick search show_new'				=>	'Neu',
 'Quick search show_recent'			=>	'Aktiv',
 'Quick search show_unanswered'		=>	'Unbeantwortet',

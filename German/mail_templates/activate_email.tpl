@@ -8,5 +8,5 @@ Klicke diesen Link, um die neue E-Mail-Adresse zu aktivieren:
 <activation_url>
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Antworte nicht auf diese Nachricht)

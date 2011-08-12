@@ -77,6 +77,8 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'Anzahl der Sekunden, die Mitglieder dieser Gruppe zwischen 2 Suchvorgängen warten müssen. Mit 0 wird dies deaktiviert.',
 'E-mail flood label'			=>	'Email-Intervall',
 'E-mail flood help'				=>	'Anzahl der Sekunden, die Mitglieder dieser Gruppe zwischen dem Versand von Emails warten müssen. Mit 0 wird dies deaktiviert.',
+'Report flood label'			=>	'Meldungs-Interval',
+'Report flood help'				=>	'Anzahl der Sekunden, die Mitglieder dieser Gruppe zwischen dem Versand von Meldungen warten müssen. Mit 0 wird dies deaktiviert.',
 'Moderator info'				=>	'Bitte beachten: Wenn ein Mitglied dieser Gruppe diese moderieren soll, muss ihm/ihr die Berechtigung zum Moderieren einer oder mehrerer Foren zugeordnet werden. Dies erfolgt in der Mitglieder-Administration in dessen Profil.',
 
 );

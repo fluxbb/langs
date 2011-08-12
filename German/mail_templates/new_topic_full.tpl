@@ -14,5 +14,5 @@ Das Thema ist unter <topic_url> zu finden
 Du kannst dieses Abonnement über den Link <unsubscribe_url> abbestellen.
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Antworte nicht auf diese Nachricht)

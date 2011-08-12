@@ -10,4 +10,4 @@ Dies ist die Nachricht:
 -----------------------------------------------------------------------
 
 --
-<board_mailer>
+<board_mailer> Mailer

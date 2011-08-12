@@ -25,9 +25,15 @@ $lang_help = array(
 
 'Links and images'		=>	'Links und Bilder',
 'Links info'			=>	'Du kannst mit den folgenden Tags Links auf andere Dokumente oder zu einer E-Mail-Adresse erzeugen:',
+'This help page'		=>	'Diese Hilfe-Seite',
 'My email address'		=>	'Meine E-Mail-Adresse',
 'Images info'			=>	'Du kannst auch Bilder einbinden.',
 'FluxBB bbcode test'	=>	'FluxBB BBCode-Test',
+
+'Test topic'			=>	'Test-Thema',
+'Test post'				=>	'Test-Beitrag',
+'Test forum'			=>	'Test-Forum',
+'Test user'				=>	'Test-Mitglied',
 
 'Quotes'				=>	'Zitate',
 'Quotes info'			=>	'Um Textstellen zu zitieren, kopierst du den Text, den du zitieren möchtest, in den Beitrag und umschließt ihn mit dem [quote]-Tag.',
