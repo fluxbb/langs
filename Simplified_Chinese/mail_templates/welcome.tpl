@@ -8,5 +8,5 @@
 请通过页面 <login_url> 登录以激活您的账号。
 
 --
-<board_mailer>
+<board_mailer>邮件服务
 （请勿回复该邮件）

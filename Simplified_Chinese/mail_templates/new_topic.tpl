@@ -7,5 +7,5 @@
 要取消对该版块的订阅请点击链接 <unsubscribe_url>
 
 --
-<board_mailer>
+<board_mailer>邮件服务
 （请勿回复该邮件）
