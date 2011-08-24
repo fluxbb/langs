@@ -64,12 +64,11 @@ $lang_common = array(
 'and'								=>	'e',
 'Image link'						=>	'imagem', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'								=>	'escreveu:', // For [quote]'s
-'Mailer'							=>	'Correio', // As in "MyForums Mailer" in the signature of outgoing emails
+'Mailer'							=>	'Correio %s', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'Informação importante',
 'Write message legend'				=>	'Escreva sua mensagem e a envie',
 'Previous'							=>	'Anterior',
 'Next'								=>	'Próxima',
-'Forum index'						=>	'Índice do fórum',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -137,24 +136,6 @@ $lang_common = array(
 'Query'								=>	'Solicitação',
 'Total query time'					=>	'Tempo total de solicitação: %s',
 
-// Email related notifications
-'New user notification'				=>	'Alerta - Novo registro',
-'New user message'					=>	'Usuário \'%s\' registrado no fórum em %s',
-'Banned email notification'			=>	'Alerta - Email banido detectado',
-'Banned email register message'		=>	'Usuário \'%s\' registrado com endereço de email banido: %s',
-'Banned email change message'		=>	'Usuário \'%s\' mudou email para um endereço banido: %s',
-'Banned email post message'			=>	'Usuário \'%s\' publicou usando endereço de email banido: %s',
-'Duplicate email notification'		=>	'Alerta - Email duplicado detectado',
-'Duplicate email register message'	=>	'Usuário \'%s\' registrado com endereço já em uso por: %s',
-'Duplicate email change message'	=>	'Usuário \'%s\' mudou email para um endereço que pertence à: %s',
-'Report notification'				=>	'Denúncia(%d) - \'%s\'',
-'Report message 1'					=>	'Usuário \'%s\' denunciou a seguinte mensagem: %s',
-'Report message 2'					=>	'Razão: %s',
-
-'User profile'						=>	'Perfil do usuário: %s',
-'Post URL'							=>	'URL da mensagem: %s',
-'Email signature'					=>	'Correio do fórum'."\n".'(Não responda à esta mensagem)',
-
 // For extern.php RSS feed
 'RSS description'					=>	'Os tópicos mais recentes em %s.',
 'RSS description topic'				=>	'As mensagens mais recentes em %s.',
@@ -169,5 +150,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'Não há novos relatórios',
 'Maintenance mode enabled'			=>	'O modo de manutenção está ativado!',
+
+// Units for file sizes
+'Size unit B'            =>  '%s B',
+'Size unit KiB'            =>  '%s KiB',
+'Size unit MiB'            =>  '%s MiB',
+'Size unit GiB'            =>  '%s GiB',
+'Size unit TiB'            =>  '%s TiB',
+'Size unit PiB'            =>  '%s PiB',
+'Size unit EiB'            =>  '%s EiB',
 
 );
