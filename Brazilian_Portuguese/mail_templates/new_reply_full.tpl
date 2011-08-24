@@ -14,5 +14,5 @@ A resposta está localizada em <post_url>
 Você pode cancelar sua inscrição indo em <unsubscribe_url>
 
 --
-<board_mailer>
+Correio <board_mailer>
 (Não responda à esta mensagem)

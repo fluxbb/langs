@@ -8,5 +8,5 @@ Senha: <password>
 Autentique-se em <login_url> para ativar sua conta.
 
 --
-<board_mailer>
+Correio <board_mailer>
 (Não responda à esta mensagem)
