@@ -8,5 +8,5 @@ Subject: أهلاً بك في <board_title>!
 قم بتسجيل الدخول هنا <login_url> لتفعيل حسابك.
 
 --
-<board_mailer>
+بريد <board_mailer>
 (لا تقم بالرد على هذه الرسالة)

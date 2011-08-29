@@ -14,5 +14,5 @@ Subject: موضوع جديد في المنتدى: <forum_name>
 إذا أردت إلغاء الاشتراك قم بالضغط على <unsubscribe_url>
 
 --
-<board_mailer>
+بريد <board_mailer>
 (لا تقم بالرد على هذه الرسالة)

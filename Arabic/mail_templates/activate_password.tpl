@@ -10,5 +10,5 @@ Subject: طلب كلمة مرور جديدة
 <activation_url>
 
 -- 
-<board_mailer>
+بريد <board_mailer>
 (لا تقم بالرد على هذه الرسالة)

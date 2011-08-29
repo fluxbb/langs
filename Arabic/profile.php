@@ -81,6 +81,7 @@ $lang_profile = array(
 'Realname'					=>	'الاسم الحقيقي',
 'Location'					=>	'المنطقة',
 'Website'					=>	'الصفحة الشخصية',
+'Invalid website URL'					=>	'عنوان الصفحة الشخصية غير صالح.',
 'Jabber'					=>	'Jabber',
 'ICQ'						=>	'ICQ',
 'MSN'						=>	'MSN Messenger',
