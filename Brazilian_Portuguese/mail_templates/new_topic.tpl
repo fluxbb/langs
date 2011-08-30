@@ -7,5 +7,5 @@ O tópico está localizado em <topic_url>
 Você pode cancelar sua inscrição indo em <unsubscribe_url>
 
 --
-Correio <board_mailer>
+Correio do <board_mailer>
 (Não responda à esta mensagem)

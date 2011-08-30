@@ -10,4 +10,4 @@ Esta é a mensagem enviada:
 -----------------------------------------------------------------------
 
 --
-Correio <board_mailer>
+Correio do <board_mailer>

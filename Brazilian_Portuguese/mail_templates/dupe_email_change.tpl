@@ -5,5 +5,5 @@ O usuário '<username>' alterou seu email para um endereço que também pertence
 Perfil do usuário: <profile_url>
 
 --
-Correio <board_mailer>
+Correio do <board_mailer>
 (Não responda à esta mensagem)
