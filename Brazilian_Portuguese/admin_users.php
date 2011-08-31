@@ -104,7 +104,7 @@ $lang_admin_users = array(
 'Results view IP link'		=>	'Visualizar estatísticas de IP',
 'Results show posts link'	=>	'Exibir mensagens',
 'Results guest'				=>	'Visitante',
-'Results no IP found'		=>	'O endereço de IP fornecido não pode ser encontrado no banco de dados.',
+'Results no IP found'		=>	'O endereço IP fornecido não pode ser encontrado no banco de dados.',
 'No match'					=>	'Nenhuma combinação'
 
 );

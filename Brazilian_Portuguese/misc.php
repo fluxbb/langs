@@ -86,7 +86,7 @@ $lang_misc = array(
 'No posts selected'				=>	'Você deve selecionar ao menos uma mensagem para dividir/excluir.',
 
 // Get host
-'Host info 1'					=>	'O endereço de IP é: %s',
+'Host info 1'					=>	'O endereço IP é: %s',
 'Host info 2'					=>	'O nome de host é: %s',
 'Show more users'				=>	'Exibir mais usuários com este IP',
 
