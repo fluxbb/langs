@@ -83,6 +83,7 @@ $lang_profile = array(
 'Realname'						=>	'Nome reale',
 'Location'						=>	'Luogo',
 'Website'						=>	'Sito web',
+'Invalid website URL'           =>  'L\'indirizzo inserito non &egrave; valido',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',

@@ -78,7 +78,9 @@ $lang_admin_groups = array(
 'Search flood label'			=>	'Intervallo tra le ricerche',
 'Search flood help'				=>	'Numero di secondi che un utente di questo gruppo deve attendere tra ogni ricerca. Impostare 0 per disabilitare.',
 'E-mail flood label'			=>	'Intervallo tra le email',
-'E-mail flood help'				=>	'Numero di secondi che un utente di questo gruppo deve attendere tra ogni email inviata. Impostare 0 per disabilitare.',
+'E-mail flood help'				=>	'Secondi che un utente di questo gruppo deve attendere tra ciascuna email inviata. Impostare 0 per disabilitare.',
+'Report flood label'            =>  'Intervallo tra le segnalazioni',
+'Report flood help'             =>  'Secondi che un utente di questo gruppo deve attendere tra ciascuna segnalazione inviata. Impostare 0 per disabilitare.',
 'Moderator info'				=>	'Per assegnare i privilegi da moderatore a un utente di questo gruppo, deve essere assegnato alla moderazione di uno o pi&ugrave; forum tramite la pagina di amministrazione nel suo profilo.',
 
 );
