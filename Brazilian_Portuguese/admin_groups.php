@@ -72,11 +72,11 @@ $lang_admin_groups = array(
 'Send e-mails label'			=>	'Enviar emails',
 'Send e-mails help'				=>	'Permitir que usuários deste grupo enviem emails para outros usuários.',
 'Post flood label'				=>	'Intervalo de excesso de mensagens',
-'Post flood help'				=>	'Número de segundos que os usuários deste grupo precisam esperar entre mensagens. Use 0 para desabilitar.',
+'Post flood help'				=>	'Número em segundos que os usuários deste grupo precisam esperar entre mensagens. Use 0 para desabilitar.',
 'Search flood label'			=>	'Intervalo de excesso de pesquisas',
-'Search flood help'				=>	'Número de segundos que os usuários deste grupo precisam esperar entre pesquisas. Use 0 para desabilitar.',
+'Search flood help'				=>	'Número em segundos que os usuários deste grupo precisam esperar entre pesquisas. Use 0 para desabilitar.',
 'E-mail flood label'			=>	'Intervalo de excesso de emails',
-'E-mail flood help'				=>	'Número de segundos que os usuários deste grupo precisam esperar entre emails. Use 0 para desabilitar.',
+'E-mail flood help'				=>	'Número em segundos que os usuários deste grupo precisam esperar entre emails. Use 0 para desabilitar.',
 'Moderator info'				=>	'Por favor, note que para que um usuário deste grupo tenha habilidade de moderação, ele deve ser designado como moderador de um ou mais fóruns. Isto é feito através da página de administração de usuário do perfil do usuário.',
 
 );

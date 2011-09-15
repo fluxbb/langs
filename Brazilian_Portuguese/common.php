@@ -59,12 +59,12 @@ $lang_common = array(
 'Pages'								=>	'Páginas:',
 'Page'								=>	'Página %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
-'img tag'							=>	'tag [img]:',
+'img tag'							=>	'Tag [img]:',
 'Smilies'							=>	'Emoticons:',
 'and'								=>	'e',
 'Image link'						=>	'imagem', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'								=>	'escreveu:', // For [quote]'s
-'Mailer'							=>	'Correio %s', // As in "MyForums Mailer" in the signature of outgoing emails
+'Mailer'							=>	'Correio do %s', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'Informação importante',
 'Write message legend'				=>	'Escreva sua mensagem e a envie',
 'Previous'							=>	'Anterior',
@@ -116,7 +116,7 @@ $lang_common = array(
 
 // Stuff for the page footer
 'Board footer'						=>	'Rodapé do site',
-'Jump to'							=>	'Trocar para',
+'Jump to'							=>	'Ir para',
 'Go'								=>	' Ir ', // Submit button in forum jump
 'Moderate topic'					=>	'Moderar tópico',
 'Move topic'						=>	'Mover tópico',

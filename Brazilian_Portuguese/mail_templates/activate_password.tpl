@@ -10,5 +10,5 @@ Para trocar sua senha, por favor visite a seguinte página:
 <activation_url>
 
 --
-Correio <board_mailer>
+Correio do <board_mailer>
 (Não responda à esta mensagem)

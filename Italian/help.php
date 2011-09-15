@@ -27,10 +27,20 @@ $lang_help = array(
 
 'Links and images'		=>	'Collegamenti e immagini',
 'Links info'			=>	'Per inserire collegamenti verso altri documenti o indirizzi email utilizzare i seguenti marcatori:',
+'This help page'        =>  'Questa pagina di aiuto',
 'My email address'		=>	'Il mio indirizzo email',
 'Images info'			=>	'Per pubblicare un\'immagine utilizzare il marcatore [img]. Il testo che precede l\'uguale ("=") nel marcatore di apertura pu&ograve; essere usato per indicare un testo alternativo.',
-
 'FluxBB bbcode test'  	=>  'Test BBcode',
+
+'Test topic'            =>  'Discussione test',
+'Test post'             =>  'Messaggio test',
+'Test forum'            =>  'Forum test',
+'Test user'             =>  'Utente test',
+
+<<<<<<< HEAD
+'FluxBB bbcode test'  	=>  'Test BBcode',
+=======
+>>>>>>> 35bd963c29e749b3b213092237b4d10f0f6bb842
 'Quotes'				=>	'Citazioni',
 'Quotes info'			=>	'Per citare un testo a cui fare riferimento o rispondere, utilizzare il marcatore [quote].',
 'Quotes info 2'			=>	'Per non citare qualcuno in particolare, utilizzare il marcatore senza specificare un nome utente.',

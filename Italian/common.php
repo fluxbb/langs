@@ -66,12 +66,11 @@ $lang_common = array(
 'and'								=>	'e',
 'Image link'						=>	'immagine', // Mostrato (<immagine>) quando la visualizzazione immagini è disabilitata nel profilo
 'wrote'								=>	'ha scritto:', // In caso di citazione
-'Mailer'							=>	'Mailer', // Come in: "MyForums Mailer" nella firma delle email automatiche
+'Mailer'							=>	'Mailer %s', // Come in: "MyForums Mailer" nella firma delle email automatiche
 'Important information'				=>	'Informazione importante',
 'Write message legend'				=>	'Scrivere il messaggio e inviare',
 'Previous'							=>	'Indietro',
 'Next'								=>	'Avanti',
-'Forum index'                       =>  'Indice forum',
 'Spacer'							=>	'&hellip;', // Puntini per la paginazione
 
 // Titolo
@@ -139,24 +138,6 @@ $lang_common = array(
 'Query'								=>	'Interrogazione',
 'Total query time'					=>	'Tempo totale di interrogazione: %s',
 
-// Notifiche relative alle email
-'New user notification'				=>	'Avviso - Nuova registrazione!',
-'New user message'					=>	'Il nuovo utente \'%s\' fa ora parte di %s',
-'Banned email notification'			=>	'Avviso - Individuata email interdetta',
-'Banned email register message'		=>	'L\'utente \'%s\' ha utilizzato l\'indirizzo inderdetto: %s',
-'Banned email change message'		=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo nell\'indirizzo interdetto: %s',
-'Banned email post message'			=>	'L\'utente \'%s\' ha scritto utilizzando l\'indirizzo interdetto: %s',
-'Duplicate email notification'		=>	'Avviso - Individuata email duplicata',
-'Duplicate email register message'	=>	'L\'utente \'%s\' si è registrato con un indirizzo utilizzato anche da: %s',
-'Duplicate email change message'	=>	'L\'utente \'%s\' ha cambiato il proprio indirizzo con un indirizzo utilizzato anche da: %s',
-'Report notification'				=>	'Segnalazione(%d) - \'%s\'',
-'Report message 1'					=>	'L\'utente \'%s\' ha segnalato il seguente messaggio: %s',
-'Report message 2'					=>	'Motivo: %s',
-
-'User profile'						=>	'Profilo utente: %s',
-'Post URL'							=>	'Indirizzo messaggio: %s',
-'Email signature'					=>	'Inviato da '."\n".'(messaggio generato automaticamente)',
-
 // Per i feed in extern.php
 'RSS description'					=>	'Discussioni pi&grave; recenti in %s.',
 'RSS description topic'				=>	'Messaggi pi&grave; recenti in %s.',
@@ -171,5 +152,14 @@ $lang_common = array(
 // Testi per l'amministrazione in cima alla pagina
 'New reports'						=>	'C\'&egrave; una nuova segnalazione',
 'Maintenance mode enabled'			=>	'Il forum &egrave; in manutenzione!',
+
+// Units for file sizes
+'Size unit B'                       =>  '%s B',
+'Size unit KiB'                     =>  '%s KiB',
+'Size unit MiB'                     =>  '%s MiB',
+'Size unit GiB'                     =>  '%s GiB',
+'Size unit TiB'                     =>  '%s TiB',
+'Size unit PiB'                     =>  '%s PiB',
+'Size unit EiB'                     =>  '%s EiB',
 
 );

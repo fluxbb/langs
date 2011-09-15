@@ -13,6 +13,9 @@ $lang_update = array(
 'Database password info' 		=> 'Per effettuare l\'aggiornamento inserire la password del database nel quale FluxBB &egrave; installato. In caso di incertezza &egrave; possibile ritrovarla modificando il \'config.php\'.',
 'Database password note' 		=> 'Se si utilizza SQLite (e quindi non sono presenti password), inserire il nome del file del database. Deve corrispondere esattamente con quello presente nel documento di configurazione.',
 'Database password' 			=> 'Password del database',
+'Maintenance'                   => 'Manutenzione',
+'Maintenance message info'      => 'Messaggio mostrato agli utenti durante l\'aggiornamento. Pu&ograve; contenere HTML.',
+'Maintenance message'           => 'Messaggio di manutenzione',
 'Next' 							=> 'Avanti',
 
 'You are running error' 		=> '&Egrave; attivo %1$s versione %2$s. FluxBB %3$s necessita almeno %1$s %4$s per funzionare correttamente. Effettuare l\'aggiornamento di %1$s prima di continuare.',
@@ -70,9 +73,6 @@ $lang_update = array(
 'Username bad characters error' => 'Il nome utente non pu&ograve; contenere i caratteri \', " e [ o ] insieme. Scegline un altro, grazie.',
 'Username BBCode error' 		=> 'Il nome utente non pu&ograve; contenere BBCode. Scegline un altro, grazie.',
 'Username duplicate error' 		=> 'Il nome utente %s &egrave; gi&agrave; registrato. Scegline un altro, grazie.',
-
-'JavaScript disabled' 			=> 'JavaScript sembra essere disabilitato. %s.',
-'Click here to continue' 		=> 'Cliccare qui per continuare',
 
 );
 

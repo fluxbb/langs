@@ -3,10 +3,10 @@
 // Language definitions used in viewtopic.php
 $lang_topic = array(
 
-'Post reply'		=>	'Publicar resposta',
+'Post reply'		=>	'Adicionar resposta',
 'Topic closed'		=>	'Tópico fechado',
 'From'				=>	'De:', // User location
-'IP address logged'	=>	'Endereço de IP registrado',
+'IP address logged'	=>	'Endereço IP registrado',
 'Note'				=>	'Nota:', // Admin note
 'Posts'				=>	'Mensagens:',
 'Registered'		=>	'Registrado:',

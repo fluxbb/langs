@@ -20,14 +20,14 @@ $lang_post = array(
 'Post preview'		=>	'Prévia da mensagem',
 'Guest name'		=>	'Nome', // For guests (instead of Username)
 'Post redirect'		=>	'Mensagem inserida. Redirecionando …',
-'Post a reply'		=>	'Publicar uma resposta',
-'Post new topic'	=>	'Publicar novo tópico',
+'Post a reply'		=>	'Adicionar uma resposta',
+'Post new topic'	=>	'Adicionar novo tópico',
 'Hide smilies'		=>	'Nunca exibir emoticons em forma gráfica nesta mensagem',
 'Subscribe'			=>	'Inscrever-me neste tópico',
 'Stay subscribed'	=>	'Continuar inscrito neste tópico',
 'Topic review'		=>	'Revisão do tópico (mais recente primeiro)',
 'Flood start'		=>	'Ao menos',
-'flood end'			=>	'segundos devem passar entre mensagens. Por favor, aguarde um pouco e tente publicar novamente and.',
+'flood end'			=>	'segundos devem passar entre mensagens. Por favor, aguarde um pouco e tente novamente.',
 'Preview'			=>	'Prever', // submit button to preview message
 
 // Edit post
