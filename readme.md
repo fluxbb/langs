@@ -1,5 +1,6 @@
 *  Arabic - [Zaher](https://github.com/zaher)
 *  Brazilian Portuguese - [FluxBB.com.br](http://fluxbb.com.br)
+*  Czech - [FluxBB.cz](http://fluxbb.cz)
 *  Finnish - [pauligrinder](http://fluxbb.org/forums/profile.php?id=57037)
 *  French - [FluxBB.fr](http://fluxbb.fr)
 *  German - [FluxBB.de Community](http://www.fluxbb.de)
