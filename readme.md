@@ -1,4 +1,4 @@
-*  Arabic - [zaher](http://gitorious.org/fluxbb-arabic/fluxbb-arabic)
+*  Arabic - [Zaher](https://github.com/zaher)
 *  Brazilian Portuguese - [FluxBB.com.br](http://fluxbb.com.br)
 *  Finnish - [pauligrinder](http://fluxbb.org/forums/profile.php?id=57037)
 *  French - [FluxBB.fr](http://fluxbb.fr)
