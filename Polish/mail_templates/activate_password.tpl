@@ -1,4 +1,4 @@
-Subject: Zmiana hasła
+Temat:   Zmiana hasła
 
 Witaj <username>,
 
@@ -10,5 +10,5 @@ Jeśli chcesz zmienić hasło do konta, kliknij w poniższy odnośnik:
 <activation_url>
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Wiadomość wysłana automatycznie, nie odpowiadaj na nią)

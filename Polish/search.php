@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in search.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_search = array(
 
 // The search form
@@ -15,6 +14,7 @@ $lang_search = array(
 'Author search'						=>	'Szukaj autora',
 'Search in legend'					=>	'Wybierz forum do przeszukania',
 'Search in info'					=>	'Wybierz forum, które chcesz przeszukać i wybierz miejsce, gdzie mają być szukane słowa (temat wątku, treść posta).',
+'Search multiple forums info'		=>	'Jeśli żadne fora nie zostaną zaznaczone, to wszystkie fora zostaną przeszukane.',
 'Forum search'						=>	'Forum',
 'All forums'						=>	'Wszystkie fora',
 'Search in'							=>	'Szukaj w',
@@ -36,22 +36,21 @@ $lang_search = array(
 'Show as posts'						=>	'Posty',
 
 // Results
+'Search'							=>	'Szukaj',
 'Search results'					=>	'Wyniki wyszukiwania',
-'Search topics'						=>	'Wyszukane wątki',
-'Search posts'						=>	'Wyszukane posty',
 'Quick search show_new'				=>	'nowe',
 'Quick search show_recent'			=>	'aktywne',
 'Quick search show_unanswered'		=>	'bez odpowiedzi',
 'Quick search show_replies'			=>	'z odpowiedzią',
-'Quick search show_user_topics'		=>	'napisane przez %s',
-'Quick search show_user_posts'		=>	'napisane przez %s',
+'Quick search show_user_topics'		=>	'wątki napisane przez %s',
+'Quick search show_user_posts'		=>	'posty napisane przez %s',
 'Quick search show_subscriptions'	=>	'subskrybowane przez %s',
-'By keywords show as topics'		=>	'posty ze słowami kluczowymi \'%s\'',
-'By keywords show as posts'			=>	'ze słowami kluczowymi \'%s\'',
-'By user show as topics'			=>	'z postami użytkownika %s',
-'By user show as posts'				=>	'napisane przez %s',
-'By both show as topics'			=>	'ze słowami kluczowymi \'%s\' w postach użytkownika %s',
-'By both show as posts'				=>	'Ze słowami kluczowymi \'%s\' użykownika %s',
+'By keywords show as topics'		=>	'wątki z postami ze słowami kluczowymi \'%s\'',
+'By keywords show as posts'			=>	'posty ze słowami kluczowymi \'%s\'',
+'By user show as topics'			=>	'wątki z postami użytkownika %s',
+'By user show as posts'				=>	'posty napisane przez %s',
+'By both show as topics'			=>	'wątki ze słowami kluczowymi \'%s\' w postach użytkownika %s',
+'By both show as posts'				=>	'posty ze słowami kluczowymi \'%s\' użykownika %s',
 'No terms'							=>	'Należy wprowadzić co najmniej jedno słowo kluczowe i/lub nazwę autora do wyszukania.',
 'No hits'							=>	'Brak wyników wyszukiwania.',
 'No user posts'						=>	'Na forum nie ma żadnych postów tego użytkownika.',
@@ -61,6 +60,5 @@ $lang_search = array(
 'No recent posts'					=>	'W ciągu ostatnich 24h na forum nie pojawiły się nowe posty.',
 'No unanswered'						=>	'Na forum nie ma żadnych wątków bez odpowiedzi.',
 'Go to post'						=>	'Przejdź do postów',
-'Go to topic'						=>	'Przejdź do wątku'
-
+'Go to topic'						=>	'Przejdź do wątku',
 );

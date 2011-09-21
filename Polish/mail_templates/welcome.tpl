@@ -1,4 +1,4 @@
-Subject: Witamy na <board_title>!
+Temat:   Witamy na <board_title>!
 
 Dziękujemy za rejestrację na naszym forum - <base_url>. Dane do Twojego konta:
 
@@ -8,5 +8,5 @@ Hasło: <password>
 Wejdź na <login_url>, aby aktywować swoje konto.
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Wiadomość wysłana automatycznie, nie odpowiadaj na nią)

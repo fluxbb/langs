@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in post.php and edit.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)

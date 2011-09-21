@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin_index.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Nie udało się sprawdzić aktualizacji, gdyż funkcja \'allow_url_fopen\' została wyłączona na serwerze.',
@@ -33,14 +32,14 @@ $lang_admin_index = array(
 'Show info'							=>	'Pokaż info',
 'Environment data version'			=>	'PHP: %s - %s',
 'Environment data acc'				=>	'Akcelerator: %s',
-'Turck MMCache'						=>	'Turk MMCache',
-'Turck MMCache link'				=>	'turck-mmcache.sourceforge.net',
+'Turck MMCache'						=>	'Turck MMCache',
+'Turck MMCache link'				=>	'turck-mmcache.sourceforge.net/',
 'ionCube PHP Accelerator'			=>	'ionCube PHP Accelerator',
 'ionCube PHP Accelerator link'		=>	'www.php-accelerator.co.uk/',
 'Alternative PHP Cache (APC)'		=>	'Alternative PHP Cache (APC)',
 'Alternative PHP Cache (APC) link'	=>	'www.php.net/apc/',
 'Zend Optimizer'					=>	'Zend Optimizer',
-'Zend Optimizer link'				=>	'www.zend.com/products/guard/zend-optimizer',
+'Zend Optimizer link'				=>	'www.zend.com/products/guard/zend-optimizer/',
 'eAccelerator'						=>	'eAccelerator',
 'eAccelerator link'					=>	'www.eaccelerator.net/',
 'XCache'							=>	'XCache',

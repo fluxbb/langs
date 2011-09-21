@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions for frequently used strings
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_common = array(
 
 // Text orientation and encoding
@@ -65,12 +64,11 @@ $lang_common = array(
 'and'								=>	'i',
 'Image link'						=>	'obrazek', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'								=>	'napisał/a:', // For [quote]'s
-'Mailer'							=>	'Mailer', // As in "MyForums Mailer" in the signature of outgoing emails
+'Mailer'							=>	'%s Mailer', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'Ważna informacja',
 'Write message legend'				=>	'Wprowadź wiadomość i wyślij',
 'Previous'							=>	'Poprzednia',
 'Next'								=>	'Następna',
-'Forum index'                       =>  'Index forum',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -138,24 +136,6 @@ $lang_common = array(
 'Query'								=>	'Zapytanie',
 'Total query time'					=>	'Całkowity czas: %s',
 
-// Email related notifications
-'New user notification'				=>	'Informacja - Nowy użytkownik',
-'New user message'					=>	'Użytkownik \'%s\' zarejestrował się na forum %s',
-'Banned email notification'			=>	'Informacja - Wykryto zbanowany adres e-mail',
-'Banned email register message'		=>	'Użytkownik \'%s\' zarejestrował się za pomocą zbanowanego adresu e-amil: %s',
-'Banned email change message'		=>	'Użytkownik \'%s\' zmienił swój adres e-mail na adres z listy zbanowanych: %s',
-'Banned email post message'			=>	'Użytkownik \'%s\' napisał posta ze zbanowanym adresem e-mail: %s',
-'Duplicate email notification'		=>	'Informacja - Wykryto zduplikowany adres e-mail',
-'Duplicate email register message'	=>	'Użytkownik \'%s\' zarejestrował się za pomocą adresu e-mail, należącego również do: %s',
-'Duplicate email change message'	=>	'Użytkownik \'%s\' zmienił swój adres e-mail na adres należący również do: %s',
-'Report notification'				=>	'Raport(%d) - \'%s\'',
-'Report message 1'					=>	'Użytkownik \'%s\' zaraportował następującą wiadomość: %s',
-'Report message 2'					=>	'Powód: %s',
-
-'User profile'						=>	'Profil użytkownika: %s',
-'Post URL'							=>	'Adres do posta: %s',
-'Email signature'					=>	'System mailingowy FluxBB'."\n".'(Wiadomość wysłana automatycznie, nie odpowiadaj na nią)',
-
 // For extern.php RSS feed
 'RSS description'					=>	'Najwięcej nowych wątków w %s.',
 'RSS description topic'				=>	'Najwięcej nowych postów w %s.',
@@ -170,5 +150,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'Masz nowe, nieprzeczytane raporty',
 'Maintenance mode enabled'			=>	'Tryb konserwacji jest włączony!',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s kB',
+'Size unit MiB'						=>	'%s MB',
+'Size unit GiB'						=>	'%s GB',
+'Size unit TiB'						=>	'%s TB',
+'Size unit PiB'						=>	'%s PB',
+'Size unit EiB'						=>	'%s EB',
 
 );

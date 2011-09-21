@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin_reports.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_reports = array(
 
 'Report zapped redirect'	=>	'Raport został zatwierdzony. Przekierowywanie…',

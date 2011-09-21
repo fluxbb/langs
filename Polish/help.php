@@ -1,10 +1,9 @@
 <?php
 
 // Language definitions used in help.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_help = array(
 
-'Help'					=>	'Pomoc',
+'Help'					=>	'Pomoc FluxBB',
 'produces'				=>	'wynikiem jest:',
 
 'BBCode'				=>	'BBCode',
@@ -26,9 +25,15 @@ $lang_help = array(
 
 'Links and images'		=>	'Linki i obrazki',
 'Links info'			=>	'Możesz stworzyć linki do różnych dokumentów, stron internetowch lub adresów e-mail:',
+'This help page'		=>	'Strona pomocy FluxBB',
 'My email address'		=>	'Mój adres e-mail',
 'Images info'			=>	'Jeżeli chcesz wyświetlić obrazek w wiadomości, powinieneś skorzystać z tagu [img]. Teskt zawarty po znaku "=" używany jest jako atrybut alt (tekst alternatywny) dla obrazka.',
 'FluxBB bbcode test'    =>  'FluxBB BBCode test',
+
+'Test topic'			=>	'Wątek testowy',
+'Test post'				=>	'Post testowy',
+'Test forum'			=>	'Forum testowe',
+'Test user'				=>	'Użytkownik testowy',
 
 'Quotes'				=>	'Cytaty',
 'Quotes info'			=>	'Jeżeli chcesz zacytować jakiegoś użytkownika, powinieneś skorzystać z tagu [quote].',
