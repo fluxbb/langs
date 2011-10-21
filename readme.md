@@ -13,3 +13,4 @@
 *  Simplified Chinese - [ehtime](https://fluxbb.org/forums/profile.php?id=3031)
 *  Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)
 *  Traditional Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58), [coolhd](http://fluxbb.org/forums/profile.php?id=99) , [taylorchu](http://tailinchu.tk/bbs), [crlin](https://fluxbb.org/forums/profile.php?id=56389)
+*  Ukrainian - [Quintus](http://fluxbb.org/forums/profile.php?id=57433)
