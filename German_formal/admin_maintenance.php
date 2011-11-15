@@ -1,0 +1,40 @@
+<?php
+
+// Sprachdefinitionen, die in admin_maintenance.php verwendet werden
+$lang_admin_maintenance = array(
+
+'Maintenance head'				=>	'Foren-Wartung',
+'Rebuild index subhead'			=>	'Suchindex neu erstellen',
+'Rebuild index info'			=>	'Wenn Sie in der Datenbank manuell Beiträge gelöscht, bearbeitet oder entfernt oder Probleme mit der Suche haben, sollten Sie den Suchindex neu erstellen. Für eine optimale Performance sollten Sie das Forum während der Neuerstellung des Suchindex in den Wartungsmodus versetzen. <strong>Die Neuerstellung des Suchindex kann längere Zeit in Anspruch nehmen und wird dabei die Auslastung des Servers erhöhen!</strong>',
+'Posts per cycle label'			=>	'Beiträge pro Durchlauf',
+'Posts per cycle help'			=>	'Die Anzahl der Beiträge, die pro Seitenansicht verarbeitet werden sollen. Wenn Sie zum Beispiel 100 eingeben, werden die ersten einhundert Beiträge verarbeitet und dann die Seite neu geladen. Dies kann das Skript vor einem Zeitüberschreitungsfehler während der Neuindizierung bewahren.',
+'Starting post label'			=>	'Mit Beitrags-ID beginnen',
+'Starting post help'			=>	'Die Beitrags-ID, bei der mit der Neuerstellung des Suchindex begonnen werden soll. Der voreingestellte Wert ist die erste, in der Datenbank vorhandene ID. Normalerweise müssen Sie diesen Wert nicht ändern.',
+'Empty index label'				=>	'Index leeren',
+'Empty index help'				=>	'Aktivieren Sie dieses Kontrollfeld, wenn der Suchindex vor dessen Neuerstellung geleert werden soll.',
+'Rebuild completed info'		=>	'Wenn der Prozess abgeschlossen ist, werden Sie auf diese Seite weitergeleitet. Während der Neuindizierung sollten Sie unbedingt JavaScript aktivieren (für die automatische Weiterleitung, wenn ein Durchlauf abgeschlossen wurde). Wenn Sie die Neuindizierung abbrechen möchten, notieren Sie sich die zuletzt verarbeitete Themen-ID und geben Sie diese ID+1 dann im Feld "Mit dieser Themen-ID beginnen" ein, wenn die Neuindizierung fortgesetzt werden soll (Das Kontrollfeld "Index leeren" muss nicht aktiviert werden).',
+'Rebuild index'					=>	'Index neu erstellen',
+'Rebuilding search index'		=>	'Der Suchindex wird neu erstellt',
+'Rebuilding index info'			=>	'Der Suchindex wird jetzt neu erstellt. Daher haben Sie nun etwas Zeit für eine kleine Kaffeepause :-)',
+'Processing post'				=>	'Der Beitrag <strong>%s</strong> wird verarbeitet …',
+'Click here'					=>	'Hier klicken',
+'Javascript redirect failed'	=>	'Die JavaScript-Weiterleitung ist fehlgeschlagen. %s um weiterzumachen …',
+'Posts must be integer message'	=>	'Der Wert für "Beiträge pro Durchlauf" muss positiv und ganzzahlig sein.',
+'Days must be integer message'	=>	'Der Wert für "Themenalter" muss positiv und ganzzahlig sein.',
+'No old topics message'			=>	'Es gibt keine Beiträge, die älter sind als %s Tage. Bitte setzen Sie den Wert von "Themenalter" herab und versuchen Sie es noch einmal.',
+'Posts pruned redirect'			=>	'Beiträge bereinigt. Leite weiter …',
+'Prune head'					=>	'Bereinigung',
+'Prune subhead'					=>	'Alte Beiträge bereinigen',
+'Days old label'				=>	'Themenalter',
+'Days old help'					=>	'Das Alter eines Themas in Tagen, nach denen das Thema gelöscht wird. Wenn Sie hier zum Beispiel 30 eingeben, wird jedes Thema gelöscht, dessen letzter Beitrag älter als 30 Tage ist.',
+'Prune sticky label'			=>	'Fixierte Themen bereinigen',
+'Prune sticky help'				=>	'Ist dieses Feld aktiviert, werden auch fixierte Beiträge bereinigt.',
+'Prune from label'				=>	'Zu bereinigendes Forum',
+'All forums'					=>	'Alle Foren',
+'Prune from help'				=>	'Das Forum, dessen Beiträge bereinigt werden sollen.',
+'Prune info'					=>	'Setzen Sie diese Funktion nur vorsichtig ein. <strong>Bereinigte Beiträge können NICHT wiederhergestellt werden.</strong> Aus Performance-Gründen sollten Sie das Forum vor einer Beitragsbereinigung in den Wartungsmodus versetzen Sien.',
+'Confirm prune subhead'			=>	'Bestätigung der Beitragsbereinigung',
+'Confirm prune info'			=>	'Wollen Sie wirklich alle Themen, die älter als %s Tage sind, aus dem Forum %s entfernen (%s Themen)?',
+'Confirm prune warn'			=>	'WARNUNG! Die Bereinigung von Beiträgen lässt sich NICHT wieder rückgängig machen.',
+
+);
