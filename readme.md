@@ -4,6 +4,7 @@
 *  Finnish - [pauligrinder](http://fluxbb.org/forums/profile.php?id=57037)
 *  French - [FluxBB.fr](http://fluxbb.fr)
 *  German - [FluxBB.de Community](http://www.fluxbb.de)
+*  German_formal - [fulgor](http://www.fluxbb.de/forum/profile.php?id=2284)
 *  Hebrew - [Plazzmex](http://fluxbb.org/forums/profile.php?id=831)
 *  Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
 *  Italian - [Oscon](http://www.oscon.it)
