@@ -8,5 +8,5 @@ Passwort: <password>
 Melde dich unter <login_url> an, um die Registrierung abzuschließen.
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Antworte nicht auf diese Nachricht)

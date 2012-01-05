@@ -12,6 +12,9 @@ $lang_update = array(
 'Database password info'		=>	'Um die Datenbank-Aktualisierung durchführen zu können, musst du das Datenbank-Passwort eingeben, mit dem FluxBB installiert wurde. Falls du dich nicht mehr erinnern kannst, es wurde auch in der Datei \'config.php\' gespeichert.',
 'Database password note'		=>	'Wenn du SQLite verwendest (und demzufolge kein Datenbank-Passwort hast), verwende anstatt dessen den Dateinamen der Datenbank. Dieser muss GENAU mit dem Dateinamen der Datenbank übereinstimmen, wie er in deiner Konfigurationsdatei angegeben wurde.',
 'Database password'				=>	'Datenbank-Passwort',
+'Maintenance'					=>	'Wartung',
+'Maintenance message info'		=>	'Diese Nachricht wird dem Nutzer während der Aktualisierung angezeigt. Der Text wird nicht wie reguläre Beiträge interpretiert und darf daher HTML enhalten.',
+'Maintenance message'		    =>	'Wartungs-Nachricht',
 'Next'							=>	'Weiter',
 
 'You are running error'			=>	'Du verwendest %1$s Version %2$s. FluxBB %3$s benötigt für seine volle Funktionsfähigkeit mindestens %1$s %4$s. Bevor du weitermachen kannst, musst du zunächst deine %1$s Installation aktualisieren.',
@@ -69,9 +72,5 @@ $lang_update = array(
 'Username bad characters error'	=>	'Mitgliedsnamen dürfen nicht die Zeichen \', " und [ oder ] enthalten. Bitte wähle einen anderen Mitgliedsnamen.',
 'Username BBCode error'			=>	'Mitgliedsnamen dürfen keine (vom Forum verwendeten) Formatierungs-Tags enthalten (BBCode). Bitte wähle einen anderen Mitgliedsnamen.',
 'Username duplicate error'		=>	'Es hat sich bereits ein Mitglied mit dem Namen %s registriert. Der eingegebene Mitgliedsname ist zu ähnlich. Der Mitgliedsname muss mindestens um ein alphanumerisches Zeichen davon abweichen (a-z oder 0-9). Bitte wähle einen anderen Mitgliedsnamen.',
-
-'JavaScript disabled'			=>	'JavaScript scheint deaktiviert zu sein. %s.',
-'Click here to continue'		=>	'Klicke hier, um weiterzumachen',
-'Required field'				=>	'ist in diesem Formular ein Pflichtfeld.'
 
 );

@@ -48,7 +48,7 @@ $lang_admin_groups = array(
 'Change passwords label'		=>	'允许版主变更用户的密码',
 'Change passwords help'			=>	'如果已开启该组的版主权限，该设置将允许该组成员修改其他用户的登录密码。',
 'Ban users label'				=>	'允许版主封禁用户',
-'Ban users help'				=>	'如果已开放该组的版主权限，该设置将允许该组成员封禁其他用户。',
+'Ban users help'				=>	'如果已开启该组的版主权限，该设置将允许该组成员封禁其他用户。',
 'Read board label'				=>	'阅读论坛',
 'Read board help'				=>	'允许该组用户阅读论坛帖子。该设置将影响论坛的所有版块，即使特定的版块设置为允许阅读权限也不能覆盖此处的禁止阅读论坛权限。当此处设置为“否”时，该组用户将只能使用论坛的登录/注销或者注册功能。',
 'View user info label'			=>	'查看用户信息',
@@ -77,6 +77,8 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'该组用户两次搜索间必须间隔的秒数。禁用请填写0。',
 'E-mail flood label'			=>	'邮件发送间隔时间',
 'E-mail flood help'				=>	'该组用户两次发送电子邮件间必须间隔的秒数。禁用请填写0。',
+'Report flood label'			=>	'举报间隔时间',
+'Report flood help'				=>	'该组用户两次举报操作间必须间隔的秒数。禁用请填写0。',
 'Moderator info'				=>	'特别提醒您要允许该组的某用户行使版主权限，您必须分配他/她为一个或多个版块的版主。该设置在该用户的个人资料栏下的管理页面中。',
 
 );

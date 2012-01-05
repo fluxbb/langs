@@ -29,8 +29,6 @@ $lang_post = array(
 'Flood start'		=>	'Es müssen mindestens',
 'flood end'			=>	'Sekunden zwischen zwei Beiträgen vergangen sein. Bitte warte etwas und versuche es dann erneut.',
 'Preview'			=>	'Vorschau', // Beschriftung des Absende-Button für die Nachrichtenvorschau
-'Post revision'			=>	'ACHTUNG - neuer Beitrag',
-'Post revision info'	=>	'Während du geschrieben hast, wurde ein oder mehrere neue Beiträge zu diesem Thema erstellt. <br />Du kannst diese unterhalb des Textfensters lesen, bevor du deinen Beitrag absendest.',
 
 // Beitrag bearbeiten
 'Edit post legend'	=>	'Ändere den Beitrag und speichere die Änderungen',

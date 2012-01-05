@@ -64,12 +64,11 @@ $lang_common = array(
 'and'								=>	'以及',
 'Image link'						=>	'图片', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'								=>	'说：', // For [quote]'s
-'Mailer'							=>	'邮件服务', // As in "MyForums Mailer" in the signature of outgoing emails
+'Mailer'							=>	'%s邮件服务', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'重要信息',
 'Write message legend'				=>	'填写内容后点击按钮提交',
 'Previous'							=>	'上一页',
 'Next'								=>	'下一页',
-'Forum index'						=>	'论坛首页',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -121,7 +120,7 @@ $lang_common = array(
 'Go'								=>	'前往', // Submit button in forum jump
 'Moderate topic'					=>	'管理主题',
 'Move topic'						=>	'移动主题',
-'Open topic'						=>	'开放主题',
+'Open topic'						=>	'开启主题',
 'Close topic'						=>	'关闭主题',
 'Unstick topic'						=>	'解除置顶',
 'Stick topic'						=>	'置顶主题',
@@ -137,24 +136,6 @@ $lang_common = array(
 'Query'								=>	'Query',
 'Total query time'					=>	'Total query time: %s',
 
-// Email related notifications
-'New user notification'				=>	'警报 - 有新用户注册',
-'New user message'					=>	'用户 \'%s\' 已在论坛注册如下 %s',
-'Banned email notification'			=>	'警报 - 发现封禁的电子信箱',
-'Banned email register message'		=>	'用户 \'%s\' 注册时使用了一个被封禁的电子信箱： %s',
-'Banned email change message'		=>	'用户 \'%s\' 已更改为一个被封禁的电子邮箱： %s',
-'Banned email post message'			=>	'用户 \'%s\' 发帖时使用了被封禁的电子信箱： %s',
-'Duplicate email notification'		=>	'警报 - 发现重复的电子信箱',
-'Duplicate email register message'	=>	'用户 \'%s\' 注册使用的电子邮箱已经被 %s 使用',
-'Duplicate email change message'	=>	'用户 \'%s\' 更改后的电子信箱地址已经被 %s 使用',
-'Report notification'				=>	'Report(%d) - \'%s\'',
-'Report message 1'					=>	'用户 \'%s\' 举报了以下内容： %s',
-'Report message 2'					=>	'理由： %s',
-
-'User profile'						=>	'用户个人资料： %s',
-'Post URL'							=>	'帖子URL： %s',
-'Email signature'					=>	'论坛邮件服务'."\n".'(请勿回复该邮件)',
-
 // For extern.php RSS feed
 'RSS description'					=>	'%s 最近发表的主题。',
 'RSS description topic'				=>	'%s 最近发表的帖子。',
@@ -168,6 +149,15 @@ $lang_common = array(
 
 // Admin related stuff in the header
 'New reports'						=>	'有新的举报',
-'Maintenance mode enabled'			=>	'维护模式已启用！'
+'Maintenance mode enabled'			=>	'维护模式已启用！',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

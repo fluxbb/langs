@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin_maintenance.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_maintenance = array(
 
 'Maintenance head'				=>	'Konserwacja forum',

@@ -45,7 +45,7 @@ $lang_misc = array(
 'Merge'							=>	'合并',
 
 // Moderate forum
-'Open'							=>	'开放',
+'Open'							=>	'开启',
 'Close'							=>	'关闭',
 'Move topic'					=>	'转移该主题',
 'Move topics'					=>	'转移主题',
@@ -59,11 +59,11 @@ $lang_misc = array(
 'Delete topics'					=>	'删除主题',
 'Delete topics comply'			=>	'您确信要删除所选主题？',
 'Delete topics redirect'		=>	'主题已删除。正在跳转 …',
-'Open topic redirect'			=>	'该主题已开放。正在跳转 …',
-'Open topics redirect'			=>	'主题已开放。正在跳转 …',
+'Open topic redirect'			=>	'该主题已开启。正在跳转 …',
+'Open topics redirect'			=>	'主题已开启。正在跳转 …',
 'Close topic redirect'			=>	'该主题已关闭。正在跳转 …',
 'Close topics redirect'			=>	'主题已关闭。正在跳转 …',
-'No topics selected'			=>	'您必须至少选择一个主题以转移/删除/打开/关闭。',
+'No topics selected'			=>	'您必须至少选择一个主题以转移/删除/开启/关闭。',
 'Not enough topics selected'	=>	'您必须选择至少两个主题才能进行合并操作。',
 'Stick topic redirect'			=>	'主题已置顶。正在跳转 …',
 'Unstick topic redirect'		=>	'主题已解除置顶。正在跳转 …',

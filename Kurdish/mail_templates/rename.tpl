@@ -1,12 +1,12 @@
-Subject: User account renamed
+Subject: ناوی کۆنی بەکارهێنەر گۆڕدرا
 
-During an upgrade to the forums at <base_url> it was determined your username is too similar to an existing user. Your username has been changed accordingly.
+لەکاتی نوێکردنەوەی مەکۆکان لە <base_url> بینرا کە ناوەکەت زۆر لە ناوی بەکارهێنرێکی تر دەچێت. ناوەکەت گۆڕدرا.
 
-Old username: <old_username>
-New username: <new_username>
+تێپەڕەوشەی کۆن: <old_username>
+تێپەڕەوشەی نوێ: <new_username>
 
-We apologise for any inconvenience caused.
+داوای لێبوردن ئەکەین ئەگەر بووبین بە مایەی بێزاریت.
 
 --
 <board_mailer>
-(Do not reply to this message)
+(وەڵامی ئەم پەیامە مەدەرەوە)

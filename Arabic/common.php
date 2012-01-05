@@ -64,12 +64,11 @@ $lang_common = array(
 'and'					=>	'و',
 'Image link'			=>	'صورة',	// This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'					=>	'كتب',	// For [quote]'s
-'Mailer'				=>	'بريد',	// As in "MyForums Mailer" in the signature of outgoing e-mails
+'Mailer'				=>	'بريد $s',	// As in "MyForums Mailer" in the signature of outgoing e-mails
 'Important information'	=>	'معلومات هامة',
 'Write message legend'	=>	'اكتب رسالتك ثم أرسل',
 'Previous'							=>	'السابق',
 'Next'								=>	'التالي',
-'Forum index'						=>	'فهرس المنتدى',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -103,7 +102,6 @@ $lang_common = array(
 'Admin'					=>	'الإدارة',
 'Last visit'			=>	'آخر زيارة %s',
 'Topic searches'					=>	'المواضيع:',
-'Post searches'						=>	'المداخلات:',
 'New posts header'							=>	'جديدة',
 'Active topics'						=>	'نشيطة',
 'Unanswered topics'					=>	'بدون رد',
@@ -138,24 +136,6 @@ $lang_common = array(
 'Query'								=>	'استعلام',
 'Total query time'					=>	'الوقت الإجمالي للاستعلام: %s',
 
-// Email related notifications
-'New user notification'				=>	'تنبيه - تسجيل جديد',
-'New user message'					=>	'المستخدم \'%s\' سجل في المنتدى %s',
-'Banned email notification'			=>	'تنبيه - اكتشاف لبريد مطرود',
-'Banned email register message'		=>	'المستخدم \'%s\' قام بالتسجيل بعنوان بريدي مطرود: %s',
-'Banned email change message'		=>	'المستخدم \'%s\' غير بريده لعنواد مطرود: %s',
-'Banned email post message'			=>	'المستخدم \'%s\' قام بإجراء مداخلة ببريد مطرود: %s',
-'Duplicate email notification'		=>	'تنبيه - اكتشاف لبريد مكرر',
-'Duplicate email register message'	=>	'المستخدم \'%s\' قام بالتسجيل بواسطة عنوان بريد يتبع لـ: %s',
-'Duplicate email change message'	=>	'المستخدم \'%s\' قام بتغيير عنوان بريده إلى عنوان يتبع لـ: %s',
-'Report notification'				=>	'تقرير(%d) - \'%s\'',
-'Report message 1'					=>	'المستخدم \'%s\' قام بإرسال تقرير في الرسالة التالية: %s',
-'Report message 2'					=>	'السبب: %s',
-
-'User profile'						=>	'هيئة المستخدم: %s',
-'Post URL'							=>	'عنوان المداخلة URL: %s',
-'Email signature'					=>	'بريد المنتدى'."\n".'(لا تقم بالرد على هذه الرسالة)',
-
 // For extern.php RSS feed
 'RSS description'           =>	'المواضيع الأكثر نشاطاً مؤخرا عند',
 'RSS description topic'			=>	'الأكثر حداثة عند',
@@ -170,5 +150,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'يوجد تقارير جديدة',
 'Maintenance mode enabled'			=>	'وضع الصيانة فعال!',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

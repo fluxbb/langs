@@ -32,9 +32,9 @@ $lang_prof_reg = array(
 'Banned email'				=>	'العنوان البريدي الذي أدخلته محظور في هذا المنتدى. الرجاء اختيار عنوان بريدي آخر.',
 'Dupe email'				=>	'شخص آخر قد سبق وسجل بهذا العنوان البريدي. الرجاء اختيار عنوان بريدي آخر.',
 'Sig too long'				=>	'التوقيع يجب أن لا يكون أطول من %1$s حرف, يرجى تقليل عدد الأحرف مقدار %2$s حرف',
+'Sig too many lines'		=>	'التوقيع لا يجب أن يكون أكثر من %s سطر',
 'Bad ICQ'					=>	'لقد أدخلت ICQ UIN غير صحيح. الرجاء عد للخلف و صحح.',
 
-// I do not know how to translate this lines
 'UTC-12:00'					=>	'(UTC-12:00) International Date Line West',
 'UTC-11:00'					=>	'(UTC-11:00) Niue, Samoa',
 'UTC-10:00'					=>	'(UTC-10:00) Hawaii-Aleutian, Cook Island',

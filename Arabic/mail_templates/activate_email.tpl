@@ -8,5 +8,5 @@ Subject: طلب تغيير عنوان البريد الالكتروني
 <activation_url>
 
 -- 
-<board_mailer>
+بريد <board_mailer>
 (لا تقم بالرد على هذه الرسالة)

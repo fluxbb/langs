@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin_bans.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_bans = array(
 
 'No user message'			=>	'Brak zarejestrowanego użytkownika o podanej nazwie. Jeśli nie chcesz dodać bana konkretnemu użytkownikowi, pozostaw to pole puste.',
@@ -43,7 +42,8 @@ $lang_admin_bans = array(
 'E-mail label'				=>	'E-mail',
 'E-mail help'				=>	'Adres e-mail lub domena do zbanowania (np. email@domena.pl lub domena.pl). Zobacz "Zezwalaj na zbanowane adresy e-mail" w Uprawnieniach, w celu uzyskania dodatkowych informacji.',
 'IP label'					=>	'Adres IP/Zakres adresów IP',
-'IP help'					=>	'Adres IP lub zakres adresów IP do zbanowania (np. 150.11.110.1 lub 150.11.110). Adresy oddzielaj pojedynczą spacją. Jeśli wprowadzony adres IP jest już zbanowany, poprzednie bany nie ulegną zmianie.','IP help link'				=>	'Kliknij %s, aby sprawdzić statystyki adresów IP dla tego użytkownika.',
+'IP help'					=>	'Adres IP lub zakres adresów IP do zbanowania (np. 150.11.110.1 lub 150.11.110). Adresy oddzielaj pojedynczą spacją. Jeśli wprowadzony adres IP jest już zbanowany, poprzednie bany nie ulegną zmianie.',
+'IP help link'				=>	'Kliknij %s, aby sprawdzić statystyki adresów IP dla tego użytkownika.',
 'Ban advanced head'			=>	'Zaawansowane ustawienia bana',
 'Ban advanced subhead'		=>	'Uzupełnianie danych',
 'Ban message label'			=>	'Wiadomość',

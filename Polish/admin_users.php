@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin-users.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Wprowadzono niepoprawny znak w kolumnie numerycznej.',
@@ -37,6 +36,7 @@ $lang_admin_users = array(
 'Invalid date message'      =>  'Wprowadziłeś niepoprawną datę wygaśnięcia bana.',
 'Invalid date reasons'      =>  'Format daty powinien wyglądać następująco: RRRR-MM-DD. Data bana musi być ustawiona co najmniej jeden dzień do przodu.',
 'Users banned redirect'     =>  'Użytkownicy zostali zbanowani. Przekierowywanie…',
+
 'User search head'			=>	'Wyszukiwanie użytkowników',
 'User search subhead'		=>	'Wprowadź kryteria wyszukiwania',
 'User search info'			=>	'Wyszukiwanie użytkowników w bazie. Wprowadź jedno lub więcej kryteriów. Znak (*) zastępuje dowolny ciąg znaków.',
@@ -58,6 +58,8 @@ $lang_admin_users = array(
 'Last post after label'		=>	'Ostatni post po',
 'Date help'					=>	'(rrrr-mm-dd hh:mm:ss)',
 'Last post before label'	=>	'Ostatni post przed',
+'Last visit after label'	=>	'Ostatnia wizyta po',
+'Last visit before label'	=>	'Ostatnia wizyta przed',
 'Registered after label'	=>	'Zarejestrowany po',
 'Registered before label'	=>	'Zarejestrowany przed',
 'Order by label'			=>	'Sortuj według',
@@ -65,6 +67,7 @@ $lang_admin_users = array(
 'Order by e-mail'			=>	'e-mail',
 'Order by posts'			=>	'liczba postów',
 'Order by last post'		=>	'ostatni post',
+'Order by last visit'		=>	'ostatnia wizyta',
 'Order by registered'		=>	'data rejestracji',
 'Ascending'					=>	'rosnąco',
 'Descending'				=>	'malejąco',

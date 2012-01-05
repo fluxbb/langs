@@ -1,0 +1,66 @@
+<?php
+
+// Language definitions used in search.php
+// Finnish translation by Pauligrinder
+$lang_search = array(
+
+// The search form
+'User search'                           =>	'Käyttäjähaku',
+'No search permission'					=>	'Sinulla ei ole oikeutta etsiä.',
+'Search flood'                          =>	'%s sekunttia pitää kulua hakujen välillä.',
+'Search'                                =>	'Etsi',
+'Search criteria legend'				=>	'Syötä hakusanat',
+'Search info'                           =>	'Tavalliset operaattorit ja jokerimerkit (*) ovat sallittuja.',
+'Keyword search'                        =>	'Hakusanahaku',
+'Author search'                         =>	'Kirjoittaja-haku',
+'Search in legend'                      =>	'Mistä etsitään?',
+'Search in info'                        =>	'Valitse mistä haluat etsiä ja niin pois päin.',
+'Forum search'                          =>	'Forumi',
+'All forums'                            =>	'Kaikki forumit',
+'Search in'                             =>	'Etsi ...',
+'Message and subject'					=>	'Viestistä ja otsikosta',
+'Message only'                          =>	'Vain viesteistä',
+'Topic only'                            =>	'vain otsikosta',
+'Sort by'                               =>	'Lajittele',
+'Sort order'                            =>	'Järjestys',
+'Search results legend'					=>	'Miten hakutulokset näytetään?',
+'Search results info'					=>	'Voit valita missä järjestyksessä hakutulokset näytetään.',
+'Sort by post time'					=>	'Kirjoitusajan mukaan',
+'Sort by author'					=>	'Kirjoittajan mukaan',
+'Sort by subject'					=>	'Otsikon mukaan',
+'Sort by forum'						=>	'Forumin mukaan',
+'Ascending'                         =>	'Nousevassa järjestyksessä',
+'Descending'						=>	'Laskevassa järjestyksessä',
+'Show as'                           =>	'Näytä hakutulokset',
+'Show as topics'					=>	'Otsikoina',
+'Show as posts'						=>	'Kirjoituksina',
+
+// Results
+'Search results'					=>	'Etsi tuloksia',
+'Search topics'						=>	'Etsi otsikoita',
+'Search posts'						=>	'Etsi kirjoituksia',
+'Quick search show_new'					=>	'Uusi',
+'Quick search show_recent'				=>	'Aktiivininen',
+'Quick search show_unanswered'				=>	'Vastaamaton',
+'Quick search show_replies'				=>	'Kirjoittanut',
+'Quick search show_user_topics'				=>	'%s',
+'Quick search show_user_posts'				=>	'%s',
+'Quick search show_subscriptions'			=>	'%s seuraa',
+'By keywords show as topics'				=>	'Kirjoituksissa on avainsana \'%s\'',
+'By keywords show as posts'				=>	'avainsanalla \'%s\'',
+'By user show as topics'				=>	'%s kirjoittamilla kirjoituksilla',
+'By user show as posts'					=>	'kirjoittanut %s',
+'By both show as topics'				=>	'avainsanalla \'%s\' %s:n kirjoituksissa',
+'By both show as posts'					=>	'avainsanalla \'%s\' ,%s.',
+'No terms'                          =>	'Et antanut yhtään hakusanaa.',
+'No hits'                           =>	'Mitään ei löytynyt.',
+'No user posts'						=>	'Tämä käyttäjä ei ole kirjoittanut mitään tällä forumille',
+'No user topics'					=>	'Tämä käyttäjä ei ole luonut uusia otsikoita tälle forumille.',
+'No subscriptions'					=>	'Tämä käyttäjä ei seuraa ketään.',
+'No new posts'						=>	'Kukaan ei ole kirjoittanut mitään viime käyntisi jälkeen.',
+'No recent posts'					=>	'24h sisällä ei ole kirjoitettu mitään.',
+'No unanswered'						=>	'Tällä forumilla ei ole vastaamattomia kirjoituksia.',
+'Go to post'						=>	'Siirry kirjoitukseen',
+'Go to topic'						=>	'Siirry otsikkoon'
+
+);

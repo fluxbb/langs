@@ -1,3 +1,4 @@
+\
 <?php
 
 // Language definitions used in profile.php
@@ -14,26 +15,26 @@ $lang_profile = array(
 'Section admin'					=>	'بەڕێوەبەرایەتی',
 
 // Miscellaneous
-'Username and pass legend'		=>	'ناوی بەکارهێنەر و تێپەڕەووشە بنووسە',
+'Username and pass legend'		=>	'ناوی بەکارهێنەر و تێپەڕەوشە بنووسە',
 'Personal details legend'		=>	'وردەکارییە تاکەکەسییەکانت بنووسە',
 'Contact details legend'		=>	'وردەکاری پەیامکردنت بنووسە',
 'User activity'					=>	'چالاکی بەکارهێنەر',
 'Paginate info'					=>	'ژمارەی ئەو پەیام و بابەتانە بنووسە کە ئارەزووتە لە پەڕێکدا دەرکەون',
 
 // Password stuff
-'Pass key bad'					=>	':کلیلی تایبەتی چالاکردنی تێپەڕەووشە ڕاست نییە یان بەسەرچووە ،تکایە دوبارە داوای بکەوە یان پەیوەندی بکە بە بەڕێوەبەرایەتیەوە لە',
-'Pass updated'					=>	'تێپەڕەووشەی تۆ نوێکرایەوە ،دەتوانی بە تێپەڕەووشە نوێیەکەت بچیتە ژوورەوە',
-'Pass updated redirect'			=>	'..تێپەڕەووشە نوێکرایەوە ،گەڕاندنەوە',
-'Wrong pass'					=>	'تێپەڕەووشەی کۆنی هەڵە',
-'Change pass'					=>	'گۆڕینی تێپەڕەووشە',
-'Change pass legend'			=>	'تێپەڕەووشەی نوێت بنووسە و دڵنیای بکەوە',
-'Old pass'						=>	'تێپەڕەووشەی کۆن',
-'New pass'						=>	'تێپەڕەووشەی نوێ',
-'Confirm new pass'				=>	'دووبارە تێپەڕەووشەی نوێ',
-'Pass info'						=>	'تێپەڕەووشەکان پێویست بەلایەنی کەم ٤ تیپ درێژیان بێت ،تێپەڕەووشەکان هەستیارن',
+'Pass key bad'					=>	'کلیلی تایبەتی چالاکردنی تێپەڕەوشە ڕاست نییە یان بەسەرچووە ،تکایە دوبارە داوای بکەوە یان پەیوەندی بکە بە بەڕێوەبەرایەتیەوە لە:',
+'Pass updated'					=>	'تێپەڕەوشەی تۆ نوێکرایەوە ،دەتوانی بە تێپەڕەوشە نوێیەکەت بچیتە ژوورەوە',
+'Pass updated redirect'			=>	'..تێپەڕەوشە نوێکرایەوە ،گەڕاندنەوە',
+'Wrong pass'					=>	'تێپەڕەوشەی کۆنی هەڵە',
+'Change pass'					=>	'گۆڕینی تێپەڕەوشە',
+'Change pass legend'			=>	'تێپەڕەوشەی نوێت بنووسە و دڵنیای بکەوە',
+'Old pass'						=>	'تێپەڕەوشەی کۆن',
+'New pass'						=>	'تێپەڕەوشەی نوێ',
+'Confirm new pass'				=>	'دووبارە تێپەڕەوشەی نوێ',
+'Pass info'						=>	'تێپەڕەوشەکان پێویست بەلایەنی کەم ٤ تیپ درێژیان بێت ،تێپەڕەوشەکان هەستیارن',
 
 // Email stuff
-'Email key bad'					=>	':کلیلی تایبەتی چالاککردنی ئیمەیڵ ڕاست نییە یان بەسەرچووە تکایە دووبارە داوای بکەوە ،یان پەیوەندی بکەوە بە بەڕێوەبەرایەتیەوە لە',
+'Email key bad'					=>	'کلیلی تایبەتی چالاککردنی ئیمەیڵ ڕاست نییە یان بەسەرچووە تکایە دووبارە داوای بکەوە ،یان پەیوەندی بکەوە بە بەڕێوەبەرایەتیەوە لە:',
 'Email updated'					=>	'پۆستی ئەلیکترۆنیت نوێکرایەوە',
 'Activate email sent'			=>	':ئیمەیڵێک نێردرا بۆ ناونیشانی دراو لەگەڵ ڕێنمایی چۆنیەتی چالاککردن ،ئەگەر نەگەیشت تکایە پەیوەندی بکە بە بەڕێوەبەرایەتییەوە',
 'Email legend'					=>	'پۆستە ئەلیکترۆنییە نوێیەکەت بنووسە',
@@ -64,16 +65,16 @@ $lang_profile = array(
 'Upload'						=>	'بارکردن', // submit button
 
 // Form validation stuff
-'Forbidden title'				=>	'The title you entered contains a forbidden word. You must choose a different title.',
+'Forbidden title'				=>	'ئەو ناونیشانەی هەڵتبژاردووە قەدەغەکراوە، بۆیە ناونیشانێکی تر هەڵبژێرە.',
 'Profile redirect'				=>	'..پرۆفایل نوێکرایەوە ،گەڕاندنەوە',
 
 // Profile display stuff
-'Users profile'					=>	'%s\' پرۆفایلی',
-'Username info'					=>	'%s :بەکارهێنەر',
-'Email info'					=>	'%s :ئیمەیڵ',
-'Posts info'					=>	'%s :پەیامەکان',
-'Registered info'				=>	'%s :تۆماربووە',
-'Last post info'				=>	'%s :دوایین پەیام',
+'Users profile'					=>	'پرۆفایلی %s\'',
+'Username info'					=>	'بەکارهێنەر: %s',
+'Email info'					=>	'ئیمەیڵ: %s',
+'Posts info'					=>	'پەیامەکانی:  %s',
+'Registered info'				=>	'تۆماربووە: %s',
+'Last post info'				=>	'دوایین پەیام: %s',
 'Show posts'					=>	'نیشاندانی سەرجەم پەیامەکان',
 'Show topics'					=>	'نیشاندانی سەرجەم بابەتەکان',
 'Show subscriptions'			=>	'نیشاندانی سەرجەم بەشداریکردنەکان',
@@ -93,7 +94,7 @@ $lang_profile = array(
 'Change avatar'					=>	'گۆڕینی وێنۆچکە',
 'Signature legend'				=>	'پێکهێنانی واژۆکەت',
 'Signature info'				=>	'واژۆ ،پارچەیەکی بچووک لە دەقە کە لکاوە بە پەیامەکانت',
-'Sig preview'					=>	':واژۆی ئێستات',
+'Sig preview'					=>	'واژۆی ئێستات:',
 'No sig'						=>	'هیچ واژۆیەک لە پرۆفایلدا نییە',
 'Signature quote/code/list/h'	=>	'چوارچێوە ،لیستەکان ،سەری کۆدەکانی بیبی ڕێگەپێدراو نییە لە واژۆکان',
 'Topics per page'				=>	'بابەتەکان',
@@ -116,24 +117,26 @@ $lang_profile = array(
 'Instructions'					=>	'کاتێک پرۆفایلەکەت نوێدەکەیتەوە ،بۆ ئەو پەڕە دەگەڕێندرێیتەوە',
 
 // Administration stuff
-'Group membership legend'		=>	'Choose user group',
-'Save'							=>	'Save',
-'Set mods legend'				=>	'Set moderator access',
-'Moderator in info'				=>	'Choose which forums this user should be allowed to moderate. Note: This only applies to moderators. Administrators always have full permissions in all forums.',
-'Update forums'					=>	'Update forums',
-'Delete ban legend'				=>	'Delete (administrators only) or ban user',
-'Delete user'					=>	'Delete user',
-'Ban user'						=>	'Ban user',
-'Confirm delete legend'			=>	'Important: read before deleting user',
-'Confirm delete user'			=>	'Confirm delete user',
-'Confirmation info'				=>	'Please confirm that you want to delete the user', // the username will be appended to this string
-'Delete warning'				=>	'Warning! Deleted users and/or posts cannot be restored. If you choose not to delete the posts made by this user, the posts can only be deleted manually at a later time.',
-'Delete posts'					=>	'Delete any posts and topics this user has made.',
-'Delete'						=>	'Delete', // submit button (confirm user delete)
-'User delete redirect'			=>	'User deleted. Redirecting …',
-'Group membership redirect'		=>	'Group membership saved. Redirecting …',
-'Update forums redirect'		=>	'Forum moderator rights updated. Redirecting …',
-'Ban redirect'					=>	'Redirecting …',
-'No delete admin message'		=>	'Administrators cannot be deleted. In order to delete this user, you must first move him/her to a different user group.',
+'Group membership legend'		=>	'گرووپی بەکارهێنەر هەڵبژێرە',
+'Save'							=>	'پاشەکەوت',
+'Set mods legend'				=>	'گەیشتنی چاودێر دابنێ',
+'Moderator in info'				=>	'هەڵبژێرە کام مەکۆ پێویستە ڕێگابدرێ بۆ چاودێریکردنی لەلایەن ئەم بەکارهێنەرە. تێبینی: ئەمە تەنها جێبەجێ دەبێ بۆ چاودێرەکان. بەڕێوەبەرەکان هەمیشە دەسەڵاتی تەواویان هەیە لە هەموو مەکۆکان.',
+
+'Update forums'					=>	'مەکۆکان نوێبکەوە',
+'Delete ban legend'				=>	'بیسڕەوە (تەنها بەڕێوەبەران) یان بەکارهێنەر ڕابگرە',
+'Delete user'					=>	'بەکارهێنەر بسڕەوە',
+
+'Ban user'						=>	'بەکارهێنەر ڕابگرە',
+'Confirm delete legend'			=>	'گرنگ: بیخوێنەوە پێش سڕینەوەی بەکارهێنەر',
+'Confirm delete user'			=>	'سڕینەوەی بەکارهێنەر دڵنیابکەوە',
+'Confirmation info'				=>	'تکایە دڵنیایی بکەوە کە دەتەوێ ئەو بەکارهێنەرە بسڕیتەوە', // the username will be appended to this string
+'Delete warning'				=>	'ئاگاداری! بەکارهێنەرە سڕاوەکان یان/لەگەڵ پەیامەکان ناتوانرێن بگەڕێندرێنەوە. ئەگەر پەیامەکان لەلایەن ئەو بەکارهێنەر مەسڕەوە هەڵبژێری ،ئەوکات تەنها پەیامەکان کاتێکی تر دەتوانرێن بسڕدرێنەوە.',
+'Delete posts'					=>	'هەر پەیامێک و بابەتێک بسڕەوە کە ئەو بەکارهێنەرە کردوویەتی.',
+'Delete'						=>	'بسڕەوە', // submit button (confirm user delete)
+'User delete redirect'			=>	'بەکارهێنەر سڕایەوە. گەڕاندنەوە...',
+'Group membership redirect'		=>	'ئەندامیەتی گرووپ پاشکەوتکرا. گەڕاندنەوە...',
+'Update forums redirect'		=>	'مافەکانی چاودێری مەکۆ نوێکرایەوە. گەڕاندنەوە...',
+'Ban redirect'					=>	'گەڕاندنەوە...',
+'No delete admin message'		=>	'بەڕێوەبەران ناتوانرێن بسڕدرێنەوە. کە وا داواکرا ئەو بەکارهێنەرە بسڕدرێتەوە ،پێویستە سەرەتا بیگوازییەوە بۆ گرووپێکی تری جیاوازی بەکارهێنەر.',
 
 );

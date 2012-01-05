@@ -1,4 +1,4 @@
-Subject: <mail_subject>
+Temat:   <mail_subject>
 
 <sender> z forum <board_title> wysłał wiadomość do Ciebie. Możesz odpowiedzieć użytkownikowi <sender> poprzez odpisanie na tę wiadomość.
 
@@ -10,4 +10,4 @@ Treść wiadomości:
 -----------------------------------------------------------------------
 
 --
-<board_mailer>
+<board_mailer> Mailer

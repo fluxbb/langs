@@ -1,10 +1,9 @@
-﻿<?php
+<?php
 
-// Language definitions used in install.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
+// Language definitions used in install.php, localized by adaur
 $lang_install = array(
 
-'Install message'				=>	'Plik \'config.php\' nie istnieje na serwerze lub jest uszkodzony. Może to oznaczać, że FluxBB nie został jeszcze zainstalowany.',
+'Install message'				=>	'Plik <strong>config.php</strong> nie istnieje na serwerze lub jest uszkodzony. Może to oznaczać, że FluxBB nie został jeszcze zainstalowany.',
 'Choose install language'		=>	'Język skryptu instalacyjnego',
 'Choose install language info'	=>	'Język wykorzystywany w tym skrypcie instalacyjnym. Domyślny język dla całego forum można ustawić niżej.',
 'Install language'				=>	'Wybierz język instalacyjny',
@@ -21,7 +20,7 @@ $lang_install = array(
 'Username 5'					=>	'Nazwa użytkownika nie może zawierać wszystkich znaków \', " i [ lub ] na raz.',
 'Username 6'					=>	'Nazwa użytkownika nie może zawierać tagów BBCode.',
 'Short password'				=>	'Hasło musi mieć co najmniej 4 znaki.',
-'Passwords not match'			=>	'Hasła nie zgadzają się.',
+'Passwords not match'			=>	'Wprowadzone hasła nie zgadzają się.',
 'Wrong email'					=>	'Adres e-mail Administratora nie jest poprawny.',
 'No board title'				=>	'Musisz wprowadzić tytuł forum.',
 'Error default language'		=>	'Wybrany język domyślny nie istnieje.',
@@ -33,7 +32,7 @@ $lang_install = array(
 'Administrator email'			=>	'E-mail Administratora',
 'Board title'					=>	'Tytuł forum',
 'Base URL'						=>	'Adres URL',
-'Required field'				=>	' jest polem wymaganym.',
+'Required field'				=>	'jest polem wymaganym.',
 'FluxBB Installation'			=>	'Instalacja FluxBB',
 'Welcome'						=>	'Masz zamiar zainstalować FluxBB. W celu instalacji FluxBB należy wypełnić poprawnie poniższy formularz. W razie jakichkolwiek problemów podczas instalacji, należy zapoznać się z dokumentacją.',
 'Install'						=>	'Instalacja FluxBB 1.4',
@@ -48,7 +47,7 @@ $lang_install = array(
 'Required'						=>	'(Wymagane)',
 'Database hostname'				=>	'Wprowadź adres serwera bazy danych',
 'Info 3'						=>	'Adres serwera bazy danych (przykład: localhost, db.myhost.com lub 192.168.0.15). Można sprecyzować niestandardowy port do łączenia z serwerem, jeżeli baza danych nie jest uruchomiona na standardowym porcie (przykład: localhost:3580). Dla SQLite wpisz cokolwiek lub pozostaw w polu \'localhost\'.',
-'Database server hostname'		=>  'Adres serwera bazy danych',
+'Database server hostname'		=>	'Adres serwera bazy danych',
 'Database enter name'			=>	'Wprowadź nazwę bazy danych',
 'Info 4'						=>	'Nazwa bazy danych, w której zostanie zainstalowany FluxBB. Podana baza danych musi istnieć na serwerze. Dla SQLite pole to oznacza nazwę pliku tej bazy. Ze względów bezpieczeństwa, zalecane jest, aby dostęp do tej bazy był prywatny (brak dostępu przez www). Jeżeli plik z bazą danych SQLite nie istnieje, FluxBB będzie próbował go utworzyć.',
 'Database name'					=>	'Nazwa bazy danych',
@@ -76,7 +75,7 @@ $lang_install = array(
 'Enter board description'		=>	'Wprowadź opis forum',
 'Info 13'						=>	'Krótki opis forum (wyświetlany w nagłówku strony). To pole może zawierać kod HTML.',
 'Board description'				=>	'Opis forum',
-'Enter base URL'				=>	'Wprowadź adres URL, pod którym będzie zainstalowany FluxBB.',
+'Enter base URL'				=>	'Wprowadź adres URL, pod którym będzie zainstalowany FluxBB',
 'Info 14'						=>	'Adres URL (bez kończącego slash\'a) do forum (przykład: http://forum.myhost.com lub http://myhost.com/~myuser). Adres <strong>musi</strong> być poprawny, w przeciwnynm razie administratorzy i moderatorzy nie będą mogli dokonywać zmian ustawień i przesyłać formularzy. Poniższa wartość jest tylko propozycją skryptu FluxBB.',
 'Choose the default language'	=>	'Wybierz domyślny język forum',
 'Info 15'						=>	'Domyślny język dla gości oraz użytkowników, którzy nie dokonają zmiany w ustawieniach swojego profilu.',

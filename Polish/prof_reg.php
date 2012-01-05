@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in both profile.php and register.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_prof_reg = array(
 
 'Email legend'				=>	'Ustawienia adresu e-mail',

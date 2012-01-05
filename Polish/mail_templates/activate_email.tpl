@@ -1,4 +1,4 @@
-Subject: Zmiana adresu e-mail
+Temat:   Zmiana adresu e-mail
 
 Witaj <username>,
 
@@ -8,5 +8,5 @@ Jeśli chcesz zmienić swój adres e-mail, kliknij w poniższy odnośnik:
 <activation_url>
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Wiadomość wysłana automatycznie, nie odpowiadaj na nią)

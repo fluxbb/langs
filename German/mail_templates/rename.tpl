@@ -8,5 +8,5 @@ Neuer Mitgliedsname: <new_username>
 Wir bitten, diese Unannehmlichkeit zu entschuldigen.
 
 --
-<board_mailer>
+<board_mailer> Mailer
 (Antworte nicht auf diese Nachricht)

@@ -4,14 +4,14 @@
 $lang_forum = array(
 
 'Post topic'	=>	'發表主題',
-'Views'			=>	'瀏覽',
-'Moved'			=>	'轉移：',
+'Views'			=>	'瀏覽次數',
+'Moved'			=>	'移至：',
 'Sticky'		=>	'置頂：',
 'Closed'		=>	'關閉：',
-'Empty forum'	=>	'尚無內容。',
-'Mod controls'	=>	'Moderator controls',
-'Is subscribed'	=>	'您已經訂閱了該版塊',
+'Empty forum'	=>	'尚無主題。',
+'Mod controls'	=>	'版主控制項',
+'Is subscribed'	=>	'您已經訂閱了這個版面',
 'Unsubscribe'	=>	'取消訂閱',
-'Subscribe'		=>	'訂閱該版塊'
+'Subscribe'		=>	'訂閱版面'
 
 );

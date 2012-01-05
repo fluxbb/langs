@@ -25,9 +25,15 @@ $lang_help = array(
 
 'Links and images'		=>	'链接和图片',
 'Links info'			=>	'您可使用下列标签创建页面链接或者电子信箱链接：',
+'This help page'		=>	'本帮助页面',
 'My email address'		=>	'我的电子信箱',
 'Images info'			=>	'如果您要显示一幅图片，您可使用 [img] 贴图。起始标记处使用 "=" 附加的文本是用来定义图片 alt 属性的，请您尽量不要省略。',
 'FluxBB bbcode test'	=>	'FluxBB bbcode 测试',
+
+'Test topic'			=>	'测试主题',
+'Test post'				=>	'测试帖子',
+'Test forum'			=>	'测试版块',
+'Test user'				=>	'测试用户',
 
 'Quotes'				=>	'引用',
 'Quotes info'			=>	'如果您要引用某作者的发言，您可使用 quote 标签。',

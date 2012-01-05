@@ -69,7 +69,6 @@ $lang_common = array(
 'Write message legend'				=>	'Schreibe deinen Beitrag und versende ihn',
 'Previous'							=>	'Vorherige',
 'Next'								=>	'Nächste',
-'Forum index'						=>	'Foren-Übersicht',
 'Spacer'							=>	'…', // Ellipse für den Seitentrenner
 
 // Titel
@@ -137,24 +136,6 @@ $lang_common = array(
 'Query'								=>	'Datenbank-Abfrage',
 'Total query time'					=>	'Gesamtzeit der Datenbankabfragen: %s',
 
-// E-Mail-bezogene Benachrichtigungen
-'New user notification'				=>	'Achtung - neue Registrierung',
-'New user message'					=>	'Das Mitglied \'%s\' wurde in den Foren als %s registriert',
-'Banned email notification'			=>	'Achtung - Gesperrte E-Mail-Adresse erkannt',
-'Banned email register message'		=>	'Das Mitglied \'%s\' hat sich mit einer gesperrten E-Mail-Adresse registriert: %s',
-'Banned email change message'		=>	'Das Mitglied \'%s\' hat seine E-Mail-Adresse auf eine gesperrte E-Mail-Adresse geändert: %s',
-'Banned email post message'			=>	'Das Mitglied \'%s\' hat mit einer gesperrten E-Mail-Adresse geantwortet: %s',
-'Duplicate email notification'		=>	'Achtung - E-Mail-Duplikat erkannt',
-'Duplicate email register message'	=>	'Das Mitglied \'%s\' hat sich mit einer E-Mail-Adresse registriert, die auch folgendem Mitglied zugeordnet ist: %s',
-'Duplicate email change message'	=>	'Das Mitglied \'%s\' hat seine E-Mail-Adresse auf eine E-Mail-Adresse geändert, die auch folgendem Mitglied zugeordnet ist: %s',
-'Report notification'				=>	'Meldung(%d) - \'%s\'',
-'Report message 1'					=>	'Das Mitglied \'%s\' hat die folgende Nachricht gemeldet: %s',
-'Report message 2'					=>	'Grund: %s',
-
-'User profile'						=>	'Mitgliedsprofil: %s',
-'Post URL'							=>	'Antwort-URL: %s',
-'Email signature'					=>	'Foren-Mailer'."\n".'(Antworte nicht auf diese Nachricht)',
-
 // Für den RSS-Feed der extern.php
 'RSS description'					=>	'Die aktuellsten Themen aus %s.',
 'RSS description topic'				=>	'Die aktuellsten Beiträge in %s.',
@@ -169,5 +150,14 @@ $lang_common = array(
 // Teile aus dem Kopfbereich der Administration
 'New reports'						=>	'Es sind neue Berichte eingegangen',
 'Maintenance mode enabled'			=>	'Der Wartungs-Modus wurde aktiviert!',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

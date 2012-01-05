@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in admin-groups.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Należy wprowadzić nazwę grupy.',
@@ -78,6 +77,8 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'Liczba sekund, po których użytkownic tej grupy mogą ponownie korzystać z wyszukiwarki. Usatw 0, aby wyłączyć blokadę.',
 'E-mail flood label'			=>	'Blokada czasowa wysyłania wiadomości e-mail',
 'E-mail flood help'				=>	'Liczba sekund, po których użytkownicy tej grupy mogą ponownie wysłać wiadomość e-mail. Ustaw 0, aby wyłączyć blokadę.',
+'Report flood label'			=>	'Blokada czasowa raportowania',
+'Report flood help'				=>	'Liczba sekund, po których użytkownicy tej grupy mogą ponownie wysłać raport. Ustaw 0, aby wyłączyć blokadę.',
 'Moderator info'				=>	'Użytkownicy należący do grupy Moderator mogą moderować fora tylko wtedy, gdy zostaną przypisani do jednego lub więcej for. Można to zrobić poprzez zakładkę Administracja w profilu użytkownika.',
 
 );

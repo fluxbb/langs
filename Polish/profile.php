@@ -1,7 +1,6 @@
 <?php
 
 // Language definitions used in profile.php
-// Polish (UTF-8 v1.4.5): kumiech [kumiech@gmail.com] (Polish FluxBB Support - fluxbb.orge.pl)
 $lang_profile = array(
 
 // Navigation and sections
@@ -82,6 +81,7 @@ $lang_profile = array(
 'Realname'						=>	'Prawdziwe imię',
 'Location'						=>	'Lokalizacja',
 'Website'						=>	'Strona WWW',
+'Invalid website URL'			=>	'Wprowadzony adres strony WWW jest niepoprawny.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',

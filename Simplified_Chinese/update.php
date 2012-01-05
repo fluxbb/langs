@@ -12,6 +12,9 @@ $lang_update = array(
 'Database password info'		=>	'要执行数据库升级请填写FluxBB所使用的数据库密码。如果您不慎忘记了密码，请查看 \'config.php\' 文件中储存的密码。',
 'Database password note'		=>	'如果您使用的是SQLite数据库(无须密码)请使用数据库名称代替密码。它必须与配置文件中您所给出的数据库名称完全匹配。',
 'Database password'				=>	'数据库密码',
+'Maintenance'					=>	'维护',
+'Maintenance message info'		=>	'本通知在论坛升级维护时显示。本通知与论坛的帖子不同，它支持HTML格式。',
+'Maintenance message'		    =>	'维护通知',
 'Next'							=>	'下一步',
 
 'You are running error'			=>	'您所运行的 %1$s 版本号为 %2$s。FluxBB %3$s 至少必须 %1$s %4$s 才能正确运行。继续之前您必须先将您的 %1$s 升级。',
@@ -46,7 +49,7 @@ $lang_update = array(
 
 'Converting'					=>	'正在转换 %s …',
 'Converting item'				=>	'正在转换 %1$s %2$s …',
-'Preparsing item'				=>	'正在预分析Preparsing %1$s %2$s …',
+'Preparsing item'				=>	'正在预分析 %1$s %2$s …',
 'Rebuilding index item'			=>	'正在为 %1$s %2$s 重建索引',
 
 'ban'							=>	'封禁',
@@ -69,9 +72,5 @@ $lang_update = array(
 'Username bad characters error'	=>	'用户名不可一次包含字符 \'、 " 与 [ 或 ] 。请重新选择用户名。',
 'Username BBCode error'			=>	'用户名不得包含论坛所使用的样式标签格式 (BBCode) 。请重新选择用户名。',
 'Username duplicate error'		=>	'已有用户注册了用户名 %s 。您填写的用户名与之太相似。用户名必须与之不同，至少拥有一个字母、数字的差异 (a-z or 0-9)。请重新选择用户名。',
-
-'JavaScript disabled'			=>	'JavaScript 可能已被禁用。%s。',
-'Click here to continue'		=>	'点此继续',
-'Required field'				=>	'在此表单是必填项目。'
 
 );

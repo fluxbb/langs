@@ -1,12 +1,12 @@
-Subject: Welcome to <board_title>!
+Subject:بەخێربێی بۆ  <board_title>!
 
-Thank you for registering in the forums at <base_url>. Your account details are:
+سوپاس بۆ خۆتۆمارکردن لەم مەکۆیە  <base_url>. زانیاری زیاتر لێرەوەیە:
 
-Username: <username>
-Password: <password>
+ناوی بەکارهێنەر: <username>
+تێپەڕەوشە      : <password>
 
-Login at <login_url> to activate the account.
+بچۆژوورەوە لێرەوە  <login_url> بۆ چالاک کردنی هەژمارەکەت.
 
 --
 <board_mailer>
-(Do not reply to this message)
+(وەڵامی ئەم پەیامە مەدەرەوە)
