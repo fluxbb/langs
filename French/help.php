@@ -24,10 +24,16 @@ $lang_help = array(
 'Emphasised text'		=>	'Texte en emphase',
 
 'Links and images'		=>	'Liens et images',
+'This help page'    =>  'Cette page d\'aide',
 'Links info'			=>	'Vous pouvez créer des liens vers d\'autres documents ou vers des adresses électroniques en utilisant les balises suivantes&#160;:',
 'My email address'		=>	'Mon adresse électronique',
 'Images info'			=>	'Si vous souhaitez afficher une image, vous pouvez utiliser la balise «&#160;<strong>img</strong>&#160;». Le texte après le signe «&#160;=&#160;» dans la balise ouvrante est utilisé pour l\'attribut alt (texte alternatif en cas de non affichage de l\'image) et devrait être ajouté à chaque fois que cela est possible',
 'FluxBB bbcode test'	        =>	'Test du bbcode FluxBB',
+
+'Test topic'      =>  'Discussion de test',
+'Test post'        =>  'Message de test',
+'Test forum'      =>  'Forum de test',
+'Test user'        =>  'Utilisateur de test',
 
 'Quotes'			=>	'Citations',
 'Quotes info'			=>	'Si vous souhaitez inclure une citation de quelqu\'un, vous devriez utiliser la balise «&#160;<strong>quote</strong>&#160;».',
