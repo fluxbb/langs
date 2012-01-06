@@ -77,6 +77,8 @@ $lang_admin_groups = array(
 'Search flood help'			=>	'Délai en secondes à respecter par les utilisateurs de ce groupe entre deux recherches. Définir à 0 pour désactiver.',
 'E-mail flood label'			=>	'Intervalle entre e-mails consécutifs',
 'E-mail flood help'			=>	'Délai en secondes à respecter par les utilisateurs de ce groupe entre deux e-mails envoyés. Définir à 0 pour désactiver.',
+'Report flood label'      =>  'Intervalle entre signalements consécutifs',
+'Report flood help'        =>  'Délai en secondes à respecter par les utilisateurs de ce groupe entre deux signalements envoyés. Définir à 0 pour désactiver.',
 'Moderator info'			=>	'Veuillez prendre note que pour qu\'un utilisateur de ce groupe puisse obtenir des privilèges de modérateur, il doit être assigné à modérer un ou plusieurs forums. Ceci se fait via la page d\'administration d\'utilisateur du profil de l\'utilisateur.',
 
 );
