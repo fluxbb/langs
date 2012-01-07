@@ -69,7 +69,6 @@ $lang_common = array(
 'Write message legend'		=>	'Veuillez composer votre message et l\'envoyer',
 'Previous'                      =>      'Précédent',
 'Next'                          =>      'Suivant',
-'Forum index'			=>	'Page d\'accueil des forums',
 'Spacer'                        =>      '…', // Ellipsis for paginate
 
 // Title
@@ -137,24 +136,6 @@ $lang_common = array(
 'Query'                         =>        'Requête',
 'Total query time'              =>        'Temps total d\'exécution de la requête&#160;: %s',
 
-// Email related notifications
-'New user notification'                           =>        'Avertissement - nouvelle inscription',
-'New user message'                                =>        'L\'utilisateur « %s » s\'est inscrit dans les forums de %s',
-'Banned email notification'                       =>        'Avertissement - e-mail banni détecté',
-'Banned email register message'                   =>        'L\'utilisateur « %s » s\'est inscrit en utilisant une adresse électronique bannie : %s',
-'Banned email change message'                     =>        'L\'utilisateur « %s » a modifié son adresse pour une adresse électronique bannie : %s',
-'Banned email post message'			  =>	    'L\'utilisateur « %s » a posté un message en utilisant une adresse électronique bannie : %s',
-'Duplicate email notification'                    =>        'Avertissement - e-mail en doublon détecté',
-'Duplicate email register message'                =>        'L\'utilisateur « %s » s\'est inscrit en utilisant une adresse électronique qui appartient également à : %s',
-'Duplicate email change message'                  =>        'L\'utilisateur « %s » a modifié son adresse pour une adresse électronique qui appartient également à : %s',
-'Report notification'                             =>        'Signalement (%d) - « %s »',
-'Report message 1'                                =>        'L\'utilisateur « %s » a signalé le message suivant : %s',
-'Report message 2'                                =>        'Motif : %s',
-
-'User profile'                                    =>        'Profil de l\'utilisateur : %s',
-'Post URL'					  =>	    'URL du message : %s',
-'Email signature'                                 =>        'Message automatique'."\n".'(Veuillez ne pas répondre à ce message. Merci !)',
-
 // For extern.php RSS feed
 'RSS description'                                 =>        'Les sujets les plus récents sur %s.',
 'RSS description topic'                           =>        'Les sujets les plus récents dans %s.',
@@ -168,6 +149,15 @@ $lang_common = array(
 
 // Admin related stuff in the header
 'New reports'					  =>	    'De nouveaux signalements ont été envoyés&#160;!',
-'Maintenance mode enabled'			  =>	    'Le mode maintenance est activé&#160;!'
+'Maintenance mode enabled'			  =>	    'Le mode maintenance est activé&#160;!',
+
+// Units for file sizes
+'Size unit B'            =>  '%s O',
+'Size unit KiB'            =>  '%s Kio',
+'Size unit MiB'            =>  '%s Mio',
+'Size unit GiB'            =>  '%s Gio',
+'Size unit TiB'            =>  '%s Tio',
+'Size unit PiB'            =>  '%s Pio',
+'Size unit EiB'            =>  '%s Eio',
 
 ); 
