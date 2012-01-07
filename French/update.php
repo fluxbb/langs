@@ -12,6 +12,9 @@ $lang_update = array(
 'Database password info'	     =>	'Pour lancer la mise à jour de la base de données veuillez indiquer le mot de passe de base de données avec lequel FluxBB a été installé. Si vous ne vous en souvenez plus, il est stocké dans le fichier \'config.php\'.',
 'Database password note'	     =>	'Si vous utilisez SQLite (et donc n\'avez défini aucun mot de passe), veuillez utiliser le nom du fichier de base de données à la place. Cela doit correspondre exactement au nom de base de données indiqué dans votre fichier de configuration.',
 'Database password'		     =>	'Mot de passe de base de données',
+'Maintenance'          =>  'Maintenance',
+'Maintenance message info'    =>  'Le message qui s\'affichera pour les utilisateurs lors de l\'opération de mise à jour. Ce texte ne sera pas analysé comme les messages habituels et peut donc contenir du code HTML.',
+'Maintenance message'        =>  'Message de maintenance',
 'Next'				     =>	'Suivante',
 
 'You are running error'		     =>	'Vous utilez la version %2$s de %1$s. FluxBB %3$s nécessite au moins %1$s %4$s pour fonctionner correctement. Vous devez mettre à niveau votre installation avant de poursuivre.',
@@ -69,9 +72,5 @@ $lang_update = array(
 'Username bad characters error'	     =>	'Les noms d\'utilisateurs ne doivent pas comporter tous les caractères \', " et [ ou ] en même temps. Veuillez choisir un autre nom d\'utilisateur.',
 'Username BBCode error'		     =>	'Les noms d\'utilisateurs ne doivent pas comporter de balises de formatage de texte (BBCode) utilisés par le forum. Veuillez choisir un autre nom d\'utilisateur.',
 'Username duplicate error'	     =>	'Quelqu\'un a déjà utilisé le nom d\'utilisateur « %s ». Le nom d\'utilisateur que vous avez indiqué est trop semblable. Le nom doit comporter au moins un caractère alphanumérique (a-z ou 0-9) différent. Veuillez choisir un autre nom d\'utilisateur.',
-
-'JavaScript disabled'		     =>	'JavaScript semble être désactivé. %s.',
-'Click here to continue'	     =>	'Cliquez ici pour continuer',
-'Required field'                     => 'est un champ à remplir obligatoirement dans ce formulaire.'
 
 );
