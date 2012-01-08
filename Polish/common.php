@@ -89,8 +89,8 @@ $lang_common = array(
 'BBCode list size error'			=>	'Twoja lista jest zbyt długa do przetworzenia, skróć ją!',
 
 // Stuff for the navigator (top of every page)
-'Index'								=>	'Strona główna',
-'User list'							=>	'Lista użytkowników',
+'Index'								=>	'Forum',
+'User list'							=>	'Użytkownicy',
 'Rules'								=>	'Regulamin',
 'Search'							=>	'Szukaj',
 'Register'							=>	'Rejestracja',
