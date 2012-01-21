@@ -3,12 +3,15 @@
 // Language definitions used in viewforum.php
 $lang_forum = array(
 
-'Post topic'	=>	'Создать тему',
+'Post topic'	=>	'Создать новую тему',
 'Views'			=>	'Просмотров',
-'Moved'			=>	'Перенесено',
-'Sticky'		=>	'Выделено',
+'Moved'			=>	'Перемещено:',
+'Sticky'		=>	'Важно:',
 'Closed'		=>	'Закрыто:',
-'Empty forum'	=>	'Доска пуста.',
-'Mod controls'	=>	'Операции модерирования'
+'Empty forum'	=>	'Форум пуст.',
+'Mod controls'	=>	'Инструменты модерирования',
+'Is subscribed'	=>	'Вы уже подписаны на форум',
+'Unsubscribe'	=>	'Отписаться от форума',
+'Subscribe'		=>	'Подписаться на форум'
 
 );

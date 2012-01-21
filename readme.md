@@ -11,7 +11,7 @@
 *  Japanese - [sama55 & megu](http://cmsbox.jp/forums/)
 *  Kurdish - [Chawg.org](http://www.chawg.org)
 *  Polish - [FluxBB.bee.pl](http://fluxbb.bee.pl)
-*  Russian - [Форум FluxBB](http://fluxbb.org.ru/forum/viewtopic.php?id=3140)
+*  Russian - [well-wisher](http://fluxbb.org.ru/forum/viewtopic.php?id=3403#p26685)
 *  Simplified Chinese - [ehtime](http://fluxbb.org/forums/profile.php?id=3031)
 *  Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)
 *  Traditional Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58), [coolhd](http://fluxbb.org/forums/profile.php?id=99) , [taylorchu](http://tailinchu.tk/bbs), [crlin](http://fluxbb.org/forums/profile.php?id=56389)
