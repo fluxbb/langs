@@ -43,7 +43,7 @@ $lang_update = array(
 'Correct errors'				=>	'Następujące błędy powinny zostać poprawione:',
 'Rename users'					=>	'Zmiana nazw użytkowników',
 'Successfully updated'			=>	'Twoje forum zostało pomyślnie zaktualizowane! Teraz możesz %s.',
-'go to index'					=>	'przejdź do strony głównej forum',
+'go to index'					=>	'przejść do strony głównej forum',
 
 'Unable to lock error'			=>	'Błąd aktualizacji. Upewnij się, że PHP ma prawa zapisu do katalogu \'%s\' oraz nikt inny nie uruchomił już skryptu aktualizacyjnego.',
 
