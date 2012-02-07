@@ -37,10 +37,7 @@ $lang_help = array(
 'Test forum'            =>  'Forum test',
 'Test user'             =>  'Utente test',
 
-<<<<<<< HEAD
 'FluxBB bbcode test'  	=>  'Test BBcode',
-=======
->>>>>>> 35bd963c29e749b3b213092237b4d10f0f6bb842
 'Quotes'				=>	'Citazioni',
 'Quotes info'			=>	'Per citare un testo a cui fare riferimento o rispondere, utilizzare il marcatore [quote].',
 'Quotes info 2'			=>	'Per non citare qualcuno in particolare, utilizzare il marcatore senza specificare un nome utente.',
