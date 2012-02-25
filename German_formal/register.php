@@ -19,7 +19,7 @@ $lang_register = array(
 'Username censor'			=>	'Der eingegebene Mitgliedsname enthielt ein oder mehrere zensierte Worte. Bitte wählen Sie einen anderen Mitgliedsnamen.',
 'Username dupe 1'			=>	'Der gewünschte Mitgliedsname ist bereits vergeben',
 'Username dupe 2'			=>	'Der gewünschte Mitgliedsname ist einem anderen zu ähnlich. Er muss sich mindestens in einem Zeichen (a-z oder 0-9) unterscheiden. Bitte wählen Sie einen anderen Mitgliedsnamen.',
-'E-Mail not match'			=>	'Die E-Mail-Adressen stimmen nicht überein. Bitte versuchen Sie es noch einmal.',
+'Email not match'			=>	'Die E-Mail-Adressen stimmen nicht überein. Bitte versuchen Sie es noch einmal.',
 
 // Registrierungs-E-Mail
 'Reg email'					=>	'Danke für Ihre Registrierung. Das Passwort wurde an die angegebene Adresse gesandt. Falls die E-Mail nicht ankommen sollte, kontaktieren Sie bitte die Administration unter',
@@ -31,7 +31,7 @@ $lang_register = array(
 'Username legend'			=>	'Bitte geben Sie einen Mitgliedsnamen mit einer Länge zwischen zwei und 25 Zeichen ein',
 'Pass legend'				=>	'Bitte geben Sie ein Passwort ein und bestätigen Sie dies',
 'Pass info'					=>	'Passwörter müssen mindestens vier Zeichen lang sein. Achten Sie auf Groß-/Kleinschreibung.',
-'E-Mail info'				=>	'Bitte geben Sie eine gültige E-Mail-Adresse ein, an die ein zufällig erzeugtes Passwort gesendet werden kann.',
-'Confirm email'				=>	'E-Mail-Adresse zur Bestätigung wiederholen',
+'Email info'				=>	'Bitte geben Sie eine gültige E-Mail-Adresse ein. An diese Adresse wird ein zufällig erzeugtes Passwort gesendet.',
+'Confirm email'				=>	'E-Mail-Adresse zur Bestätigung wiederholen.',
 
 );
