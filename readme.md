@@ -9,6 +9,7 @@
 *  Icelandic - [sverrir](http://fluxbb.org/forums/profile.php?id=55514)
 *  Italian - [Oscon](http://www.oscon.it)
 *  Japanese - [sama55 & megu](http://cmsbox.jp/forums/)
+*  Korean - [floor](http://fluxbb.org/forums/profile.php?id=56739)
 *  Kurdish - [Chawg.org](http://www.chawg.org)
 *  Polish - [FluxBB.bee.pl](http://fluxbb.bee.pl)
 *  Romanian - [Kaeden](http://fluxbb.org/forums/profile.php?id=57813)
