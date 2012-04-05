@@ -1,6 +1,6 @@
 Subject: Achtung - neue Registrierung
 
-Das Mitglied '<username>' wurde im Forum als <base_url> registriert.
+Das Mitglied '<username>' wurde im Forum auf <base_url> registriert.
 
 Mitgliedsprofil: <profile_url>
 
