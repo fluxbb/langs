@@ -31,7 +31,7 @@ $lang_post = array(
 'Preview'			=>	'Voorbeeld', // Voorbeeld voor bericht
 
 // Post bewerken
-'Edit post legend'	=>	'Bewerk deze post en verzend',
+'Edit post legend'	=>	'Bewerken en verzenden',
 'Silent edit'		=>	'Stil bewerken (weergeef "Bewerkt door ..." niet in dit topic)',
 'Edit post'			=>	'Bewerk post',
 'Edit redirect'		=>	'Post bijgewerkt. Doorverwijzen …'

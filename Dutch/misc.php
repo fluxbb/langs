@@ -7,17 +7,17 @@ $lang_misc = array(
 'Mark forum read redirect'		=>	'Alle topics in dit forum zijn gemarkeerd als gelezen. Doorverwijzen …',
 
 // Bericht sturen
-'Form email disabled'			=>	'De gebruiker waar je een bericht naar witl sturen heeft ervoor gekozen dit niet toe te staan.',
+'Form email disabled'			=>	'De gebruiker waar je een bericht naar wil sturen heeft ervoor gekozen dit niet toe te staan.',
 'No email subject'				=>	'Je moet een onderwerp opgeven.',
 'No email message'				=>	'Je moet een bericht opgeven.',
 'Too long email message'		=>	'Je bericht mag niet langer zijn dan 65535 tekens (64 KB).',
-'Email flood'					=>	'Je moet minstens %s seconden wachten voordat je weer een mail kan sturen.',
-'Email sent redirect'			=>	'Email verzenden. Doorverwijzen …',
-'Send email to'					=>	'Verzend mail naar',
+'Email flood'					=>	'Je moet minstens %s seconden wachten voordat je weer een e-mail kan sturen.',
+'Email sent redirect'			=>	'E-mail verzenden. Doorverwijzen …',
+'Send email to'					=>	'Verzend e-mail naar',
 'Email subject'					=>	'Onderwerp',
 'Email message'					=>	'Bericht',
-'Email disclosure note'			=>	'Houd er rekening mee dat je mail adres wordt weergegeven bij de ontvanger als je dit formulier gebruikt',
-'Write email'					=>	'Schrijf en verstuur een mail',
+'Email disclosure note'			=>	'Houd er rekening mee dat je e-mail adres wordt weergegeven bij de ontvanger als je dit formulier gebruikt',
+'Write email'					=>	'Schrijf en verstuur een e-mail',
 
 // Rapporteren
 'No reason'						=>	'Je moet een reden opgeven.',
@@ -37,16 +37,16 @@ $lang_misc = array(
 'Unsubscribe redirect'			=>	'Je abonnement is verwijderd. Doorverwijzen …',
 
 // General forum and topic moderation
-'Moderate'						=>	'Modereer',
-'Select'						=>	'Selecteer',
-'Move'							=>	'Verplaats',
-'Split'							=>	'Splits',
-'Delete'						=>	'Verwijder',
-'Merge'							=>	'Voeg samen',
+'Moderate'						=>	'Modereren',
+'Select'						=>	'Selecteren',
+'Move'							=>	'Verplaatsen',
+'Split'							=>	'Splitsen',
+'Delete'						=>	'Verwijderen',
+'Merge'							=>	'Samenvoegen',
 
 // Moderate forum
-'Open'							=>	'Open',
-'Close'							=>	'Sluit',
+'Open'							=>	'Openen',
+'Close'							=>	'Sluiten',
 'Move topic'					=>	'Verplaats topic',
 'Move topics'					=>	'Verplaats topics',
 'Move legend'					=>	'Selecteer locatie om naar te verplaatsen',
@@ -67,8 +67,8 @@ $lang_misc = array(
 'Not enough topics selected'	=>	'Je moet minstens 2 topics kiezen om zamen te voegen.',
 'Stick topic redirect'			=>	'Topic gestickyd. Doorverwijzen …',
 'Unstick topic redirect'		=>	'Topic unstickyd. Doorverwijzen …',
-'Merge topics'					=>	'Voeg topics samen',
-'Merge topics redirect'			=>	'Topics samen gevoegd. Doorverwijzen …',
+'Merge topics'					=>	'Topics samenvoegen',
+'Merge topics redirect'			=>	'Topics samengevoegd. Doorverwijzen …',
 'Confirm merge legend'			=>	'Bevestig samenvoegen',
 'New subject'					=>	'Nieuw onderwerp',
 

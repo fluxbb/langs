@@ -5,15 +5,15 @@ $lang_common = array(
 
 // Text oriëntatie
 'lang_direction'					=>	'ltr',
-'lang_identifier'					=>	'en',
+'lang_identifier'					=>	'nl',
 
 // Nummer formaat
 'lang_decimal_point'				=>	'.',
 'lang_thousands_sep'				=>	',',
 
 // Nota's
-'Bad request'						=>	'Foute aanvraag, de link die je volgt is fout of oud.',
-'No view'							=>	'Je hebt niet de permissie om dit forum te beijken.',
+'Bad request'						=>	'Foute aanvraag, de link die je volgt is fout of verouderd.',
+'No view'							=>	'Je hebt niet de permissie om dit forum te bekijken.',
 'No permission'						=>	'Je hebt niet de permissie om deze pagina te bekijken.',
 'Bad referrer'						=>	'Fout HTTP_REFERER. Je bent naar deze pagina gestuurd door een ongeïndentificeerde bron. De URL die je volgde leid naar een Admin/Opties pagina en je hebt niet de permissie om verder te gaan. Meer informatie vind je in de FluxBB documentatie.',
 'No cookie'							=>	'Je bent met succes ingelogd, maar de website kan geen coockie aanmaken. Controleer je instellingen en zorg ervoor dat cookies van deze website worden toegestaan.',
@@ -73,7 +73,7 @@ $lang_common = array(
 
 // Titel
 'Title'								=>	'Titel',
-'Member'							=>	'Member',
+'Member'							=>	'Gebruikers',
 'Moderator'							=>	'Moderator',
 'Administrator'						=>	'Administrator',
 'Banned'							=>	'Verbannen',
@@ -83,7 +83,7 @@ $lang_common = array(
 'BBCode error no opening tag'		=>	'[/%1$s] is gesloten maar niet geopend met [%1$s].',
 'BBCode error invalid nesting'		=>	'[%1$s] is geopend en gevolgd door [%2$s], dit mag niet, sluit de tag eerst.',
 'BBCode error invalid self-nesting'	=>	'[%s] is geopend binnen zichzelf, dit mag niet.',
-'BBCode error no closing tag'		=>	'[%1$s] is geopendm aar niet meer gesloten met [/%1$s]',
+'BBCode error no closing tag'		=>	'[%1$s] is geopend maar niet meer gesloten met [/%1$s]',
 'BBCode error empty attribute'		=>	'De kenmerksectie van de tag [%s] is leeg!',
 'BBCode code problem'				=>	'Er is een code met je gebruikte [code] tags',
 'BBCode list size error'			=>	'Je lijst is te lang om te parsen, maak hem korter!',
@@ -132,7 +132,7 @@ $lang_common = array(
 'Querytime'							=>	'Gegenereerd in %1$s seconden, %2$s queries uitgevoerd',
 'Memory usage'						=>	'Geheugen gebruik: %1$s',
 'Peak usage'						=>	'(Peak: %1$s)',
-'Query times'						=>	'Tiid (s)',
+'Query times'						=>	'Tijd (s)',
 'Query'								=>	'Query',
 'Total query time'					=>	'Totaal query tijd: %s',
 

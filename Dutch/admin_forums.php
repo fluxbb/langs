@@ -34,7 +34,7 @@ $lang_admin_forums = array(
 // Detail pagina
 'Edit forum head'			=>	'Forum bewerken',
 'Edit details subhead'		=>	'Bewerk forum details',
-'Forum name label'			=>	'Forum nam',
+'Forum name label'			=>	'Forum naam',
 'Forum description label'	=>	'Beschrijving (HTML)',
 'Category label'			=>	'Categorie',
 'Sort by label'				=>	'Sorteer topics op',
@@ -44,7 +44,7 @@ $lang_admin_forums = array(
 'Redirect label'			=>	'URL doorverwijzen',
 'Redirect help'				=>	'Alleen mogelijk bij een leef forum',
 'Group permissions subhead'	=>	'Bewerkt groepspermissies voor dit forum',
-'Group permissions info'	=>	'Je kan voor dit forum de forum gebasseerde permissies per groep wijzigen. Als je niks veranderd aan de permissies binnen dit forum, zullen de standaardpermissies worden gebruikt. Permissies die verschillen van de wat voor de desbetreffende groep standaard permissies zijn (als aangeduid in %s), worden deze in het rood aangeduid. De "Lees forum"-permissie checkbox is onzichtbaar voor groepen zonder "Lees forum" permissie. Voor doorverwijsforums is enkel de "Lees forum"-permissie bewerkbaar.',
+'Group permissions info'	=>	'Je kan voor dit forum de forum gebasseerde permissies per groep wijzigen. Als je niks veranderd aan de permissies binnen dit forum, zullen de standaardpermissies worden gebruikt. Permissies die verschillen van de wat voor de desbetreffende groep standaard permissies zijn (als aangeduid in %s), worden deze in het rood aangeduid. De \"Lees forum\"-permissie checkbox is onzichtbaar voor groepen zonder \"Lees forum\" permissie. Voor doorverwijsforums is enkel de \"Lees forum\"-permissie bewerkbaar.',
 'Read forum label'			=>	'Forum lezen',
 'Post replies label'		=>	'Reageer op topics',
 'Post topics label'			=>	'Maak nieuw topic',

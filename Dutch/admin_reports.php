@@ -5,7 +5,7 @@ $lang_admin_reports = array(
 
 'Report zapped redirect'	=>	'Rapporten markeren als gelezen. Doorverwijzen …',
 'New reports head'			=>	'Nieuwe rapporten',
-'Deleted user'				=>	'Verwijderde embers',
+'Deleted user'				=>	'Verwijderde gebruikers',
 'Deleted'					=>	'Verwijderd',
 'Post ID'					=>	'Post #%s',
 'Report subhead'			=>	'Gerapporteerd %s',
@@ -14,7 +14,7 @@ $lang_admin_reports = array(
 'Zap'						=>	'Markeer als gelezen',
 'No new reports'			=>	'Er zijn geen nieuwe rapporten.',
 'Last 10 head'				=>	'10 laatst gelezen rapporten',
-'NA'						=>	'N/A',
+'NA'						=>	'NB',
 'Zapped subhead'			=>	'Markeer als gelezen %s op %s',
 'No zapped reports'			=>	'Er zijn geen lees-rapporten.',
 

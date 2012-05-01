@@ -3,11 +3,11 @@
 // Taaldefinities gebruikt in viewtopic.php
 $lang_topic = array(
 
-'Post reply'		=>	'Reageer',
+'Post reply'		=>	'Reageren',
 'Topic closed'		=>	'Topic gesloten',
 'From'				=>	'Van:',
 'IP address logged'	=>	'IP adres opgeslagen',
-'Note'				=>	'Note:',
+'Note'				=>	'Nota:',
 'Posts'				=>	'Posts:',
 'Registered'		=>	'Geregistreerd:',
 'Replies'			=>	'Reacties:',
@@ -16,9 +16,9 @@ $lang_topic = array(
 'Online'			=>	'Online',
 'Offline'			=>	'Offline',
 'Last edit'			=>	'Laatst bewerkt door',
-'Report'			=>	'Rapporteer',
-'Delete'			=>	'Verwijder',
-'Edit'				=>	'Bewerk',
+'Report'			=>	'Rapporteren',
+'Delete'			=>	'Verwijderen',
+'Edit'				=>	'Bewerken',
 'Quote'				=>	'Quote',
 'Is subscribed'		=>	'Je bent geabonneerd op dit topic',
 'Unsubscribe'		=>	'Beëindig abonnement',

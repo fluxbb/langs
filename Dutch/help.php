@@ -26,14 +26,14 @@ $lang_help = array(
 'Links and images'		=>	'Links en afbeeldingen',
 'Links info'			=>	'Je kan links naar andere documenten of mail adressen maken met volgende tags:',
 'This help page'		=>	'De help pagina',
-'My email address'		=>	'Mijn mail adres',
+'My email address'		=>	'Mijn e-mail adres',
 'Images info'			=>	'Als je een afbeelding wilt gebruiken kan je de img-tag gebruiken. The tekst achter de "=" van de tag waarmee je de img-tag opend gebruik je voor alternative tekst indien je afbeelding niet meer bestaat.',
 'FluxBB bbcode test'	=>	'FluxBB BBCode test',
 
 'Test topic'			=>	'Test topic',
 'Test post'				=>	'Test post',
 'Test forum'			=>	'Test forum',
-'Test user'				=>	'Test member',
+'Test user'				=>	'Test gebruiker',
 
 'Quotes'				=>	'Quotes',
 'Quotes info'			=>	'Als je iemand wilt quoten (citeren), kan je de quote-tag gebruiken.',

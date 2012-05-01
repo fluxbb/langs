@@ -4,14 +4,14 @@
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Kan niet controleren op update omdat \'allow_url_fopen\' is uitgeschakeld op dit systeem.',
-'Upgrade check failed message'		=>	'Controleren op update is gefaald om onbekende reden.',
+'Upgrade check failed message'		=>	'Controleren op updates is gefaald om onbekende reden.',
 'Running latest version message'	=>	'Je gebruikt de laatste versie van FluxBB.',
 'New version available message'		=>	'Er is een nieuwe versie van FluxBB beschikbaar, je kan hem downloaden op %s.',
 'PHPinfo disabled message'			=>	'De PHP functie phpinfo() is niet beschikbaar op deze server.',
 'Not available'						=>	'Niet beschikbaar',
 'Forum admin head'					=>	'Forum administratie',
-'NA'								=>	'N/A',
-'Welcome to admin'					=>	'Welkom op het FluxBB administartie controle paneel. Hier kan je het hele forum instellen. Hier enkele voorbeelden van wat je allemaal kan doen:',
+'NA'								=>	'NB',
+'Welcome to admin'					=>	'Welkom op het FluxBB administratie controle paneel. Hier kan je het hele forum instellen. Enkele voorbeelden van wat je allemaal kan doen:',
 'Welcome 1'							=>	'Orden categoriën en forums.',
 'Welcome 2'							=>	'Stel je forum in.',
 'Welcome 3'							=>	'Permissies aan gebruikers en gasten toekennen.',
