@@ -82,6 +82,7 @@ $lang_profile = array(
 'Location'						=>	'Wohnort',
 'Website'						=>	'Webseite',
 'Invalid website URL'					=>	'Die eingetragene Webseiten-Adresse ist ungültig.',
+'Website not allowed'			=>	'Du darfst noch keine Webseite zu Deinem Profil hinzufügen.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',

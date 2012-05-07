@@ -123,8 +123,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'Aktiviere dies, um bestimmte Wörter im Forum zu zensieren. Weitere Informationen dazu finden Sie unter %s.',
 'Signatures label'					=>	'Signaturen',
 'Signatures help'					=>	'Erlaubt den Mitgliedern, ihren Beiträgen eine Signatur anzuhängen.',
-'User ranks label'					=>	'Mitgliederränge',
-'User ranks help'					=>	'Aktiviere dies, um Mitgliederränge zu verwenden. Weitere Informationen dazu finden Sie unter %s.',
 'User has posted label'				=>	'Mitglied hat einen Beitrag verfasst',
 'User has posted help'				=>	'Diese Funktion zeigt einen Punkt vor jedem Thema in der viewforum.php an, wenn das aktuell angemeldete Mitglied in diesem Thema irgendwann einen Beitrag verfasst hat. Deaktivieren Sie dies, falls Sie eine hohe Serverauslastung festgestellt haben.',
 'Topic views label'					=>	'Thema gelesen',
@@ -163,7 +161,7 @@ $lang_admin_options = array(
 // Sektion Avatare
 'Avatars subhead'					=>	'Avatare',
 'Use avatars label'					=>	'Avatare verwenden',
-'Use avatars help'					=>	'Wird dies aktiviert, können Mitglieder einen eigenen Avatar hochladen, der dann unter dem Titel/Rang angezeigt wird.',
+'Use avatars help'					=>	'Wird dies aktiviert, können Mitglieder einen eigenen Avatar hochladen, der dann unter dem Titel angezeigt wird.',
 'Upload directory label'			=>	'Avatar-Verzeichnis',
 'Upload directory help'				=>	'Das Verzeichnis, in welches die Avatare hochgeladen werden (relativ zum Wurzelverzeichnis von FluxBB). PHP muss für dieses Verzeichnis eine Schreibberechtigung haben.',
 'Max width label'					=>	'Maximale Breite',

@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'Seiten:',
 'Page'								=>	'Seite %s',
 'BBCode'							=>	'BBCode:', // Das sollten Sie möglichst nicht ändern
+'url tag'							=>	'[url] Tag:',
 'img tag'							=>	'[img] Tag:',
 'Smilies'							=>	'Smilies:',
 'and'								=>	'und',
@@ -85,6 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] wurde innerhalb sich selbst geöffnet, dies ist nicht erlaubt',
 'BBCode error no closing tag'		=>	'[%1$s] wurde ohne den schließenden Tag [/%1$s] gefunden',
 'BBCode error empty attribute'		=>	'Der [%s]-Tag wurde ohne die erforderlichen Parameter verwendet',
+'BBCode error tag not allowed'		=>	'Du darfst keine [%s] Tags verwenden',
+'BBCode error tag url not allowed'	=>	'Du darfst keine Links absenden',
 'BBCode code problem'				=>	'Es gibt ein Problem innerhalb deines [code]-Tags',
 'BBCode list size error'			=>	'Deine Liste ist für eine Verarbeitung zu lang, bitte kürze die Liste!',
 
