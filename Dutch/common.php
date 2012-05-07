@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'Pagina\'s:',
 'Page'								=>	'Pagina %s',
 'BBCode'							=>	'BBCode:',
+'url tag'							=>	'[url] tag:',
 'img tag'							=>	'[img] tag:',
 'Smilies'							=>	'Emoticons:',
 'and'								=>	'en',
@@ -85,7 +86,9 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] is geopend binnen zichzelf, dit mag niet.',
 'BBCode error no closing tag'		=>	'[%1$s] is geopend maar niet meer gesloten met [/%1$s]',
 'BBCode error empty attribute'		=>	'De kenmerksectie van de tag [%s] is leeg!',
-'BBCode code problem'				=>	'Er is een code met je gebruikte [code] tags',
+'BBCode error tag not allowed'    	=>  'Je hebt niet de permissie om de [%s] tags te gebruiken', 
++'BBCode error tag url not allowed' =>  'Je hebt niet de permissie om links te posten', 
+'BBCode code problem'				=>	'Er is een probleem met je gebruikte [code] tags',
 'BBCode list size error'			=>	'Je lijst is te lang om te parsen, maak hem korter!',
 
 // Navigatie
