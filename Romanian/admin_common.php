@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in admin_common
@@ -20,7 +20,6 @@ $lang_admin_common = array(
 'Options'				=>	'Opțiuni',
 'Permissions'			=>	'Permisiuni',
 'Censoring'				=>	'Cenzură',
-'Ranks'					=>	'Titluri',
 'Bans'					=>	'Suspendări',
 'Prune'					=>	'Curățare',
 'Maintenance'			=>	'Întreținere',

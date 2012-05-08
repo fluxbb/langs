@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in admin-groups.php
@@ -17,8 +17,8 @@ $lang_admin_groups = array(
 'Group edited redirect'			=>	'Grup modificat. Redirecționare …',
 
 'Add groups head'				=>	'Adăugare sau Stabilire grupuri',
-'Add group subhead'				=>	'Adaugă un nou grup',
 'New group label'				=>	'Moștenire setări de la',
+'Add group subhead'				=>	'Adaugă un nou grup',
 'New group help'				=>	'Selectează grupul de la care noul grup va moșteni permisiunile. Următoarea pagină oferă posibilitatea ajustării acestor permisiuni.',
 'Default group subhead'			=>	'Stabilește grup standard',
 'Default group label'			=>	'Grup standard',
@@ -44,6 +44,10 @@ $lang_admin_groups = array(
 'Group title label'				=>	'Titlu Grup',
 'User title label'				=>	'Titlu Utilizator',
 'User title help'				=>	'Acest titlu va suprascrie orice alt titlu un utilizator repartizat acestui grup ar putea deține. Lasă necompletat pentru a folosi titlul standard.',
+'User title help'				=>	'The rank users in this group have attained. Leave blank to use default title ("%s").',
+'Promote users label'			=>	'Promovare utilizatori',
+'Disable promotion'				=>	'Dezactivare Promovare',
+'Promote users help'			=>	'Poți promova automat utilizatorii la un nou grup dacă aceștia ating un anumit cumul de mesaje. Selectează "%s" pentru dezactivare. Din motive de securitate, nu poți selecta un grup cu permisiuni de Administrator aici. De asemenea, te rugăm să notezi că schimbarea grupului pentru utilizatorii afectați de această limită se va face la momentul în care cumulul specificat este depășit.',
 'Mod privileges label'			=>	'Permite privilegii moderare',
 'Mod privileges help'			=>	'Pentru ca un utilizator din acest grup să aibă opțiuni de moderare, acesta trebuie să fie repartizat ca moderator cel puțin unui forum. Poți realiza acest lucru din pagina de editare a profilului individual.',
 'Edit profile label'			=>	'Permite moderatorilor să modifice profilurile utilizatorilor',
@@ -68,6 +72,8 @@ $lang_admin_groups = array(
 'Delete posts help'				=>	'Permite utilizatorilor din acest grup să își șteargă răspunsurile.',
 'Delete topics label'			=>	'Ștergere subiecte',
 'Delete topics help'			=>	'Permite utilizatorilor din acest grup să șteargă subiectele de discuție inițiate (inclusiv orice răspunsuri trimise în acestea).',
+'Post links label'				=>	'Publicarea legăturilor (links)',
+'Post links help'				=>	'Permite utilizatorilor acestui grup să includă legături în mesajele trimise. Această opțiune se aplică și semnăturilor și câmpul pentru website din profilurile utilizatorilor.',
 'Set own title label'			=>	'Stabilire titulatură individuală',
 'Set own title help'			=>	'Permite utilizatorilor din acest grup să își stabilească propria titulatură.',
 'User search label'				=>	'Folosirea căutării',

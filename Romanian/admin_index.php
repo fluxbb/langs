@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in admin_index.php
@@ -23,7 +23,7 @@ $lang_admin_index = array(
 'Welcome 4'							=>	'Vizualiza stasticile IP pentru utilizatori.',
 'Welcome 5'							=>	'Suspenda utilizatori.',
 'Welcome 6'							=>	'Cenzura cuvinte sau expresii.',
-'Welcome 7'							=>	'Stabili titluri de utilizatori.',
+'Welcome 7'							=>	'Stabilire grup utilizator și promovare.',
 'Welcome 8'							=>	'Curăța mesaje învechite.',
 'Welcome 9'							=>	'Administra raportările.',
 'Statistics head'					=>	'Statistici',
