@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in install.php, localized by adaur
@@ -41,7 +41,7 @@ $lang_install = array(
 'Required field'				=>	'este un câmp obligatoriu.',
 'FluxBB Installation'			=>	'Instalare FluxBB',
 'Welcome'						=>	'Ești pe cale să instalezi FluxBB. Pentru a realiza instalarea, trebuie să completezi grupul de formulare situat inferior. Dacă întâmpini dificultăți cu instalarea, te rugăm să consulți documentația.',
-'Install'						=>	'Instalare FluxBB 1.4',
+'Install'						=>	'Instalare FluxBB %s',
 'Errors'						=>	'Următoarele erori trebuie corectate:',
 'Database setup'				=>	'Configurare Bază Date',
 'Info 1'						=>	'Te rugăm să completezi informațiile solicitate pentru a configura baza de date a FluxBB. Trebuie să cunoști toate detaliile solicitate înainte de a putea continua cu instalarea.',
@@ -101,9 +101,7 @@ $lang_install = array(
 'Moderator'						=>	'Moderator',
 'Guests'						=>	'Vizitatori',
 'Guest'							=>	'Vizitator',
-'New member'					=>	'Membru nou',
 'Members'						=>	'Membri',
-'Member'						=>	'Membru',
 'Announcement'					=>	'Completează anunțul tău aici.',
 'Rules'							=>	'Completează regulile tale aici.',
 'Maintenance message'			=>	'Forumul este închis temporar pentru întreținere. Te rugăm să revii în câteva minute.',

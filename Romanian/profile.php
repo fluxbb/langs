@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in profile.php
@@ -87,6 +87,7 @@ $lang_profile = array(
 'Location'						=>	'Locație',
 'Website'						=>	'Website',
 'Invalid website URL'					=>	'Adresă URL specificată nevalidă.',
+'Website not allowed'			=>	'Încă nu ai permisiunea să adaugi un website profilului tău.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',

@@ -4,6 +4,7 @@
 	Copyright Kaeden
    Last revision: 25th of February 2012 */
    
+// THIS SHOULD BE REMOVED. RANKS DISCONTINUED
 
 // Language definitions used in admin_ranks.php
 $lang_admin_ranks = array(

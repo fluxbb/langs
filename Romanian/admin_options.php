@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in admin-options.php
@@ -128,8 +128,8 @@ $lang_admin_options = array(
 'Censor words help'					=>	'Activează această opțiune pentru a cenzura anumite cuvinte pe forum. Vezi %s pentru mai multe informații.',
 'Signatures label'					=>	'Semnături',
 'Signatures help'					=>	'Permite utilizatorilor să își atașeze semnături la mesajele trimise.',
-'User ranks label'					=>	'Titulatură utilizatori',
-'User ranks help'					=>	'Activează opțiunea pentru a folosi titlurile utilizatorilor. Vezi %s pentru mai multe informații.',
+
+
 'User has posted label'				=>	'Utilizatorul a scris mai devreme',
 'User has posted help'				=>	'Această opțiune afișează un punct înaintea subiectelor de discuție de pe pagina viewforum.php în cazul în care un utilizator a răspuns în acel subiect. Dezactivează dacă sesizezi un consum mare de resurse.',
 'Topic views label'					=>	'Vizualizări subiecte',

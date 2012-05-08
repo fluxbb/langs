@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions for frequently used strings
@@ -64,6 +64,7 @@ $lang_common = array(
 'Pages'								=>	'Pagini:',
 'Page'								=>	'Pagina %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'eticheta [url]:',
 'img tag'							=>	'eticheta [img]:',
 'Smilies'							=>	'Zâmbăreți:',
 'and'								=>	'și',
@@ -90,6 +91,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] a fost deschisă în propriul conținut, nu este permis',
 'BBCode error no closing tag'		=>	'[%1$s] nu are o etichetă [/%1$s]',
 'BBCode error empty attribute'		=>	'Eticheta [%s] are un atribut necompletat',
+'BBCode error tag not allowed'		=>	'Nu ai permisiunea să utilizezi etichetele [%s]',
+'BBCode error tag url not allowed'	=>	'Nu ai permisiunea să postezi legături (links)',
 'BBCode code problem'				=>	'Este o problemă cu etichetele [code] introduse',
 'BBCode list size error'			=>	'Lista ta a fost prea lungă. Te rugăm să o micșorezi!',
 
