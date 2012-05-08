@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 8th of May 2012 */
    
 
 // Language definitions used in db_update.php
@@ -64,7 +64,6 @@ $lang_update = array(
 'forums'						=>	'forumuri',
 'groups'						=>	'grupuri',
 'post'							=>	'răspunsuri',
-'ranks'							=>	'titluri',
 'report'						=>	'raportări',
 'topic'							=>	'subiecte',
 'user'							=>	'utilizatori',
