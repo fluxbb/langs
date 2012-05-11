@@ -23,7 +23,7 @@ $lang_common = array(
 'Announcement'						=>	'Ogłoszenie',
 'Options'							=>	'Opcje',
 'Submit'							=>	'Wyślij', // "Name" of submit buttons
-'Ban message'						=>	'Twoje konto zostało zbanowane na tym forum.',
+'Ban message'						=>	'Twoje konto zostało zbanowane.',
 'Ban message 2'						=>	'Data wygaśnięcia bana: ',
 'Ban message 3'						=>	'<br \>Administrator, bądź moderator, zostawił Tobie następującą wiadomość:',
 'Ban message 4'						=>	'Wszelkie zapytania do Administratora proszę kierować na -',
@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'Strony:',
 'Page'								=>	'Strona %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'Tag [url]:',
 'img tag'							=>	'Tag [img]:',
 'Smilies'							=>	'Emoty:',
 'and'								=>	'i',
@@ -72,7 +73,7 @@ $lang_common = array(
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
-'Title'								=>	'Ranga/Tytuł',
+'Title'								=>	'Tytuł',
 'Member'							=>	'Użytkownik', // Default title
 'Moderator'							=>	'Moderator',
 'Administrator'						=>	'Administrator',
@@ -85,6 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'Tag [%s] został otwarty wewnątrz siebie, nie jest to dozwolone.',
 'BBCode error no closing tag'		=>	'[%1$s] - brakuje zamknięcia tagu ([/%1$s])',
 'BBCode error empty attribute'		=>	'Brakuje odpowiedniego atrybutu dla tagu [%s] ',
+'BBCode error tag not allowed'		=>	'Nie posiadasz uprawnień do używania tagów [%s].',
+'BBCode error tag url not allowed'	=>	'Nie posiadasz uprawnień do dodawania linków w postach.',
 'BBCode code problem'				=>	'Wystąpił problem z tagami [code]',
 'BBCode list size error'			=>	'Twoja lista jest zbyt długa do przetworzenia, skróć ją!',
 

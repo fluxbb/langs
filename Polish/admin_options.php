@@ -123,8 +123,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'Włącz tę funkcję, aby cenzurować wybrane słowa na forum. Przejdź do %s po więcej informacji.',
 'Signatures label'					=>	'Podpisy',
 'Signatures help'					=>	'Zezwalaj użytkownikom na dołączenie podpisu do swoich postów.',
-'User ranks label'					=>	'Rangi użytkowników',
-'User ranks help'					=>	'Włącz tę funkcję, aby korzystać z rang użytkowników. Przejdź do %s po więcej informacji.',
 'User has posted label'				=>	'Użytkownik wypowiadał się już w wątku',
 'User has posted help'				=>	'Wyświetl kropkę na początku tematu wątku w przypadku, gdy aktualnie zalogowany użytkownik wypowiadał się już w danym wątku. Wyłącz funkcję, jeśli serwer jest obciążony.',
 'Topic views label'					=>	'Wyświetlenia wątków',
@@ -139,16 +137,16 @@ $lang_admin_options = array(
 'Menu items help'					=>	'Dodatkowe odnośniki, które będą wyświetlane w menu forum. Format wprowadzania linków: X = &lt;a href="URL"&gt;LINK&lt;/a&gt;, gdzie X oznacza pozycję odnośnika na liście menu (np. 0 = na początku menu, 2 = po "Liście użytkowników"). Każdy odnośnik wpisuj w nowym wierszu.',
 
 // Feeds section
-'Feed subhead'                      =>  'Syndication',
+'Feed subhead'                      =>  'Syndykacja',
 'Default feed label'				=>	'Domyślny typ kanału',
 'Default feed help'					=>	'Wybierz typ kanału do wyświetlania. Informacja: Wybranie "Brak" nie oznacza wyłączenia kanałów, a jedynie ukrycie odnośników do nich.',
 'None'								=>	'Brak',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
-'Feed TTL label'                    =>  'Duration to cache feeds',
-'Feed TTL help'                     =>  'Feeds can be cached to lower the resource usage of feeds.',
-'No cache'                          =>  'Don\'t cache',
-'Minutes'                           =>  '%d minutes',
+'Feed TTL label'                    =>  'Czas przechowywania',
+'Feed TTL help'                     =>  'Wybierz czas przez jaki kanały mają być przechowywane w pamięci podręcznej, w celu zmniejszenia użycia zasobów.',
+'No cache'                          =>  'Nie przechowuj',
+'Minutes'                           =>  '%d minut',
 
 // Reports section
 'Reports subhead'					=>	'Ustawienia raportowania',
@@ -163,9 +161,9 @@ $lang_admin_options = array(
 // Avatars section
 'Avatars subhead'					=>	'Ustawienia avatarów',
 'Use avatars label'					=>	'Używaj avatarów',
-'Use avatars help'					=>	'Kiedy funkcja jest włączona, użytkownicy mogą wgrywać swoje avatary, które będą wyświetlane pod rangą/tytułem.',
-'Upload directory help'				=>	'Katalog, do którego wgrywane zostaną avatary. PHP musi mieć prawa do zapisu danych w tym katalogu.',
+'Use avatars help'					=>	'Kiedy funkcja jest włączona, użytkownicy mogą wgrywać swoje avatary, które będą wyświetlane pod tytułem/statusem.',
 'Upload directory label'			=>	'Katalog avatarów',
+'Upload directory help'				=>	'Katalog, do którego wgrywane zostaną avatary. PHP musi mieć prawa do zapisu danych w tym katalogu.',
 'Max width label'					=>	'Maksymalna szerokość',
 'Max width help'					=>	'Maksymalna szerokość avatara w pikselach (60px zalecane).',
 'Max height label'					=>	'Maksymalna wysokość',

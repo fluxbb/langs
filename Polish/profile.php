@@ -82,6 +82,7 @@ $lang_profile = array(
 'Location'						=>	'Lokalizacja',
 'Website'						=>	'Strona WWW',
 'Invalid website URL'			=>	'Wprowadzony adres strony WWW jest niepoprawny.',
+'Website not allowed'			=>	'Nie posiadasz uprawnień, aby dodać adres strony WWW w swoim profilu.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',
@@ -136,6 +137,6 @@ $lang_profile = array(
 'Group membership redirect'		=>	'Grupa użytkownika została zapisana. Przekierowywanie…',
 'Update forums redirect'		=>	'Prawa moderatora zostały zaktualizowane. Przekierowywanie…',
 'Ban redirect'					=>	'Przekierowywanie…',
-'No delete admin message'		=>	'Administratorzy nie mogą zostać usunięci. Jeśli chcesz usunąć takiego użytkownika, najpierw musisz go zdegradować do rangi Użytkownika.',
+'No delete admin message'		=>	'Administratorzy nie mogą zostać usunięci. Jeśli chcesz usunąć takiego użytkownika, najpierw musisz go zdegradować do innej grupy użytkowników.',
 
 );

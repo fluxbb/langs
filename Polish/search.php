@@ -61,4 +61,5 @@ $lang_search = array(
 'No unanswered'						=>	'Na forum nie ma żadnych wątków bez odpowiedzi.',
 'Go to post'						=>	'Przejdź do postów',
 'Go to topic'						=>	'Przejdź do wątku',
+
 );
