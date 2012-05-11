@@ -59,7 +59,6 @@ $lang_update = array(
 'forums'						=>	'版块',
 'groups'						=>	'用户组',
 'post'							=>	'帖子',
-'ranks'							=>	'级别',
 'report'						=>	'举报',
 'topic'							=>	'主题',
 'user'							=>	'用户',

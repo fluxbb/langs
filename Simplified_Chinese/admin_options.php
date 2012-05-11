@@ -123,8 +123,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'该功能可帮助论坛过滤敏感词汇。参见%s查看更多信息。',
 'Signatures label'					=>	'签名',
 'Signatures help'					=>	'允许用户在他们的帖子下附加签名。',
-'User ranks label'					=>	'用户级别',
-'User ranks help'					=>	'启用它以使用户级别生效。参见%s查看更多信息。',
 'User has posted label'				=>	'已参与帖子标记',
 'User has posted help'				=>	'该功能可实现让当前登录用户通过主题前面的小点识别已参与过的主题。服务器负载过高时建议禁用。',
 'Topic views label'					=>	'主题浏览次数',
@@ -163,7 +161,7 @@ $lang_admin_options = array(
 // Avatars section
 'Avatars subhead'					=>	'头像',
 'Use avatars label'					=>	'用户头像',
-'Use avatars help'					=>	'启用后，用户可上传头像，头像显示在用户的头衔/级别之下。',
+'Use avatars help'					=>	'启用后，用户可上传头像，头像显示在用户的头衔之下。',
 'Upload directory label'			=>	'上传目录',
 'Upload directory help'				=>	'头像上传存在目录(相对于FluxBB的根目录)。必须为PHP开启该目录的写入权限。',
 'Max width label'					=>	'最大宽度',
