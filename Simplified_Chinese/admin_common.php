@@ -15,7 +15,6 @@ $lang_admin_common = array(
 'Options'				=>	'配置选项',
 'Permissions'			=>	'功能权限',
 'Censoring'				=>	'词汇过滤',
-'Ranks'					=>	'级别',
 'Bans'					=>	'封禁',
 'Prune'					=>	'帖子清理',
 'Maintenance'			=>	'维护',

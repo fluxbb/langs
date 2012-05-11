@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'页次：',
 'Page'								=>	'页 %s',
 'BBCode'							=>	'BBCode：', // You probably shouldn't change this
+'url tag'							=>	'[url] 超链接:',
 'img tag'							=>	'[img] 贴图：',
 'Smilies'							=>	'表情：',
 'and'								=>	'以及',
@@ -85,6 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] 标签不允许在其自身内部使用',
 'BBCode error no closing tag'		=>	'[%1$s] 缺少匹配的标签 [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] 标签属性不允许为空',
+'BBCode error tag not allowed'		=>	'您无权限使用 [%s] 标签',
+'BBCode error tag url not allowed'	=>	'您无权限发表超链接',
 'BBCode code problem'				=>	'[code] 标签出现错误，请检查。',
 'BBCode list size error'			=>	'列表内容过长无法解析，请缩短后再试！',
 
