@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'				=>	'Pages&#160;:',
 'Page'				=>	'Page %s',
 'BBCode'			=>	'BBCode&#160;:',	// You probably shouldn't change this
+'url tag'			=>	'Balise [url]&#160;:',
 'img tag'			=>	'Balise [img]&#160;:',
 'Smilies'			=>	'Émoticônes&#160;:',
 'and'				=>	'et',
@@ -85,6 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'La balise [%s] a été ouverte dans cette même balise, ceci n\'est pas autorisé',
 'BBCode error no closing tag'		=>	'La balise [%1$s] a été trouvée sans balise [/%1$s] correspondante',
 'BBCode error empty attribute'		=>	'La balise [%s] comporte un attribut non défini',
+'BBCode error tag not allowed'		=>	'Vous n\'êtes pas autorisé à utiliser la balise [%s]',
+'BBCode error tag url not allowed'	=>	'Vous n\'êtes pas autorisé à mettre des liens',
 'BBCode code problem'			=>	'Il y a un problème avec vos balises [code]',
 'BBCode list size error'		=>	'Votre liste étant trop longue pour être analysée, veuillez la réduire s\'il vous plaît&#160;!',
 
