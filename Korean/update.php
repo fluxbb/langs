@@ -59,7 +59,7 @@ $lang_update = array(
 'forums'						=>	'포럼',
 'groups'						=>	'그룹',
 'post'							=>	'글',
-'ranks'							=>	'등급',
+//'ranks'							=>	'등급',     <= 1.4
 'report'						=>	'신고',
 'topic'							=>	'글타래',
 'user'							=>	'회원',

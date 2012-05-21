@@ -15,7 +15,7 @@ $lang_admin_common = array(
 'Options'				=>	'옵션',
 'Permissions'			=>	'권한',
 'Censoring'				=>	'검열',
-'Ranks'					=>	'등급',
+//'Ranks'					=>	'등급',  <= 1.4
 'Bans'					=>	'금지',
 'Prune'					=>	'쳐내기',
 'Maintenance'			=>	'점검',

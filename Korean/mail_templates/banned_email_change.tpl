@@ -1,4 +1,4 @@
-주제: 경보 - 금지된 email을 찾았다
+Subject: 경보 - 금지된 email을 찾았다
 
 '<username>' 회원이 금지된 email로 바꾸었다: <email>
 

@@ -1,4 +1,4 @@
-주제: <mail_subject>
+Subject: <mail_subject>
 
 <board_title>에서 <sender>가 쪽지를 보냈다. 이 메일의 답신을 <sender>에게 보낼 수 있다.
 

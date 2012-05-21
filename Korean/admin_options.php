@@ -123,8 +123,8 @@ $lang_admin_options = array(
 'Censor words help'					=>	'게시판에서 지정된 단어를 겅열하게 한다. 더 알려면 %s를 보아라.',
 'Signatures label'					=>	'서명',
 'Signatures help'					=>	'회원이 올린 글에 서명을 붙일 수 있게 한다.',
-'User ranks label'					=>	'회원 등급',
-'User ranks help'					=>	'회원 등급을 쓸 수 있게 한다. 더 알려면 %s를 보아라.',
+//'User ranks label'					=>	'회원 등급',  <= 1.4
+//'User ranks help'					=>	'회원 등급을 쓸 수 있게 한다. 더 알려면 %s를 보아라.',  <= 1.4
 'User has posted label'				=>	'전에 글을 올렸었던 회원',
 'User has posted help'				=>	'이 기능은 글타래에 글을 올렸던 회원이 로그인을 한 경우에 포럼보기에서 그 글타래 앞에 점을 표시한다. 서버 부하가 크다면 이 기능을 꺼라.',
 'Topic views label'					=>	'글타래 읽은 횟수',
@@ -163,7 +163,8 @@ $lang_admin_options = array(
 // Avatars section
 'Avatars subhead'					=>	'아바타',
 'Use avatars label'					=>	'아바타 쓰기',
-'Use avatars help'					=>	'켜면 회원은 칭호/등급 아래에 나타나는 아바타를 올려실을 수 있다.',
+//'Use avatars help'					=>	'켜면 회원은 칭호/등급 아래에 나타나는 아바타를 올려실을 수 있다.',  <= 1.4
+'Use avatars help'					=>	'켜면 회원은 칭호 아래에 나타나는 아바타를 올려실을 수 있다.',
 'Upload directory label'			=>	'올리싣기 디렉토리',
 'Upload directory help'				=>	'아바타의 올려싣기 디렉토리 (FluxBB root 디렉토리부터의 경로). PHP가 이 디렉토리에 쓰기 권한을 가져야 한다.',
 'Max width label'					=>	'최대 너비',
