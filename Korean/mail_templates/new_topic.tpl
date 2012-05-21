@@ -1,4 +1,4 @@
-주제: '<forum_name>' 포럼에 새 글타래가 올라와다
+Subject: '<forum_name>' 포럼에 새 글타래가 올라와다
 
 네가 받아보고 있는 '<forum_name>' 포럼에 <poster>가 새로운 글타래 '<topic_subject>'을 올렸다.
 

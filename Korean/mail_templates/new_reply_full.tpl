@@ -1,4 +1,4 @@
-주제: '<topic_subject>' 글타래에 댓글이 달렸다
+Subject: '<topic_subject>' 글타래에 댓글이 달렸다
 
 네가 받아보고 있는 '<topic_subject>' 글타래에 <replier>가 새로운 댓글을 올렸다. 새로운 댓글이 더 있지만 이것은 네가 다시 게시판을 들들 때까지 받을 통지일 뿐이다.
 

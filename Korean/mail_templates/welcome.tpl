@@ -1,4 +1,4 @@
-주제: <board_title>에 잘 왔다!
+Subject: <board_title>에 잘 왔다!
 
 <base_url>에 있는 포럼에 가입을 해서 고맙다. 계정의 정보다:
 

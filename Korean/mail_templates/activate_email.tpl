@@ -1,4 +1,4 @@
-주제: email 변경을 요청했다
+Subject: email 변경을 요청했다
 
 안녕 <username>,
 
