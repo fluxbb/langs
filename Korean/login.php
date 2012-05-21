@@ -15,7 +15,7 @@ $lang_login = array(
 'Not registered'			=>	'아직 가입하지 않았어?',
 'Login legend'				=>	'아래에 사용자명과 비밀번호를 넣어라',
 'Remember me'				=>	'들를 때마다 자동으로 로그인하기.',
-'Login info'				=>	'아지 가입하지 않았거나 비밀번호를 잊었다면 아래에서 알맞은 링크를 눌러라.',
+'Login info'				=>	'아직 가입하지 않았거나 비밀번호를 잊었다면 아래에서 알맞은 링크를 눌러라.',
 'New password errors'		=>	'비밀번호 요청 오류',
 'New passworderrors info'	=>	'새로운 비밀번호를 보내기에 앞서서 다음 오류를 바로잡아야 한다:',
 

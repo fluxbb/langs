@@ -96,9 +96,9 @@ $lang_install = array(
 'Moderator'						=>	'지킴이',
 'Guests'						=>	'손님',
 'Guest'							=>	'손님',
-'New member'					=>	'새회원',
+//'New member'					=>	'새회원',   <= 1.4
 'Members'						=>	'회원',
-'Member'						=>	'회원',
+//'Member'						=>	'회원', <= 1.4
 'Announcement'					=>	'여기에 알림을 써넣어라.',
 'Rules'							=>	'여기에 규칙을 써넣어라',
 'Maintenance message'			=>	'포럼이 점검으로 잠시 문을 닫았다. 잠시 뒤에 다시 해보아라.',
