@@ -1,4 +1,4 @@
-주제: 신고(<forum_id>) - '<topic_subject>'
+Subject: 신고(<forum_id>) - '<topic_subject>'
 
 '<username>' 회원이 다음 글을 신고했다: <post_url>
 

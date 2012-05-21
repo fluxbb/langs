@@ -18,7 +18,8 @@ $lang_admin_index = array(
 'Welcome 4'							=>	'회원들 IP 통계 보기.',
 'Welcome 5'							=>	'회원 금지하기.',
 'Welcome 6'							=>	'단어 검열하기.',
-'Welcome 7'							=>	'회원 등급 설정하기.',
+//'Welcome 7'							=>	'회원 등급 설정하기.',  <= 1.4
+'Welcome 7'							=>	'회원 그룹과 승급 설정하기.',
 'Welcome 8'							=>	'오래된 글 쳐내기.',
 'Welcome 9'							=>	'신고된 글 처리하기.',
 'Statistics head'					=>	'게시판 정보',

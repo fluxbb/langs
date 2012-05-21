@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'쪽:',
 'Page'								=>	'%s 쪽',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'                           =>  '[url] 태그:',
 'img tag'							=>	'[img] 태그:',
 'Smilies'							=>	'Smilies:',
 'and'								=>	'와',
@@ -86,6 +87,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s]이 자신 안에서 열렸다. 이 것은 허용되지 않는다',
 'BBCode error no closing tag'		=>	'짝이 되는 [/%1$s]이 없는 [%1$s]을 찾았다',
 'BBCode error empty attribute'		=>	'[%s] 태그가 빈 속성을 가지고 있다',
+'BBCode error tag not allowed'      =>  '[%s] 태그를 쓸 수 없다',
+'BBCode error tag url not allowed'  =>  '이음고리를 올릴 수 없다.',
 'BBCode code problem'				=>	'[code] 태그에 문제가 있다',
 'BBCode list size error'			=>	'목록이 구문분석을 하기에는 너무 길다. 더 짧게 만들어라!',
 

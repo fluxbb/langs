@@ -4,9 +4,9 @@
 
 $lang_install = array(
 
-'Install message'				=>	'\'config.php\' 파일이 없거나 잘못되었다. 이것은 FluxBB가 아직 않았다는 것을 나타낸다.',
-'Choose install language'		=>	'설치문 글말을 골라라',
-'Choose install language info'	=>	'이 설치문에 쓰이는 글말. 게시판에 쓰이는 기본 글말은 아래에서 정할 수 있다.',
+'Install message'				=>	'\'config.php\' 파일이 없거나 잘못되었다. 이것은 FluxBB가 아직 설치되지 않았다는 것을 나타낸다.',
+'Choose install language'		=>	'설치 글말을 골라라',
+'Choose install language info'	=>	'이 설치에 쓰이는 글말. 게시판에 쓰이는 기본 글말은 아래에서 정할 수 있다.',
 'Install language'				=>	'설치 글말',
 'Change language'				=>	'글말 바꾸기',
 'Next'							=>	'다음',
@@ -36,7 +36,7 @@ $lang_install = array(
 'Required field'				=>	'은 이 포럼에서 필요한 항목이다.',
 'FluxBB Installation'			=>	'FluxBB 설치',
 'Welcome'						=>	'FluxBB를 설치하려고 한다. FluxBB를 설치하려면, 아래의 칸들을 채워 넣어야 한다. 설치하는데 어려움을 겪는다면 문서를 참조해라.',
-'Install'						=>	'FluxBB 1.4 설치하기',
+'Install'						=>	'FluxBB %s 설치하기',
 'Errors'						=>	'다음 오류를 바로잡아야 한다:',
 'Database setup'				=>	'데이터베이스 설정',
 'Info 1'						=>	'FluxBB를 위한 데이터베이스를 설정하려면 요구하는 정보를 채워넣어라. 설치를 진행하기에 앞서서 요청하는 모든 정보를 알고 있어야 한다.',
@@ -96,9 +96,9 @@ $lang_install = array(
 'Moderator'						=>	'지킴이',
 'Guests'						=>	'손님',
 'Guest'							=>	'손님',
-'New member'					=>	'새회원',
+//'New member'					=>	'새회원',   <= 1.4
 'Members'						=>	'회원',
-'Member'						=>	'회원',
+//'Member'						=>	'회원', <= 1.4
 'Announcement'					=>	'여기에 알림을 써넣어라.',
 'Rules'							=>	'여기에 규칙을 써넣어라',
 'Maintenance message'			=>	'포럼이 점검으로 잠시 문을 닫았다. 잠시 뒤에 다시 해보아라.',
