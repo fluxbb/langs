@@ -82,6 +82,7 @@ $lang_profile = array(
 'Location'						=>	'Localização',
 'Website'						=>	'Website',
 'Invalid website URL'			=>  'A URL do website que você digitou é inválida.',
+'Website not allowed'			=>  'Você ainda não tem permissão para adicionar um website ao seu perfil.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'MSN Messenger',

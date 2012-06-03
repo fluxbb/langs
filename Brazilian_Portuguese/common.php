@@ -59,6 +59,7 @@ $lang_common = array(
 'Pages'								=>	'Páginas:',
 'Page'								=>	'Página %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>  'tag [url]:',
 'img tag'							=>	'Tag [img]:',
 'Smilies'							=>	'Emoticons:',
 'and'								=>	'e',
@@ -85,6 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] foi aberto dentro de si mesmo, isto não é permitido',
 'BBCode error no closing tag'		=>	'[%1$s] foi encontrado sem a tag de fechamento [/%1$s]',
 'BBCode error empty attribute'		=>	'a tag [%s] está com uma seção de atributo em vazio',
+'BBCode error tag not allowed'		=>  'Você não tem permissão para usar tags [%s]',
+'BBCode error tag url not allowed'	=>  'Você não tem permissão para publicar links',
 'BBCode code problem'				=>	'Há um problema com suas tags [code]',
 'BBCode list size error'			=>	'Sua lista está muito longa para processar, por favor, torne-a menor!',
 
