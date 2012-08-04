@@ -5,7 +5,7 @@ $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'					=>	'Wątek musi zawierać temat.',
-'No subject after censoring'    =>  'Wątek musi zawierać temat. Po zastosowaniu cenzury słów, temat wątku jest pusty.',
+'No subject after censoring'    =>  'Wątek musi zawierać temat, bez cenzurowanego słowa, .',
 'Too long subject'				=>	'Temat wątku nie może być dłuższy niż 70 znaków.',
 'No message'					=>	'Należy wprowadzić treść wiadomości.',
 'No message after censoring'    =>  'Należy wprowadzić treść wiadomości. Po zastosowaniu cenzury słów, treść wiadomości jest pusta.',
@@ -25,7 +25,7 @@ $lang_post = array(
 'Hide smilies'					=>	'Nie wyświetlaj emotów jako ikon w poście',
 'Subscribe'						=>	'Subskrybuj wątek',
 'Stay subscribed'				=>	'Aktualnie subskrybujesz ten wątek.',
-'Topic review'					=>	'Podgląd wątku (posty najnowsze pierwsze)',
+'Topic review'					=>	'Podgląd wątku (pierwsze najnowsze posty)',
 'Flood start'					=>	'Musisz odczekać co najmniej',
 'flood end'						=>	'sekund, zanim ponownie wyślesz posta. Odczekaj chwilę, a następnie spróbuj ponownie.',
 'Preview'						=>	'Podgląd', // submit button to preview message
