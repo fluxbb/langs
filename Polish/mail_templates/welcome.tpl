@@ -1,11 +1,11 @@
-Temat:   Witamy na <board_title>!
+Temat:   Witamy na <board_title> !
 
-Dziękujemy za rejestrację na naszym forum - <base_url>. Dane do Twojego konta:
+Dziękujemy za rejestrację na naszym forum - <base_url> . Dane do Twojego konta:
 
 Nazwa użytkownika: <username>
 Hasło: <password>
 
-Wejdź na <login_url>, aby aktywować swoje konto.
+Wejdź na  <login_url> , aby aktywować swoje konto.
 
 --
 <board_mailer> Mailer
