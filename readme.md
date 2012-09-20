@@ -15,7 +15,7 @@
 *  Polish - [FluxBB.net.pl](http://fluxbb.net.pl)
 *  Romanian - [Kaeden](http://fluxbb.org/forums/profile.php?id=57813)
 *  Russian - [well-wisher](http://fluxbb.org.ru/forum/viewtopic.php?id=3403#p26685)
-*  Simplified Chinese - [ehtime](http://fluxbb.org/forums/profile.php?id=3031)
+*  Simplified Chinese - [ehtime](http://fluxbb.org/forums/profile.php?id=3031), [FluxbbChina](http://fluxbbchina.com)
 *  Spanish - [FluxBB Hispano](http://www.fluxbbhispano.co.cc/viewtopic.php?id=5)
 *  Traditional Chinese - [meow](http://fluxbb.org/forums/profile.php?id=58), [coolhd](http://fluxbb.org/forums/profile.php?id=99) , [taylorchu](http://tailinchu.tk/bbs), [crlin](http://fluxbb.org/forums/profile.php?id=56389)
 *  Ukrainian - [Quintus](http://fluxbb.org/forums/profile.php?id=57433)
