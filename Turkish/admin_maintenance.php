@@ -1,0 +1,40 @@
+<?php
+
+// Language definitions used in admin_maintenance.php
+$lang_admin_maintenance = array(
+
+'Maintenance head'				=>	'Forum Onarımları',
+'Rebuild index subhead'			=>	'Arama Motorunu Düzenle',
+'Rebuild index info'			=>	'Eğer gönderileri manuel olarak veritabanında ekleyip,düzenleyip ve sildiyseniz veya arama motorunda problem yaşıyorsanız buradan gerekli ayarları tekrardan onarabilirsiniz. En iyi performans için, onarım süresince %s bölümüne giderek <strong> Arama motoru bakımı uzun süre sürebilir ve server\'ın yavaşlamasına neden olabilir  </strong> yazılmalıdır.',
+'Posts per cycle label'			=>	'İşlenecek Gönderi Sayısı',
+'Posts per cycle help'			=>	'Herbir sayfa görüntüsüne işlenen gönderi sayısı. Ör: Eğer bu değeri 300 yaparsanız, 300 adet gönderi işlenecek ve sayfa yenilecekdir. Bu da onarım işlemi süresince script\'in zaman aşımına uğramasını önlemektir.',
+'Starting post label'			=>	'Başlangıç ID',
+'Starting post help'			=>	'Onarıma başlanıcak gönderi ID\'si. Varsayılan değer veritabanındaki ilk ID\'dir. Normal olarak bunu da değiştirmek istemeyeceksiniz.',
+'Empty index label'				=>	'Boş Indeks',
+'Empty index help'				=>	'Eğer onarımdan önce arama motorunun boş bırakılmasını istiyorsanız bu seçeneği işaretleyiniz. (Aşağı bknz.).',
+'Rebuild completed info'		=>	'İşlem tamamlanır tamamlanmaz, bu sayfaya tekrardan yönlendirileceksiniz. Onarım sırasında kullandığınız tarayıcının JavaScript\'inin aktif olması kesinlike önerilir.(işlem tamamlandığında otomatik yönlendirme için). Eğer onarım işleminden çıkarılmaya zorlanıyorsanız, tekrar devam edeceğiniz zaman son gönderi ID\'sini not edip yanına +1 ekleyerek "Başlangıç ID" kısmına yazınız ("Boş Indeks" kesinlikle işaretlenmemeli).',
+'Rebuild index'					=>	'Onarımı Gerçekleştir',
+'Rebuilding search index'		=>	'Arama Motorunu Düzenle',
+'Rebuilding index info'			=>	'Indeks onarılıyor. Biraz kahve içseniz sanırım daha iyi olacak :-)',
+'Processing post'				=>	'İşlenen Gönderiler <strong>%s</strong> …',
+'Click here'					=>	'Buraya tıklayınız',
+'Javascript redirect failed'	=>	'JavaScript yönlendirilmesi başarısız oldu.Devam etmek için %s tıklayınız…',
+'Posts must be integer message'	=>	'İşlenecek gönderi sayısı pozitif tamsayı değerli olmalıdır.',
+'Days must be integer message'	=>	'Ayıklanacak gün sayısı pozitif tamsayı değerli olmalıdır.',
+'No old topics message'			=>	' %s gün önceye ait herhangi bir sonuç bulunamadı. Lütfen "Kaç Yaşında" kısmını azaltarak değiştirip tekrar deneyiniz.',
+'Posts pruned redirect'			=>	'Gönderiler ayıklandı. Yönlendiriliyor …',
+'Prune head'					=>	'Eski Gönderileri Temizle',
+'Prune subhead'					=>	'Eski Gönderileri Ayıkla',
+'Days old label'				=>	'Kaç Yaşında',
+'Days old help'					=>	' Bu bölümde girdiğiniz değer kadar gün sayısı öncesine ait gönderiler otomatik olarak silinicekdir. Ör: "30" gün sayısı yazdığınızda 30 gün öncesine ait gönderiler silinicekdir.',
+'Prune sticky label'			=>	'Sabit Başlıkları Temizle',
+'Prune sticky help'				=>	'Bu seçenek aktif olduğu zaman sabit konu başlıkları temizlenecekdir.',
+'Prune from label'				=>	'Temizlenicek Forum',
+'All forums'					=>	'Bütün forumlar',
+'Prune from help'				=>	'Temizlemek istediğiniz forum...',
+'Prune info'					=>	'Bu özelliği dikkatli bir şekilde kullanınız. <strong>Temizlenen gönderiler asla geri alınamaz.</strong> Daha iyi performans için, Forumu %s during pruning. moduna alınız',
+'Confirm prune subhead'			=>	'Gönderi temizle işlemini Onayla',
+'Confirm prune info'			=>	' %s gününden önceki bütün gönderileri %s\'dan temizlemek istediğinize eminmisiniz? (%s topics).',
+'Confirm prune warn'			=>	'UYARI! Gönderiler kalıcı olarak temizlenecekdir.',
+
+);

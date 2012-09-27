@@ -1,0 +1,75 @@
+<?php
+
+// Language definitions used in db_update.php
+
+$lang_update = array(
+
+'Update'						=>	'FluxBB Güncelle',
+'Update message'				=>	'FluxBB\'nizin günü geçmiş ve devam edibilmeniz için güncellemelisiniz.Eğer yönetici iseniz, lütfen güncellemeyi tamamlamak için aşağıdaki yönergeleri izleyiniz.',
+'Note'							=>	'Not:',
+'Members message'				=>	'Bu işlem sadece yöneticiler içindir. Eğer üye iseniz endişe duyucanız birşey yok - forum kısa sürede geri gelecekdir!',
+'Administrator only'			=>	'Bu adım sadece yöneticiler içindir!',
+'Database password info'		=>	'To perform the database update please enter the database password with which FluxBB was installed. If you cannot remember, this is stored in your \'config.php\' file.',
+'Database password note'		=>	'Eğer SQLite çalıştırıyorsanız (ve bundan dolayı veritabanı şifresi mevcut değilse) lütfen veritabanı dosya adını kullanınız. Bu sizin yapılandırma dosyası içinde verilen veritabanı dosya adı ile eşlemek zorundadır.',
+'Database password'				=>	'Veritabanı Şifresi',
+'Maintenance'					=>	'Onarım',
+'Maintenance message info'		=>	'Güncelleme işlemi süresince kullanıcılara görüntülenen mesaj. Bu metin düzenli gönderi kapsamaz ve bundan dolayı HTML içerebilir.',
+'Maintenance message'		    =>	'Onarım Mesajı',
+'Next'							=>	'Sonraki',
+
+'You are running error'			=>	'You are running %1$s version %2$s. FluxBB %3$s requires at least %1$s %4$s to run properly.Devam etmeden önce %1$s kurulumunu güncellemeniz gerekmektedir.',
+'Version mismatch error'		=>	'Versiyon eşleşmedi.Veritabanı, bu güncelleme scriptinin desteklediği bir FluxBB veritabanı şemasını çalıştırıyor gibi görünmüyor.',
+'Invalid file error'			=>	'Geçersiz veritabanı dosya adı.SQLite kullanıyorken, veritabanı dosya adı   \'%s\' içinde görüldüğü gibi girilmelidir.',
+'Invalid password error'		=>	'Geçersiz veritabanı şifresi.FluxBB\yi güncellemek için, veritabanı şifrenizi \'%s\' içinde görüldüğü gibi girmelisiniz. ',
+'No password error'				=>	'Herhangi veritabanı şifresi oluşturulmadı',
+'Script runs error'				=>	'Güncelenen script başkası tarafından zaten çalıştırıldığı gözüküyor. Eğer durum bu değilse, lütfen \'%s\' dosyasını manuel olarak silip tekrar deneyiniz.',
+'No update error'				=>	'Your forum is already as up-to-date as this script can make it',
+
+'Intro 1'						=>	'Bu script veritabanınıza güncellenecekdir. Bu işlemin sürecei sunucunun hızına ve veritabanının boyutuna bağlı olarak değişebilir..Devam etmeden önce veritabanını yedeklemeyi unutmayın.',
+'Intro 2'						=>	'Belgeler içindeki güncelleme yönergelerini okudunuz mu? Eğer okumadıysanız, oradan başlayınız.',
+'No charset conversion'			=>	'<strong>ÖNEMLİ!</strong> FluxBB,PHP ortamanının,ISO-8859-1 hariç başka bir karakter ayarından UTF-8 dönüşümü yapılmasını isteyen kodlama düzeneğini desteklemez. Bunun anlamı eğer geçerli karakter ISO-8859-1 olarak ayarlanmamışsa, FluxBB veritabanından UTF-8\'e dönüştürme yapamayacaktır ve bunu manuel olarak yapmak zorunda kalacaksınız.Manuel ayarlama yönergeleri güncelleme yönergeleri içinde bulunabilir.',
+'Enable conversion'				=>	'<strong>Dönüşüm aktif:</strong> Aktif hale geldiğinde, veritabanına istenilen yapısal değişiklik yapıldıktan sonra script güncellenecekdir, , veritabanındaki bütün metinleri geçerli karakter ayarından UTF-8\'e çevir. Versiyon 1.2\'den güncelleştirme yapıyorsanız bu dönüşüm istenir.',
+'Current character set'			=>	'<strong>Geçerli Karakter Ayarı:</strong>Eğer forumda birincil dil İngilizce ise,varsayılan değer olarak bırakabilirsiniz. Eğer forum İngilizce değil ise, forumda kullanılan birincil dil paketinin karakter ayarını girebilirsiniz. <em>Bu hatayı almak veritabanınızı bozabilir bu yüzden sadece tahmin ederek işlem yapmayınız.</em> Not: Eski veritabanı UTF-8 olsa bile bu istenecektir.',
+'Charset conversion'			=>	'Charset Dönüşümü',
+'Enable conversion label'		=>	'<strong>Dönüşüm Aktif</strong> (veritabanı charset dönüşümünü gerçekleştir).',
+'Current character set label'	=>	'Geçerli Charset Ayarı ',
+'Current character set info'	=>	'İngilizce forumlar için varsayılanı kabul et, aksi takdirde karakter birincil dil paketi olarak ayarlanır.',
+'Start update'					=>	'Güncellemeye Başla',
+'Error converting users'		=>	'Kullanıcıları değiştirme hatası',
+'Error info 1'					=>	'Bazı kullanıcıları değiştirirken bir hata tespit edildi.Eğer birbirlerine yakın kullanıcı isimleriyle kayıt olmuş kullanıcılar varsa, bu hata değişim yapılırken gerçekleşebilir. Örnek: "immo" and "immö".',
+'Error info 2'					=>	'Aşağıda dönüşüm hatası alan kullanıcı adları bulunuyor. Lütfen her kullanıcı için farklı bir kullanıcı adı seçiniz. Kullanıcı adı değiştirilen kullanıcılara otomatik olarak kullanıcı adlarının değiştirildiğine dair e-mail gönderilicektir.',
+'New username'					=>	'Yeni Kullanıcı Adı',
+'Required'						=>	'(İstek)',
+'Correct errors'				=>	'Aşağıdaki hatanın doğrulanması gerekiyor.:',
+'Rename users'					=>	'Kullanıcıları Yeniden Adlandır',
+'Successfully updated'			=>	'Forum veritabanı başaralı bir şekilde güncellendi. Şimdi: %s.',
+'go to index'					=>	'forum anasayfasına git',
+
+'Unable to lock error'			=>	'Unable to write update lock. Lütfen, PHP\'nin \'%s\' dizinine yazma yetkisi olup olmadığını ve başka kimsenin script güncellemesini çalıştırmadığını kontrol et.',
+
+'Converting'					=>	'Dönüştürülüyor %s …',
+'Converting item'				=>	'Dönüştürülüyor %1$s %2$s …',
+'Preparsing item'				=>	'Hazırlanıyor %1$s %2$s …',
+'Rebuilding index item'			=>	' %1$s %2$s için forum yeniden kuruluyor',
+
+'ban'							=>	'Yasaklama',
+'categories'					=>	'Kategoriler',
+'censor words'					=>	'Sansür Kelimeler',
+'configuration'					=>	'Yapılandırma',
+'forums'						=>	'Forumlar',
+'groups'						=>	'Gruplar',
+'post'							=>	'Gönderi',
+'report'						=>	'Rapor',
+'topic'							=>	'Başlık',
+'user'							=>	'Kullanıcı',
+'signature'						=>	'İmza',
+
+'Username too short error'		=>	'Kullanıcı adı en az 2 karakterden oluşmalıdır. Lütfen daha uzun bir kullanıcı adı seçiniz.',
+'Username too long error'		=>	'Kullanıcı 25 karakterden fazla olmamalıdır. Lütfen daha kısa bir kullanıcı adı seçiniz.',
+'Username Guest reserved error'	=>	'Misafir kullanıcı adı kullanılamaz.Lütfen daha farklı bir kullanıcı adı seçiniz.',
+'Username IP format error'		=>	'Kullanıcı adı IP adresi biçiminde oluşturulamaz. Lütfen farklı bir kullanıcı adı seçiniz.',
+'Username bad characters error'	=>	'Kullanıcı adı bütün karakterleri içermeyebilir. \', " gibi... Lütfen daha farklı bir kullanıcı adı  seçiniz.',
+'Username BBCode error'			=>	'Kullanıcı adı forum içinde kullanılan metin biçimleme etiketlerini (BBCode içeremez. Lütfen daha farklı bir kullanıcı adı seçiniz.',
+'Username duplicate error'		=>	'%s kullanıcı adını başka birisi tarafından kullanılıyor. Girdiğiniz kullanıcı adı benzerdir. En azından hem alfabetik hem sayısal karakterler olarak farklı olmalıdır (a-z or 0-9). Lütfen daha farklı bir kullanıcı adı seçiniz.',
+
+);
