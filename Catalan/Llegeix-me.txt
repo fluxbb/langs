@@ -1,0 +1,12 @@
+*VERSIÓ PER A FLUXBB 1.5.0
+
+*Traduït a la llengua catalana per Albert Parera.
+
+No em faig responsable del mal funcionament d\'aquest paquet encara que hagi estat degudament comprovat. S\'entrega tal qual i és sense cap tipus de garantia. Amb l\'ús del mateix acceptes aquestes condicions.
+
+Si hi trobeu algún error o voleu contribuïr amb qualcom acudiu als fòrums del lloc web oficial de FluxBB. (www.fluxbb.org)
+
+Salutacions,
+
+Albert Parera
+
