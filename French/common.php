@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'			=>	'Vous n\'êtes pas autorisé(e) à afficher cette page.',
 'Bad referrer'			=>	'Mauvais HTTP_REFERER. Vous avez été renvoyé(e) vers cette page par une source inconnue ou interdite. Si le problème persiste, assurez-vous que le champ «&#160;URL de base&#160;» de la page Administration&#160;» Options est correctement renseigné et que vous vous rendez sur ces forums en utilisant cette URL. Vous pourrez trouver davantage d\'informations dans la documentation de FluxBB.',
 'No cookie'			=>	'Vous semblez avoir été identifié(e), cependant aucun cookie n\'a été envoyé. Veuillez vérifier vos paramètres et, si possible, activer les cookies pour ce site.',
+'Pun include extension'  			=>	'Impossible de procéder à l\'inclusion utilisateur %s depuis le gabarit %s. Fichiers "%s" non autorisés',
+'Pun include directory'				=>	'Impossible de procéder à l\'inclusion utilisateur %s depuis le gabarit %s. Ouverture de dossier non autorisé',
 'Pun include error'		=>	'Impossible de procéder à l\'inclusion utilisateur %s à partir du gabarit %s. Ce fichier ne se trouve ni dans le dossier des gabarits, ni dans le dossier d\'inclusion d\'utilisateur.',
 
 // Miscellaneous
@@ -65,7 +67,7 @@ $lang_common = array(
 'and'				=>	'et',
 'Image link'			=>	'image',	// This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'				=>	'a écrit&#160;:',	// For [quote]'s
-'Mailer' =>	'%s E-mail automatique',	// As in "MyForums Mailer" in the signature of outgoing e-mails
+'Mailer'			=>	'%s E-mail automatique',	// As in "MyForums Mailer" in the signature of outgoing e-mails
 'Important information'		=>	'Information importante',
 'Write message legend'		=>	'Veuillez composer votre message et l\'envoyer',
 'Previous'                      =>      'Précédent',

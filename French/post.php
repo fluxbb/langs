@@ -27,7 +27,6 @@ $lang_post = array(
 'Stay subscribed'   		=>  	'Continuer à suivre cette discussion',
 'Topic review'			=>	'Résumé de la discussion (messages les plus récents en premier)',
 'Flood start'			=>	'Au moins',
-'flood end'			=>	'secondes doivent s\'écouler entre deux messages. Veuillez patienter quelques instants avant d\'essayer à nouveau.',
 'Preview'			=>	'Prévisualisation',	// submit button to preview message
  
 // Edit post
