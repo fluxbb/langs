@@ -21,11 +21,11 @@ $lang_admin_bans = array(
 'Add ban subhead'			=>	'Ban toevoegen',
 'Username label'			=>	'Gebruikersnaam',
 'Username help'				=>	'De gebruiker die je wilt verbannen (niet-hoofdlettergevoelig).',
-'Username advanced help'	=>	'De gebruiker die je wilt verbannen (niet-hoofdlettergevoelig). Op de volgende pagina kan je een IP adres of e-mail opgeven om ook te verhannen, laat die velden leeg als je dat niet wilt.',
+'Username advanced help'	=>	'De gebruiker die je wilt verbannen (niet-hoofdlettergevoelig). Op de volgende pagina kan je een IP adres of e-mail opgeven om ook te verbannen, laat die velden leeg als je dat niet wilt.',
 
 'Ban search head'			=>	'Ban zoeken',
 'Ban search subhead'		=>	'Geef zoekopdracht in',
-'Ban search info'			=>	'Zoek naar verbannen gebruikers in de database. Je kan meerdere velden invullen om te zoeken. Jokertekens en sterretjes (*) zijn toegestaan. Om alle bans weer te geven laat je alle velden leeg.',
+'Ban search info'			=>	'Zoek naar verbannen gebruikers in de database. Je kan meerdere velden invullen om te zoeken. Jokertekens en sterretjes (*) zijn toegestaan. Om alle bans te weergeven laat je alle velden leeg.',
 'Date help'					=>	'(jjjj-mm-dd)',
 'Message label'				=>	'Reden',
 'Expire after label'		=>	'Vervalt na',
