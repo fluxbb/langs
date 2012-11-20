@@ -26,8 +26,7 @@ $lang_post = array(
 'Subscribe'						=>	'Subskrybuj wątek',
 'Stay subscribed'				=>	'Aktualnie subskrybujesz ten wątek.',
 'Topic review'					=>	'Podgląd wątku (najnowsze posty pierwsze)',
-'Flood start'					=>	'Musisz odczekać co najmniej',
-'flood end'						=>	'sekund, zanim ponownie wyślesz posta. Odczekaj chwilę, a następnie spróbuj ponownie.',
+'Flood start'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz posta. Odczekaj jeszcze %s sekund, a następnie spróbuj ponownie.',
 'Preview'						=>	'Podgląd', // submit button to preview message
 
 // Edit post

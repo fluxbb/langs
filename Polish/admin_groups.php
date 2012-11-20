@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Należy wprowadzić nazwę grupy.',
@@ -40,7 +40,7 @@ $lang_admin_groups = array(
 'User title label'				=>	'Tytuł użytkownika',
 'User title help'				=>	'Ten tytuł zastąpi wyświetlaną nazwę grupy użytkowników, którzy zostaną przydzieleni do tej grupy. Pozostaw to pole puste, aby nadać domyślny tytuł lub pozostawić domyślną nazwę grupy.',
 'Promote users label'			=>	'Promocja użytkowników',
-'Promote users help'			=>	'Użytkownicy, którzy należą do tej grupy, mogą zostać automatycznie promowani do innej grupy po osiągnięciu określonej ilości napisanych postów. Wybierz "%s", aby wyłączyć promocję dla tej grupy. Ze względów bezpieczeństwa nie ma możliwości wyboru grupy Administratorów. Należy pamiętać, że zmiana grupy nastąpi dopiero po napisaniu kolejnego postu przez użytkownika, gdy osiągnie on określoną wartość.',
+'Promote users help'			=>	'Użytkownicy, którzy należą do tej grupy, mogą zostać automatycznie promowani do innej grupy po osiągnięciu określonej ilości napisanych postów. Wybierz "%s", aby wyłączyć promocję dla tej grupy. Ze względów bezpieczeństwa nie ma możliwości wyboru grupy Administratorów. Należy pamiętać, że zmiana grupy nastąpi dopiero po napisaniu kolejnego postu przez użytkownika, gdy osiągnie on określoną ilość. Na ilość postów wymaganych do promocji składają się wszystkie posty napisane przez użytkownika, a nie tylko posty napisane będąc członkiem danej grupy.',
 'Disable promotion'				=>	'Wyłącz promocję',
 'Mod privileges label'			=>	'Nadaj przywileje moderatora',
 'Mod privileges help'			=>	'Użytkownicy tej grupy otrzymają uprawnienia moderatora, jeśli będą moderatorami co najmniej jednego z for (zakładka "Administracja" w profilu użytkownika).',

@@ -11,7 +11,7 @@ $lang_misc = array(
 'No email subject'				=>	'Wiadomość e-mail musi zawierać temat.',
 'No email message'				=>	'Należy wprowadzić tekst wiadomości e-mail.',
 'Too long email message'		=>	'Wiadomość nie może być dłuższa niż 65535 znaków (64 KB).',
-'Email flood'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz wiadomość e-mail. Odczekaj chwilę, a następnie spróbuj ponownie.',
+'Email flood'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz wiadomość e-mail. Odczekaj jeszcze %s sekund, a następnie spróbuj ponownie.',
 'Email sent redirect'			=>	'E-mail został wysłany. Przekierowywanie…',
 'Send email to'					=>	'Wyślij e-mail do użytkownika',
 'Email subject'					=>	'Temat',
@@ -22,7 +22,7 @@ $lang_misc = array(
 // Report
 'No reason'						=>	'Należy podać powód raportowania.',
 'Reason too long'               =>  'Treść powodu nie może być dłuższa niż 65535 znaków (64 KB).',
-'Report flood'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz raport. Odczekaj chwilę, a następnie spróbuj ponownie.',
+'Report flood'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz raport. Odczekaj jeszcze %s sekund, a następnie spróbuj ponownie.',
 'Report redirect'				=>	'Raport został wysłany. Przekierowywanie…',
 'Report post'					=>	'Raportowanie posta',
 'Reason'						=>	'Powód',

@@ -17,7 +17,9 @@ $lang_common = array(
 'No permission'						=>	'Nie posiadasz uprawnień dostępu do tej strony.',
 'Bad referrer'						=>	'Zły HTTP_REFERER. Próbowałeś uzyskać dostęp do tej strony z nieznanego źródła. Jeżeli problem będzie się powtarzał, sprawdź czy poprawnie wpisano adres w polu "Adres URL" w Administracja/Opcje. Więcej infomrmacji o systemie i problemach zawartych jest w dokumentacji FluxBB.',
 'No cookie'							=>	'Wygląda na to, że zostałeś zalogowany poprawnie, jednak ciasteczka nie zostały zapisane. Sprzwdź ustawienia oraz włącz obsługę ciasteczek w swojej przeglądarce dla tej strony.',
-'Pun include error'					=>	'Nie można przetworzyć %s z szablonu %s. Nie znaleziono pliku w %s.',
+'Pun include extension'             =>  'Nie można przetworzyć %s z szablonu %s. Pliki "%s" nie są dozwolone.',
+'Pun include directory'   			=>  'Nie można przetworzyć %s z szablonu %s. Przeglądanie katalogu nie jest dozwolone.',
+'Pun include error'                 =>  'Nie można przetworzyć %s z szablonu %s. Nie znaleziono takiego pliku ani w katalogu /template, ani w katalogu /include.',
 
 // Miscellaneous
 'Announcement'						=>	'Ogłoszenie',
@@ -41,7 +43,7 @@ $lang_common = array(
 'Required'							=>	'(Wymagane)',
 'required field'					=>	'jest wymaganym polem do wypełnienia!', // For javascript form validation
 'Last post'							=>	'Ostatni post',
-'by'								=>	'przez', // As in last post by someuser
+'by'								=>	'przez', // As in last post by some user
 'New posts'							=>	'Nowe posty', // The link that leads to the first new post
 'New posts info'					=>	'Przejdź do pierwszego nowego posta w tym wątku.', // The popup text for new posts links
 'Username'							=>	'Nazwa użytkownika',

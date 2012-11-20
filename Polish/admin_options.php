@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'Zły HTTP_REFERER. Jeśli przeniosłeś forum do innej lokalizacji, bądź zmieniłeś domenę, musisz zaktualizować pole "Adres URL" ręcznie w bazie danych (wiersz o_base_url w tabeli \'config\') i wyczyścić cache poprzez usunięcie wszystkich plików *.php w katalogu /cache.',
