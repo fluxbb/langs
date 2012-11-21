@@ -12,7 +12,7 @@ $lang_install = array(
 'Already installed'				=>	'Wygląda na to, że FluxBB jest już zainstalowany. Przejdź do <a href="index.php">strony głównej</a>.',
 'You are running error'			=>	'Na serwerze uruchomiony jest %1$s w wersji %2$s. FluxBB %3$s wymaga co najmniej %1$s %4$s , aby działać poprawnie. Należy zaktualizować %1$s , aby kontynuować instalację.',
 'My FluxBB Forum'				=>	'Moje forum FluxBB',
-'Description'					=>	'Niestety, nikt nie powie Ci co to jest FluxBB - musisz to sam zobaczyć!',
+'Description'					=>	'Niestety, nikt nie powie Ci czym jest FluxBB - musisz go poznać sam!',
 'Username 1'					=>	'Nazwa użytkownika musi mieć co najmniej 2 znaki.',
 'Username 2'					=>	'Nazwa użytkownika nie może być dłuższa niż 25 znaków.',
 'Username 3'					=>	'Gość (Guest) jest zarezerwowaną nazwą użytkownika.',
