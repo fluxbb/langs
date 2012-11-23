@@ -19,6 +19,7 @@ $lang_admin_common = array(
 'Prune'					=>	'Bereinigung',
 'Maintenance'			=>	'Wartung',
 'Reports'				=>	'Meldungen',
+'Server statistics'			=>      'Server-Statistiken',
 
 'Admin'					=>	'Administrator',
 'Go back'				=>	'Zurück',

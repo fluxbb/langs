@@ -1,6 +1,6 @@
 <?php
 
-// Sprachdefinitionen, die in admin-groups.php verwendet werden
+// Sprachdefinitionen, die in admin_groups.php verwendet werden
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Du musst einen Gruppentitel eingeben.',
@@ -40,7 +40,7 @@ $lang_admin_groups = array(
 'User title label'				=>	'Mitgliedertitel',
 'User title help'				=>	'Der Rang den Mitglieder in dieser Grupper erlangt haben. Ohne Vorgabe wird der voreingestellte Rang verwendet ("%s").',
 'Promote users label'			=>	'Mitglieder befördern',
-'Promote users help'			=>	'Du kannst Mitglieder automatisch zu einer Gruppe befördern wenn diese eine bestimmte Anzahl von Beiträgen erreicht haben. Wähle "%s" zum deaktivieren. Aus Sicherheitsgründen kannst Du hier keine Administrator-Gruppe auswählen. Beachte zusätzlich, dass Änderungen der Gruppe aufgrund dieser Einstellung erst nach dem nächsten Beitrag des Mitgliedes effektiv sind.',
+'Promote users help'			=>	'Du kannst Mitglieder automatisch zu einer Gruppe befördern wenn diese eine bestimmte Anzahl von Beiträgen erreicht haben. Wähle "%s" zum deaktivieren. Aus Sicherheitsgründen kannst Du hier keine Administrator-Gruppe auswählen. Beachte zusätzlich, dass Änderungen der Gruppe aufgrund dieser Einstellung erst nach dem nächsten Beitrag des Mitgliedes effektiv sind. Die Anzahl der Beiträge, die Du hier einträgst entpsricht der Gesamtzahl des Nutzers und nicht der Anzahl der Beiträge, die als Mitglied dieser Gruppe erstellt wurden.',
 'Disable promotion'				=>	'Deaktiviere Beförderungen',
 
 'Mod privileges label'			=>	'Gibt Mitgliedern Moderator-Privilegien',

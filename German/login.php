@@ -21,6 +21,6 @@ $lang_login = array(
 
 // Texte für vergessene Passwörter
 'Forget mail'				=>	'Es wurde eine E-Mail mit Anweisungen, wie das Passwort zu ändern ist, an die angegebene Adresse gesandt. Wenn diese E-Mail bei dir nicht ankommt, kontaktiere den Administrator unter',
-'Email flood'				=>	'Für dieses Konto wurde bereits in der vergangenen Stunde eine Anfrage zum Zurücksetzen des Passwortes gestellt. Bitte warte etwas, bevor du eine erneute Passwortanfrage stellst.'
+'Email flood'				=>	'Für dieses Konto wurde bereits in der vergangenen Stunde eine Anfrage zum Zurücksetzen des Passwortes gestellt. Bitte warte %s Minuten, bevor du eine erneute Passwortanfrage stellst.'
 
 );
