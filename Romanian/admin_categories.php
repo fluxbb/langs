@@ -2,10 +2,10 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 
-// Language definitions used in admin-categories.php
+// Language definitions used in admin_categories.php
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'Trebuie să completezi un nume pentru categorie',
