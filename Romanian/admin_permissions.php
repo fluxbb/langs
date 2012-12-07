@@ -2,10 +2,10 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 
-// Language definitions used in admin-permissions.php
+// Language definitions used in admin_permissions.php
 $lang_admin_permissions = array(
 
 'Perms updated redirect'	=>	'Permisiuni actualizate. Redirecționare …',
