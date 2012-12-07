@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 8th of May 2012 */
+   Last revision: 7th of December 2012 */
    
 
 // Language definitions for frequently used strings
@@ -22,7 +22,10 @@ $lang_common = array(
 'No permission'						=>	'Nu ai permisiunea să accesezi această pagină.',
 'Bad referrer'						=>	'Parametru HTTP_REFERER eronat. Ai fost direcționat pe această pagină de către o sursă neautorizată. Dacă problema persistă te rugăm să te asiguri că \'URL Principal\' este setat corect în opțiunile de administrare și că navighezi forumul folosind acea adresă. Mai multe detalii legate de această verificare poți găsi în documentația FluxBB.',
 'No cookie'							=>	'Te-ai autentificat cu succes, cu toate acestea un fișier cookie nu a putut fi creat. Te rugăm să verifici setările și să activezi cookies pentru acest site, dacă este posibil.',
-'Pun include error'					=>	'Nu s-a putut procesa includerea %s din șablonul %s. Nu există un asemenea fișier fie în directorul de șabloane, fie în cel principal.',
+'Pun include extension'  			=>	'Nu s-a putut procesa includerea %s cerută de utilizator din șablonul %s. "%s" fișier(e) inaccesibil(e).',
+'Pun include directory'				=>	'Nu s-a putut procesa includerea %s cerută de utilizator din șablonul %s. Traversarea directorului nu este permisă.',
+'Pun include error'					=>	'Nu s-a putut procesa includerea %s cerută de utilizator din șablonul %s. Nu există vreun asemenea fișier nici în directorul șabloanelor nici în directorul de includere.',
+
 
 // Miscellaneous
 'Announcement'						=>	'Anunț',
@@ -46,7 +49,7 @@ $lang_common = array(
 'Required'							=>	'(Necesar)',
 'required field'					=>	'este un câmp obligatoriu.', // For javascript form validation
 'Last post'							=>	'Ultimul răspuns',
-'by'								=>	'de', // As in last post by someuser
+'by'								=>	'de', // As in last post by some user
 'New posts'							=>	'Răspunsuri noi', // The link that leads to the first new post
 'New posts info'					=>	'Mergi la primul răspuns necitit din acest subiect.', // The popup text for new posts links
 'Username'							=>	'Nume utilizator',
