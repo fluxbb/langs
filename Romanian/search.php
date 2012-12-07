@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 // Language definitions used in search.php
 $lang_search = array(
@@ -10,7 +10,7 @@ $lang_search = array(
 // The search form
 'User search'						=>	'Căutare utilizator',
 'No search permission'				=>	'Nu ai permisiunea să folosești sistemul de căutare.',
-'Search flood'						=>	'Trebuie să treacă cel puțin %s secunde între căutări. Te rugăm să aștepți un moment și să încerci mai târziu.',
+'Search flood'						=>	'Trebuie să treacă cel puțin %s secunde între căutări. Te rugăm să aștepți %s secunde și să încerci mai târziu.',
 'Search'							=>	'Caută',
 'Search criteria legend'			=>	'Completează criteriile de căutare',
 'Search info'						=>	'Pentru căutare pe baza unui cuvânt-cheie, completează un termen sau mai multe cuvinte. Separă termenii introduși cu spațiu. Utilizează AND, OR și NOT pentru a îmbunătăți căutarea. Pentru a căuta după autor, completează numele de utilizator căruia dorești să îi vizulizezi mesajele. Folosește * pentru a înlocui orice caracter/cuvânt.',

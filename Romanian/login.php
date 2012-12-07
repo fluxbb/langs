@@ -26,6 +26,6 @@ $lang_login = array(
 
 // Forget password mail stuff
 'Forget mail'				=>	'Un mesaj e-mail a fost trimis la adresa specificată conținând instrucțiuni pentru schimbarea parolei. Dacă acesta nu sosește, contactează administratorul forumului la',
-'Email flood'				=>	'Deja s-a solicitat o nouă parolă pentru acest cont în ultima oră. Te rugăm să aștepți o vreme înainte a încerca o nouă recuperare.'
+'Email flood'				=>	'Deja s-a solicitat o nouă parolă pentru acest cont în ultima oră. Te rugăm să aștepți %s secunde înainte a încerca o nouă recuperare.'
 
 );

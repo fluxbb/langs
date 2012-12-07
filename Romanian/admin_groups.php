@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 8th of May 2012 */
+   Last revision: 7th of December 2012 */
    
 
 // Language definitions used in admin-groups.php

@@ -2,10 +2,10 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 
-// Language definitions used in admin-forums.php
+// Language definitions used in admin_forums.php
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'Forum adăugat. Redirecționare …',

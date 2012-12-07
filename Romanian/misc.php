@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 
 // Language definitions used in various scripts
@@ -16,7 +16,7 @@ $lang_misc = array(
 'No email subject'				=>	'Trebuie să completezi un subiect.',
 'No email message'				=>	'Trebuie să completezi un mesaj.',
 'Too long email message'		=>	'Mesajele nu pot conține mai mult de 65,535 caractere (64 KB).',
-'Email flood'					=>	'Cel puțin %s secunde trebuie să treacă între trimiterea mesajelor e-mail. Te rugăm să aștepți o vreme și să încerci mai târziu.',
+'Email flood'					=>	'Cel puțin %s secunde trebuie să treacă între trimiterea mesajelor e-mail. Te rugăm să aștepți %s secunde și să încerci mai târziu.',
 'Email sent redirect'			=>	'E-mail trimis. Redirecționare …',
 'Send email to'					=>	'Trimitere e-mail către',
 'Email subject'					=>	'Subiect',
@@ -27,7 +27,7 @@ $lang_misc = array(
 // Report
 'No reason'						=>	'Trebuie să completezi un motiv.',
 'Reason too long'				=>	'Mesajul tău trebuie să fie mai mic de 65,535 baiți (~64kb).',
-'Report flood'					=>	'Cel puțin %s secunde trebuie să treacă între trimiterea raportărilor. Te rugăm să aștepți o vreme și să încerci mai târziu.',
+'Report flood'					=>	'Cel puțin %s secunde trebuie să treacă între trimiterea raportărilor. Te rugăm să aștepți %s secunde și să încerci mai târziu.',
 'Report redirect'				=>	'Mesaj raportat. Redirecționare …',
 'Report post'					=>	'Raportare mesaj',
 'Reason'						=>	'Motiv',

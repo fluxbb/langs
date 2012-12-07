@@ -2,10 +2,10 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 8th of May 2012 */
+   Last revision: 7th of December 2012 */
    
 
-// Language definitions used in admin_common
+// Language definitions used in admin_common.php
 $lang_admin_common = array(
 
 // The menu

@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 25th of February 2012 */
+   Last revision: 7th of December 2012 */
    
 
 // Language definitions used in post.php and edit.php
@@ -31,9 +31,7 @@ $lang_post = array(
 'Subscribe'			=>	'Abonează-te la subiect',
 'Stay subscribed'	=>	'Rămâi abonat la acest subiect',
 'Topic review'		=>	'Sumar subiect (Începând cu cele mai noi răspunsuri)',
-'Flood start'		=>	'Cel puțin',
-'flood end'			=>	'secunde trebuie să treacă între mesaje. Te rugăm să aștepți o vreme înainte de a trimite un nou răspuns.',
-'Preview'			=>	'Previzualizare', // submit button to preview message
+'Flood start'		=>	'Trebuie să aștepți cel puțin %s secunde între două mesaje trimise succesiv. Mai ai de așteptat %s secunde.',
 
 // Edit post
 'Edit post legend'	=>	'Modifică mesaj și salvează schimbările',
