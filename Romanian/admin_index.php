@@ -2,7 +2,7 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 8th of May 2012 */
+   Last revision: 7th of May 2012 */
    
 
 // Language definitions used in admin_index.php
@@ -26,15 +26,23 @@ $lang_admin_index = array(
 'Welcome 7'							=>	'Stabilire grup utilizator și promovare.',
 'Welcome 8'							=>	'Curăța mesaje învechite.',
 'Welcome 9'							=>	'Administra raportările.',
-'Statistics head'					=>	'Statistici',
+'About head'					=>	'Statistici',
 'FluxBB version label'				=>	'Versiune FluxBB',
 'Check for upgrade'					=>	'Caută actualizări',
 'FluxBB version data'				=>	'v%s - %s',
-'Server load label'					=>	'Resurse Utilizate',
+'Server statistics label'			=>	'Statistici server',
+'View server statistics'			=>	'Vizualizare statistici server',
+'Support label'						=>	'Asistență tehnică',
+'Forum label'						=>	'Forum',
+'IRC label'							=>	'Canal IRC',
+
+// Language definitions used in admin_statistics.php
+'PHPinfo disabled message'			=>	'Funcția phpinfo() este dezactivată pe acest server.',
+'Server statistics head'			=>	'Statistici server',
+'Server load label'					=>	'Resurse utilizate',
 'Server load data'					=>	'%s - %s utilizator(i) conectați',
-'Environment label'					=>	'Mediu',
+'Environment label'					=>	'Detalii sistem',
 'Environment data OS'				=>	'Sistem de operare: %s',
-'Show info'							=>	'Arată informații',
 'Environment data version'			=>	'PHP: %s - %s',
 'Environment data acc'				=>	'Accelerator: %s',
 'Turck MMCache'						=>	'Turck MMCache',
