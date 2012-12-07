@@ -17,7 +17,9 @@ $lang_common = array(
 'No permission'						=>	'Sie haben keine Berechtigung, auf diese Seite zuzugreifen.',
 'Bad referrer'						=>	'Ungültiger HTTP_REFERER. Sie wurden von einer ungültigen Quelle auf diese Seite weitergeleitet. Bitte gehen Sie zurück und versuchen Sie es noch einmal. Wenn dieses Problem weiterhin besteht, kontrollieren Sie bitte die \'Base URL\'-Variable unter Administration / Optionen und stellen Sie sicher, dass Sie dieses Forum tatsächlich über die eingestellte URL aufrufen. Weitere Informationen über den Referrer-Check können Sie der FluxBB-Dokumentation entnehmen.',
 'No cookie'							=>	'Sie scheinen sich erfolgreich angemeldet zu haben, es konnte jedoch kein Cookie gesetzt werden. Bitte überprüfen Sie die Einstellungen Ihres Browsers und aktivieren Sie (wenn möglich) die Verwendung von Cookies für diese Webseite.',
-'Pun include error'					=>	'Das benutzerdefinierte Include %s im Template %s konnte nicht verarbeitet werden. Die zu einzubindende Datei konnte weder im Template-Verzeichnis noch im User-Include-Verzeichnis gefunden werden.',
+'Pun include extension'            =>  'User-Include %s von Template %s konnte nicht verarbeitet werden: "%s" Dateien sind nicht erlaubt.',
+'Pun include directory'        =>  'User-Include %s von Template %s konnte nicht verarbeitet werden: Verzeichnis-Wechsel sind nicht erlaubt.',
+'Pun include error'					=>	'Das benutzerdefinierte Include %s im Template %s konnte nicht verarbeitet werden. Die einzubindende Datei konnte weder im Template-Verzeichnis noch im User-Include-Verzeichnis gefunden werden.',
 
 // Verschiedenes
 'Announcement'						=>	'Ankündigung',
