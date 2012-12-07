@@ -2,10 +2,10 @@
 
 /* Translation Notice:
 	Copyright Kaeden
-   Last revision: 8th of May 2012 */
+   Last revision: 7th of December 2012 */
    
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'Eroare HTTP_REFERER. Dacă ai mutat acest forum la o nouă locație sau ai schimbat domeniile, trebuie să actualizezi URL-ul principal manual în baza de date (caută o_base_url în tabela config) și apoi curăță cache ștergând toate fișierele .php din directorul /cache.',
