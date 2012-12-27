@@ -1,9 +1,9 @@
-Subject: Alert - Duplicate email detected
+Subject: هشدار - ایمیل دوگانه یافت شد
 
-User '<username>' registered with an email address that also belongs to: <dupe_list>
+کاربر '<username>' با آدرس ایمیلی ثبت نام کرده که مربوط به: <dupe_list> می باشد.
 
-User profile: <profile_url>
+پرونده کاربر: <profile_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)

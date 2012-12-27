@@ -1,8 +1,8 @@
 Subject: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
+<sender> از <board_title> برای شما یک پیغام فرستاده است. شما می توانید به <sender> پاسخ دهید. برای این کار کافی است به همین ایمیل پاسخ دهید.
 
-The message reads as follows:
+متن پیغام به شرح زیر است:
 -----------------------------------------------------------------------
 
 <mail_message>

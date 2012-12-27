@@ -1,11 +1,11 @@
-Subject: Reply to topic: '<topic_subject>'
+Subject: پاسخ به مبحث: '<topic_subject>'
 
-<replier> has replied to the topic '<topic_subject>' to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> پاسخی به مبحث '<topic_subject>' که شما مشترک آن هستید، ارسال کرده است. ممکن است پاسخ های جدیدتری نیز ارسال شده باشند، اما این تنها ایمیل یادآوری کننده ای است که برای شما ارسال می شود تا زمانی که مجددا از انجمن بازدید نمایید.
 
-The post is located at <post_url>
+مطلب در آدرس <post_url>  قرار دارد.
 
-You can unsubscribe by going to <unsubscribe_url>
+شما می توانید با رفتن به آدرس <unsubscribe_url> اشتراک خود را لغو کنید.
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)

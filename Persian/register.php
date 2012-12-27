@@ -8,7 +8,7 @@ $lang_register = array(
 'Reg cancel redirect'		=>	'ثبت نام لغو شد. در حال انتقال …',
 'Forum rules'				=>	'قوانین انجمن',
 'Rules legend'				=>	'شما بایستی موافقت خود را با موارد زیر اعلام کنید تا بتوانید ثبت نام نمایید.',
-'Registration flood'		=>	'A new user was registered with the same IP address as you within the last hour. To prevent registration flooding, at least an hour has to pass between registrations from the same IP. Sorry for the inconvenience.',
+'Registration flood'		=>	'طی یک ساعت گذشته، یک کاربر جدید با همان آدرس آی پی شما، ثبت نام کرده است. به منظور جلوگیری از ثبت نام های تکراری،  بایستی حداقل یک ساعت بگذرد تا بتوان با همان آدرس آی پی، ثبت نام جدیدی انجام داد.بابت زحمتی که متقبل می شوید عذرخواهی می کنیم.',
 'Agree'						=>	'موافقت',
 'Cancel'					=>	'لغو',
 'Register'					=>	'ثبت نام',
@@ -18,16 +18,16 @@ $lang_register = array(
 'Registration errors info'	=>	'خطاهای زیر بایستی تصحیح شوند تا ثبت نام شما کامل گردد.:',
 'Username censor'			=>	'نام کاربری وارد شده حاوی یک یا چند کلمه ممنوعه است. لطفا نام کاربری دیگری انتخاب کنید.',
 'Username dupe 1'			=>	'این نام کاربری قبلا ثبت شده است',
-'Username dupe 2'			=>	'The username you entered is too similar. The username must differ from that by at least one alphanumerical character (a-z or 0-9). Please choose a different username.',
+'Username dupe 2'			=>	'نام کاربری وارد شده خیلی شبیه به نام کاربرن قبلی است. نام های کاربری باید حداقل در یک نویسه حرفی-عددی (a-z or 0-9) با یکدیگر تفاوت داشته باشند. لطفا نام کاربری دیگری انتخاب کنید',
 'Email not match'			=>	'آدرس های ایمیل مطابق هم نیستند.',
 
 // Registration email stuff
-'Reg email'					=>	'Thank you for registering. Your password has been sent to the specified address. If it doesn\'t arrive you can contact the forum administrator at',
+'Reg email'					=>	'با تشکر از ثبت نام شما، رمز عبور شما به آدرس ایمیل داده شده ارسال شده است. اگر به دست شما نرسیده است می توانید با مدیر انجمن از این طریق تماس بگیرید:',
 'Reg complete'				=>	'ثبت نام کامل شد. در حال ورود و انتقال ...',
 
 // Register info
 'Desc 1'					=>	'ثبت نام به شما اجازه دسترسی به تعدادی از مزیت ها و قابلیت های انجمن را می دهد که در حالت عادی در دسترس نیستند. این عملکردها شامل ویرایش و حذف مطالب، طراحی امضای شخصی،  که به انتهای مطالب شما اضافه خواهد شد و خیلی موارد دیگر می شود. اگر سوالی در این مورد داریدباید از یکی از مدیران سایت بپرسید.',
-'Desc 2'					=>	'Below is a form you must fill out in order to register. Once you are registered you should visit your profile and review the different settings you can change. The fields below only make up a small part of all the settings you can alter in your profile.',
+'Desc 2'					=>	'در زیر فرمی وجود دارد که شما جهت ثبت نام بایستی آن را پر کنید.به محض اینکه ثبت نام شما انجام شد، شما می توانید از پرونده کاربری خود دیدن نموده و تنظیمات متفاوتی که می  توانید تغییر دهید را بازبینی کنید. کادرهای زیرفقط بخشی از همه تنظیماتی که شما می توانید در پرونده خود تغییر دهید را شامل می شود.',
 'Username legend'			=>	'لطفا یک نام کاربری بین 2 تا 25 نویسه وارد کنید. ',
 'Pass legend'				=>	'لطفا رمز عبور انتخابی خود را وارد و تایید کنید.',
 'Pass info'					=>	'رمز عبور بایستی حداقل 4 نویسه طول داشته باشد. و نسبت به حروف کوچک و بزرگ حساس است.',

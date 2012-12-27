@@ -1,14 +1,14 @@
-Subject: New password requested
+Subject: درخواست رمز عبور جدید
 
-Hello <username>,
+سلام <username>,
 
-You have requested to have a new password assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your password you should just ignore this message. Only if you visit the activation page below will your password be changed.
+َما درخواست داده اید که رمز جدیدی به حساب کاربریتان در انجمن گفتگوی <base_url>  اختصاص یابد. اگر شما چنین درخواستی نداده اید یا قصد تغییر رمزعبورتان را ندارید، کافی است این ایمیل را نادیده بگیرید. تنها اگر از صفحه فعال سازی زیر بازدید کنید، رمز عبور شما تغییر خواهد یافت.
 
-Your new password is: <new_password>
+رمزعبور جدید شما: <new_password>
 
-To change your password, please visit the following page:
+جهت تغییر رمز عبورتان، لطفا از صفحه زیر بازدید کنید:
 <activation_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)
