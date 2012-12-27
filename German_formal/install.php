@@ -5,7 +5,7 @@
 $lang_install = array(
 
 'Install message'				=>	'Die Datei \'config.php\' scheint nicht zu existieren oder ist defekt. Es scheint, als ob FluxBB noch nicht installiert wurde.',
-'Choose install language'		=>	'Wählen Sie hier die Sprache für den Installationsassistenten',
+'Choose install language'		=>	'Wählen Sie hier die Sprache für den Installationsassistenten.',
 'Choose install language info'	=>	'Die Sprache, die für den Installationsassistenten verwendet werden soll. Die voreingestellte Sprache für das Forum kann weiter unten festgelegt werden.',
 'Install language'				=>	'Sprache installieren',
 'Change language'				=>	'Sprache ändern',
@@ -23,7 +23,7 @@ $lang_install = array(
 'Short password'				=>	'Passwörter müssen mindestens vier Zeichen lang sein.',
 'Passwords not match'			=>	'Die Passwörter stimmen nicht überein.',
 'Wrong email'					=>	'Die für die Administration eingegebene E-Mail-Adresse ist ungültig.',
-'No board title'				=>	'Das Board braucht einen Titel.',
+'No board title'				=>	'Das Forum braucht einen Titel.',
 'Error default language'		=>	'Die voreingestellte Sprache scheint nicht zu existieren.',
 'Error default style'			=>	'Der voreingestellte Style scheint nicht zu existieren.',
 'No DB extensions'				=>	'Die PHP-Umgebung unterstützt keine der Datenbanken, die mit FluxBB verwendet werden können. Um FluxBB installieren zu können, muss PHP die Datenbanken MySQL, PostgreSQL oder SQLite unterstützen.',
@@ -31,7 +31,7 @@ $lang_install = array(
 'Administrator password 1'		=>	'Passwort 1 des Administrators',
 'Administrator password 2'		=>	'Passwort 2 des Administrators',
 'Administrator email'			=>	'E-Mail des Administrators',
-'Board title'					=>	'Board-Titel',
+'Board title'					=>	'Forum-Titel',
 'Base URL'						=>	'Basis-URL',
 'Required field'				=>	'ist in diesem Formular ein Pflichtfeld.',
 'FluxBB Installation'			=>	'FluxBB-Installation',
