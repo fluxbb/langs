@@ -1,8 +1,8 @@
-Subject: New topic in forum: '<forum_name>'
+Subject: مبحث جدید در تالار: '<forum_name>'
 
-<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
+<poster> یک مبحث جدید با عنوان '<topic_subject>' در تالار '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
 
-The topic is located at <topic_url>
+مبحث در آدرس <topic_url> قرار دارد.
 
 The message reads as follows:
 -----------------------------------------------------------------------
@@ -11,7 +11,7 @@ The message reads as follows:
 
 -----------------------------------------------------------------------
 
-You can unsubscribe by going to <unsubscribe_url>
+شما می توانید اشتراک خود را با استفاده از پیوند <unsubscribe_url> لغو کنید.
 
 --
 <board_mailer> Mailer

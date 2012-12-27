@@ -1,9 +1,9 @@
-Subject: Alert - Banned email detected
+Subject: هشدار - ایمیل ممنوعه یافت شد
 
-User '<username>' changed to banned email address: <email>
+کاربر '<username>' ایمیل خود را به آدرس ممنوع شده ای تغییر داده است: <email>
 
-User profile: <profile_url>
+پرونده کاربر: <profile_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)

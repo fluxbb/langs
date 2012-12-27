@@ -6,7 +6,7 @@ $lang_topic = array(
 'Post reply'		=>	'ارسال پاسخ',
 'Topic closed'		=>	'مبحث بسته شد',
 'From'				=>	'از:', // User location
-'IP address logged'	=>	'IP address logged',
+'IP address logged'	=>	'آدرس آی پی وارد شده',
 'Note'				=>	'نکته:', // Admin note
 'Posts'				=>	'مطالب:',
 'Registered'		=>	'ثبت شده:',
@@ -24,9 +24,9 @@ $lang_topic = array(
 'Unsubscribe'		=>	'لغو اشتراک',
 'Subscribe'			=>	'مشترک این مبحث شدن',
 'Quick post'		=>	'ارسال سریع',
-'Mod controls'		=>	'Moderator controls',
+'Mod controls'		=>	'کنترل های ناظم',
 'New icon'			=>	'مطلب جدید',
-'Re'				=>	'Re:',
+'Re'				=>	'پاسخ:',
 'Preview'			=>	'پیش نمایش'
 
 );

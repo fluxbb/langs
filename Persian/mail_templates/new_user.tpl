@@ -1,8 +1,8 @@
-Subject: Alert - New registration
+Subject: هشدار - ثبت نام جدید
 
-User '<username>' registered in the forums at <base_url>
+کاربر '<username>' در تالار <base_url> ثبت نام کرده است.
 
-User profile: <profile_url>
+پروفایل کاربر: <profile_url>
 
 --
 <board_mailer> Mailer

@@ -1,10 +1,10 @@
-Subject: New topic in forum: '<forum_name>'
+Subject: مبحث جدید در تالار: '<forum_name>'
 
-<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
+<poster> مبحث جدیدی با عنوان '<topic_subject>' در تالار '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
 
-The topic is located at <topic_url>
+آدرس مبحث: <topic_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+شما می توانید اشتراک خود را با رفتن به آدرس  <unsubscribe_url> لغو کنید.
 
 --
 <board_mailer> Mailer
