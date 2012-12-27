@@ -15,11 +15,11 @@ $lang_admin_common = array(
 'Options'				=>	'Optionen',
 'Permissions'			=>	'Berechtigungen',
 'Censoring'				=>	'Wortzensur',
-'Ranks'					=>	'Ränge',
 'Bans'					=>	'Mitgliedersperren',
 'Prune'					=>	'Bereinigung',
 'Maintenance'			=>	'Wartung',
 'Reports'				=>	'Meldungen',
+'Server statistics'     =>  'Server-Statistiken',
 
 'Admin'					=>	'Administrator',
 'Go back'				=>	'Zurück',

@@ -11,7 +11,7 @@ $lang_misc = array(
 'No email subject'				=>	'Sie müssen einen Betreff eingeben.',
 'No email message'				=>	'Sie müssen eine Nachricht eingeben.',
 'Too long email message'		=>	'Nachrichten dürfen nicht länger als 65535 Zeichen (64 KB) sein.',
-'E-Mail flood'					=>	'Zwischen dem Versand der E-Mails müssen mindestens %s Sekunden vergehen. Bitte warten Sie etwas und versuchen Sie es später noch einmal.',
+'E-Mail flood'					=>	'Zwischen dem Versand der E-Mails müssen mindestens %s Sekunden vergehen. Bitte warten Sie %s Sekunden und versuchen Sie es später noch einmal.',
 'E-Mail sent redirect'			=>	'E-Mail versandt. Leite weiter …',
 'Send email to'					=>	'E-Mail senden an',
 'E-Mail subject'					=>	'Betreff',
@@ -22,7 +22,7 @@ $lang_misc = array(
 // Bericht
 'No reason'						=>	'Sie müssen einen Grund angeben.',
 'Reason too long'				=>	'Ihre Nachricht ist zu lang.',
-'Report flood'					=>	'Zwischen zwei Meldungen müssen mindestens %s Sekunden vergangen sein. Bitte warten Sie etwas und versuchen Sie es später noch einmal.',
+'Report flood'					=>	'Zwischen zwei Meldungen müssen mindestens %s Sekunden vergangen sein. Bitte warten Sie %s Sekunden und versuchen Sie es dann noch einmal.',
 'Report redirect'				=>	'Beitrag gemeldet. Leite weiter …',
 'Report post'					=>	'Beitrag melden',
 'Reason'						=>	'Begründung',
