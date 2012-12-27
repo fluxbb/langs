@@ -1,9 +1,9 @@
-Subject: Alert - Banned email detected
+Subject: هشدار - ایمیل ممنوع شده یافت شد
 
-User '<username>' posted with banned email address: <email>
+کاربر '<username>' با یک ایمیل ممنوع شده مطلبی ارسال کرده است: <email>
 
-Post URL: <post_url>
+آدرس مطلب: <post_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)

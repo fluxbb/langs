@@ -1,12 +1,12 @@
-Subject: Change email address requested
+Subject: درخواست تغییر آدرس ایمیل
 
-Hello <username>,
+درود <username>,
 
-You have requested to have a new email address assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your email address you should just ignore this message. Only if you visit the activation page below will your email address be changed. In order for the activation page to work, you must be logged in to the forum.
+شما در تالار گفتگوی <base_url> درخواست کرده اید که آدرس ایمیل جدیدی به حساب کاربری شما مرتبط شود. اگر شما چنین درخواستی نداده اید یا نمی خواهید آدرس ایمیلتان تغییر کند، این ایمیل را نادیده بگیرید. اگر شما از صفحه زیر بازدید کنید ایمیل شما تغییر خواهد یافت. برای اینکه صفحه زیر کار کند، شما باید با استفاده از نام کاربری و رمز عبور خود وارد سایت شده باشید.
 
-To change your email address, please visit the following page:
+جهت تغییر آدرس ایمیل خود، لطفا از صفحه زیر بازدید کنید:
 <activation_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(به این ایمیل پاسخ ندهید)

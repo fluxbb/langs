@@ -1,8 +1,9 @@
-Subject: Report(<forum_id>) - '<topic_subject>'
+Subject: 'گزارش(<forum_id>) - '<topic_subject>'
 
-User '<username>' has reported the following message: <post_url>
+کاربر '<username>' مطلب زیر را گزارش کرده است: 
+<post_url>
 
-Reason: <reason>
+دلیل: <reason>
 
 --
 <board_mailer> Mailer
