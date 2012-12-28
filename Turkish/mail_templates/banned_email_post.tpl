@@ -1,9 +1,9 @@
-Konu: Yasaklı email adresi saptandı
+Subject: YasaklÄ± email adresi saptandÄ±
 
-Kullanıcı '<username>' yasaklı bir email adresi gönderi yayınladı: <email>
+KullanÄ±cÄ± '<username>' yasaklÄ± bir email adresi gÃ¶nderi yayÄ±nladÄ±: <email>
 
-Yayınlanan gönderi: <post_url>
+YayÄ±nlanan gÃ¶nderi: <post_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

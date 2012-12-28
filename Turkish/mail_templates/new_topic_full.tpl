@@ -1,10 +1,10 @@
-Konu:Forumda yeni konu başlığı '<forum_name>'
+Subject: Forumda yeni konu baÅŸlÄ±ÄŸÄ± '<forum_name>'
 
-<poster> kullanıcısı <forum_name>' forumunda yeni bir başlık açtı:'<topic_subject>' ',.
+<poster> kullanÄ±cÄ±sÄ± <forum_name>' forumunda yeni bir baÅŸlÄ±k aÃ§tÄ±: '<topic_subject>' ',.
 
-Gönderi konumlandı: <topic_url>
+GÃ¶nderi konumlandÄ±: <topic_url>
 
-Mesaj aşağıdaki gibi okunur:
+Mesaj aÅŸaÄŸÄ±daki gibi okunur:
 -----------------------------------------------------------------------
 
 <message>
@@ -13,6 +13,6 @@ Mesaj aşağıdaki gibi okunur:
 
 <unsubscribe_url>  giderek iptal edebilirsiniz.
 
---
+---
 <board_mailer> Mesak Kutusu
 (Bu mesaja cevap vermeyiniz)

@@ -1,9 +1,9 @@
-Konu: Varolan e-mail saptandı
+Subject: Varolan e-mail saptandÄ±
 
-Kullanici '<username>' e-posta adresini <dupe_list> /'de zaten varolan bir email adresi ile değiştirdi.
+KullanÄ±cÄ± '<username>' e-posta adresini <dupe_list> /'de zaten varolan bir email adresi ile deÄŸiÅŸtirdi.
 
-Kullanıcı Profili: <profile_url>
+KullanÄ±cÄ± Profili: <profile_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

@@ -1,9 +1,9 @@
-Konu: Rapor(<forum_id>) - '<topic_subject>'
+Subject: Rapor(<forum_id>) - '<topic_subject>'
 
-Kullanıcı '<username>' aşağıdaki mesajı rapor etti: <post_url>
+KullanÄ±cÄ± '<username>' aÅŸaÄŸÄ±daki mesajÄ± rapor etti: <post_url>
 
 Sebep: <reason>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

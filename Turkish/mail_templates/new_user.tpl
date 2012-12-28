@@ -1,9 +1,9 @@
-Konu: Yeni Kayıt
+Subject: Yeni KayÄ±t
 
-Kullanıcı '<username>' <base_url>/'de kayıt oldu.
+KullanÄ±cÄ± '<username>' <base_url> da kayÄ±t oldu.
 
-Kullanıcı Profili: <profile_url>
+KullanÄ±cÄ± Profili: <profile_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)
