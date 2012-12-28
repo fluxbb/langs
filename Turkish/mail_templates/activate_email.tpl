@@ -1,10 +1,10 @@
-Konu: E-mail adresi değişim isteği
+Subject: E-mail adresi deÄŸiÅŸim isteÄŸi
 
 Merhaba <username>,
 
- <base_url> forum alanında hesabınız için yeni bir e-mail talep ettiniz.Eğer e-mail değişikliğini talep etmediyseniz, lütfen bu mesajı dikkate almayınız. Yanlız aşağıdaki aktivasyon sayfasını açarsanız şifrenizi değiştirebilirsiniz. Aktivasyon sayfasının aktif hale gelmesi için, lütfen foruma giriş yapınız.
+ <base_url> forum alanÄ±nda hesabÄ±nÄ±z iÃ§in yeni bir e-mail talep ettiniz.EÄŸer e-mail deÄŸiÅŸikliÄŸini talep etmediyseniz, lÃ¼tfen bu mesajÄ± dikkate almayÄ±nÄ±z. YalnÄ±z aÅŸaÄŸÄ±daki aktivasyon sayfasÄ±nÄ± aÃ§arsanÄ±z ÅŸifrenizi deÄŸiÅŸtirebilirsiniz. Aktivasyon sayfasÄ±nÄ±n aktif hale gelmesi iÃ§in lÃ¼tfen foruma giriÅŸ yapÄ±nÄ±z.
 
-E-mail adresinizi değişmek için, bir sonraki sayfaya gidiniz:
+E-mail adresinizi deÄŸiÅŸmek iÃ§in bir sonraki sayfaya gidiniz:
 <activation_url>
 
 --

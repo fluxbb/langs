@@ -1,12 +1,12 @@
-Konu: Yeni şifre talebi
+Subject: Yeni ÅŸifre talebi
 
 Merhaba <username>,
 
- <base_url> forum alanında hesabınız için yeni bir şifre talep ettiniz.Eğer şifre değişikliğini talep etmediyseniz lütfen bu mesajı dikkate almayınız.Yanlızca,aşağıdaki aktivasyon sayfasını açarsanız şifrenizi değiştirebilirsiniz.
+ <base_url> forum alanÄ±nda hesabÄ±nÄ±z iÃ§in yeni bir ÅŸifre talep ettiniz. EÄŸer ÅŸifre deÄŸiÅŸikliÄŸini talep etmediyseniz lÃ¼tfen bu mesajÄ± dikkate almayÄ±nÄ±z.YanlÄ±zca, aÅŸaÄŸÄ±daki aktivasyon sayfasÄ±nÄ± aÃ§arsanÄ±z ÅŸifrenizi deÄŸiÅŸtirebilirsiniz.
 
-Yeni şifreniz <new_password>
+Yeni ÅŸifreniz: <new_password>
 
-Şifrenizi değişmek için,lütfen aşağıdaki sayfaya gidiniz:
+Åifrenizi deÄŸiÅŸmek iÃ§in lÃ¼tfen aÅŸaÄŸÄ±daki sayfaya gidiniz:
 <activation_url>
 
 --

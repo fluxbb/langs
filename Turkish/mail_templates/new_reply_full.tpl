@@ -1,10 +1,10 @@
-Konu: '<topic_subject>' Başlığına cevap veriniz.
+Subject: '<topic_subject>' BaÅŸlÄ±ÄŸÄ±na cevap veriniz.
 
-<replier> kullanıcısı '<topic_subject>' başlığınıza cevap verdi.Daha fazla yanıt olabilir,fakat bu bildiri forumu tekrar ziyaret edene kadar yanıtlayabileceğiniz tek bildiridir.
+<replier> kullanÄ±cÄ±sÄ± '<topic_subject>' baÅŸlÄ±ÄŸÄ±nÄ±za cevap verdi. Daha fazla yanÄ±t olabilir fakat bu bildiri forumu tekrar ziyaret edene kadar yanÄ±tlayabileceÄŸiniz tek bildiridir.
 
-Gönderi konumlandı: <post_url>
+GÃ¶nderi adresi: <post_url>
 
-Mesaj aşağıdaki gibi okunur:
+Mesaj aÅŸaÄŸÄ±daki gibi okunur:
 -----------------------------------------------------------------------
 
 <message>

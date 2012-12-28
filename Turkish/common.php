@@ -118,17 +118,17 @@ $lang_common = array(
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
-'Board footer'						=>	'Board footer',
-'Jump to'							=>	'Jump to',
-'Go'								=>	' Go ', // Submit button in forum jump
-'Moderate topic'					=>	'Moderate topic',
-'Move topic'						=>	'Move topic',
-'Open topic'						=>	'Open topic',
-'Close topic'						=>	'Close topic',
-'Unstick topic'						=>	'Unstick topic',
-'Stick topic'						=>	'Stick topic',
-'Moderate forum'					=>	'Moderate forum',
-'Powered by'						=>	'Powered by %s',
+'Board footer'						=>	'Forum alt kısmı',
+'Jump to'							=>	'Geçiş yap',
+'Go'								=>	' Git ', // Submit button in forum jump
+'Moderate topic'					=>	'Konuyu düzenle',
+'Move topic'						=>	'Konuyu taşı',
+'Open topic'						=>	'Konu aç',
+'Close topic'						=>	'Konuyu kapat',
+'Unstick topic'						=>	'Yapışkan olmaktan çıkar',
+'Stick topic'						=>	'Yapışkan konu',
+'Moderate forum'					=>	'Forumu düzenle',
+'Powered by'						=>	'Uygulama %s',
 
 // Debug information
 'Debug table'						=>	'Debug information',
@@ -151,8 +151,8 @@ $lang_common = array(
 'Atom topic feed'					=>	'Atom topic feed',
 
 // Admin related stuff in the header
-'New reports'						=>	'There are new reports',
-'Maintenance mode enabled'			=>	'Maintenance mode is enabled!',
+'New reports'						=>	'Yeni rapor bildirimleri mevcut',
+'Maintenance mode enabled'			=>	'Bakım modu etkinleştirildi!',
 
 // Units for file sizes
 'Size unit B'						=>	'%s B',

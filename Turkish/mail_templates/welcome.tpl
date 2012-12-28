@@ -1,11 +1,11 @@
-Konu:  <board_title> Hoşgeldiniz!
+Subject: <board_title> HoÅŸgeldiniz!
 
- <base_url> forumlarına kayıt olduğunuz için teşekkür ederiz. Kullanıcı hesap ayrıntıları:
+ <base_url> forumlarÄ±na kayÄ±t olduÄŸunuz iÃ§in teÅŸekkÃ¼r ederiz. KullanÄ±cÄ± hesap ayrÄ±ntÄ±larÄ±:
 
-Kullanıcı Adı: <username>
-Şifre: <password>
+KullanÄ±cÄ± AdÄ±: <username>
+Åifre: <password>
 
- <login_url> adresine giderek hesabınızı aktif hale getiriniz.
+ <login_url> adresine giderek hesabÄ±nÄ±zÄ± aktif hale getiriniz.
 
 --
 <board_mailer> Mesaj Kutusu

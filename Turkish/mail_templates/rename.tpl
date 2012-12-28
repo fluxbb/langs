@@ -1,11 +1,11 @@
-Konu: Kullanıcı Adı değişikliği
+Subject: KullanÄ±cÄ± AdÄ± deÄŸiÅŸikliÄŸi
 
-<base_url> forumların günlenmesi sırasında,kullanıcı adınızın forumda zaten varolan bir kullanıcı adı ile benzer olduğu saptandı.Kullanıcı adınız uygun bir şekilde değiştirildi.
+<base_url> forumlarÄ±n gÃ¼ncellenmesi sÄ±rasÄ±nda, kullanÄ±cÄ± adÄ±nÄ±zÄ±n forumda zaten varolan bir kullanÄ±cÄ± adÄ± ile benzer olduÄŸu saptandÄ±. KullanÄ±cÄ± adÄ±nÄ±z uygun bir ÅŸekilde deÄŸiÅŸtirildi.
 
-Eski Kullanıcı Adı: <old_username>
-Yeni Kullanıcı Adı: <new_username>
+Eski KullanÄ±cÄ± AdÄ±: <old_username>
+Yeni KullanÄ±cÄ± AdÄ±: <new_username>
 
-Rahatsızlığa yol açtığımız için özür dileriz.
+RahatsÄ±zlÄ±ÄŸa yol aÃ§tÄ±ÄŸÄ±mÄ±z iÃ§in Ã¶zÃ¼r dileriz.
 
 --
 <board_mailer> Mesaj Kutusu
