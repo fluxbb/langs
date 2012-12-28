@@ -9,5 +9,5 @@ Mesaj aşağıdaki gibi okunur:
 
 -----------------------------------------------------------------------
 
---
+---
 <board_mailer> Mesaj Kutusu

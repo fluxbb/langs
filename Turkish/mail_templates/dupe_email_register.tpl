@@ -4,6 +4,6 @@ Kullanıcı '<username>' <dupe_list>/'de varolan bir email adresi ile kayıt old
 
 Kullanıcı Profili: <profile_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

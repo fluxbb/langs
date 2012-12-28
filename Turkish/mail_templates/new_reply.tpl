@@ -6,6 +6,6 @@ Gönderi adresi: <post_url>
 
  <unsubscribe_url> giderek iptal edebilirsiniz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

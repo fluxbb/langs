@@ -7,6 +7,6 @@ Merhaba <username>,
 E-mail adresinizi değişmek için bir sonraki sayfaya gidiniz:
 <activation_url>
 
---
+---
 <board_mailer> Posta Kutusu
 (Bu mesaja cevap vermeyiniz)

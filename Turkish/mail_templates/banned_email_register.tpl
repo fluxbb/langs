@@ -4,6 +4,6 @@ Subject: Yasaklı e-mail adresi saptandı
 
 Kullanıcı Profili: <profile_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

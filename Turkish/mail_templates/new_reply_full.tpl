@@ -13,6 +13,6 @@ Mesaj aşağıdaki gibi okunur:
 
 <unsubscribe_url> giderek iptal edebilirsiniz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

@@ -7,6 +7,6 @@ Kullanıcı Adı: <username>
 
  <login_url> adresine giderek hesabınızı aktif hale getiriniz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

@@ -7,6 +7,6 @@ Yeni Kullanıcı Adı: <new_username>
 
 Rahatsızlığa yol açtığımız için özür dileriz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)
