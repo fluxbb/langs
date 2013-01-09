@@ -4,7 +4,7 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'		=>	'Topics must contain a subject.',
+'No subject'		=>	'مبحث بایستی موضوع  داشته باشد.',
 'No subject after censoring'	=>	'Topics must contain a subject. After applying censoring filters, your subject was empty.',
 'Too long subject'	=>	'Subjects cannot be longer than 70 characters.',
 'No message'		=>	'You must enter a message.',
@@ -19,7 +19,7 @@ $lang_post = array(
 'Post errors info'	=>	'The following errors need to be corrected before the message can be posted:',
 'Post preview'		=>	'پیش نمایش مطلب',
 'Guest name'		=>	'نام', // For guests (instead of Username)
-'Post redirect'		=>	'Post entered. Redirecting …',
+'Post redirect'		=>	'مطلب ثبت شد. در حال انتقال...',
 'Post a reply'		=>	'ارسال پاسخ',
 'Post new topic'	=>	'ایجاد مبحث جدید',
 'Hide smilies'		=>	'Never show smilies as icons for this post',

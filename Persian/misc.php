@@ -16,11 +16,11 @@ $lang_misc = array(
 'Send email to'					=>	'ارسال ایمیل به',
 'Email subject'					=>	'موضوع',
 'Email message'					=>	'پیغام',
-'Email disclosure note'			=>	'Please note that by using this form, your email address will be disclosed to the recipient.',
-'Write email'					=>	'Write and submit your email message',
+'Email disclosure note'			=>	'لطفا دقت داشته باشید که با استفاده از این فرم، آدر ایمیل شما برای گیرنده قابل دیدن خواهد شد.',
+'Write email'					=>	'آدرس ایمیل خود را بنویسید و ارسال کنید',
 
 // Report
-'No reason'						=>	'You must enter a reason.',
+'No reason'						=>	'وارد کردن دلیل الزامی است.',
 'Reason too long'				=>	'Your message must be under 65535 bytes (~64kb).',
 'Report flood'					=>	'At least %s seconds have to pass between reports. Please wait a while and try sending again.',
 'Report redirect'				=>	'Post reported. Redirecting …',
