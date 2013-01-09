@@ -47,7 +47,7 @@ $lang_help = array(
 'Code text'				=>	'This is some code.',
 'produces code box'		=>	'produces a code box like this:',
 
-'Nested tags'			=>	'تگ های تودرتو",
+'Nested tags'			=>	'تگ های تودرتو',
 'Nested tags info'		=>	'BBCode can be nested to create more advanced formatting. For example:',
 'Bold, underlined text'	=>	'Bold, underlined text',
 

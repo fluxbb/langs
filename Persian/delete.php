@@ -4,13 +4,13 @@
 $lang_delete = array(
 
 'Delete post'			=>	'حذف مطلب',
-'Warning'				=>	'You are about to permanently delete this post.',
-'Topic warning'			=>	'Warning! This is the first post in the topic, the whole topic will be permanently deleted.',
-'Delete info'			=>	'The post you have chosen to delete is set out below for you to review before proceeding.',
+'Warning'				=>	'شما در حال حذف این مطلب برای همیشه هستید.',
+'Topic warning'			=>	'هشدار! این اولین مطلب ارسالی در این مبحث است. همه مبحث برای همیشه حذف خواهد شد.',
+'Delete info'			=>	'مطلبی که برای حذف انتخاب کرده اید، در زیر برای شما نمایش داده شده است تا قبل از ادامه، آن را بازبینی کنید.',
 'Reply by'				=>	'پاسخ توسط %s - %s',
-'Topic by'				=>	'Topic started by %s - %s',
+'Topic by'				=>	'مبحث توسط  %s - %s شروع شده',
 'Delete'				=>	'حذف', // The submit button
-'Post del redirect'		=>	'Post deleted. Redirecting …',
-'Topic del redirect'	=>	'Topic deleted. Redirecting …'
+'Post del redirect'		=>	'مطلب حذف شد. در حال انتقال...',
+'Topic del redirect'	=>	'مبحث حذف شد. در حال انتقال...'
 
 );
