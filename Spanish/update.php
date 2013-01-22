@@ -1,0 +1,75 @@
+<?php
+
+// Language definitions used in db_update.php
+
+$lang_update = array(
+
+'Update'						=>	'Actualizar FluxBB',
+'Update message'				=>	'Su base de datos FluxBB esta desactualizada y se debe actualizar para poder continuar. Si usted es el administrador del foro, por favor, siga las siguientes instrucciones para completar la actualización.',
+'Note'							=>	'Nota:',
+'Members message'				=>	'Este proceso es solo para los administradores del foro. Si usted es solo un miembro esto no deberia preocuparle - los foros volveran pronto!',
+'Administrator only'			=>	'Este paso es solo para los administradores del foro!',
+'Database password info'		=>	'Para llevar a cabo la actualización de la base de datos por favor, introduzca la contraseña de la base de datos con la que se instaló FluxBB. Si no la recuerda, esta se encuentra en el archivo \'config.php\' .',
+'Database password note'		=>	'Si está ejecutando SQLite (y por lo tanto no tiene la contraseña de base de datos), utilice el nombre del archivo de base de datos en su lugar. Este debe coincidir exactamente con el nombre del archivo de base de datos que figura en el archivo de configuración.',
+'Database password'				=>	'Contraseña de la base de datos',
+'Maintenance'					=>	'Mantenimiento',
+'Maintenance message info'		=>	'Este mensaje le aparecerá a los usuarios durante el proceso de actualización. Este mensaje no se analizará y por lo tanto puede contener HTML.',
+'Maintenance message'		    =>	'Mensaje de mantenimiento',
+'Next'							=>	'Siguiente',
+
+'You are running error'			=>	'Está ejecutando %1$s version %2$s. FluxBB %3$s requiere por lo menos %1$s %4$s para funcionar correctamente. Debe actualizar su instalación %1$s antes de poder continuar.',
+'Version mismatch error'		=>	'Versión desfasada. La base de datos \'%s\' no parece estar funcionando con una esquema de base de datos FluxBB compatible con este script de actualización.',
+'Invalid file error'			=>	'Nombre de archivo de base de datos invalido. Cuando usa SQLite el nombre del archivo de base de datos se debe introducir exactamente como aparece en su \'%s\'',
+'Invalid password error'		=>	'Contraseña de la base de datos invalida. Para actualizar FluxBB debe introducir la contraseña de la base de datos exactamente como aparece en su \'%s\'',
+'No password error'				=>	'No ha introducido ninguna contraseña de la base de datos',
+'Script runs error'				=>	'Parece que el script de actualización ya está siendo ejecutado por otra persona. Si este no es el caso, por favor borre manualmente el archivo \'%s\' e intentelo de nuevo',
+'No update error'				=>	'Su foro esta ya lo mas actualizado que el script puede hacer',
+
+'Intro 1'						=>	'Este script actualizará su base de datos del foro. El procedimiento de actualización puede tardar, desde un segundo a horas dependiendo de la velocidad del servidor y el tamaño de la base de datos del foro. No te olvides de hacer una copia de seguridad de la base de datos antes de continuar.',
+'Intro 2'						=>	'¿Ha leído las instrucciones de actualización de la documentación? Si no, empieza por ahí.',
+'No charset conversion'			=>	'<strong>IMPORTANTE!</strong> FluxBB ha detectado que este entorno de PHP no tiene soporte para los mecanismos de codificación necesarios para hacer UTF-8 la conversión de conjuntos de caracteres distintos de la norma ISO-8859-1. Lo que esto significa es que si el conjunto de caracteres actual no es la norma ISO-8859-1, FluxBB no será capaz de convertir su base de datos de foro para UTF-8 y tendrá que hacerlo de forma manual. Las instrucciones para hacer la conversión manual de caracteres se pueden encontrar en las instrucciones de actualización.',
+'Enable conversion'				=>	'<strong>Habilitar conversión:</strong> Cuando se activa este script de actualización, después de haber realizado los cambios estructurales necesarios a la base de datos, convertirá todo el texto en la base de datos del conjunto de caracteres actual a UTF-8. Esta conversión es necesaria si va a actualizar desde la versión 1.2.',
+'Current character set'			=>	'<strong>Conjunto de caracteres actual:</strong> Si el idioma principal de su foro es el Inglés, puede dejar este valor por defecto. Sin embargo, si el foro no es Inglés, usted debe introducir el juego de caracteres del paquete de idioma principal que se utiliza en el foro. <em>Introducir esto mal puede corromper la base de datos por lo que no especule!</em> Nota: Esto es necesario incluso si la antigua base de datos es UTF-8.',
+'Charset conversion'			=>	'Conversión conjunto de caracteres',
+'Enable conversion label'		=>	'<strong>Habilitar conversión</strong> (realizar la conversión de caracteres de la base de datos).',
+'Current character set label'	=>	'Actual conjunto de caracteres',
+'Current character set info'	=>	'Aceptar el valor predeterminado para los foros en inglés de lo contrario el juego de caracteres del paquete de idioma principal.',
+'Start update'					=>	'Iniciar actualización',
+'Error converting users'		=>	'Error convirtiendo usuarios',
+'Error info 1'					=>	'Hubo un error convirtiendo a algunos usuarios. Esto puede ocurrir cuando se convierte de FluxBB v1.2 si varios usuarios se han registrado con los nombres de usuario muy similares, por ejemplo "bob" y "böb".',
+'Error info 2'					=>	'A continuación se muestra una lista de usuarios que no pudo convertir. Por favor, elija un nuevo nombre de usuario para cada usuario. Los usuarios que han cambiado de nombre se le enviará automáticamente un correo electrónico avisándoles del cambio.',
+'New username'					=>	'Nuevo nombre de usuario',
+'Required'						=>	'(Requerido)',
+'Correct errors'				=>	'Los siguientes errores necesitan ser corregidos:',
+'Rename users'					=>	'Renombre usuarios',
+'Successfully updated'			=>	'La base de datos de su foro se ha actualizado correctamente. Ahora puede %s.',
+'go to index'					=>	'ir al indice del foro',
+
+'Unable to lock error'			=>	'Imposible escribir actualización bloqueada. Por favor, asegúrese que PHP tiene acceso de escritura al directorio \'%s\' y nadie más está ejecutando el script de actualización.',
+
+'Converting'					=>	'Convirtiendo %s …',
+'Converting item'				=>	'Convirtiendo %1$s %2$s …',
+'Preparsing item'				=>	'Preparando %1$s %2$s …',
+'Rebuilding index item'			=>	'Reconstruyendo indice de %1$s %2$s',
+
+'ban'							=>	'expulsion',
+'categories'					=>	'categorias',
+'censor words'					=>	'palabras censuradas',
+'configuration'					=>	'configuración',
+'forums'						=>	'foros',
+'groups'						=>	'grupos',
+'post'							=>	'mensajes',
+'report'						=>	'reportar',
+'topic'							=>	'temas',
+'user'							=>	'usuario',
+'signature'						=>	'firma',
+
+'Username too short error'		=>	'Los nombres de usuario debe tener al menos 2 caracteres. Por favor, elija otro nombre de usuario (mas largo) .',
+'Username too long error'		=>	'Los nombres de usuario no deben tener más de 25 caracteres de largo. Por favor, elija otro nombre de usuario (mas corto) .',
+'Username Guest reserved error'	=>	'El nombre de usuario invitado esta reservado. Por favor, elija otro nombre de usuario.',
+'Username IP format error'		=>	'Los nombres de usuario no pueden tener la forma de una dirección IP. Por favor, elija otro nombre de usuario.',
+'Username bad characters error'	=>	'Los nombres de usuario no puede contener todos los caracteres \', " y [ o ] de una vez. Por favor, elija otro nombre de usuario.',
+'Username BBCode error'			=>	'Los nombres de usuario no puede contener ninguna de las etiquetas de formato de texto (BBCode) que el foro utiliza. Por favor, elija otro nombre de usuario.',
+'Username duplicate error'		=>	'Alguien ya está registrado con el nombre de usuario %s. El nombre de usuario que has escrito es demasiado similar. El nombre de usuario debe diferir del otro en por lo menos un carácter alfanumérico (a-z o 0-9). Por favor, elija un nombre de usuario diferente.',
+
+);

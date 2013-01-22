@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-forums.php
+// Language definitions used in admin_forums.php
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'Foro añadido. Redireccionando …',
@@ -40,6 +40,7 @@ $lang_admin_forums = array(
 'Sort by label'				=>	'Ordenar temas por',
 'Last post'					=>	'Ultimo mensaje',
 'Topic start'				=>	'Tema inicio',
+'Subject'					=>	'Asunto',
 'Redirect label'			=>	'Redirigir URL',
 'Redirect help'				=>	'Sólo disponible en los foros vacios',
 'Group permissions subhead'	=>	'Editar permisos de grupo para este foro',

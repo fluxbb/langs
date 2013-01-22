@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Debe introducir un titulo del grupo.',
@@ -39,6 +39,9 @@ $lang_admin_groups = array(
 'Group title label'				=>	'Titulo del grupo',
 'User title label'				=>	'Titulo de usuario',
 'User title help'				=>	'Este título anulará cualquier rango que el usuario haya alcanzado en este grupo. Deja en blanco para usar el título o rango predeterminado.',
+'Promote users label'			=>	'Promover usuarios',
+'Promote users help'			=>	'Usted puede promover usuarios a un grupo nuevo de forma automática si alcanzan un cierto número de mensajes. Seleccione "% s" para desactivarlo. Por razones de seguridad, no se les permite seleccionar un grupo de administradores aquí. También tenga en cuenta que los cambios de grupo para los usuarios afectados por este ajuste sólo podrán entrar en vigor después de su próximo mensaje. Tenga en cuenta que la cantidad de mensajes que introduce es la cantidad total de mensajes de un usuario, no la cantidad de mensajes hechos como miembro de este grupo.',
+'Disable promotion'				=>	'Desactivar promover',
 'Mod privileges label'			=>	'Permitir a los usuarios privilegios de moderador',
 'Mod privileges help'			=>	'Para que un usuario en este grupo para tener privilegios de moderador, el debe ser asignado para moderar uno o más foros. Esto se realiza mediante la página de administración de usuario del perfil del usuario.',
 'Edit profile label'			=>	'Permitir a los moderadores editar perfiles de usuario',
@@ -63,6 +66,8 @@ $lang_admin_groups = array(
 'Delete posts help'				=>	'Permitir a los usuarios de este grupo eliminar sus propios mensajes.',
 'Delete topics label'			=>	'Eliminar temas',
 'Delete topics help'			=>	'Permitir a los usuarios del grupo eliminar sus propios temas (incluyendo todas las respuestas).',
+'Post links label'				=>	'Publicar enlaces',
+'Post links help'				=>	'Permitir a los usuarios de este grupo para incluir enlaces en sus mensajes. Este ajuste también se aplica a las firmas y el sitio web en el campo users\' perfiles.',
 'Set own title label'			=>	'Ajustar su propio titulo de usuario',
 'Set own title help'			=>	'Permitir a los usuarios de este grupo ajustar su propio titulo de usuario.',
 'User search label'				=>	'Usar busqueda',
@@ -77,6 +82,8 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'Número de segundos que los usuarios de este grupo tienen que esperar entre búsquedas. Ajustar a 0 para desactivar.',
 'E-mail flood label'			=>	'Intervalo entre E-mails',
 'E-mail flood help'				=>	'Número de segundos que los usuarios de este grupo tienen que esperar enviando correos. Ajustar a 0 para desactivar.',
+'Report flood label'			=>	'Intervalo entre reportes',
+'Report flood help'				=>	'Número de segundos que los usuarios de este grupo tiene que esperar entre los reportes. Ajustar a 0 para desactivar.',
 'Moderator info'				=>	'Tenga en cuenta que para que un usuario de este grupo pueda tener capacidades de moderador, debe estar asignado como moderador en uno o mas foros. Esto se realiza mediante la página de administración de usuario del perfil del usuario.',
 
 );

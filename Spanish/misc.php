@@ -11,7 +11,7 @@ $lang_misc = array(
 'No email subject'				=>	'Debes introducir un asunto.',
 'No email message'				=>	'Debes introducir un mensaje.',
 'Too long email message'		=>	'Los mensajes no pueden ser mas largos de 65535 caracteres (64 KB).',
-'Email flood'					=>	'Por lo menos %s segundos tienen que pasar antes de enviar correos. Por favor espere un momento e intentelo de nuevo.',
+'Email flood'					=>	'Por lo menos %s segundos tienen que pasar antes de enviar correos. Por favor espere %s segundos e intentelo de nuevo.',
 'Email sent redirect'			=>	'Correo enviado. Redireccionando …',
 'Send email to'					=>	'Enviar correo a',
 'Email subject'					=>	'Asunto',
@@ -22,17 +22,19 @@ $lang_misc = array(
 // Report
 'No reason'						=>	'Debe introducir una razón.',
 'Reason too long'				=>	'Su mensaje debe estar por debajo de 65535 bytes (~64kb).',
-'Report flood'					=>	'Por lo menos %s segundos tienen que pasar entre los informes. Espera un momento e intente enviarlo de nuevo.',
+'Report flood'					=>	'Por lo menos %s segundos tienen que pasar entre los informes. Espera %s segundos e intente enviarlo de nuevo.',
 'Report redirect'				=>	'Mensaje reportado. Redireccionando …',
 'Report post'					=>	'Reportar mensaje',
 'Reason'						=>	'Razón',
 'Reason desc'					=>	'Por favor, introduzca una razón de porque esta reportando este mensaje',
 
 // Subscriptions
-'Already subscribed'			=>	'Usted ya está suscrito a este tema.',
+'Already subscribed topic'			=>	'Usted ya está suscrito a este tema.',
+'Already subscribed forum'		=>	'Usted ya está suscrito a este foro.',
 'Subscribe redirect'			=>	'Su suscripción ha sido añadida. Redireccionando …',
-'Not subscribed'				=>	'Usted no está suscrito a este tema.',
-'Unsubscribe redirect'			=>	'Su suscripción ha sido borrada. Redireccionando …',
+'Not subscribed topic'			=>	'Usted no está suscrito a este tema.',
+'Not subscribed forum'			=>	'Usted no está suscrito a este foro.',
+'Unsubscribe redirect'			=>	'Su suscripción se ha eliminado. Redireccionando …',
 
 // General forum and topic moderation
 'Moderate'						=>	'Moderar',
