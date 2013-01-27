@@ -1,13 +1,13 @@
-Konu: <mail_subject>
+Subject: <mail_subject>
 
-<board_title>/da ki <sender> size mesaj gönderdi. <sender> kullanıcısına bu maile cevap vererek mesaj atabilirsiniz.
+<board_title> daki <sender> size mesaj gÃ¶nderdi. <sender> kullanÄ±cÄ±sÄ±na bu maile cevap vererek mesaj gÃ¶nderebilirsiniz.
 
-Mesaj aşağıdaki gibi okunur:
+Mesaj aÅŸaÄŸÄ±daki gibi okunur:
 -----------------------------------------------------------------------
 
 <mail_message>
 
 -----------------------------------------------------------------------
 
---
+---
 <board_mailer> Mesaj Kutusu
