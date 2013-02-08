@@ -1,11 +1,11 @@
-Konus: Başlık Cevabı: '<topic_subject>'
+Subject: BaÅŸlÄ±k CevabÄ±: '<topic_subject>'
 
-<replier> kullanıcısı '<topic_subject>' konu başlığınıza cevap yazdı.Daha fazla yanıt olabilir,fakat bu bildiri forumu tekrar ziyaret edene kadar yanıtlayabileceğiniz tek bildiridir.
+<replier> kullanÄ±cÄ±sÄ± '<topic_subject>' konu baÅŸlÄ±ÄŸÄ±nÄ±za cevap yazdÄ±. Daha fazla yanÄ±t olabilir fakat bu bildiri forumu tekrar ziyaret edene kadar yanÄ±tlayabileceÄŸiniz tek bildiridir.
 
-Gönderi konumlandı: <post_url>
+GÃ¶nderi adresi: <post_url>
 
  <unsubscribe_url> giderek iptal edebilirsiniz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

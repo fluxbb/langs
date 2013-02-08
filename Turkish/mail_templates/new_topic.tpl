@@ -1,11 +1,11 @@
-Konu:Forum/'da yeni konu başlığı '<forum_name>'
+Subject: Forum/'da yeni konu baÅŸlÄ±ÄŸÄ± '<forum_name>'
 
-<poster> kullanıcısı <forum_name>' forumunda yeni bir başlık açtı:'<topic_subject>' ',.
+<poster> kullanÄ±cÄ±sÄ± <forum_name>' forumunda yeni bir baÅŸlÄ±k aÃ§tÄ±: '<topic_subject>' ',.
 
-Gönderi konumlandı: <topic_url>
+GÃ¶nderi adresi: <topic_url>
 
-<unsubscribe_url>  giderek iptal edebilirsiniz.
+<unsubscribe_url> giderek iptal edebilirsiniz.
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)

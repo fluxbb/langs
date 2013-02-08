@@ -1,9 +1,9 @@
-Konu: Yasaklı e-mail adresi saptandı
+Subject: YasaklÄ± e-mail adresi saptandÄ±
 
- '<username>' kullanıcısı yasaklı bir mail adresi ile kayıt oldu: <email>
+ '<username>' kullanÄ±cÄ±sÄ± yasaklÄ± bir mail adresi ile kayÄ±t oldu: <email>
 
-Kullanıcı Profili: <profile_url>
+KullanÄ±cÄ± Profili: <profile_url>
 
---
+---
 <board_mailer> Mesaj Kutusu
 (Bu mesaja cevap vermeyiniz)
