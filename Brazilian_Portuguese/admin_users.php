@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-users.php
+// Language definitions used in admin_users.php
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Você digitou um valor não-numérico em uma coluna que só aceita números.',

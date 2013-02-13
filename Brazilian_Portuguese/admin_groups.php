@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'Você deve fornecer um título de grupo.',
@@ -40,7 +40,7 @@ $lang_admin_groups = array(
 'User title label'				=>	'Título do usuário',
 'User title help'				=>	'A classe que usuários deste grupo tenham obtido. Deixe em branco para usar o título padrão ("%s").',
 'Promote users label'			=>  'Promover usuários',
-'Promote users help'			=>  'Você pode promover usuários para um novo grupo automaticamente caso eles atinjam um certo número de mensagens publicadas. Selecione "%s" para desabilitar. Por razões de segurança, você não tem permissão de selecionar um grupo administrativo aqui. Também leve em consideração que as alterações de grupo para os usuários afetados por esta configuração podem entrar em vigor apenas após eles enviarem uma nova mensagem.',
+'Promote users help'			=>  'Você pode promover usuários para um novo grupo automaticamente caso eles atinjam um certo número de mensagens publicadas. Selecione "%s" para desabilitar. Por razões de segurança, você não tem permissão de selecionar um grupo administrativo aqui. Também leve em consideração que as alterações de grupo para os usuários afetados por esta configuração podem entrar em vigor apenas após eles enviarem uma nova mensagem. Note que a quantia de mensagens registrada aqui é a quantia total de mensagens de um usuário, e não a quantia de mensagens publicadas como um membro deste grupo.',
 'Disable promotion'				=>  'Desabilitar promoção',
 'Mod privileges label'			=>	'Dar privilégios de moderação aos usuários',
 'Mod privileges help'			=>	'Para que um usuário deste grupo possa ter habilidades de moderação, ele deve ser designado como moderador de um ou mais fóruns. Isto é feito através da página de administração de usuário do perfil do usuário.',

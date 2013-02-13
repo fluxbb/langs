@@ -6,7 +6,7 @@ $lang_search = array(
 // The search form
 'User search'						=>	'Pesquisa do usuário',
 'No search permission'				=>	'Você não possui permissão para usar a função de pesquisa.',
-'Search flood'						=>	'Você deve esperar ao menos %s segundos antes de fazer outra pesquisa. Por favor, espere um pouco e tente novamente.',
+'Search flood'						=>	'Você deve esperar ao menos %s segundos antes de fazer outra pesquisa. Por favor, espere %s segundos e tente novamente.',
 'Search'							=>	'Pesquisa',
 'Search criteria legend'			=>	'Digite seu termo de pesquisa',
 'Search info'						=>	'Para pesquisar por uma palavra-chave, digite um ou mais termos de pesquisa. Separe os termos com espaços. Use AND (e), OR (ou) e NOT (não) para refinar sua pesquisa. Para pesquisar por autor digite o nome de usuário autor das mensagens que deseja pesquisar. Use o caractere curinga * para combinações parciais.',

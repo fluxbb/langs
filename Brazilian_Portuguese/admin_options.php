@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'HTTP_REFERER ruim. Se você moveu este fórum para um novo servidor ou alterou o domínio, você precisa atualizar a URL Base manualmente no banco de dados (procure por o_base_url na tabela config) e então limpe o cache excluindo todos os arquivos .php na pasta /cache.',
