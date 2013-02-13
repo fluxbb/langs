@@ -1,6 +1,6 @@
 <?php
 
-// Sprachdefinitionen, die in admin-forums.php verwendet werden
+// Sprachdefinitionen, die in admin_forums.php verwendet werden
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'Forum hinzugefügt. Leite weiter …',

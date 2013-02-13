@@ -17,7 +17,6 @@ $lang_admin_common = array(
 'Options'				=>	'Opzioni',
 'Permissions'			=>	'Permessi',
 'Censoring'				=>	'Oscuramenti',
-'Ranks'					=>	'Ranghi',
 'Bans'					=>	'Interdizioni',
 'Prune'					=>	'Pulizia',
 'Maintenance'			=>	'Manutenzione',

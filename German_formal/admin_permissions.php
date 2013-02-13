@@ -1,6 +1,6 @@
 <?php
 
-// Sprachdefinitionen, die in admin-permissions.php verwendet werden
+// Sprachdefinitionen, die in admin_permissions.php verwendet werden
 $lang_admin_permissions = array(
 
 'Perms updated redirect'	=>	'Berechtigungen aktualisiert. Leite weiter …',

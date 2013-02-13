@@ -21,6 +21,6 @@ $lang_login = array(
 
 // Forget password mail stuff
 'Forget mail'				=>	'Wiadomość e-mail z instrukcjami do zmiany hasła została wysłana na podany wcześniej adres. Jeśli w ciągu 48h od zgłoszenia nie ma jej w Twojej skrzynce pocztowej, skontaktuj się z Administratorem forum - ',
-'Email flood'				=>	'W ciągu ostatniej godziny zwróciłeś się do nas z prośbą o nowe hasło dla Twojego konta. Odczekaj pewien czas, zanim ponownie będziesz chciał otrzymać nowe hasło.',
+'Email flood'				=>	'W ciągu ostatniej godziny zwróciłeś się do nas z prośbą o nowe hasło dla Twojego konta. Odczekaj jeszcze %s minut, zanim ponownie będziesz chciał otrzymać nowe hasło.',
 
 );

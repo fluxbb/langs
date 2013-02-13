@@ -17,7 +17,9 @@ $lang_common = array(
 'No permission'						=>	'Sie haben keine Berechtigung, auf diese Seite zuzugreifen.',
 'Bad referrer'						=>	'Ungültiger HTTP_REFERER. Sie wurden von einer ungültigen Quelle auf diese Seite weitergeleitet. Bitte gehen Sie zurück und versuchen Sie es noch einmal. Wenn dieses Problem weiterhin besteht, kontrollieren Sie bitte die \'Base URL\'-Variable unter Administration / Optionen und stellen Sie sicher, dass Sie dieses Forum tatsächlich über die eingestellte URL aufrufen. Weitere Informationen über den Referrer-Check können Sie der FluxBB-Dokumentation entnehmen.',
 'No cookie'							=>	'Sie scheinen sich erfolgreich angemeldet zu haben, es konnte jedoch kein Cookie gesetzt werden. Bitte überprüfen Sie die Einstellungen Ihres Browsers und aktivieren Sie (wenn möglich) die Verwendung von Cookies für diese Webseite.',
-'Pun include error'					=>	'Das benutzerdefinierte Include %s im Template %s konnte nicht verarbeitet werden. Die zu einzubindende Datei konnte weder im Template-Verzeichnis noch im User-Include-Verzeichnis gefunden werden.',
+'Pun include extension'            =>  'User-Include %s von Template %s konnte nicht verarbeitet werden: "%s" Dateien sind nicht erlaubt.',
+'Pun include directory'        =>  'User-Include %s von Template %s konnte nicht verarbeitet werden: Verzeichnis-Wechsel sind nicht erlaubt.',
+'Pun include error'					=>	'Das benutzerdefinierte Include %s im Template %s konnte nicht verarbeitet werden. Die einzubindende Datei konnte weder im Template-Verzeichnis noch im User-Include-Verzeichnis gefunden werden.',
 
 // Verschiedenes
 'Announcement'						=>	'Ankündigung',
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'Seiten:',
 'Page'								=>	'Seite %s',
 'BBCode'							=>	'BBCode:', // Das sollten Sie möglichst nicht ändern
+'url tag'  						=>	'[url] Tag:',
 'img tag'							=>	'[img] Tag:',
 'Smilies'							=>	'Smilies:',
 'and'								=>	'und',
@@ -85,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] wurde in sich selbst geöffnet; das ist nicht erlaubt',
 'BBCode error no closing tag'		=>	'[%1$s] wurde ohne den schließenden Tag [/%1$s] gefunden',
 'BBCode error empty attribute'		=>	'Der [%s]-Tag wurde ohne die notwendigen Parameter verwendet',
+'BBCode error tag not allowed'  	=>	'Sie dürfen [%s]-Tags nicht verwenden',
+'BBCode error tag url not allowed'	=>	'Sie dürfen Links nicht verwenden',
 'BBCode code problem'				=>	'Es gibt ein Problem innerhalb des [code]-Tags',
 'BBCode list size error'			=>	'Ihre Liste ist für eine Verarbeitung zu lang, bitte kürzen Sie die Liste!',
 

@@ -1,0 +1,40 @@
+<?php
+
+// Language definitions used in admin_maintenance.php
+$lang_admin_maintenance = array(
+
+'Maintenance head'				=>	'포럼 점검',
+'Rebuild index subhead'			=>	'찾기 색인 다시 만들기',
+'Rebuild index info'			=>	'데이터베이스에 손수 더했거나 고첬거나 없앴던 글이 있거나 찾기에 문제가 있다면 찾기 색인을 다시 만들어야 한다. 최고 성능을 위해 다시 만드는 동안 포럼을 %s에 두어야 한다. <strong>찾기 색인을 다시 만드는 것은 시간이 오래걸리고 다시 만드는 동안 서버의 부하가 올라갈 것이다.</strong>',
+'Posts per cycle label'			=>	'주기 당 글 수',
+'Posts per cycle help'			=>	'한쪽에 처리할 글 수. 즉, 300을 넣으면 300 개의 글이 처리된 뒤에 쪽을 새로이 만든다. 이것은 다시 만드는 동안 스크립트가 중단되는 것을 막기위해서 이다.',
+'Starting post label'			=>	'시작하는 글의 ID',
+'Starting post help'			=>	'시작할 글의 ID. 기본값은 데이터베이스에서 처음 쓸 수 있는 IP이다. 보통은 이것을 바꾸지 않는다.',
+'Empty index label'				=>	'색인 비우기',
+'Empty index help'				=>	'찾기 색인을 다시 만들기에 앞서서 색인을 비워주려면 이것을 골라라 (아래를 보아라).',
+'Rebuild completed info'		=>	'처리가 끝나면 다시 이 쪽으로 돌아올 것이다. 다시 만드는 동안 너의 브라우저에서 JavaScript를 켜는 것을 추천한다 (주기가 끝날 때 자동으로 다시돌리기 위해서). 다시 만들기를 중단시키면 마지막 처리한 글의 ID 기록을 만들고 이어서 할 때 "시작하는 글의 ID"에 그 ID+1 을 넣는다 ("색인 비우기"를 고르지 않아야 한다).',
+'Rebuild index'					=>	'색인 다시 만들기',
+'Rebuilding search index'		=>	'찾기 색인을 다시 만들고 있다',
+'Rebuilding index info'			=>	'색인을 다시 만들고 있다. 잠깐 쉬기에 좋은 때이다 ^^;',
+'Processing post'				=>	'글 <strong>%s</strong>를 처리하고 있다 …',
+'Click here'					=>	'여기를 눌러라',
+'Javascript redirect failed'	=>	'JavaScript redirect 이 실패했다. 이어가려면 %s …',
+'Posts must be integer message'	=>	'주기 당 글 수가 양수값이어야 한다.',
+'Days must be integer message'	=>	'처내기 날 수가 양수값이어야 한다.',
+'No old topics message'			=>	'%s 일이 지난 글타래가 없다. "지난 날 수"를 줄이고 다시 해보아라.',
+'Posts pruned redirect'			=>	'글을 처냈다. Redirecting …',
+'Prune head'					=>	'처내기',
+'Prune subhead'					=>	'오래된 글 처내기',
+'Days old label'				=>	'지난 날 수',
+'Days old help'					=>	'처낼 글타래의 "지난" 날 수. 즉. 30을 넣으면 30 일이 안 된 글이 없는 모든 글타래는 지워질 것이다.',
+'Prune sticky label'			=>	'붙임 글타래 처내기',
+'Prune sticky help'				=>	'켠다면 붙임 글타래도 지워질 것이다.',
+'Prune from label'				=>	'처내기할 포럼',
+'All forums'					=>	'모든 포럼',
+'Prune from help'				=>	'글을 처내기할 포럼.',
+'Prune info'					=>	'조심해서 이 기능을 써라. <strong>처낸 글은 결코 복구할 수 없다.</strong> 최고 성능을 위해서는 처내는 동안 포럼을 %s로 두어야 한다.',
+'Confirm prune subhead'			=>	'글 처내기 확인하기',
+'Confirm prune info'			=>	'%2$s (%3$s 글타래)에서 %1$s 일보다 오래된 모든 글타래를 정말 지울거야?',
+'Confirm prune warn'			=>	'경고! 처낸 글은 완전히 지워진다.',
+
+);

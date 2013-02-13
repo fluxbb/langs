@@ -17,13 +17,15 @@ $lang_common = array(
 'No permission'						=>	'Nie posiadasz uprawnień dostępu do tej strony.',
 'Bad referrer'						=>	'Zły HTTP_REFERER. Próbowałeś uzyskać dostęp do tej strony z nieznanego źródła. Jeżeli problem będzie się powtarzał, sprawdź czy poprawnie wpisano adres w polu "Adres URL" w Administracja/Opcje. Więcej infomrmacji o systemie i problemach zawartych jest w dokumentacji FluxBB.',
 'No cookie'							=>	'Wygląda na to, że zostałeś zalogowany poprawnie, jednak ciasteczka nie zostały zapisane. Sprzwdź ustawienia oraz włącz obsługę ciasteczek w swojej przeglądarce dla tej strony.',
-'Pun include error'					=>	'Nie można przetworzyć %s z szablonu %s. Nie znaleziono pliku w %s.',
+'Pun include extension'             =>  'Nie można przetworzyć %s z szablonu %s. Pliki "%s" nie są dozwolone.',
+'Pun include directory'   			=>  'Nie można przetworzyć %s z szablonu %s. Przeglądanie katalogu nie jest dozwolone.',
+'Pun include error'                 =>  'Nie można przetworzyć %s z szablonu %s. Nie znaleziono takiego pliku ani w katalogu /template, ani w katalogu /include.',
 
 // Miscellaneous
 'Announcement'						=>	'Ogłoszenie',
 'Options'							=>	'Opcje',
 'Submit'							=>	'Wyślij', // "Name" of submit buttons
-'Ban message'						=>	'Twoje konto zostało zbanowane na tym forum.',
+'Ban message'						=>	'Twoje konto zostało zbanowane.',
 'Ban message 2'						=>	'Data wygaśnięcia bana: ',
 'Ban message 3'						=>	'<br \>Administrator, bądź moderator, zostawił Tobie następującą wiadomość:',
 'Ban message 4'						=>	'Wszelkie zapytania do Administratora proszę kierować na -',
@@ -41,7 +43,7 @@ $lang_common = array(
 'Required'							=>	'(Wymagane)',
 'required field'					=>	'jest wymaganym polem do wypełnienia!', // For javascript form validation
 'Last post'							=>	'Ostatni post',
-'by'								=>	'przez', // As in last post by someuser
+'by'								=>	'przez', // As in last post by some user
 'New posts'							=>	'Nowe posty', // The link that leads to the first new post
 'New posts info'					=>	'Przejdź do pierwszego nowego posta w tym wątku.', // The popup text for new posts links
 'Username'							=>	'Nazwa użytkownika',
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'Strony:',
 'Page'								=>	'Strona %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'Tag [url]:',
 'img tag'							=>	'Tag [img]:',
 'Smilies'							=>	'Emoty:',
 'and'								=>	'i',
@@ -72,7 +75,7 @@ $lang_common = array(
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
-'Title'								=>	'Ranga/Tytuł',
+'Title'								=>	'Tytuł',
 'Member'							=>	'Użytkownik', // Default title
 'Moderator'							=>	'Moderator',
 'Administrator'						=>	'Administrator',
@@ -85,12 +88,14 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'Tag [%s] został otwarty wewnątrz siebie, nie jest to dozwolone.',
 'BBCode error no closing tag'		=>	'[%1$s] - brakuje zamknięcia tagu ([/%1$s])',
 'BBCode error empty attribute'		=>	'Brakuje odpowiedniego atrybutu dla tagu [%s] ',
+'BBCode error tag not allowed'		=>	'Nie posiadasz uprawnień do używania tagów [%s].',
+'BBCode error tag url not allowed'	=>	'Nie posiadasz uprawnień do dodawania linków w postach.',
 'BBCode code problem'				=>	'Wystąpił problem z tagami [code]',
 'BBCode list size error'			=>	'Twoja lista jest zbyt długa do przetworzenia, skróć ją!',
 
 // Stuff for the navigator (top of every page)
-'Index'								=>	'Strona główna',
-'User list'							=>	'Lista użytkowników',
+'Index'								=>	'Forum',
+'User list'							=>	'Użytkownicy',
 'Rules'								=>	'Regulamin',
 'Search'							=>	'Szukaj',
 'Register'							=>	'Rejestracja',

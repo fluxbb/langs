@@ -26,8 +26,7 @@ $lang_post = array(
 'Subscribe'			=>	'Dieses Thema abonnieren.',
 'Stay subscribed'	=>	'Dieses Thema auf abonniert belassen',
 'Topic review'		=>	'Themen-Übersicht (Neuester Beitrag zuerst)',
-'Flood start'		=>	'Es müssen mindestens',
-'flood end'			=>	'Sekunden zwischen zwei Beiträgen vergangen sein. Bitte warten Sie etwas und versuchen Sie es dann erneut.',
+'Flood start'       =>  'Es müssen mindestens %s Sekunden zwischen zwei Beiträgen vergangen sein. Bitte warten Sie %s Sekunden und versuchen Sie es dann erneut.',
 'Preview'			=>	'Vorschau', // Beschriftung des Absende-Button für die Nachrichtenvorschau
 
 // Beitrag bearbeiten

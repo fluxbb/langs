@@ -25,8 +25,15 @@ $lang_help = array(
 
 'Links and images'		=>	'Enlaces e imagenes',
 'Links info'			=>	'Puede crear vínculos a otros documentos o direcciones de correo electrónico con las siguientes etiquetas:',
+'This help page'		=>	'Esta página de ayuda',
 'My email address'		=>	'Mi dirección de correo electronico',
 'Images info'			=>	'Si desea mostrar una imagen que puede utilizar la etiqueta img. El texto que figura después del signo "=" en la etiqueta de apertura se utiliza para el atributo "alt" y debe incluirse siempre que sea posible.',
+'FluxBB bbcode test'	=>	'FluxBB bbcode test',
+
+'Test topic'			=>	'Tema de prueba',
+'Test post'				=>	'Mensaje de prueba',
+'Test forum'			=>	'Foro de prueba',
+'Test user'				=>	'Usuario de prueba',
 
 'Quotes'				=>	'Citar',
 'Quotes info'			=>	'Si quiere citar a alguien, debe usar la etiqueta quote.',

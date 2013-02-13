@@ -6,10 +6,10 @@ $lang_search = array(
 // Das Suchformular
 'User search'						=>	'Mitgliedersuche',
 'No search permission'				=>	'Du hast keine Berechtigung, die Suchfunktion zu nutzen.',
-'Search flood'						=>	'Zwischen 2 Suchvorgängen müssen mindestens %s Sekunden vergehen. Bitte warte etwas und versuche es dann noch einmal.',
+'Search flood'						=>	'Zwischen 2 Suchvorgängen müssen mindestens %s Sekunden vergehen. Bitte warte %s Sekunden und versuche es dann noch einmal.',
 'Search'							=>	'Suche',
 'Search criteria legend'			=>	'Gib deine Suchkriterien ein',
-'Search info'						=>	'<b>Einfache Suche:</b> Trenne deine Suchbegriffe mit Leerzeichen voneinander.<br><br><b>Erweiterte Suche:</b> Benutze AND, OR und NOT in Verbindung mit deinen Suchbegriffen, um detaillierter zu suchen.<br>Du kannst Sternchen (*) als Platzhalter für die Suche von Teilbegriffen verwenden. (eine Suche nach *ux* findet z.B. auch FluxBB etc.)',
+'Search info'						=>	'<strong>Einfache Suche:</strong> Trenne deine Suchbegriffe mit Leerzeichen voneinander.<br /><br /><strong>Erweiterte Suche:</strong> Benutze AND, OR und NOT in Verbindung mit deinen Suchbegriffen, um detaillierter zu suchen.<br />Du kannst Sternchen (*) als Platzhalter für die Suche von Teilbegriffen verwenden. (eine Suche nach *ux* findet z.B. auch FluxBB etc.)',
 'Keyword search'					=>	'Schlüsselwortsuche',
 'Author search'						=>	'Autor suchen',
 'Search in legend'					=>	'Wähle, wo gesucht werden soll',

@@ -1,0 +1,17 @@
+Norsk oversettelse av FluxBB, version 1.5.2
+
+I oversettelsen er begrepet "topic" oversatt til
+"tråd", som synes å være et vanlig brukt begrep i 
+forum-sammenhenger. Dersom du istedet ønsker å bruke 
+"emne" eller "tema" som oversettelse (som språklig 
+sett kan være bedre i noen sammenhenger),må du selv 
+foreta endringer i de ulike språkfilene (inkludert
+e-post-templatene). Dette gjelder også
+andre justeringer av teksten du måtte ønske å foreta.
+
+Den enkleste måten å foreta endringer på er å benytte en 
+tekst-editor med søk-funksjon og deretter justere
+teksten manuelt i den aktuelle file.
+
+NB! Dersom du foretar endringer i språkfilene må du sørge
+for at filene lagres i UTF-8 format.

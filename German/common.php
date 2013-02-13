@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'						=>	'Du hast keine Berechtigung für den Zugriff auf diese Seite.',
 'Bad referrer'						=>	'Ungültiger HTTP_REFERER. Du wurdest von einer ungültigen Quelle auf diese Seite weitergeleitet. Bitte gehe zurück und versuche es noch einmal. Wenn dieses Problem weiterhin besteht, kontrolliere bitte die \'Base URL\'-Variable unter Administration / Optionen und stelle sicher, dass du dieses Forum tatsächlich über die eingestellte URL ansteuerst. Weitere Informationen über den Referrer-Check kannst du der FluxBB-Dokumentation entnehmen.',
 'No cookie'							=>	'Du scheinst dich erfolgreich angemeldet zu haben, es konnte jedoch kein Cookie gesetzt werden. Bitte überprüfe die Einstellungen deines Browsers und aktiviere die Verwendung von Cookies für diese Webseite (wenn möglich).',
+'Pun include extension'  			=>	'Konnte User-Include %s von Template %s nicht verarbeiten. "%s" Dateien sind nicht erlaubt',
+'Pun include directory'				=>	'Konnte User-Include %s von Template %s nicht verarbeiten. Verzeichnis-Wechsel sind nicht erlaubt',
 'Pun include error'					=>	'Das benutzerdefinierte Include %s im Template %s konnte nicht verarbeitet werden. Die zu inkludierende Datei konnte weder im Template-Verzeichnis noch im User-Include-Verzeichnis gefunden werden.',
 
 // Verschiedenes
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'Seiten:',
 'Page'								=>	'Seite %s',
 'BBCode'							=>	'BBCode:', // Das sollten Sie möglichst nicht ändern
+'url tag'							=>	'[url] Tag:',
 'img tag'							=>	'[img] Tag:',
 'Smilies'							=>	'Smilies:',
 'and'								=>	'und',
@@ -85,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] wurde innerhalb sich selbst geöffnet, dies ist nicht erlaubt',
 'BBCode error no closing tag'		=>	'[%1$s] wurde ohne den schließenden Tag [/%1$s] gefunden',
 'BBCode error empty attribute'		=>	'Der [%s]-Tag wurde ohne die erforderlichen Parameter verwendet',
+'BBCode error tag not allowed'		=>	'Du darfst keine [%s] Tags verwenden',
+'BBCode error tag url not allowed'	=>	'Du darfst keine Links absenden',
 'BBCode code problem'				=>	'Es gibt ein Problem innerhalb deines [code]-Tags',
 'BBCode list size error'			=>	'Deine Liste ist für eine Verarbeitung zu lang, bitte kürze die Liste!',
 

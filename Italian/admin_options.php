@@ -125,8 +125,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'Abilita l\'oscuramento di specifici testi o parole nella pubblicazione. Si veda %s per ulteriori informazioni.',
 'Signatures label'					=>	'Firme',
 'Signatures help'					=>	'Permette agli utenti di allegare una firma ai proprio messaggi.',
-'User ranks label'					=>	'Rango utenti',
-'User ranks help'					=>	'Abilita un sistema di attribuzione rango a seconda del numero di messaggi pubblicati. Si veda %s per ulteriori informazioni.',
 'User has posted label'				=>	'Utenti attivi di recente',
 'User has posted help'				=>	'Mostra un piccolo segno grafico accanto alla discussione quando l\'utente attualmente connesso vi ha pubblicato un messaggio di recente. Disattivare in caso di alto carico del server.',
 'Topic views label'					=>	'Visulizzazioni',
@@ -165,7 +163,7 @@ $lang_admin_options = array(
 // Sezione "immagine personale"
 'Avatars subhead'					=>	'Avatar',
 'Use avatars label'					=>	'Uso avatar',
-'Use avatars help'					=>	'Permette agli utenti di caricare un\'immagine personale (avatar) che sar&agrave; mostrata sotto il proprio rango o titolo.',
+'Use avatars help'					=>	'Permette agli utenti di caricare un\'immagine personale (avatar) che sar&agrave; mostrata sotto il proprio titolo.',
 'Upload directory label'			=>	'Cartella di caricamento',
 'Upload directory help'				=>	'La cartella di caricamento per gli avatar (con indirizzo relativo a quella madre di FluxBB). &Egrave; necessario abilitare i permessi di scrittura (CHMOD).',
 'Max width label'					=>	'Larghezza massima',

@@ -1,12 +1,11 @@
-*VERSION PARA FLUXBB 1.4.2
-*Traducido al español por Javier Rivero (jarive) de FLUXBB HISPANO en http://www.fluxbbhispano.co.cc
+*VERSION PARA FLUXBB 1.5.2
+*Traducido al español por Javier Rivero (jarive) de FLUXBB HISPANO en http://www.fluxbbhispano.tk
 
 No nos hacemos responsables del mal funcionamiento de este paquete aunque haya sido debidamente comprobado. Se entrega tal cual es y sin garantía de ningún tipo. Aceptas con el uso del mismo dichas condiciones.
 
 Si encontráis algún error o queréis contribuir con algo acudid a:
 
-http://www.fluxbbhispano.co.cc/viewtopic.php?id=5  (Tema de traducciones en el Foro de FluxBB Hispano)
-http://www.fluxbbhispano.co.cc (soporte en español para FLUXBB)
+http://www.fluxbbhispano.tk (soporte en español para FLUXBB)
 
 Esperamos vuestros comentarios, sugerencias, contribuciones, etc.
 

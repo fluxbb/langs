@@ -21,6 +21,6 @@ $lang_login = array(
 
 // Forget password mail stuff
 'Forget mail'				=>	'Un correo electrónico ha sido enviado a la dirección especificada con instrucciones sobre cómo cambiar tu contraseña. Si no llega usted puede comunicarse con el administrador del foro en',
-'Email flood'				=>	'Esta cuenta ya ha solicitado un restablecimiento de la contraseña en la última hora. Por favor, espere un tiempo antes de solicitar una nueva contraseña de nuevo.'
+'Email flood'				=>	'Esta cuenta ya ha solicitado un restablecimiento de la contraseña en la última hora. Por favor, espere %s minutos antes de solicitar una nueva contraseña de nuevo.'
 
 );

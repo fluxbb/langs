@@ -6,7 +6,7 @@ $lang_search = array(
 // The search form
 'User search'						=>	'Wyszukiwarka użytkownika',
 'No search permission'				=>	'Nie posiadasz uprawnień do korzystania z wyszukiwarki.',
-'Search flood'						=>	'Musisz odczekać co najmniej %s sekund pomiędzy wyszukiwaniami. Odczekaj ten czas i spróbuj ponownie.',
+'Search flood'						=>	'Musisz odczekać co najmniej %s sekund pomiędzy wyszukiwaniami. Odczekaj jeszcze %s sekund, a następnie spróbuj ponownie.',
 'Search'							=>	'Wyszukiwarka',
 'Search criteria legend'			=>	'Wprowadź kryteria wyszukiwania',
 'Search info'						=>	'Przy wyszukiwaniu za pomocą słów kluczowych, wprowadź jedno lub więcej słów, oddzielając je przecinkami, które chcesz znaleźć. Możesz użyć AND (i), OR (lub) i NOT (nie), aby szczegółowo zdefiniować wyszukiwanie. Przy szukaniu autora wprowadź nazwę użytkownika, którego posty chcesz znaleźć. Znak (*) zastępuje dowolny ciąg znaków.',
@@ -61,4 +61,5 @@ $lang_search = array(
 'No unanswered'						=>	'Na forum nie ma żadnych wątków bez odpowiedzi.',
 'Go to post'						=>	'Przejdź do postów',
 'Go to topic'						=>	'Przejdź do wątku',
+
 );

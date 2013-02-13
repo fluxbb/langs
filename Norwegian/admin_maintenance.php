@@ -1,0 +1,40 @@
+<?php
+
+// Language definitions used in admin_maintenance.php
+$lang_admin_maintenance = array(
+
+'Maintenance head'				=>	'Vedlikehold av tavla',
+'Rebuild index subhead'			=>	'Gjenoppbygg søkeindeks',
+'Rebuild index info'				=>	'Hvis du har lagt til, redigert eller fjernet innlegg manuelt i databasen, eller hvis du har problemer med søk, bør du bygge opp søkeindeksen på nytt. For best ytelse bør du sette tavla i %s under gjenoppbygging. <strong> Gjenoppbygging kan ta lang tid og vil øke belastningen på serveren mens dette pågår! </strong>',
+'Posts per cycle label'			=>	'Innlegg per syklus',
+'Posts per cycle help'			=>	'Antall innlegg som skal prosesseres per side. Dersom du setter verdien til for eks. 300, vil i alt tre hundre innlegg bli behandlet per syklus. Siden vil deretter bli oppdatert (mellom hver suklus) for å hindre at skriptet avbrytes (timeout) under gjenoppbyggingen.',
+'Starting post label'			=>	'Innleggs-ID ved start',
+'Starting post help'				=>	'Innleggs-ID som gjenoppbyggingen skal starte fra. Standardverdien er den første tilgjengelige ID i databasen. Du vil normalt ikke ønske å endre dette.',
+'Empty index label'				=>	'Tom indeks',
+'Empty index help'				=>	'Kryss av dersom du ønsker at søkeindeksen skal være tom før gjenoppbygging (se nedenfor).',
+'Rebuild completed info'			=>	'Når prosessen er fullført vil du bli omdirigert til denne siden. Det anbefales sterkt at du har aktivert JavaScript i nettleseren din under gjenoppbygging (for automatisk omdirigering når en syklus er fullført). Hvis du blir tvunget til å avbryte gjenoppbyggingsprosessen, noterer du ID for siste behandlet innlegg og angi dette i "Starte innleggs-ID" når/hvis du ønsker å fortsette ("Tom indeks" må ikke være valgt).',
+'Rebuild index'					=>	'Gjenoppbygg indeks',
+'Rebuilding search index'		=>	'Gejoppbygger søkeindeks',
+'Rebuilding index info'			=>	'Gjenoppbygger søkeindeks. Dette er tid for kopp kaffe :-)',
+'Processing post'				=>	'Gjenoppbygger innlegg &lt;strong&gt;%s&lt;/strong&gt; …',
+'Click here'						=>	'Klikk her',
+'Javascript redirect failed'		=>	'JavaScript omdirigering ikke vellykket. %s for å fortsette …',
+'Posts must be integer message'	=>	'Antall innlegg per syklus å være et positivt heltall.',
+'Days must be integer message'	=>	'Antall dager til opprydding må være et positivt heltall.',
+'No old topics message'			=>	'Det er ingen tråder som er %s dager gamle. Vennligst reduser "Dager gamle" og prøv igjen.',
+'Posts pruned redirect'			=>	'Innlegg ryddet opp. Omdirigerer …',
+'Prune head'						=>	'Rydd opp',
+'Prune subhead'					=>	'Slett gamle innlegg',
+'Days old label'					=>	'Dager gamle',
+'Days old help'					=>	'Antall dager gammel en tråd må være for å bli gjenstand for opprydding (sletting). Dette påvirker kun tråder hvor samtlige innlegg er eldre enn valgte verdi. Tråder med innlegg som er yngre enn verdien som settes vil ikke bli slettet.',
+'Prune sticky label'				=>	'Rydd opp i prioriterte (merkede) tråder',
+'Prune sticky help'				=>	'Dersom aktivert, vil også prioriterte tråder bli ryddet opp i.',
+'Prune from label'				=>	'Rydd opp i forum',
+'All forums'						=>	'Alle forum',
+'Prune from help'				=>	'Forumet du ønsker å foreta opprydding i.',
+'Prune info'						=>	'Bruk denne funksjonen med forsiktighet. <strong>Innlegg som er ryddet opp i (fjernet) kan ikke gjenopprettes.</strong> For best ytelse bør du sette tavla i %s under opprydding.',
+'Confirm prune subhead'			=>	'Bekreft opprydding av innlegg',
+'Confirm prune info'				=>	'Er du sikker på at du vil foreta opprydding av alle emner eldre enn %s dager fra %s (%s emner).',
+'Confirm prune warn'				=>	'Advarsel! Opprydding sletter innlegg permanent.',
+
+);

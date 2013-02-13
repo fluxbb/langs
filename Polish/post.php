@@ -4,8 +4,8 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'					=>	'Wątek musi zawierać temat.',
-'No subject after censoring'    =>  'Wątek musi zawierać temat. Po zastosowaniu cenzury słów, temat wątku jest pusty.',
+'No subject'					=>	'Wątek musi posiadać temat.',
+'No subject after censoring'    =>  'Wątek musi posiadać temat, nie zawierający cenzurowanych słów.',
 'Too long subject'				=>	'Temat wątku nie może być dłuższy niż 70 znaków.',
 'No message'					=>	'Należy wprowadzić treść wiadomości.',
 'No message after censoring'    =>  'Należy wprowadzić treść wiadomości. Po zastosowaniu cenzury słów, treść wiadomości jest pusta.',
@@ -15,19 +15,18 @@ $lang_post = array(
 'Empty after strip'   		 	=>  'Wygląda na to, że post zawiera jedynie pusty tag BBCode. Mogło się tak stać, ponieważ osiągnięto maksymalny poziom zagnieżdżenia tagów quote.',
 
 // Posting
-'Post errors'					=>	'Błąd wysyłania wiadomości',
+'Post errors'					=>	'Błąd wysłania wiadomości',
 'Post errors info'				=>	'Zanim wyślesz posta, należy naprawić poniższe błędy:',
 'Post preview'					=>	'Podgląd posta',
-'Guest name'					=>	'Nick', // For guests (instead of Username)
+'Guest name'					=>	'Gość', // For guests (instead of Username)
 'Post redirect'					=>	'Post został wysłany. Przekierowywanie…',
 'Post a reply'					=>	'Odpowiedz',
 'Post new topic'				=>	'Nowy wątek',
 'Hide smilies'					=>	'Nie wyświetlaj emotów jako ikon w poście',
 'Subscribe'						=>	'Subskrybuj wątek',
 'Stay subscribed'				=>	'Aktualnie subskrybujesz ten wątek.',
-'Topic review'					=>	'Podgląd wątku (posty najnowsze pierwsze)',
-'Flood start'					=>	'Musisz odczekać co najmniej',
-'flood end'						=>	'sekund, zanim ponownie wyślesz posta. Odczekaj chwilę, a następnie spróbuj ponownie.',
+'Topic review'					=>	'Podgląd wątku (najnowsze posty pierwsze)',
+'Flood start'					=>	'Musisz odczekać co najmniej %s sekund, zanim ponownie wyślesz posta. Odczekaj jeszcze %s sekund, a następnie spróbuj ponownie.',
 'Preview'						=>	'Podgląd', // submit button to preview message
 
 // Edit post

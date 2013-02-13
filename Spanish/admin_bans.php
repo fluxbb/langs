@@ -3,18 +3,19 @@
 // Language definitions used in admin_bans.php
 $lang_admin_bans = array(
 
-'No user message'			=>	'Ningún usuario con ese nombre registrado. Si desea agregar una prohibición que no esté vinculada a un nombre de usuario especifico deje en blanco el nombre de usuario.',
-'No user ID message'		=>	'Ningún usuario registrado con esa ID.',
-'User is admin message'		=>	'El usuario %s es un administrador y no puede ser expulsado. Si quiere expulsar un administrador, primero lo debe degradar a moderador o usuario.',
-'Must enter message'		=>	'Usted debe de escribir un nombre de usuario, una dirección IP o una dirección de correo electrónico (al menos).',
-'Cannot ban guest message'	=>	'Un invitado no puede ser expulsado.',
+'No user message'			=>	'Ningún usuario por ese nombre de usuario registrado. Si desea agregar una expulsión no vinculada a un nombre de usuario específico sólo deje en blanco el nombre de usuario.',
+'No user ID message'		=>	'Ningún usuario por ese ID registrado.',
+'User is admin message'		=>	'El usuario %s es un administrador y no puede ser expulsado. Si desea expulsar a un administrador, primero debe disminuir el nivel de él/ella.',
+'User is mod message'		=>	'El usuario %s es un moderador y no puede ser expulsado. Si desea expulsar a un moderador, primero debe disminuir el nivel de él/ella.',
+'Must enter message'		=>	'Debe indicar un nombre de usuario, una dirección IP o una dirección de correo electrónico (por lo menos).',
+'Cannot ban guest message'	=>	'Los invitados no pueden ser expulsados.',
 'Invalid IP message'		=>	'Ha introducido una IP no valida.',
 'Invalid e-mail message'	=>	'La dirección de correo (ej. user@domain.com) o el dominio de la dirección (ej. domain.com) que ha introducido no es valido.',
 'Invalid date message'		=>	'Ha introducido una fecha de expiración no valida.',
 'Invalid date reasons'		=>	'El formato debe ser DD-MM-YYYY y la fecha debe ser al menos un dia futuro.',
-'Ban added redirect'		=>	'Agregada expulsión. Continuando …' ,
-'Ban edited redirect'		=>	'Editando expulsión. Continuando …',
-'Ban removed redirect'		=>	'Borrando expulsión. Continuando …',
+'Ban added redirect'		=>	'Agregada expulsión. Redireccionando …' ,
+'Ban edited redirect'		=>	'Editando expulsión. Redireccionando …',
+'Ban removed redirect'		=>	'Borrando expulsión. Redireccionando …',
 
 'New ban head'				=>	'Nuevo expulsado',
 'Add ban subhead'			=>	'Añadir expulsado',

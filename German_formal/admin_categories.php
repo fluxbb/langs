@@ -1,6 +1,6 @@
 <?php
 
-// Sprachdefinitionen, die in admin-categories.php verwendet werden
+// Sprachdefinitionen, die in admin_categories.php verwendet werden
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'Sie müssen einen Namen für diese Kategorie eingeben',

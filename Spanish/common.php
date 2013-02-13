@@ -3,23 +3,25 @@
 // Language definitions for frequently used strings
 $lang_common = array(
 
-// Text orientation and encoding
+// Orientación del texto y codificación
 'lang_direction'					=>	'ltr', // ltr (Left-To-Right) or rtl (Right-To-Left)
 'lang_identifier'					=>	'es',
 
-// Number formatting
-'lang_decimal_point'				=>	',',
-'lang_thousands_sep'				=>	'.',
+// Formato de números
+'lang_decimal_point'				=>	'.',
+'lang_thousands_sep'				=>	',',
 
-// Notices
+// Noticias
 'Bad request'						=>	'Solicitud incorrecta. El enlace que ha seguido es incorrecto o esta desactualizado.',
 'No view'							=>	'Usted no tiene permiso para ver estos foros.',
 'No permission'						=>	'Usted no tiene permiso para acceder a esta página.',
 'Bad referrer'						=>	'HTTP_REFERER inadecuado. Usted se refirió a esta página desde una fuente no autorizada. Si el problema persiste por favor asegúrese de que \'Base URL\' está bien configurada en Admin / Opciones y que está visitando el foro navegando a esa URL. Más información sobre el cheque referentes pueden ser encontrados en la documentación FluxBB.',
 'No cookie'							=>	'Usted parece haber entrado con éxito, sin embargo una cookie no se ha establecido. Por favor, compruebe su configuración y en su caso, habilite las cookies para este sitio web.',
-'Pun include error'					=>	'No se puede procesar lo que el usuario ha incluido %s desde plantilla %s. No hay tal archivo ni en el directorio de plantillas de usuario ni en el directorio de inclusión.',
+'Pun include extension'  			=>	'No se puede procesar lo que el usuario ha incluido %s desde plantilla %s. "%s" archivos no están permitidos',
+'Pun include directory'				=>	'No se puede procesar lo que el usuario ha incluido %s desde plantilla %s. Directorio transversal no está permitido',
+'Pun include error'					=>	'No se puede procesar lo que el usuario ha incluido %s desde plantilla %s. No hay tal archivo ni en el directorio de plantillas de usuario ni en el directorio de inclusión',
 
-// Miscellaneous
+// Miscelanea
 'Announcement'						=>	'Anuncio',
 'Options'							=>	'Opciones',
 'Submit'							=>	'Enviar', // "Name" of submit buttons
@@ -41,7 +43,7 @@ $lang_common = array(
 'Required'							=>	'(Requerido)',
 'required field'					=>	'es un campo requerido en este formulario.', // For javascript form validation
 'Last post'							=>	'Ultimo mensaje',
-'by'								=>	'por', // As in last post by someuser
+'by'								=>	'por', // As in last post by some user
 'New posts'							=>	'Nuevos mensajes', // The link that leads to the first new post
 'New posts info'					=>	'Ir al primer nuevo mensaje en este tema.', // The popup text for new posts links
 'Username'							=>	'Usuario',
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'Paginas:',
 'Page'								=>	'Pagina %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'[url] etiqueta:',
 'img tag'							=>	'[img] etiqueta:',
 'Smilies'							=>	'Emoticonos:',
 'and'								=>	'y',
@@ -71,7 +74,7 @@ $lang_common = array(
 'Next'								=>	'Siguiente',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
-// Title
+// Titulo
 'Title'								=>	'Título',
 'Member'							=>	'Miembro', // Default title
 'Moderator'							=>	'Moderador',
@@ -85,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] se abrio en su interior, esto no esta permitido',
 'BBCode error no closing tag'		=>	'[%1$s] se encontró sin un juego [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] la etiqueta tiene una sección vacia atribuida',
+'BBCode error tag not allowed'		=>	'No está permitido el uso de [%s] etiquetas',
+'BBCode error tag url not allowed'	=>	'No está permitido publicar enlaces',
 'BBCode code problem'				=>	'Esto es un problema con tus [code] etiquetas',
 'BBCode list size error'			=>	'La lista es demasiado larga para analizar, por favor, hagaló más pequeño!',
 
@@ -101,18 +106,21 @@ $lang_common = array(
 'Logged in as'						=>	'Conectado como',
 'Admin'								=>	'Administración',
 'Last visit'						=>	'Ultima visita: %s',
-'Show new posts'					=>	'Mostrar mensajes nuevos desde la última visita',
+'Topic searches'					=>	'Temas:',
+'New posts header'					=>	'Nuevo',
+'Active topics'						=>	'Activo',
+'Unanswered topics'					=>	'Sin respuesta',
+'Posted topics'						=>	'Publicado',
+'Show new posts'					=>	'Mostrar mensajes nuevos desde la última visita.',
+'Show active topics'				=>	'Mostrar temas con mensajes recientes.',
+'Show unanswered topics'			=>	'Mostrar temas sin respuestas.',
+'Show posted topics'				=>	'Mostrar temas en los que haya publicado.',
 'Mark all as read'					=>	'Marcar todos los temas como leidos',
 'Mark forum read'					=>	'Marcar este foro como leido',
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
 'Board footer'						=>	'Pie de página',
-'Search links'						=>	'Buscar enlaces',
-'Show recent posts'					=>	'Mostrar temas recientes',
-'Show unanswered posts'				=>	'Mostrar temas sin respuesta',
-'Show your posts'					=>	'Mostrar tus temas',
-'Show subscriptions'				=>	'Mostrar tus temas suscritos',
 'Jump to'							=>	'Saltar a',
 'Go'								=>	' Ir ', // Submit button in forum jump
 'Moderate topic'					=>	'Moderar tema',
@@ -133,24 +141,6 @@ $lang_common = array(
 'Query'								=>	'Consulta',
 'Total query time'					=>	'Tiempo total de consulta: %s',
 
-// Email related notifications
-'New user notification'				=>	'Alerta - Nuevo registrado',
-'New user message'					=>	'User \'%s\' registrado en el foro en %s',
-'Banned email notification'			=>	'Alerta - Correo de expulsado detectado',
-'Banned email register message'		=>	'Usuario \'%s\' registrado con correo de expulsado: %s',
-'Banned email change message'		=>	'Usuario \'%s\' cambio a correo de expulsado: %s',
-'Banned email post message'			=>	'Usuario \'%s\' publicó con correo de expulsado: %s',
-'Duplicate email notification'		=>	'Alerta - Detectado correo duplicado',
-'Duplicate email register message'	=>	'Usuario \'%s\' registrado con una dirección de correo electrónico que también pertenece a: %s',
-'Duplicate email change message'	=>	'Usuario \'%s\' cambiado a una dirección de correo electrónico que también pertenece a: %s',
-'Report notification'				=>	'Report(%d) - \'%s\'',
-'Report message 1'					=>	'Usuario \'%s\' ha reportado el siguiente mensaje: %s',
-'Report message 2'					=>	'Razón: %s',
-
-'User profile'						=>	'Perfil de usuario: %s',
-'Post URL'							=>	'Mensaje URL: %s',
-'Email signature'					=>	'Foro Remitente'."\n".'(No responda a este mensaje)',
-
 // For extern.php RSS feed
 'RSS description'					=>	'Los temas mas recientes en %s.',
 'RSS description topic'				=>	'Los mensajes mas recientes en %s.',
@@ -165,5 +155,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'Tienes nuevos reportes',
 'Maintenance mode enabled'			=>	'Modo mantenimiento esta activado!',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

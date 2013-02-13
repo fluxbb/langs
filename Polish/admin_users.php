@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-users.php
+// Language definitions used in admin_users.php
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Wprowadzono niepoprawny znak w kolumnie numerycznej.',
@@ -84,7 +84,7 @@ $lang_admin_users = array(
 'Results head'				=>	'Wyniki wyszukiwania',
 'Results username head'		=>	'Nazwa użytkownika',
 'Results e-mail head'		=>	'Adres e-mail',
-'Results title head'		=>	'Tytuł/Ranga',
+'Results title head'		=>	'Tytuł/Status',
 'Results posts head'		=>	'Liczba postów',
 'Results admin note head'	=>	'Notka administratora',
 'Results actions head'		=>	'Akcje',
