@@ -121,13 +121,13 @@ $lang_common = array(
 'Board footer'						=>	'Board footer',
 'Jump to'							=>	'پرش به',
 'Go'								=>	' برو ', // Submit button in forum jump
-'Moderate topic'					=>	'Moderate topic',
+'Moderate topic'					=>	'مدیریت مبحث',
 'Move topic'						=>	'انتقال مبحث',
 'Open topic'						=>	'باز کردن موضوع',
 'Close topic'						=>	'بستن مبحث',
 'Unstick topic'						=>	'Unstick topic',
 'Stick topic'						=>	'Stick topic',
-'Moderate forum'					=>	'Moderate forum',
+'Moderate forum'					=>	'مدیریت تالار',
 'Powered by'						=>	'قدرت یافته از %s',
 
 // Debug information
@@ -135,14 +135,14 @@ $lang_common = array(
 'Querytime'							=>	'Generated in %1$s seconds, %2$s queries executed',
 'Memory usage'						=>	'استفاده از حافظه: %1$s',
 'Peak usage'						=>	'(Peak: %1$s)',
-'Query times'						=>	'Time (s)',
+'Query times'						=>	'زمان (ثانیه)',
 'Query'								=>	'Query',
-'Total query time'					=>	'Total query time: %s',
+'Total query time'					=>	'کل زمان جستجو: %s',
 
 // For extern.php RSS feed
 'RSS description'					=>	'The most recent topics at %s.',
 'RSS description topic'				=>	'The most recent posts in %s.',
-'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
+'RSS reply'							=>	'پاسخ: ', // The topic subject will be appended to this string (to signify a reply)
 'RSS active topics feed'			=>	'RSS active topics feed',
 'Atom active topics feed'			=>	'Atom active topics feed',
 'RSS forum feed'					=>	'RSS forum feed',
@@ -151,7 +151,7 @@ $lang_common = array(
 'Atom topic feed'					=>	'Atom topic feed',
 
 // Admin related stuff in the header
-'New reports'						=>	'There are new reports',
+'New reports'						=>	'گزارش های جدیدی وجود دارند',
 'Maintenance mode enabled'			=>	'Maintenance mode is enabled!',
 
 // Units for file sizes
