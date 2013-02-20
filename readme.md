@@ -14,6 +14,7 @@
 *  Kurdish - [Chawg.org](http://www.chawg.org)
 *  Persian - [HRezaei](mailto:mr.hrezaei@gmail.com)
 *  Polish - [FluxBB.org.pl](http://fluxbb.org.pl)
+*  Portuguese - [Costa](https://fluxbb.org/forums/profile.php?id=58946)
 *  Romanian - [Kaeden](http://fluxbb.org/forums/profile.php?id=57813)
 *  Russian - [well-wisher](http://fluxbb.org.ru/forum/viewtopic.php?id=3403#p26685)
 *  Simplified Chinese - [ehtime](http://fluxbb.org/forums/profile.php?id=3031), [FluxbbChina](http://fluxbbchina.com)
