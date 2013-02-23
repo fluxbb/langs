@@ -23,6 +23,6 @@ $lang_login = array(
 
 // Mail per password dimenticata
 'Forget mail'				=>	'Un\'email &egrave; stata inviata all\'indirizzo indicato con le istruzioni necessarie. Qualora non arrivasse &egrave; possibile contattare l\'amministratore del forum ',
-'Email flood'				=>	'Questo utente ha richiesto una nuova password durante l\'ultima ora. Si prega di attendere e provare nuovamente pi&ugrave; tardi.'
+'Email flood'				=>	'Questo utente ha richiesto una nuova password durante l\'ultima ora. Si prega di attendere %s minuti e provare nuovamente pi&ugrave; tardi.'
 
 );

@@ -19,7 +19,9 @@ $lang_common = array(
 'No permission'						=>	'Non si dispone dei permessi per visualizzare questa pagina.',
 'Bad referrer'						=>	'HTTP_REFERER non valido. Si proviene da una fonte non autorizzata. Se il problema persiste controllare che il \'Base URL\' sia correttamente impostato in "Amministrazione -> Opzioni" e di non avere il Referer disattivato nel proprio browser. Ulteriori informazioni sono disponibili nella documentazione online di FluxBB.',
 'No cookie'							=>	'L\'accesso &egrave; avvenuto correttamente, tuttavia i cookie sembrano disattivati. Verificare le impostazioni del browser e abilitare i cookie per questo sito.',
-'Pun include error'					=>	'Impossibile includere %s dal template %s. Non esiste tale file n&eacute; nella cartella template, n&eacute; nella cartella include.',
+'Pun include extension'             =>  'Impossibile includere %s dal template %s. I file "%s" non sono permessi',
+'Pun include directory'             =>  'Impossibile includere %s dal template %s. L\'uso di directory trasversali (directory traversal) non &egrave; permesso',
+'Pun include error'					=>	'Impossibile includere %s dal template %s. Il file non esiste n&eacute; nella cartella template, n&eacute; nella cartella include.',
 
 // Varie
 'Announcement'						=>	'Annuncio',
@@ -43,7 +45,7 @@ $lang_common = array(
 'Required'							=>	'(Richiesto)',
 'required field'					=>	'è un campo richiesto.', // Per la validazione javascript
 'Last post'							=>	'Pi&ugrave; recente',
-'by'								=>	'di', // Usato per "ultimo messaggio di [...]
+'by'								=>	'di', // Usato per "ultimo messaggio di [...]"
 'New posts'							=>	'Nuovo messaggio', // Il link al primo nuovo messagggio
 'New posts info'					=>	'Al primo nuovo messaggio in questa discussione.', // Il testo popup per collegamenti a nuovi post
 'Username'							=>	'Nome utente',

@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin-forums.php
+// Definizioni di lingua usate in admin_forums.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_forums = array(

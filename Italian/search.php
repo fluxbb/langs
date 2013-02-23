@@ -8,7 +8,7 @@ $lang_search = array(
 // Modulo di ricerca
 'User search'                       =>	'Ricerca utente',
 'No search permission'              =>	'Non si dispone dei permessi necessari per effettuare la ricerca.',
-'Search flood'                      =>	'Almeno %s devono trascorrere tra ciascuna ricerca. Si prega di attendere e provare pi&ugrave; tardi, grazie.',
+'Search flood'                      =>	'Devono trascorrere almeno %s secondi fra ciascuna ricerca. Si prega di attendere e riprovare.',
 'Search'                            =>	'Cerca',
 'Search criteria legend'            =>	'Criteri di ricerca',
 'Search info'                       =>	'Inserire una o pi&ugrave; parole separandole con uno spazio. Per trovare i messaggi di uno specifico autore inserire il suo nome. Il carattere jolly * e gli operatori AND, OR e NOT sono accettati.',
@@ -16,7 +16,7 @@ $lang_search = array(
 'Author search'                     =>	'Autore',
 'Search in legend'                  =>	'Dove cercare',
 'Search in info'                    =>	'Scegliere il forum da ricercare e il livello di profondit&agrave; (titolo discussione, testo messaggio o entrambi).',
-'Search multiple forums info'       => 'Non selezionare alcun forum per cercare in tutti.',
+'Search multiple forums info'       =>  'Non selezionare alcun forum per cercare in tutti.',
 'Forum search'                      =>	'Forum',
 'All forums'                        =>	'Tutti i forum',
 'Search in'                         =>	'Cerca in',

@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin-categories.php
+// Definizioni di lingua usate in admin_categories.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_categories = array(

@@ -27,8 +27,7 @@ $lang_post = array(
 'Subscribe'			=>	'Avvertimi in caso di risposta!',
 'Stay subscribed'	=>	'Resta iscritto alla discussione',
 'Topic review'		=>	'Revisione discussione (dal messaggio pi&ugrave; recente)',
-'Flood start'		=>	'Almeno',
-'flood end'			=>	'secondi devono trascorrere tra ciascun invio. Si prega di attendere e riprovare pi&ugrave; tardi.',
+'Flood start'		=>	'Devono trascorrere almeno %s secondi fra la pubblicazione di ciascun messaggio. Si prega di attendere e riprovare.',
 'Preview'			=>	'Anteprima', // pulsante di anteprima
 
 // Modifica messaggi

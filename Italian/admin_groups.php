@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin-groups.php
+// Definizioni di lingua usate in admin_groups.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_groups = array(
@@ -42,7 +42,7 @@ $lang_admin_groups = array(
 'User title label'				=>	'Nome utente',
 'User title help'               =>  'Rango attribuito agli utenti in questo gruppo. Lasciare vuoto per utilizzare il nome predefinito ("%s").',
 'Promote users label'           =>  'Promuovere utenti',
-'Promote users help'            =>  '&Egrave; possibile promuovere gli utenti automaticamente al raggiungimento di un certo numero di messaggi. Selezionare "%s" per disabilitare. Per ragioni di sicurezza, da qui non &egrave; possibile selezionare un gruppo amministratore. I cambiamenti effettuati potrebbero avere effetto dal successivo messaggio pubblicato dall\'utente.',
+'Promote users help'            =>  '&Egrave; possibile promuovere gli utenti automaticamente al raggiungimento di un certo numero di messaggi. Selezionare "%s" per disabilitare. Per ragioni di sicurezza, da qui non &egrave; possibile selezionare un gruppo amministratore. I cambiamenti effettuati potrebbero avere effetto dal successivo messaggio pubblicato dall\'utente. Il numero inserito rappresenta il totale dei messaggi di un utente, non il totale dei messaggi pubblicati come membro di questo gruppo.',
 'Disable promotion'             =>  'Disabilita promozione',
 'Mod privileges label'			=>	'Attiva i privilegi di moderatore',
 'Mod privileges help'			=>	'Per utilizzare i privilegi da moderatore, l\'utente deve essere assegnato alla moderazione di uno o pi&ugrave; forum tramite la pagina di amministrazione nel suo profilo utente.',

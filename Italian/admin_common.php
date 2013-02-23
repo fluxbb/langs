@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin_common
+// Definizioni di lingua usate in admin_common.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_common = array(
@@ -21,6 +21,7 @@ $lang_admin_common = array(
 'Prune'					=>	'Pulizia',
 'Maintenance'			=>	'Manutenzione',
 'Reports'				=>	'Segnalazioni',
+'Server statistics'     =>  'Statistiche server',
 
 'Admin'					=>	'Admin',
 'Go back'				=>	'Indietro',

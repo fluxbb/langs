@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin-users.php
+// Definizioni di lingua usate in admin_users.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_users = array(

@@ -1,6 +1,6 @@
 <?php
 
-// Definizioni di lingua usate in admin-permissions.php
+// Definizioni di lingua usate in admin_permissions.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_permissions = array(
