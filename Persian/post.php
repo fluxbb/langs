@@ -4,36 +4,36 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'		=>	'مبحث بایستی موضوع  داشته باشد.',
-'No subject after censoring'	=>	'Topics must contain a subject. After applying censoring filters, your subject was empty.',
-'Too long subject'	=>	'Subjects cannot be longer than 70 characters.',
-'No message'		=>	'You must enter a message.',
-'No message after censoring'	=>	'You must enter a message. After applying censoring filters, your message was empty.',
-'Too long message'	=>	'Posts cannot be longer than %s bytes.',
-'All caps subject'	=>	'Subjects cannot contain only capital letters.',
-'All caps message'	=>	'Posts cannot contain only capital letters.',
-'Empty after strip'	=>	'It seems your post consisted of empty BBCodes only. It is possible that this happened because e.g. the innermost quote was discarded because of the maximum quote depth level.',
+'No subject'		=>	'موضوع ارسالی باید یک عنوان داشته باشد.',
+'No subject after censoring'	=>	'موضوع ارسالی باید یک عنوان داشته باشد. پس از اعمال سانسور بر روی کلمات غیرمجاز عنوان شما خالی تشخصی داده شده است.',
+'Too long subject'	=>	'عنوان نمی تواند بیش از ۷۰ کاراکتر داشته باشد.',
+'No message'		=>	'شما باید همراه با ایجاد موضوع یک متن هم برای آن بنویسید.',
+'No message after censoring'	=>	'موضوع ارسالی باید متن داشته باشد. پس از اعمال سانسور بر روی کلمات غیرمجاز متن شما خالی تشخصی داده شده است.',
+'Too long message'	=>	'پست ارسالی نباید بیش از %s کیلوبایت حجم داشته باشد.',
+'All caps subject'	=>	'عنوان ارسال نمی تواند شامل حروف بزرگ باشد.',
+'All caps message'	=>	'عنوان ارسال نمی تواند شامل کلمات با حروف بزرگ باشد',
+'Empty after strip'	=>	'به نظر می رسد پست ارسالی شما شامل BBCode نمی باشد. همین... !',
 
 // Posting
-'Post errors'		=>	'خطاهای مطلب',
-'Post errors info'	=>	'The following errors need to be corrected before the message can be posted:',
-'Post preview'		=>	'پیش نمایش مطلب',
+'Post errors'		=>	'خطا در ارسال',
+'Post errors info'	=>	'خطای زیر نیاز به رفع شدن دارد قبل از اینکه متن ارسال شود:',
+'Post preview'		=>	'پیش نمایش ارسال',
 'Guest name'		=>	'نام', // For guests (instead of Username)
-'Post redirect'		=>	'مطلب ثبت شد. در حال انتقال...',
+'Post redirect'		=>	'پست ارسال شد. در حال انتقال...',
 'Post a reply'		=>	'ارسال پاسخ',
-'Post new topic'	=>	'ایجاد مبحث جدید',
-'Hide smilies'		=>	'Never show smilies as icons for this post',
-'Subscribe'			=>	'تحت نظر گرفتن این مبحث',
-'Stay subscribed'	=>	'Stay subscribed to this topic',
-'Topic review'		=>	'Topic review (newest first)',
+'Post new topic'	=>	'ایجاد موضوع جدید',
+'Hide smilies'		=>	'عدم نمایش شکلک ها در این ارسال',
+'Subscribe'			=>	'عضویت در این موضوع',
+'Stay subscribed'	=>	'عضویت در این موضوع',
+'Topic review'		=>	'مرور موضوع - ارسال های جدید بالا قرار می گیرند.',
 'Flood start'		=>	'حداقل',
-'flood end'			=>	'seconds have to pass between posts. Please wait a little while and try posting again.',
+'flood end'			=>	'بین هر ارسال شما باید چند ثانیه وقفه وجود داشته باشد. چند لحظه صبر کنید و مجددا تلاش کنید.',
 'Preview'			=>	'پیش نمایش', // submit button to preview message
 
 // Edit post
-'Edit post legend'	=>	'Edit the post and submit changes',
-'Silent edit'		=>	'Silent edit (don\'t display "Edited by ..." in topic view)',
-'Edit post'			=>	'ویرایش مطلب',
-'Edit redirect'		=>	'Post updated. Redirecting …'
+'Edit post legend'	=>	'ویرایش ارسال و ثبت تغییرات',
+'Silent edit'		=>	'ویرایش بی سر و صدا - عدم نمایش عبارت "ویرایش شده" در ارسال',
+'Edit post'			=>	'ویرایش ارسال',
+'Edit redirect'		=>	'ارسال به روزرسانی شد. در حال انتقال...'
 
 );

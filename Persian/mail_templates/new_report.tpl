@@ -1,10 +1,11 @@
 Subject: 'گزارش(<forum_id>) - '<topic_subject>'
 
-کاربر '<username>' مطلب زیر را گزارش کرده است: 
+کاربری به نام '<username>' مطلب زیر را گزارش کرده است: 
 <post_url>
 
 دلیل: <reason>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+ارسال کننده ایمیل <board_mailer>
+(به این پیغام پاسخ ندهید)
+
