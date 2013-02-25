@@ -3,29 +3,29 @@
 // Language definitions used in viewtopic.php
 $lang_topic = array(
 
-'Post reply'		=>	'ارسال پاسخ',
-'Topic closed'		=>	'مبحث بسته شد',
-'From'				=>	'از:', // User location
-'IP address logged'	=>	'آدرس آی پی وارد شده',
-'Note'				=>	'نکته:', // Admin note
-'Posts'				=>	'مطالب:',
+'Post reply'		=>	'پاسخ',
+'Topic closed'		=>	'موضوع بسته شده است',
+'From'				=>	' از :', // User location
+'IP address logged'	=>	'آدرس IP ثبت شده است.',
+'Note'				=>	'یادداشت:', // Admin note
+'Posts'				=>	'ارسال ها:',
 'Registered'		=>	'ثبت شده:',
 'Replies'			=>	'پاسخ ها:',
-'Website'			=>	'سایت',
-'Guest'				=>	'مهمان',
-'Online'			=>	'برخط',
+'Website'			=>	'وب سایت',
+'Guest'				=>	'میهمان',
+'Online'			=>	'آنلاین',
 'Offline'			=>	'آفلاین',
 'Last edit'			=>	'آخرین ویرایش توسط',
 'Report'			=>	'گزارش',
 'Delete'			=>	'حذف',
 'Edit'				=>	'ویرایش',
 'Quote'				=>	'نقل قول',
-'Is subscribed'		=>	'شما این مبحث را زیر نظر گرفته اید',
-'Unsubscribe'		=>	'لغو اشتراک',
-'Subscribe'			=>	'مشترک این مبحث شدن',
+'Is subscribed'		=>	'شما در حال حاضر عضو این موضوع شده اید',
+'Unsubscribe'		=>	'لغو عضویت',
+'Subscribe'			=>	'عضویت در این موضوع',
 'Quick post'		=>	'ارسال سریع',
-'Mod controls'		=>	'کنترل های ناظم',
-'New icon'			=>	'مطلب جدید',
+'Mod controls'		=>	'کنترل ناظرین',
+'New icon'			=>	'ارسال جدید',
 'Re'				=>	'پاسخ:',
 'Preview'			=>	'پیش نمایش'
 

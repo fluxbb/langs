@@ -1,9 +1,10 @@
 Subject: هشدار - ثبت نام جدید
 
-کاربر '<username>' در تالار <base_url> ثبت نام کرده است.
+کاربری به نام '<username>' در انجمن <base_url> ثبت نام کرده است.
 
 پروفایل کاربر: <profile_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+ارسال کننده ایمیل <board_mailer>
+(به این پیغام پاسخ ندهید)
+

@@ -12,7 +12,6 @@
 *  Japanese - [sama55 & megu](http://cmsbox.jp/forums/)
 *  Korean - [floor](http://fluxbb.org/forums/profile.php?id=56739)
 *  Kurdish - [Chawg.org](http://www.chawg.org)
-*  Persian - [HRezaei](mailto:mr.hrezaei@gmail.com)
 *  Persian - [archlinux.ir](http://www.archlinux.ir)
 *  Polish - [FluxBB.org.pl](http://fluxbb.org.pl)
 *  Portuguese - [Costa](https://fluxbb.org/forums/profile.php?id=58946)
