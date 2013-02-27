@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 // Language definitions for frequently used strings
 $lang_common = array(
@@ -12,62 +12,62 @@ $lang_common = array(
 'lang_thousands_sep'				=>	',',
 
 // Notices
-'Bad request'						=>	'Bad request. The link you followed is incorrect or outdated.',
-'No view'							=>	'You do not have permission to view these forums.',
-'No permission'						=>	'You do not have permission to access this page.',
-'Bad referrer'						=>	'Bad HTTP_REFERER. You were referred to this page from an unauthorized source. If the problem persists please make sure that \'Base URL\' is correctly set in Admin/Options and that you are visiting the forum by navigating to that URL. More information regarding the referrer check can be found in the FluxBB documentation.',
-'No cookie'							=>	'You appear to have logged in successfully, however a cookie has not been set. Please check your settings and if applicable, enable cookies for this website.',
-'Pun include error'					=>	'Unable to process user include %s from template %s. There is no such file in neither the template directory nor in the user include directory.',
+'Bad request'						=>	'درخواست ناموفق! لینک درخواستی شما اشتباه یا قدیمی است.',
+'No view'							=>	'شما دسترسی به دیدن محتویات این انجمن را ندارید.',
+'No permission'						=>	'شما دسترسی به دیدن این صفحه را ندارید.',
+'Bad referrer'						=>	'رجوع دهنده HTTP با مشکل رو به روست. شما از یک منبع نامعتبر ارجاع داده شده اید. اگر مشکل ادامه یافت، لطفا مطمئن شوید که \ ‘Base URL’\ به درستی در Admin/Options تنظیم شده باشد و اینکه شما انجمن را از طریق هایت شدن به آن URL مشاهده کنید. اطلاعات بیشتر درباره ارجاع دهنده ها را می توانید در مستندات Fluxbb مراجعه کنید.',
+'No cookie'							=>	'به نظر می رسد که شما با موفقیت وارد شده اید؛ اما یک کوکی تنظیم نشده است. لطفا تنظیمات خود را چک کرده و در صورت توان کوکی ها را برای این وبسایت فال کنید.',
+'Pun include error'					=>	'ناتوان در پردازش ورودی کاربر %s از الگو %s. چنین فایلی نه در دایرکتوری الگوهای کاربر وجود دارد و نه در دایرکتوری ورودی کاربر.',
 
 // Miscellaneous
-'Announcement'						=>	'Announcement',
-'Options'							=>	'گزینه ها',
+'Announcement'						=>	'اطلاعیه',
+'Options'							=>	'انتخاب ها',
 'Submit'							=>	'ارسال', // "Name" of submit buttons
-'Ban message'						=>	'You are banned from this forum.',
-'Ban message 2'						=>	'The ban expires at the end of',
-'Ban message 3'						=>	'The administrator or moderator that banned you left the following message:',
+'Ban message'						=>	'دسترسی شما به این انجمن مسدود شده است.',
+'Ban message 2'						=>	'انسداد منقضی خواهد شد در',
+'Ban message 3'						=>	'مدیریت انجمن شما را با این پیام از دسترسی به انجمن منع کرده است:',
 'Ban message 4'						=>	'Please direct any inquiries to the forum administrator at',
-'Never'								=>	'Never',
+'Never'								=>	'هرگز',
 'Today'								=>	'امروز',
 'Yesterday'							=>	'دیروز',
 'Info'								=>	'اطلاعات', // A common table header
-'Go back'							=>	'بازگشت',
-'Maintenance'						=>	'Maintenance',
-'Redirecting'						=>	'در حال انتقال',
-'Click redirect'					=>	'Click here if you do not want to wait any longer (or if your browser does not automatically forward you)',
+'Go back'							=>	'بازگشت به عقب',
+'Maintenance'						=>	'تعمیر',
+'Redirecting'						=>	'انتقال', 
+'Click redirect'					=>	'برای اینکه بیشتر از این منتظر نمانید یا اینکه مرورگر شما را به صفحه اصلی منتقل نکرده است اینجا را کلیک کنید.',
 'on'								=>	'روشن', // As in "BBCode is on"
 'off'								=>	'خاموش',
-'Invalid email'						=>	'The email address you entered is invalid.',
+'Invalid email'						=>	'آدرس ایمیلی که شما وارد کرده اید اشتباه است.',
 'Required'							=>	'(الزامی)',
-'required field'					=>	'یک فیلد الزامی است.', // For javascript form validation
-'Last post'							=>	'آخرین مطلب',
+'required field'					=>	'یک فیلد الزامی در این فرم است.', // For javascript form validation
+'Last post'							=>	'آخرین ارسال',
 'by'								=>	'توسط', // As in last post by someuser
-'New posts'							=>	'مطالب جدید', // The link that leads to the first new post
-'New posts info'					=>	'برو به اولین مطلب جدید در مورد این موضوع.', // The popup text for new posts links
+'New posts'							=>	'ارسال های جدید', // The link that leads to the first new post
+'New posts info'					=>	'به اولین پست جدید ارسالی برو.', // The popup text for new posts links
 'Username'							=>	'نام کاربری',
-'Password'							=>	'رمزعبور',
-'Email'								=>	'ایمیل',
+'Password'							=>	'گذرواژه',
+'Email'								=>	'پست الکترونیک',
 'Send email'						=>	'ارسال ایمیل',
-'Moderated by'						=>	'ویرایش شده توسط',
-'Registered'						=>	'ثبت نام شده',
+'Moderated by'						=>	'مدیریت شده توسط',
+'Registered'						=>	'ثبت شده',
 'Subject'							=>	'موضوع',
-'Message'							=>	'پیغام',
-'Topic'								=>	'مبحث',
-'Forum'								=>	'تالار',
-'Posts'								=>	'مطالب',
+'Message'							=>	'پیام',
+'Topic'								=>	'عنوان',
+'Forum'								=>	'انجمن',
+'Posts'								=>	'ارسال ها',
 'Replies'							=>	'پاسخ ها',
 'Pages'								=>	'صفحات:',
 'Page'								=>	'صفحه %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
-'url tag'							=>	'[url] تگ:',
-'img tag'							=>	'[img] تگ:',
-'Smilies'							=>	'خندانک ها:',
+'img tag'							=>	'تگ [img]:',
+'url tag'							=>	'تگ [url]:',
+'Smilies'							=>	'شکلک ها:',
 'and'								=>	'و',
-'Image link'						=>	'تصویر', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
-'wrote'								=>	'نوشته:', // For [quote]'s
+'Image link'						=>	'image', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
+'wrote'								=>	'نوشته است که:', // For [quote]'s
 'Mailer'							=>	'%s Mailer', // As in "MyForums Mailer" in the signature of outgoing emails
 'Important information'				=>	'اطلاعات مهم',
-'Write message legend'				=>	'پیغام خود را نوشته و ارسال کنید',
+'Write message legend'				=>	'پیام خود را بنویسید و ارسال کنید',
 'Previous'							=>	'قبلی',
 'Next'								=>	'بعدی',
 'Spacer'							=>	'…', // Ellipsis for paginate
@@ -75,92 +75,90 @@ $lang_common = array(
 // Title
 'Title'								=>	'عنوان',
 'Member'							=>	'عضو', // Default title
-'Moderator'							=>	'Moderator',
-'Administrator'						=>	'مدیر',
-'Banned'							=>	'ممنوع',
-'Guest'								=>	'مهمان',
+'Moderator'							=>	'مدیریت',
+'Administrator'						=>	'مدیریت کل انجمن',
+'Banned'							=>	'مسدود شده',
+'Guest'								=>	'میهمان',
 
 // Stuff for include/parser.php
-'BBCode error no opening tag'		=>	'[/%1$s] was found without a matching [%1$s]',
-'BBCode error invalid nesting'		=>	'[%1$s] was opened within [%2$s], this is not allowed',
-'BBCode error invalid self-nesting'	=>	'[%s] was opened within itself, this is not allowed',
-'BBCode error no closing tag'		=>	'[%1$s] was found without a matching [/%1$s]',
-'BBCode error empty attribute'		=>	'[%s] tag had an empty attribute section',
-'BBCode error tag not allowed'		=>	'You are not allowed to use [%s] tags',
-'BBCode error tag url not allowed'	=>	'You are not allowed to post links',
-'BBCode code problem'				=>	'There is a problem with your [code] tags',
-'BBCode list size error'			=>	'Your list was too long to parse, please make it smaller!',
+'BBCode error no opening tag'		=>	'[/%1$s] نتیجه مشابه ای یافت نشد [%1$s]',
+'BBCode error invalid nesting'		=>	'[%1$s] بوسیله [%2$s] باز شده است، چنین چیزی پذیرفته شده نیست.',
+'BBCode error invalid self-nesting'	=>	'[%s] بوسیله خودش باز شده است، چنیین چیزی پذیرفته شده نیست.',
+'BBCode error no closing tag'		=>	'[%1$s] نتیجه مشابه ای یافت نشد [/%1$s]',
+'BBCode error empty attribute'		=>	'[%s] تگ های این بخش توانایی خالی بودن را دارد.',
+'BBCode code problem'				=>	'مشکلی در تگ [code] شما وجود دارد.',
+'BBCode list size error'			=>	'لیست شما برای نمایش بیش از حد بلند است، لطفا کوچکترش کنید.',
 
-// Stuff for the navigator (top of every page)
-'Index'								=>	'فهرست',
+// Stuff for the navigator top of every page
+'Index'								=>	'صفحه نخست',
 'User list'							=>	'لیست کاربران',
 'Rules'								=>	'قوانین',
 'Search'							=>	'جستجو',
-'Register'							=>	'ثبت نام',
+'Register'							=>	'عضویت',
 'Login'								=>	'ورود',
-'Not logged in'						=>	'شما هنوز وارد سایت نشده اید(با استفاده از نام کاربری ).',
+'Not logged in'						=>	'شما هنوز به سیستم وارد نشده اید.',
 'Profile'							=>	'پروفایل',
 'Logout'							=>	'خروج',
-'Logged in as'						=>	'وارد شده به عنوان',
-'Admin'								=>	'مدیریت',
+'Logged in as'						=>	'ورود با حساب کاربری:',
+'Admin'								=>	'مدیریت کل انجمن',
 'Last visit'						=>	'آخرین بازدید: %s',
-'Topic searches'					=>	'مباحث:',
+'Topic searches'					=>	'موضوعات:',
 'New posts header'					=>	'جدید',
-'Active topics'						=>	'فعال',
-'Unanswered topics'					=>	'پاسخ نداده',
+'Active topics'						=>	'بایگانی',
+'Unanswered topics'					=>	'پاسخ داده نشده',
 'Posted topics'						=>	'ارسال شده',
-'Show new posts'					=>	'Find topics with new posts since your last visit.',
-'Show active topics'				=>	'Find topics with recent posts.',
-'Show unanswered topics'			=>	'Find topics with no replies.',
-'Show posted topics'				=>	'Find topics you have posted to.',
-'Mark all as read'					=>	'همه موضوعات را به عنوان خوانده شده علامت بزن',
-'Mark forum read'					=>	'این تالار را به عنوان خوانده شده علامت بزن',
+'Show new posts'					=>	'پیدا کردن موضوعات با ارسال های جدید بعد از آخرین ورود شما.',
+'Show active topics'				=>	'پیدا کردن موضوعات با آخرین ارسال ها.',
+'Show unanswered topics'			=>	'پیدا کردن موضوعات بدون پاسخ.',
+'Show posted topics'				=>	'پیدا کردن موضوعاتی که شما در آن پاسخ داده اید.',
+'Mark all as read'					=>	'نشانه گذاری تمام موضوعات به عنوان خوانده شده',
+'Mark forum read'					=>	'نشانه گذاری این موضوع به عنوان خوانده شده',
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
-'Board footer'						=>	'Board footer',
-'Jump to'							=>	'پرش به',
+'Board footer'						=>	'پانوشت انجمن',
+'Jump to'							=>	'پریدن به',
 'Go'								=>	' برو ', // Submit button in forum jump
-'Moderate topic'					=>	'مدیریت مبحث',
-'Move topic'						=>	'انتقال مبحث',
-'Open topic'						=>	'باز کردن موضوع',
-'Close topic'						=>	'بستن مبحث',
-'Unstick topic'						=>	'Unstick topic',
-'Stick topic'						=>	'Stick topic',
-'Moderate forum'					=>	'مدیریت تالار',
-'Powered by'						=>	'قدرت یافته از %s',
+'Moderate topic'					=>	'مدیریت موضوع',
+'Move topic'						=>	'انتقال موضوع',
+'Open topic'						=>	'باز کردن مووع',
+'Close topic'						=>	'بستن موضوع',
+'Unstick topic'						=>	'چسباندن موضوع به عنوان "عادی"',
+'Stick topic'						=>	'چسباندن موضوع به عنوان "مهم"',
+'Moderate forum'					=>	'مدیریت انجمن',
+'Powered by'						=>	'پشتیبانی توسط تیم آرچ لینوکس ایران و نیرو گرفته با %s',
 
 // Debug information
-'Debug table'						=>	'اطلاعات دیباگ',
-'Querytime'							=>	'Generated in %1$s seconds, %2$s queries executed',
-'Memory usage'						=>	'استفاده از حافظه: %1$s',
+'Debug table'						=>	'اطلاعات رفع اشکال',
+'Querytime'							=>	'تولید شده در %1$s ثانیه, %2$s درخواست اجرا شده است',
+'Memory usage'						=>	'حافظه مصرف شده: %1$s',
 'Peak usage'						=>	'(Peak: %1$s)',
-'Query times'						=>	'زمان (ثانیه)',
-'Query'								=>	'Query',
-'Total query time'					=>	'کل زمان جستجو: %s',
+'Query times'						=>	'زمان',
+'Query'								=>	'درخواست',
+'Total query time'					=>	'زمان کل درخواست: %s',
 
 // For extern.php RSS feed
-'RSS description'					=>	'The most recent topics at %s.',
-'RSS description topic'				=>	'The most recent posts in %s.',
-'RSS reply'							=>	'پاسخ: ', // The topic subject will be appended to this string (to signify a reply)
-'RSS active topics feed'			=>	'RSS active topics feed',
-'Atom active topics feed'			=>	'Atom active topics feed',
-'RSS forum feed'					=>	'RSS forum feed',
-'Atom forum feed'					=>	'Atom forum feed',
-'RSS topic feed'					=>	'RSS topic feed',
-'Atom topic feed'					=>	'Atom topic feed',
+'RSS description'					=>	'بیشترین موضوعات جدید در %s.',
+'RSS description topic'				=>	'بیشترین ارسال های جدید در %s.',
+'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
+'RSS active topics feed'			=>	'خروجی RSS موضوعات فعال',
+'Atom active topics feed'			=>	'خروجی Atom موضوعات فعال',
+'RSS forum feed'					=>	'خروجی RSS انجمن',
+'Atom forum feed'					=>	'خروجی Atom انجمن',
+'RSS topic feed'					=>	'خروجی RSS موضوع',
+'Atom topic feed'					=>	'خروجی Atom موضوع',
 
 // Admin related stuff in the header
-'New reports'						=>	'گزارش های جدیدی وجود دارند',
-'Maintenance mode enabled'			=>	'Maintenance mode is enabled!',
+'New reports'						=>	'گزارشات جدید وجود دارد',
+'Maintenance mode enabled'			=>	'تعمیر انجمن فعال شده است!',
 
 // Units for file sizes
-'Size unit B'						=>	'%s B',
-'Size unit KiB'						=>	'%s KiB',
-'Size unit MiB'						=>	'%s MiB',
-'Size unit GiB'						=>	'%s GiB',
-'Size unit TiB'						=>	'%s TiB',
-'Size unit PiB'						=>	'%s PiB',
-'Size unit EiB'						=>	'%s EiB',
+'Size unit B'						=>	'%s بایت',
+'Size unit KiB'						=>	'%s کیلوبایت',
+'Size unit MiB'						=>	'%s مگابایت',
+'Size unit GiB'						=>	'%s گیگابایت',
+'Size unit TiB'						=>	'%s ترابایت',
+'Size unit PiB'						=>	'%s پتابایت',
+'Size unit EiB'						=>	'%s اگزابایت',
 
 );

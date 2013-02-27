@@ -3,19 +3,19 @@
 // Language definitions used in admin_censoring.php
 $lang_admin_censoring = array(
 
-'Must enter word message'	=>	'You must enter a word to censor.',
-'Word updated redirect'		=>	'Censor word updated. Redirecting …',
-'Word added redirect'		=>	'Censor word added. Redirecting …',
-'Word removed redirect'		=>	'Censor word removed. Redirecting …',
-'Censoring head'			=>	'Censoring',
-'Add word subhead'			=>	'Add word',
-'Add word info'				=>	'Enter a word that you want to censor and the replacement text for this word. Wildcards are accepted (i.e. *some* would match somewhere and lonesome). Censor words also affect usernames. New users will not be able to register with usernames containing any censored words. The search is case insensitive.',
-'Censoring enabled'			=>	'<strong>Censoring is enabled in %s.</strong>',
-'Censoring disabled'		=>	'<strong>Censoring is disabled in %s.</strong>',
-'Censored word label'		=>	'Censored word',
-'Replacement label'			=>	'Replacement word(s)',
-'Action label'				=>	'Action',
-'Edit remove subhead'		=>	'Edit or remove words',
-'No words in list'			=>	'No censor words in list.',
+'Must enter word message'	=>	'شما باید یک نام را وارد کنید.',
+'Word updated redirect'		=>	'سانسور کلمه مورد نظر با موفقیت انجام شد. در حال انتقال...',
+'Word added redirect'		=>	'سانسور کلمه مورد نظر با موفقیت انجام شد. در حال انتقال...',
+'Word removed redirect'		=>	'حذف کلمه مورد نظر با موفقیت انجام شد. در حال انتقال...',
+'Censoring head'			=>	'در حال سانسور کردن',
+'Add word subhead'			=>	'اضافه کردن کلمه',
+'Add word info'				=>	'یک نام را برای سانسور یا جایگزینی انتخاب کنید. Wildcard برای این کار قابل قبول می باشد. کلمه انتخاب شده شامل نام های کاربری نیز می باشد و کابران جدید قادر به ثبت نام آن نخواهند بود.',
+'Censoring enabled'			=>	'<strong>سانسور فعال شده است در %s.</strong>',
+'Censoring disabled'		=>	'<strong>سانسور غیر فعال شده است در %s.</strong>',
+'Censored word label'		=>	'کلمات سانسور شده',
+'Replacement label'			=>	'جایگزینی کلمات',
+'Action label'				=>	'اعمال',
+'Edit remove subhead'		=>	'اضافه یا ویرایش کلمات',
+'No words in list'			=>	'کلمه سانسور شده ای موجود نمی باشد.',
 
 );

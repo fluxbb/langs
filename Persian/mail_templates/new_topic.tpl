@@ -1,11 +1,12 @@
-Subject: مبحث جدید در تالار: '<forum_name>'
+Subject: تاپیک جدید در انجمن: '<forum_name>'
 
-<poster> مبحث جدیدی با عنوان '<topic_subject>' در تالار '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
+<poster> تاپیک جدیدی به نام '<topic_subject>' در انجمن '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
 
-آدرس مبحث: <topic_url>
+آدرس تاپیک: <topic_url>
 
-شما می توانید اشتراک خود را با رفتن به آدرس  <unsubscribe_url> لغو کنید.
+شما می‌توانید اشتراک خود را با رفتن به آدرس <unsubscribe_url> لغو کنید.
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+ارسال کننده ایمیل <board_mailer>
+(به این پیغام پاسخ ندهید)
+

@@ -4,23 +4,23 @@
 $lang_login = array(
 
 // Miscellaneous
-'Wrong user/pass'			=>	'نام کاربری یا رمز عبور معتبر نیست.',
-'Forgotten pass'			=>	'رمز خود را فراموش کرده اید؟',
-'Login redirect'			=>	'ورود با موفقیت انجام شد. در حال انتقال...',
-'Logout redirect'			=>	'خروج انجام شد. در حال انتقال',
-'No email match'			=>	'کاربری با ایمیل داده شده ثبت نام نکرده است',
-'Request pass'				=>	'درخواست رمز عبور',
-'Request pass legend'		=>	'آدرس ایمیلی که با آن ثبت نام کرده اید را وارد کنید',
-'Request pass info'			=>	'A new password together with a link to activate the new password will be sent to that address.',
-'Not registered'			=>	'هنوز ثبت نام نکرده اید؟',
-'Login legend'				=>	'نام کاربری و رمز عبور خود را در زیر وارد کنید',
-'Remember me'				=>	'مرا به یاد داشته باش.',
-'Login info'				=>	'If you have not registered or have forgotten your password click on the appropriate link below.',
-'New password errors'		=>	'خطا در درخواست رمز عبور',
-'New passworderrors info'	=>	'The following error needs to be corrected before a new password can be sent:',
+'Wrong user/pass'			=>	'نام کاربری یا گذرواژه اشتباه وارد شده است.',
+'Forgotten pass'			=>	'گذرواژه خود را فراموش کرده اید؟',
+'Login redirect'			=>	'با موفقیت به انجمن وارد شدید. در حال انتقال...',
+'Logout redirect'			=>	'از انجمن خارج شدید. در حال انتقال...',
+'No email match'			=>	'کاربری با این آدرس ایمیل در انجمن به ثبت نرسیده است.',
+'Request pass'				=>	'درخواست گذرواژه',
+'Request pass legend'		=>	'آدرس ایمیلی که موقع ثبت نام وارد کردید را وارد کنید.',
+'Request pass info'			=>	'یک گذرواژه به همراه لینک فعال سازی به آدرس ایمیل ثبت شده در سیستم ارسال شده است.',
+'Not registered'			=>	'هنوز ثبت نام نکرده اید ؟',
+'Login legend'				=>	'نام کاربری و گذرواژه خود را وارد کنید.',
+'Remember me'				=>	'پس از هر ورود به سایت مرا در سیستم لاگین کن',
+'Login info'				=>	'اگر هنوز در انجمن ثبت نام نکرده اید یا اینکه گذرواژه خود را فراموش کرده اید بر روی لینک زیر کلیک کنید.',
+'New password errors'		=>	'خطا در درخواست گذرواژه',
+'New passworderrors info'	=>	'خطای زیر نیار به رفع شدن دارد برای ادامه بازنشانی گذرواژه:',
 
 // Forget password mail stuff
-'Forget mail'				=>	'An email has been sent to the specified address with instructions on how to change your password. If it does not arrive you can contact the forum administrator at',
-'Email flood'				=>	'This account has already requested a password reset in the past hour. Please wait a while before requesting a new password again.'
+'Forget mail'				=>	'یک ایمیل همراه با چگونگی بازنشانی گذرواژه خود به آدرس ایمیل شما ارسال شده است. اگر موفق به دریافت این ایمیل نشده اید اسپم باکس خود را چک کنید.',
+'Email flood'				=>	'درخواست گذرواژه برای این نام کاربری طی یک ساعت گذشت ارسال شده است. برای درخواست مجدد باید کمی صب کنید.'
 
 );
