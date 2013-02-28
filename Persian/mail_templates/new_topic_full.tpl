@@ -1,10 +1,10 @@
-Subject: مبحث جدید در تالار: '<forum_name>'
+Subject: تاپیک جدید در انجمن: '<forum_name>'
 
-<poster> یک مبحث جدید با عنوان '<topic_subject>' در تالار '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
+<poster> تاپیک جدیدی به نام '<topic_subject>' در انجمن '<forum_name>'، که شما مشترک آن هستید، ایجاد کرده است.
 
-مبحث در آدرس <topic_url> قرار دارد.
+آدرس تاپیک: <topic_url>
 
-The message reads as follows:
+پیغام به شرح زیر است:
 -----------------------------------------------------------------------
 
 <message>
@@ -14,5 +14,6 @@ The message reads as follows:
 شما می توانید اشتراک خود را با استفاده از پیوند <unsubscribe_url> لغو کنید.
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+ارسال کننده ایمیل <board_mailer>
+(به این پیغام پاسخ ندهید)
+
