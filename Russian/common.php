@@ -120,7 +120,7 @@ $lang_common = array(
 // Stuff for the page footer
     'Board footer'                      => 'Подвал раздела',
     'Jump to'                           => 'Перейти',
-    'Go'                                => ' &laquo; ', // submit button in forum jump
+    'Go'                                => ' &raquo; ', // submit button in forum jump
     'Moderate topic'                    => 'Модерировать тему',
     'Move topic'                        => 'Перенести тему',
     'Open topic'                        => 'Открыть тему',
