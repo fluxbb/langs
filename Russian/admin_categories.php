@@ -1,26 +1,26 @@
 <?php
 
-// Language definitions used in admin-categories.php
+// Language definitions used in admin_categories.php
 $lang_admin_categories = array(
 
-'Must enter name message'		=>	'Вы должны указать название категории',
-'Category added redirect'		=>	'Категория добавлена. Идет перенаправление …',
-'Category deleted redirect'		=>	'Категория удалена. Идет перенаправление …',
-'Delete category head'			=>	'Удаление категории (вместе со всеми форумами и темами)',
-'Confirm delete subhead'		=>	'Запрос на подтверждение удаления категории',
-'Confirm delete info'			=>	'Вы уверены, что желаете удалить категорию <strong>%s</strong>?',
-'Delete category warn'			=>	'<strong>ВНИМАНИЕ!</strong> Удаление категории приведет к удалению всех форумов, тем, сообщений связанных с ней (если таковые имеются)!',
-'Must enter integer message'	=>	'Позиция должна быть положительным целым числом.',
-'Categories updated redirect'	=>	'Категории изменены. Идет перенаправление …',
+'Must enter name message'		=>	'Необходимо ввести имя категории',
+'Category added redirect'		=>	'Категория добавлена. Переадресация …',
+'Category deleted redirect'		=>	'Категория удалена. Переадресация …',
+'Delete category head'			=>	'Удаление категории (вместе со всеми разделами и сообщениями в ней)',
+'Confirm delete subhead'		=>	'Подтверждение удаления категории',
+'Confirm delete info'			=>	'Вы уверены, что хотите удалить категорию <strong>%s</strong>?',
+'Delete category warn'			=>	'<strong>ВНИМАНИЕ!</strong> При удалении категории удалятся все разделы и сообщения в этой категории, если таковые есть!',
+'Must enter integer message'	=>	'Позиция должна быть неотрицательным целым числом.',
+'Categories updated redirect'	=>	'Категории изменены. Переадресация …',
 'Add categories head'			=>	'Добавление категорий',
 'Add categories subhead'		=>	'Добавление категорий',
 'Add category label'			=>	'Добавить новую категорию',
 'Add new submit'				=>	'Добавить',
-'Add category help'				=>	'Укажите название добавляемой категории. В любой момент можно будет изменить выбранное имя (смотрите ниже). Перейдите на страницу %s для добавления нового форума в категорию.',
+'Add category help'				=>	'Название новой категории. Вы сможете изменить название позднее (см. ниже). Перейдите в "%s", чтобы добавить разделы в новую категорию.',
 'Delete categories head'		=>	'Удаление категорий',
 'Delete categories subhead'		=>	'Удаление категорий',
 'Delete category label'			=>	'Удалить категорию',
-'Delete category help'			=>	'Выберите из списка название удаляемой категории. Вы должны будете подтвердить действие перед окончательным удалением выбранной категории.',
+'Delete category help'			=>	'Выберите категорию для удаления. У вас будет запрошено подтверждение, прежде чем категория будет окончательно удалена.',
 'Edit categories head'			=>	'Редактирование категорий',
 'Edit categories subhead'		=>	'Редактирование категорий',
 'Category position label'		=>	'Позиция',
