@@ -26,7 +26,7 @@ $lang_post = array(
     'Subscribe' => 'Подписаться на эту тему',
     'Stay subscribed' => 'Оставить подписку на эту тему',
     'Topic review' => 'Обзор темы (новое вверху)',
-    'Flood start' => 'Хотя бы',
+    'Flood start' => 'Нельзя оставлять сообщения чаще, чем раз в %s секунд. Пожалуйста, подождите %s секунд и попробуйте снова отправить сообщение.',
     'Preview' => 'Предпросмотр', // submit button to preview message
 
 // Edit post
