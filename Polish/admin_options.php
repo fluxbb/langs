@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'Krótki opis forum (wyświetlany w nagłówku strony). To pole może zawierać kod HTML.',
 'Base URL label'					=>	'Adres URL',
 'Base URL help'						=>	'Pełny adres URL forum bez pomijania ukośników (np. http://www.mydomain.com/forum). To pole <strong>musi</strong> być poprawne, aby administratorzy i moderatorzy mogli korzystać z Panelu Administracyjnego. Jeżeli otrzymujesz komunikat "Zły HTTP_REFERER", prawdopodobnie wprowadzony adres jest błędny.',
+'Base URL problem'                  =>  'Twój serwer nie obsługuje automatycznej konwersji nazw domen zawierających znaki specjalne (ogonki, akcenty, itp.). Jeśli adres URL forum zawiera takie znaki, <strong>musisz</strong> skorzystać z konwertera online, aby zabezpieczyć się przed błędami "Zły HTTP_REFERER".',
 'Timezone label'					=>	'Domyślna strefa czasowa',
 'Timezone help'						=>	'Domyślna strefa czasowa dla gości i użytkowników rejestrujących się na forum.',
 'DST label'							=>	'Dostosowanie czasu letniego',
