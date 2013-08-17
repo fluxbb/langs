@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'Eine kurze Beschreibung dieses Boards (wird auf jeder Seite ganz oben angezeigt). Dieses Feld kann HTML enthalten.',
 'Base URL label'					=>	'Basis-URL',
 'Base URL help'						=>	'Die vollständige URL des Forums ohne Folge-Slash (z.Bsp. http://www.meine-domain.de/foren). Damit alle Funktionen für Administratoren und Moderatoren ausgeführt werden können, <strong>MUSS</strong> dieser Eintrag richtig sein. Wenn Du einen Fehler "Falscher Referer" bekommst, ist die Basis-URL höchstwahrscheinlich falsch.',
+'Base URL problem'					=>	'Deine Installtion unterstützt nicht die automatische Konvertierung von internationalen Domain-Namen. Da Deine URL Sonderzeichen enthält, <strong>musst</strong> Du einen Online-Konverter nutzen um "Bad referer"-Fehler zu vermeiden.',
 'Timezone label'					=>	'Voreingestellte Zeitzone',
 'Timezone help'						=>	'Die voreingestellte Zeitzone für Gäste und neu registrierte Mitglieder dieses Boards.',
 'DST label'							=>	'Sommerzeit verwenden',
