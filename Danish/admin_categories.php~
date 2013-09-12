@@ -1,0 +1,29 @@
+<?php
+
+// Language definitions used in admin-categories.php
+$lang_admin_categories = array(
+
+'Must enter name message'		=>	'Du skal indtaste et navn for kategorien',
+'Category added redirect'		=>	'Kategori tilføjet. Omdiregere …',
+'Category deleted redirect'		=>	'Kategori slettet. Omdiregere …',
+'Delete category head'			=>	'Slet kategori (sammen med alle tilføjede posteringer)',
+'Confirm delete subhead'		=>	'bekræft sletning af kategori',
+'Confirm delete info'			=>	'Er du sikker på at du vil slette kategorien <strong>%s</strong>?',
+'Delete category warn'			=>	'<strong>ADVARSEL!</strong> Sletter du en kategori vil alle posteringer i kategorien (hvis der er nogen) blive slettet!',
+'Must enter integer message'	=>	'Positionen skal være et positiv helt tal.',
+'Categories updated redirect'	=>	'Kategorierne opdateret. Omdiregere …',
+'Add categories head'			=>	'Tilføj kategorier',
+'Add categories subhead'		=>	'Tilføj kategorier',
+'Add category label'			=>	'Tilføj ny kategori',
+'Add new submit'				=>	'Tilføj ny',
+'Add category help'				=>	'The name of the new category you want to add. You can edit the name of the category later (see below). Go to %s to add forums to your new category.',
+'Delete categories head'		=>	'Delete categories',
+'Delete categories subhead'		=>	'Delete categories',
+'Delete category label'			=>	'Delete a category',
+'Delete category help'			=>	'Select the name of the category you want to delete. You will be asked to confirm your choice of category for deletion before it is deleted.',
+'Edit categories head'			=>	'Edit categories',
+'Edit categories subhead'		=>	'Edit categories',
+'Category position label'		=>	'Position',
+'Category name label'			=>	'Name',
+
+);

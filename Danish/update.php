@@ -1,0 +1,75 @@
+<?php
+
+// Language definitions used in db_update.php
+
+$lang_update = array(
+
+'Update'						=>	'Updatér FluxBB',
+'Update message'				=>	'Din FluxBB database er uddateret og skal opgraderes for at fortsætte. Hvis du er administrator, følg venligst instruktionerne for neden for at færdiggøre opgraderingen.',
+'Note'							=>	'Bemærk:',
+'Members message'				=>	'Denne proces er kun for administratorer på side. Hvis du er et medlem, så er det ingenting at bekymre sig om - forummet vil være tilbage om et kort stykke tid!',
+'Administrator only'			=>	'Dette trin er udelukkende for administratore af siden!',
+'Database password info'		=>	'For at foretage database opdateringen, skriv venligst database adgangskoden som FluxBB var installeret. Hvis du ikke kan huske dette, er det gemt i din \'config.php\' fil.',
+'Database password note'		=>	'Hvis du kører SQLite (og derfor ikke har en database adgangskode) brug database filnavnet istedet. Der skal bruges præcis det samme som der står i fil navnet i din konfigurationsfil.',
+'Database password'				=>	'Database adgangskode',
+'Maintenance'					=>	'Vedligeholdelse',
+'Maintenance message info'		=>	'Beskeden som vil blive vist til brugere under denne opdateringsproces. Denne tekst vil ikke blive The message that will be displayed to users during the updating process. This text will not be fortolket som normale indlæg og kan derfor indholde HTML.',
+'Maintenance message'		    =>	'Vedligeholdelses besked',
+'Next'							=>	'Næste',
+
+'You are running error'			=>	'Du kører %1$s version %2$s. FluxBB %3$s kræver mindst %1$s %4$s for at køre ordenligt. Du skal opgradere din %1$s installation før du kan forsætte.',
+'Version mismatch error'		=>	'Versionerne passer ikke sammen. Databasen \'%s\' ser ikke ud til at køre en FluxBB database skema understøttet af dette opdaterings script.',
+'Invalid file error'			=>	'Ugyldigt database fil navn. Når man bruger SQLite skal database filens navn indtastes præcis som det står in din \'%s\'',
+'Invalid password error'		=>	'Ugyldig database adgangskode. For at opgradere FluxBB skal du indtaste din database adgangskode præcis som den står i din \'%s\'',
+'No password error'				=>	'Ingen database adgangskode afgivet',
+'Script runs error'				=>	'Det ser ud til at opdaterings scriptet allerede bliver kørt af en anden. Hvis dette ikke er tilfældet, skal du manuelt slette filen \'%s\' og prøve igen',
+'No update error'				=>	'Dit forum er allerede så opdateret som dette script kan gøre det',
+
+'Intro 1'						=>	'Dette script vil opdatere din foum database. Opdaterings proceduren kan tage alt fra et sekund til flere timer afhængig af hastigheden på servereb og størrekse af forum databasen. Glem ikke at lave en backup af database før du forsætter.',
+'Intro 2'						=>	'Læste du opdaterings instruktionerne i dokumentationens? hvis ikke, start der.',
+'No charset conversion'			=>	'<strong>VIGTIGT!</strong> FluxBB har fundet ud af at dette PHP miljø ikkr har understøttelse for de kodede mekanismer for er krævet for at lave UTF-8 samtaler fra tegnsæt andre end ISO-8859-1. Dette betyder at hvis det nuværende tegnsæt ikke er ISO-8859-1, så vil FluxBB ikke være i stand til at konvertere din forum database til UTF-8 og du vil skulle blive nødt til at gøre det manuelt. Intruktioner for at lave denne konvertering manuelt kan bliver fundet i opdaterings instruktionerne.',
+'Enable conversion'				=>	'<strong>Aktiver konvertering:</strong> Når dette er aktiveret vil dette opdaterings script, efter der er blevet lavet de nødvendige strukturelle ændringer på databasen, konvertere al tekst fra det nuværende tegnsæt til UTF-8. Denne konvertering er nødvendig hvis du opgraderer fra version 1.2.',
+'Current character set'			=>	'<strong>Nuværende tegnsæt:</strong> Hvis det primære sprøv i dit forum er engelsk kan du lade dette være som standard værdi. Hvis det dog ikke er Engelsk skal du indtaste et tegnsæt for det primære sprog på dit forum. <em>At gøre dette forkert kan ødelægge din database, så lad være med bare at gæt!</em> Bemærk: dette er nødvendigt selv hvis en gammel database er UTF-8.',
+'Charset conversion'			=>	'Tegnsæt konversion',
+'Enable conversion label'		=>	'<strong>Aktiver konversion</strong> (lav database tegnsæt konversion).',
+'Current character set label'	=>	'Nuværende tegnsæt',
+'Current character set info'	=>	'Acceptér standard for Engelsksprogede fora eller sæt tegnsættet til forummets primære sprog.',
+'Start update'					=>	'Start updatering',
+'Error converting users'		=>	'Fejl i at konvertere brugere',
+'Error info 1'					=>	'Der opstod en fejl da der skulle konverteres nogle brugere. Fejlen kan opstå når man konverterer fra FluxBB v1.2 hvis flere brugere har registret sig med meget ens brugernavn, eksempelvis "bob" og "böb".',
+'Error info 2'					=>	'For neden er en liste over brugere som fejlede at blive konverteret. Vælge venligst et nyt brugernavn for hver af disse brugere. Brugere som får nye brugernavn vil automatisk få sendt en email omkring ændringen.',
+'New username'					=>	'Nyt brugernavn',
+'Required'						=>	'(Nødvendig)',
+'Correct errors'				=>	'De følgende fejl skal rettes:',
+'Rename users'					=>	'Giv brugere nyt navn',
+'Successfully updated'			=>	'Din forum database opdateret. Du kan nu %s.',
+'go to index'					=>	'gå til forum indeks',
+
+'Unable to lock error'			=>	'Ikke i stand til at skrive opdaterings lås. Sikr dig at PHP har skrive adgang til bibloteket \'%s\'  og ingen andre er i gang med at køre opdaterings scriptet.',
+
+'Converting'					=>	'Konverterer %s …',
+'Converting item'				=>	'Konverterer %1$s %2$s …',
+'Preparsing item'				=>	'Forfortolker %1$s %2$s …',
+'Rebuilding index item'			=>	'Ombygger indeks for %1$s %2$s',
+
+'ban'							=>	'ban',
+'categories'					=>	'kategorier',
+'censor words'					=>	'censorerede ord',
+'configuration'					=>	'konfiguration',
+'forums'						=>	'fora',
+'groups'						=>	'grupper',
+'post'							=>	'indlæg',
+'report'						=>	'indberetning',
+'topic'							=>	'emne',
+'user'							=>	'bruger',
+'signature'						=>	'signatur',
+
+'Username too short error'		=>	'Brugernavne skal være mindst 2 tegn lange. Vælg venligst et længere brugernavn.',
+'Username too long error'		=>	'Brugernavn må ikke være længere end 25 tegn. Væg venligst et kortere brugernavn.',
+'Username Guest reserved error'	=>	'The username guest is reserved. Please choose another username.',
+'Username IP format error'		=>	'Brugernavne må ikke være i form af en IP adresse. Vælg venligst et andet brugernavn.',
+'Username bad characters error'	=>	'Brugernavne må ikke indholde følgende tegn: \', " og [ eller ] på samme tid. Vælg venligst et andet brugernavn.',
+'Username BBCode error'			=>	'Brugernavne må ikke indholde nogle BBkoder som forumet bruger. Vælg venligst et andet brugernavn.',
+'Username duplicate error'		=>	'En anden bruger er allerede registeret med dette brugernavn %s. Brugernavnet er for ens. Du må variere fra det med mindst ét alphanumerisk tegn (a-å eller 0-9). Vælg venligst et andet brugernavn.',
+
+);
