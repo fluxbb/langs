@@ -65,7 +65,6 @@ $lang_install = array(
 'Info 11'                       =>  'Proszę wprowadzić wymagane informacje w celu konfiguracji forum FluxBB. Można je później zmienić.',
 'General information'           =>  'Tytuł i opis forum.',
 'Board description'             =>  'Krótki opis forum (to pole może zawierać kod HTML)',
-'Info 14'                       =>  'Adres URL (bez kończącego slash\'a) do forum (przykład: http://forum.myhost.com lub http://myhost.com/~myuser). Adres <strong>musi</strong> być poprawny, w przeciwnynm razie administratorzy i moderatorzy nie będą mogli dokonywać zmian ustawień i przesyłać formularzy. Poniższa wartość jest tylko propozycją skryptu FluxBB.',
 'Appearance'                    =>  'Ustawienia wyglądu',
 'Info 15'                       =>  'Wybierz domyślny język i styl dla forum',
 'Default language'				=>	'Domyślny język',
