@@ -4,7 +4,7 @@ Subject: Risposta alla discussione: '<topic_subject>'
 
 Il messaggio è visibile qui: <post_url>
 
-Puoi cancellare in qualsiasi momento la tua iscrizione a: <unsubscribe_url>
+Puoi cancellare in qualsiasi momento la tua iscrizione da: <unsubscribe_url>
 
 -- 
 <board_mailer>

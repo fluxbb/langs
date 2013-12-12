@@ -4,7 +4,7 @@ Subject: Nuova discussione nel forum: '<forum_name>'
 
 La discussione è visibile qui: <topic_url>
 
-Puoi cancellare in qualsiasi momento la tua iscrizione a: <unsubscribe_url>
+Puoi cancellare in qualsiasi momento la tua iscrizione da: <unsubscribe_url>
 
 -- 
 <board_mailer>

@@ -1,4 +1,4 @@
-Subject: Richiesta di cambio indirizzo Email
+Subject: Richiesta di cambio indirizzo email
 
 Ciao <username>,
 

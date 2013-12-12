@@ -11,7 +11,7 @@ Di seguito il testo del messaggio:
 
 La discussione è consultabile a: <post_url>
 
-Puoi cancellare in qualsiasi momento la tua iscrizione a: <unsubscribe_url>
+Puoi cancellare in qualsiasi momento la tua iscrizione da: <unsubscribe_url>
 
 -- 
 <board_mailer>

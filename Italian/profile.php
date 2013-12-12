@@ -7,10 +7,10 @@ $lang_profile = array(
 
 // Navigazione e sezioni
 'Profile menu'					=>	'Menu profilo',
-'Section essentials'			=>	'Essenziali',
+'Section essentials'			=>	'Base',
 'Section personal'				=>	'Personali',
 'Section messaging'				=>	'Contatto',
-'Section personality'			=>	'Personalit&agrave;',
+'Section personality'			=>	'Avater e firma',
 'Section display'				=>	'Visualizzazione',
 'Section privacy'				=>	'Riservatezza',
 'Section admin'					=>	'Amministrazione',
@@ -66,7 +66,7 @@ $lang_profile = array(
 'Upload'						=>	'Carica', // pulsante di invio
 
 // Validazione moduli
-'Forbidden title'				=>	'Il titolo inserito contiente parole poco carine. Scegli un titolo differente, grazie.',
+'Forbidden title'				=>	'Il titolo inserito contiente parole poco carine (ovvero vietate). Scegli un titolo differente, grazie.',
 'Profile redirect'				=>	'Profilo aggiornato. Reindirizzamento &hellip;',
 
 // Visualizzazione profilo
@@ -87,7 +87,7 @@ $lang_profile = array(
 'Website not allowed'           =>  'L\'inserimento di un sito personale non &egrave; ancora possibile.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
-'MSN'							=>	'MSN Messenger',
+'MSN'							=>	'Microsoft account',
 'AOL IM'						=>	'AOL IM',
 'Yahoo'							=>	'Yahoo! Messenger',
 'Avatar'						=>	'Avatar',
@@ -97,16 +97,16 @@ $lang_profile = array(
 'Avatar info'					=>	'Un avatar &egrave; un\'immagine personale visualizzata sotto il proprio nome utente in ciascun messaggio.',
 'Change avatar'					=>	'Cambia avatar',
 'Signature legend'				=>	'Firma personale',
-'Signature info'				=>	'La firma &egrave; un breve testo pubblicato in calce ad ogni proprio messaggio. Pu&ograve; essere utilizzata per citare un testo rappresentativo, una frase di saluto, un breve commento o anche semplicemente il proprio nome.',
+'Signature info'				=>	'La firma &egrave; un breve testo pubblicato in calce a ogni proprio messaggio. Pu&ograve; essere utilizzata per inserire una frase di saluto, una citazione rappresentativa o anche semplicemente il proprio nome.',
 'Sig preview'					=>	'Firma attuale:',
 'No sig'						=>	'Nessuna firma impostata nel profilo.',
 'Signature quote/code/list/h'	=>	'I marcatori [quote], [code], [list], and heading BBCodes are not allowed in signatures.',
 'Topics per page'				=>	'Discussioni',
 'Posts per page'				=>	'Messaggi',
-'Leave blank'					=>	'Lasciare vuoto per utilizzare il valore predefinito',
+'Leave blank'					=>	'lasciare vuoto per utilizzare il valore predefinito',
 'Subscription legend'			=>	'Opzioni iscrizioni',
-'Notify full'					=>	'Includere una copia in testo semplice delle risposte nelle email di notifica.',
-'Auto notify full'				=>	'Iscrizione automatica a ogni discussione aperta da me.',
+'Notify full'					=>	'Includere una copia delle risposte (in formato testo) nelle email di notifica.',
+'Auto notify full'				=>	'Iscrizione automatica a ogni discussione iniziata.',
 'Show smilies'					=>	'Converti emoticon testuali in icone grafice.',
 'Show images'					=>	'Visualizza immagini nei messaggi.',
 'Show images sigs'				=>	'Visualizza immagini nelle firme degli utenti.',
@@ -117,14 +117,14 @@ $lang_profile = array(
 'Admin note'					=>	'Nota amministratore',
 'Pagination legend'				=>	'Opzioni di paginazione',
 'Post display legend'			=>	'Opzioni di visualizzazione dei messaggi',
-'Post display info'				=>	'Disattivare queste opzioni (in particolare la visualizzazione delle immagini) qualora si utilizzi una connessione ad internet lenta.',
+'Post display info'				=>	'Disattivare queste opzioni (in particolare la visualizzazione delle immagini) qualora si utilizzi una lenta connessione a Internet.',
 'Instructions'					=>	'Una volta aggiornato il profilo, si torner&agrave; a questa pagina.',
 
 // Amministrazione
 'Group membership legend'		=>	'Scegli gruppo utenti',
 'Save'							=>	'Salva',
 'Set mods legend'				=>	'Accesso moderatori',
-'Moderator in info'				=>	'Assegnare i forum da moderare. Nota: si applica ai soli moderatori. Gli amministratori hanno pieni permessi in tutto il forum.',
+'Moderator in info'				=>	'Assegnare i forum da moderare. Nota: gli amministratori hanno comunque pieni permessi in tutto il forum.',
 'Update forums'					=>	'Aggiorna forum',
 'Delete ban legend'				=>	'Gestione utente',
 'Delete user'					=>	'Cancella utente',
