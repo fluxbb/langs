@@ -21,6 +21,6 @@ $lang_login = array(
 
 // Forget password mail stuff
 'Forget mail'				=>	'一封包含如何重设密码说明的邮件已经发送至指定电子信箱。如未收到请联系论坛管理员',
-'Email flood'				=>	'该账户在过去一小时内已经申请过重设密码。请稍后再尝试重设密码操作。'
+'Email flood'				=>	'该账户在过去一小时内已经申请过重设密码。请等待 %s 分钟后再重新尝试重设密码操作。'
 
 );

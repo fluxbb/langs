@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin_common
+// Language definitions used in admin_common.php
 $lang_admin_common = array(
 
 // The menu
@@ -19,6 +19,7 @@ $lang_admin_common = array(
 'Prune'					=>	'帖子清理',
 'Maintenance'			=>	'维护',
 'Reports'				=>	'举报项',
+'Server statistics'		=>	'服务器统计',
 
 'Admin'					=>	'管理设置',
 'Go back'				=>	'返回',

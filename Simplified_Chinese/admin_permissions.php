@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-permissions.php
+// Language definitions used in admin_permissions.php
 $lang_admin_permissions = array(
 
 'Perms updated redirect'	=>	'权限设置已更新。正在跳转 …',
