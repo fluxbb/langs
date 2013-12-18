@@ -12,7 +12,7 @@ $lang_install = array(
 'Already installed'				=>	'FluxBB 似乎已安装。请点击<a href="index.php">此链接</a>前往。',
 'You are running error'			=>	'您的 %1$s 版本为 %2$s。 FluxBB %3$s 至少需要 %1$s %4$s 方可正确运行。您在继续之前，必须升级您的 %1$s 设置。',
 'My FluxBB Forum'				=>	'我的FluxBB论坛',
-'Description'					=>	'抱歉没人能告诉您FluxBB是什么 - 您需要自己去体会。',
+'Description'					=>	'FluxBB是什么？需要您用心体会。',
 'Username 1'					=>	'用户名长度不可少于2个字符。',
 'Username 2'					=>	'用户名长度不可超过25个字符。',
 'Username 3'					=>	'guest 是保留的用户名。',
