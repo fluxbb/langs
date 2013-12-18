@@ -17,7 +17,10 @@ $lang_common = array(
 'No permission'						=>	'您没有权限访问该页面。',
 'Bad referrer'						=>	'HTTP_REFERER 错误。您从一个未经授权的地址接入本页。如果该问题再次发生，请检查设置 管理设置/配置选项 中的 \'根目录网址\' 填写是否正确，并确认您访问论坛的链接正是指向该网址。要获得关于此问题的更多信息请访问FluxBB官方论坛。',
 'No cookie'							=>	'您似乎已经登录成功，但是cookie未能正确设置。请检查您的相关设置，如果该功能可用，请对本站启用cookies。',
-'Pun include error'					=>	'Unable to process user include %s from template %s. There is no such file in neither the template directory nor in the user include directory.',
+'Pun include extension'  			=>	'无法用户在模版引用 %s 到模板 %s 。"%s"文件是不允许的。',
+'Pun include directory'				=>	'无法用户在模版引用 %s 到模板 %s 。目录遍历是不允许的',
+'Pun include error'					=>	'无法用户在模版引用 %s 到模板 %s 。在template目录和用户引用目录均无法找到该文件。',
+
 
 // Miscellaneous
 'Announcement'						=>	'公告',
@@ -41,7 +44,7 @@ $lang_common = array(
 'Required'							=>	'(必需)',
 'required field'					=>	'不能为空。', // For javascript form validation
 'Last post'							=>	'最后发表',
-'by'								=>	'by', // As in last post by someuser
+'by'								=>	'by', // As in last post by some user
 'New posts'							=>	'查看更新', // The link that leads to the first new post
 'New posts info'					=>	'查看该主题中新增的帖子。', // The popup text for new posts links
 'Username'							=>	'用户名',

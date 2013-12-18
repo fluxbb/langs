@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'您必须填写一个用户组名。',
@@ -41,7 +41,7 @@ $lang_admin_groups = array(
 'User title help'				=>	'这个头衔会取代该组成员的所有级别名称。如果您要使用默认的头衔或使用级别名称，请在此处留空。',
 'User title help'				=>	'这个头衔会取代该组成员的所有级别名称。如果您要使用默认的头衔或使用级别名称，请在此处留空。 ("%s").',
 'Promote users label'			=>	'用户晋升',
-'Promote users help'			=>	'如果用户的发帖量达到了一定的数量，您可以自动提升用户到一个新的用户组。选择"%s"以禁用此功能。出于安全考虑，您不能选择管理员组。同时请注意用户组变更生效时间为他们下一次发帖。',
+'Promote users help'			=>	'如果用户的发帖量达到了一定的数量，您可以自动提升用户到一个新的用户组。选择"%s"以禁用此功能。出于安全考虑，您不能选择管理员组。同时请注意用户组变更生效时间为他们下一次发帖。注意，您输入的这个帖子总数量是用户的帖子总数量，而不是在这个分组下的帖子总数量。',
 'Disable promotion'				=>	'禁用晋升',
 'Mod privileges label'			=>	'允许行使版主权限',
 'Mod privileges help'			=>	'要允许某用户行使版主权限，您必须分配他/她为一个或多个版块的版主。该设置在该用户的个人资料栏下的管理页面中。',
