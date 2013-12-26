@@ -28,6 +28,8 @@ $lang_admin_options = array(
 'Board desc help'					=>	'O scurtă descriere a acestei comunități (afișare în antetul fiecărei pagini). Acest câmp poate conține HTML.',
 'Base URL label'					=>	'URL Principal',
 'Base URL help'						=>	'Adresa URL completă a forumului fără slash-ul de închiere (exemplu http://www.mydomain.com/forums). Aceasta <strong>trebuie</strong> să fie adresa corectă pentru ca toate opțiunile de administrare și moderare să funcționeze. Dacă întâlnești "Eroare referer", ai completat cel mai probabil, incorect.',
+'Base URL problem'          		=>  'Copia ta FluxBB nu poate converti în mod automat domeniile care conțin caractere speciale, cum ar fi diacriticele. De vreme ce adresa URL a forumului tău conține caractere speciale, <strong>trebuie</strong> să utilizezi un utilitar de convertire online pentru a evita erorile de tipul "Bad referer".',
+
 'Timezone label'					=>	'Fus orar standard',
 'Timezone help'						=>	'Fusul orar standard pentru vizitatorii și utilizatorii care încearcă să se înregistreze pe forum.',
 'DST label'							=>	'Ajustare Oră de Vară',
