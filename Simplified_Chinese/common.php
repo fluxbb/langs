@@ -125,6 +125,7 @@ $lang_common = array(
 'Jump to'							=>	'论坛跳转',
 'Go'								=>	'前往', // Submit button in forum jump
 'Moderate topic'					=>	'管理主题',
+'All'                               =>  '所有',
 'Move topic'						=>	'移动主题',
 'Open topic'						=>	'开启主题',
 'Close topic'						=>	'关闭主题',
