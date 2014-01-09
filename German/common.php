@@ -124,6 +124,7 @@ $lang_common = array(
 'Jump to'							=>	'Wechseln zu',
 'Go'								=>	' Los ', // Der Absende-Button zum Sprung ins Forum
 'Moderate topic'					=>	'Thema moderieren',
+'All'							=>	'Alle',
 'Move topic'						=>	'Thema verschieben',
 'Open topic'						=>	'Thema öffnen',
 'Close topic'						=>	'Thema schließen',
