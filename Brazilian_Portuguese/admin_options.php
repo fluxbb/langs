@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'HTTP_REFERER ruim. Se você moveu este fórum para um novo servidor ou alterou o domínio, você precisa atualizar a URL Base manualmente no banco de dados (procure por o_base_url na tabela config) e então limpe o cache excluindo todos os arquivos .php na pasta /cache.',
@@ -123,8 +123,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'Ative isso para censurar palavras específicas no site. Veja %s para mais informações.',
 'Signatures label'					=>	'Assinaturas',
 'Signatures help'					=>	'Permitir que os usuários anexem uma assinatura às suas mensagens.',
-'User ranks label'					=>	'Classes de usuários',
-'User ranks help'					=>	'Ative isso para usar classes de usuários. Veja %s para mais informações.',
 'User has posted label'				=>	'O usuário publicou anteriormente',
 'User has posted help'				=>	'Esta função exibe um ponto em frente aos tópicos no viewforum.php caso o usuário autenticado tenha publicado no tópico anteriormente. Desative se estiver experimentando sobrecarga no servidor.',
 'Topic views label'					=>	'Visualizações de tópico',
@@ -163,7 +161,7 @@ $lang_admin_options = array(
 // Avatars section
 'Avatars subhead'					=>	'Avatares',
 'Use avatars label'					=>	'Usar avatares',
-'Use avatars help'					=>	'Quando ativo, os usuários poderão enviar um avatar que será exibido abaixo de seu título/classe.',
+'Use avatars help'					=>	'Quando ativo, os usuários poderão enviar um avatar que será exibido abaixo de seu título.',
 'Upload directory label'			=>	'Diretório de envio',
 'Upload directory help'				=>	'O diretório de armazenamento de avatares (relativo ao diretório base do FluxBB). O PHP precisa ter permissões de escrita neste diretório.',
 'Max width label'					=>	'Largura máxima',

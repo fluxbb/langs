@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'						=>	'Você não possui permissão para acessar esta página.',
 'Bad referrer'						=>	'HTTP_REFERER ruim. Você foi encaminhado à esta página a partir de uma fonte não autorizada. Se o problema continuar, por favor, certifique-se que a \'URL Base\' está corretamente definida em Administração/Opções e que você está visitando o fórum através desse mesmo endereço. Mais informações sobre a verificação de encaminhamento podem ser encontradas na documentação do FluxBB.',
 'No cookie'							=>	'Você parece ter autenticado corretamente, porém um cookie não pôde ser criado. Por favor, verifique suas configurações e se aplicável, ative cookies para este website.',
+'Pun include extension'        		=>  'Impossível processar inclusão do usuário %s do estilo %s. Arquivos "%s" não são permitidos',
+'Pun include directory'		        =>  'Impossível processar inclusão do usuário %s do estilo %s. Passagem de diretório não é permitida',
 'Pun include error'					=>	'Impossível processar inclusão do usuário %s do estilo %s. Tal arquivo não existe nem na pasta do estilo e nem no diretório de inclusão do usuário.',
 
 // Miscellaneous
@@ -41,7 +43,7 @@ $lang_common = array(
 'Required'							=>	'(Obrigatório)',
 'required field'					=>	'é um campo obrigatório neste formuário.', // For javascript form validation
 'Last post'							=>	'Última mensagem',
-'by'								=>	'por', // As in last post by someuser
+'by'								=>	'por', // As in last post by some user
 'New posts'							=>	'Novas mensagens', // The link that leads to the first new post
 'New posts info'					=>	'Ir à primeira nova mensagem neste tópico.', // The popup text for new posts links
 'Username'							=>	'Nome de usuário',
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'Páginas:',
 'Page'								=>	'Página %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>  'tag [url]:',
 'img tag'							=>	'Tag [img]:',
 'Smilies'							=>	'Emoticons:',
 'and'								=>	'e',
@@ -85,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] foi aberto dentro de si mesmo, isto não é permitido',
 'BBCode error no closing tag'		=>	'[%1$s] foi encontrado sem a tag de fechamento [/%1$s]',
 'BBCode error empty attribute'		=>	'a tag [%s] está com uma seção de atributo em vazio',
+'BBCode error tag not allowed'		=>  'Você não tem permissão para usar tags [%s]',
+'BBCode error tag url not allowed'	=>  'Você não tem permissão para publicar links',
 'BBCode code problem'				=>	'Há um problema com suas tags [code]',
 'BBCode list size error'			=>	'Sua lista está muito longa para processar, por favor, torne-a menor!',
 

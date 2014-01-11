@@ -21,6 +21,6 @@ $lang_login = array(
 
 // Forget password mail stuff
 'Forget mail'				=>	'Um email foi enviado para o endereço especificado com instruções sobre como alterar sua senha. Se você não o receber, entre em contato com o administrador do fórum em',
-'Email flood'				=>	'Esta conta já fez uma solicitação de nova senha na última hora. Por favor, aguarde um pouco antes de solicitar uma nova senha novamente.'
+'Email flood'				=>	'Esta conta já fez uma solicitação de nova senha na última hora. Por favor, aguarde %s minutos antes de solicitar uma nova senha novamente.'
 
 );

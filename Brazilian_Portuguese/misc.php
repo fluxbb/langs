@@ -11,7 +11,7 @@ $lang_misc = array(
 'No email subject'				=>	'Você deve digitar um assunto.',
 'No email message'				=>	'Você deve digitar uma mensagem.',
 'Too long email message'		=>	'As mensagens não podem ter mais de 65535 caracteres (64 KB).',
-'Email flood'					=>	'Ao menos %s segundos devem passar entre cada email enviado. Por favor, aguarde um pouco e tente enviar novamente.',
+'Email flood'					=>	'Ao menos %s segundos devem passar entre cada email enviado. Por favor, aguarde %s segundos e tente enviar novamente.',
 'Email sent redirect'			=>	'Email enviado. Redirecionando …',
 'Send email to'					=>	'Enviar email para',
 'Email subject'					=>	'Assunto',
@@ -22,7 +22,7 @@ $lang_misc = array(
 // Report
 'No reason'						=>	'Você deve digitar uma razão.',
 'Reason too long'				=>	'Sua mensagem deve ter menos de 65535 caracteres (~64kb).',
-'Report flood'					=>	'Ao menos %s segundos devem passar entre denúncias. Por favor, aguarde um pouco e tente novamente.',
+'Report flood'					=>	'Ao menos %s segundos devem passar entre denúncias. Por favor, aguarde %s segundos e tente novamente.',
 'Report redirect'				=>	'Mensagem denunciada. Redirecionando …',
 'Report post'					=>	'Denunciar mensagem',
 'Reason'						=>	'Razão',

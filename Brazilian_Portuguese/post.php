@@ -26,8 +26,7 @@ $lang_post = array(
 'Subscribe'			=>	'Inscrever-me neste tópico',
 'Stay subscribed'	=>	'Continuar inscrito neste tópico',
 'Topic review'		=>	'Revisão do tópico (mais recente primeiro)',
-'Flood start'		=>	'Ao menos',
-'flood end'			=>	'segundos devem passar entre mensagens. Por favor, aguarde um pouco e tente novamente.',
+'Flood start'		=>	'Ao menos %s segundos devem passar entre mensagens. Por favor, aguarde %s segundos e tente novamente.',
 'Preview'			=>	'Prever', // submit button to preview message
 
 // Edit post
