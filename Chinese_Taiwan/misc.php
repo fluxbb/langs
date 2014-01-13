@@ -11,7 +11,7 @@ $lang_misc = array(
 'No email subject'				=>	'必須輸入郵件主題。',
 'No email message'				=>	'必須輸入郵件內容。',
 'Too long email message'		=>	'郵件長度不可超過65535字元 (64 KB)。',
-'Email flood'					=>	'兩次發送郵件之間至少需要間隔 %s 秒。請稍後再嘗試發送。',
+'Email flood'					=>	'兩次發送郵件之間至少需要間隔 %s 秒。請等後 %s 秒再嘗試發送。',
 'Email sent redirect'			=>	'郵件已發送。重新導向中 …',
 'Send email to'					=>	'發送郵件給',
 'Email subject'					=>	'主題',
@@ -22,7 +22,7 @@ $lang_misc = array(
 // Report
 'No reason'						=>	'您必須輸入一個理由。',
 'Reason too long'				=>	'您輸入的理由不得超過65535字元 (~64kb)。',
-'Report flood'					=>	'兩次舉報之間至少需要間隔 %s 秒。請稍後再嘗試。',
+'Report flood'					=>	'兩次舉報之間至少需要間隔 %s 秒。請等後 %s 秒再嘗試。',
 'Report redirect'				=>	'舉報成功。重新導向中 …',
 'Report post'					=>	'舉報文章',
 'Reason'						=>	'理由',

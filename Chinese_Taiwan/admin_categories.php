@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-categories.php
+// Language definitions used in admin_categories.php
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'您必須輸入一個分區名稱',

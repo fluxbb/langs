@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin_common
+// Language definitions used in admin_common.php
 $lang_admin_common = array(
 
 // The menu
@@ -15,11 +15,11 @@ $lang_admin_common = array(
 'Options'				=>	'選項',
 'Permissions'			=>	'權限',
 'Censoring'				=>	'詞彙過濾',
-'Ranks'					=>	'等級',
 'Bans'					=>	'封鎖',
 'Prune'					=>	'文章清理',
 'Maintenance'			=>	'維護',
 'Reports'				=>	'舉報項',
+'Server statistics'		=>	'伺服器統計資訊',
 
 'Admin'					=>	'論壇管理設定',
 'Go back'				=>	'返回',
