@@ -12,9 +12,9 @@ $lang_update = array(
 'Database password info'		=>	'Para realizar a atualização do banco de dados, por favor, digite a senha do banco de dados com que o FluxBB foi instalado. Se você não lembra da senha, pode encontrá-la no arquivo \'config.php\'.',
 'Database password note'		=>	'Se você utiliza SQLite (e portanto não possui senha de banco de dados) por favor, ao invés disso use o nome do arquivo do banco de dados. É necessário digitar o nome do banco de dados exatamente igual o nome registrado no arquivo de configuração.',
 'Database password'				=>	'Senha do banco de dados',
-'Maintenance'					=>  'Manutenção',
-'Maintenance message info'		=>  'A mensagem que será exibida aos usuários durante o processo de atualização. Este texto não será processado como mensagens comuns, e portanto, pode conter HTML.',
-'Maintenance message'			=>  'Mensagem de manutenção',
+'Maintenance'					=>	'Manutenção',
+'Maintenance message info'		=>	'A mensagem que será exibida aos usuários durante o processo de atualização. Este texto não será processado como mensagens comuns, e portanto, pode conter HTML.',
+'Maintenance message'			=>	'Mensagem de manutenção',
 'Next'							=>	'Próximo',
 
 'You are running error'			=>	'Você está usando %1$s versão %2$s. FluxBB %3$s requer ao menos %1$s %4$s para rodar corretamente. Você deve atualizar sua instalação %1$s antes de continuar.',
