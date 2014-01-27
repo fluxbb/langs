@@ -126,6 +126,7 @@ $lang_common = array(
 'Jump to'							=>	'Vai a',
 'Go'								=>	' Vai ', // Testo pulsante per "vai a"
 'Moderate topic'					=>	'Modera discussione',
+'All'                   => 'tutta',
 'Move topic'						=>	'Sposta discussione',
 'Open topic'						=>	'Apri discussione',
 'Close topic'						=>	'Chiudi discussione',
