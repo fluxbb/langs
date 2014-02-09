@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'Een kort beschrijving van het forum, te zien onder de titel van je forum. Dit veld ondersteunt HTML.',
 'Base URL label'					=>	'Root URL',
 'Base URL help'						=>	'De volledige URL van het forum zonder "/" van achter (bv http://www.fluxbb.org/forum). Dit <strong>moet</strong> goed zijn, anders werken admin en moderator opties mogelijk niet. Als je errors als "Bad referer" krijgt is dit mogelijk verkeerd ingesteld.',
+'Base URL problem'        			=>  'Deze installatie bied geen ondersteuning voor het automatisch converteren van internationale domeinnamen. Als je Root URL speciale tekens bevat, moet je deze online converteren om "Bad referer" errors te vermijden.',
 'Timezone label'					=>	'Standaard tijd zone',
 'Timezone help'						=>	'De standaard tijd zone voor gasten en gebruikers die zich registreren.',
 'DST label'							=>	'Aanpassing voor zomertijd',
@@ -115,8 +116,8 @@ $lang_admin_options = array(
 
 // Features sectie
 'Features subhead'					=>	'Functies',
-'Quick post label'					=>	'Snel posten',
-'Quick post help'					=>	'FluxBB zal een veld onderaan ieder topic toevoegen zodat gebruikers van daaruit een post kunnen plaatsen in dat topic.',
+'Quick post label'					=>	'Snel reageren',
+'Quick post help'					=>	'FluxBB zal een veld onderaan ieder topic toevoegen zodat gebruikers van daaruit een reactie kunnen plaatsen in dat topic.',
 'Users online label'				=>	'Members online',
 'Users online help'					=>	'Laat onderaan de index pagina zien hoeveel gasten en geregistreerde gebruikers het forum bezoeken.',
 'Censor words label'				=>	'Censureer woorden',
