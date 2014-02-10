@@ -122,6 +122,7 @@ $lang_common = array(
 'Jump to'							=>	'Ga naar',
 'Go'								=>	' Ga ', // Submit button in forum jump
 'Moderate topic'					=>	'Modereer topic',
+'All'								=>	'Alles',
 'Move topic'						=>	'Verplaats topic',
 'Open topic'						=>	'Open topic',
 'Close topic'						=>	'Sluit topic',
