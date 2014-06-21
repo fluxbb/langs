@@ -124,6 +124,7 @@ $lang_common = array(
 'Jump to'							=>	'Skocz do',
 'Go'								=>	' Idź ', // Submit button in forum jump
 'Moderate topic'					=>	'Moderuj wątek',
+'All'								=>  'Wszystkie posty',
 'Move topic'						=>	'Przenieś wątek',
 'Open topic'						=>	'Otwórz wątek',
 'Close topic'						=>	'Zamknij wątek',
