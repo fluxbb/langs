@@ -7,6 +7,7 @@ $lang_admin_reports = array(
 'New reports head'			=>	'ڕاپۆرتە نوێیەکان',
 'Deleted user'				=>	'بەکارهێنەری سڕاوە',
 'Deleted'					=>	'سڕاوە',
+'Post ID'					=>	'بابەت #%s',
 'Report subhead'			=>	'%s ڕاپۆرتکراو',
 'Reported by'				=>	'ڕاپۆرتکراوە لەلایەن %s',
 'Reason'					=>	'هۆکار',

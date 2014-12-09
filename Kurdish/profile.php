@@ -1,4 +1,3 @@
-\
 <?php
 
 // Language definitions used in profile.php
@@ -75,12 +74,15 @@ $lang_profile = array(
 'Posts info'					=>	'پەیامەکانی:  %s',
 'Registered info'				=>	'تۆماربووە: %s',
 'Last post info'				=>	'دوایین پەیام: %s',
+'Last visit info'				=>	'Last visit: %s',
 'Show posts'					=>	'نیشاندانی سەرجەم پەیامەکان',
 'Show topics'					=>	'نیشاندانی سەرجەم بابەتەکان',
 'Show subscriptions'			=>	'نیشاندانی سەرجەم بەشداریکردنەکان',
 'Realname'						=>	'ناوی تەواو',
 'Location'						=>	'شوێن',
 'Website'						=>	'وێبگە',
+'Invalid website URL'			=>	'بەستەری ماڵپەڕەکەت نادروستە.',
+'Website not allowed'			=>	'ڕێگەت پێ نەدراوە ماڵپەڕ لە نێو پرۆفایەلەکەت بنوسی.',
 'Jabber'						=>	'جابەر',
 'ICQ'							=>	'ICQ ژمارەی',
 'MSN'							=>	'MSN پەیامبەر',

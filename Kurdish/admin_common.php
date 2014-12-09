@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin_common
+// Language definitions used in admin_common.php
 $lang_admin_common = array(
 
 // The menu
@@ -15,11 +15,11 @@ $lang_admin_common = array(
 'Options'				=>	'هەڵبژاردنەکان',
 'Permissions'			=>	'دەسەڵاتەکان',
 'Censoring'				=>	'چاودێریکردن',
-'Ranks'					=>	'پلەکان',
 'Bans'					=>	'ڕاگیراوەکان',
 'Prune'					=>	'بڕینەوەکان',
 'Maintenance'			=>	'چاککردنەکان',
 'Reports'				=>	'ڕاپۆرتەکان',
+'Server statistics'				=>	'دۆخی ڕاژە',
 
 'Admin'					=>	'بەڕێوبەر',
 'Go back'				=>	'بۆ دواوە',

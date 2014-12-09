@@ -12,7 +12,11 @@ $lang_update = array(
 'Database password info'		=>	'ئەو بەجێ گەیاندنی نوێکردنەوەی بنکەدراوەکە تکایە تێپەڕەوشەی بنکەدراوەکە بنووسە کە لەگەڵ FluxBB دامەزراوە ،ئەگەر لەیادت نییە ،پاشەکەوتکراوە لە پەڕگەی  \'config.php\' .',
 'Database password note'		=>	'ئەگەر تۆ SQLite  بەکاردەبەی (وە هەستدەکەی تێپەڕەوشەی بنکەدراوەت نییە) تکایە ناوی پەڕگەی بنکەدراوە بەکارببە لەباتی. ئەمە پێویستە بەتەواوی لەگەڵ ناوی پەڕگەی بنکەدراوەکە بێتەوە کە لە پەڕگەی دیمەنکردنت دراوە.',
 'Database password'				=>	'تێپەڕەوشەی بنکەدراوە',
+'Maintenance'					=>	'Maintenance',
+'Maintenance message info'		=>	'The message that will be displayed to users during the updating process. This text will not be parsed like regular posts and thus may contain HTML.',
+'Maintenance message'		    =>	'Maintenance message',
 'Next'							=>	'دواتر',
+
 'You are running error'			=>	'تۆ %1$s بەکاردەبەی وەشانی %2$s. FluxBB پێویستی بەلایەنی کەم بە %1$s %4$s بۆ کارکردن بە دروستی. تۆ پێویستە %1$s ـەکەت نوێبکەیەوە پێش ئەوەی بەردەوامبیت.',
 'Version mismatch error'		=>	'وەشان نەگونجاوە. بنکەدراوەکە \'%s\' پێناچێت لەسەر نەخشەیەکی بنکەدراوەی FluxBB کە پاڵپشتکراوە لەلایەن ئەم پرۆگرامۆکەی نوێکردنەوەیە.',
 'Invalid file error'			=>	'ناوی پەڕگەی بنکەدراوەی نادروست. کاتێک SQLite بەکاردەبەی ناوی پەڕگەی بنکەدراوەکە پێویستە بنووسرێت بەتەواوی وەکو ئەوەی دەردەکەوێ لە \'%s\' ـەکەت.',
@@ -55,7 +59,6 @@ $lang_update = array(
 'forums'						=>	'مەکۆکان',
 'groups'						=>	'گرووپەکان',
 'post'							=>	'پەیام',
-'ranks'							=>	'پلەکان',
 'report'						=>	'ڕاپۆرت',
 'topic'							=>	'بابەت',
 'user'							=>	'بەکارهێنەر',
@@ -70,8 +73,5 @@ $lang_update = array(
 
 'Username duplicate error'		=>	'کەسێک پێشتر تۆماربووە لەگەڵ ناوی بەکارهێنەر %s. ئەو ناوی بەکارهێنەری نووسیوتە زۆر لێکچووە. ناوی بەکارهێنەرەکە پێویستە جیاوازتر بێت لەوە بەهۆی بەلایەنی کەم تیپێکی ئەلفوبایی. تکایە ناوێکی بەکارهێنەری جیاواز هەڵبژێرە.',
 
-'JavaScript disabled'			=>	'وادیارە JavaScript ناچالاککراوە. %s.',
-'Click here to continue'		=>	'کرتە لێرەبکە بۆ بەردەوامبوون',
-'Required field'				=>	'خانەیەکی داواکراوە لە فۆرمەکە'
 
 );
