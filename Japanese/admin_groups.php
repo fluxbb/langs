@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'グループ名を入力してください。',
@@ -39,6 +39,9 @@ $lang_admin_groups = array(
 'Group title label'				=>	'グループ名',
 'User title label'				=>	'ユーザー名',
 'User title help'				=>	'この名前はランクより優先して表示されます。グループ名やランクを表示する場合はブランクのままにします。',
+'Promote users label'			=>	'Promote users',
+'Promote users help'			=>	'You can promote users to a new group automatically if they reach a certain number of posts. Select "%s" to disable. For security reasons, you are not allowed to select an administrator group here. Also note that group changes for users affected by this setting may only take effect after their next post. Note that the amount of posts you enter is the total amount of posts of a user, not the amount of posts made as a member of this group.',
+'Disable promotion'				=>	'Disable promoting',
 'Mod privileges label'			=>	'モデレータ権限',
 'Mod privileges help'			=>	'グループユーザーにはモデレータ権限が与えられ、１つまたは複数のフォーラムをモデレートします。設定はユーザープロフィールの管理ページで行います。',
 'Edit profile label'			=>	'プロフィールの編集',
@@ -63,6 +66,8 @@ $lang_admin_groups = array(
 'Delete posts help'				=>	'自分の投稿の削除を許可します。',
 'Delete topics label'			=>	'トピックの削除',
 'Delete topics help'			=>	'自分が作成したトピックの削除（すべての返信を含む）を許可します。',
+'Post links label'				=>	'Post links',
+'Post links help'				=>	'Allow users in this group to include links in their posts. This setting also applies to signatures and the website field in users\' profiles.',
 'Set own title label'			=>	'ユーザータイトルの設定',
 'Set own title help'			=>	'自分のユーザータイトルの設定を許可します。',
 'User search label'				=>	'検索',
@@ -77,6 +82,8 @@ $lang_admin_groups = array(
 'Search flood help'				=>	'次の検索ができるまでの待ち時間（単位：秒）。0（ゼロ）は無効。',
 'E-mail flood label'			=>	'メール間隔',
 'E-mail flood help'				=>	'次のメールが送信できるまでの待ち時間（単位：秒）。0（ゼロ）は無効。',
+'Report flood label'			=>	'Report flood interval',
+'Report flood help'				=>	'Number of seconds that users in this group have to wait between reports. Set to 0 to disable.',
 'Moderator info'				=>	' このグループのユーザーはモデレータ権限を持ちますが、１つまたは複数のフォーラムのモデレータに任命する必要があることに注意してください。モデレータへの任命はプロフィールの管理ページで設定できます。',
 
 );

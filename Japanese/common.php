@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'						=>	'ページにアクセスする権限がありません。',
 'Bad referrer'						=>	'HTTP_REFERER が不正です。許可されていない場所からページを参照しました。問題が繰り返し起こる場合は、管理オプションの\'ベースURL\'にフォーラムのURLを正しく反映されていることを確認してください。リファラーチェックに関する詳しい情報は、FluxBBドキュメントを参照してください。',
 'No cookie'							=>	'ログインは成功したように見えますが、cookie が未設定です。ブラウザの設定を確認して、このウェブサイトのクッキーを有効にしてください。',
+'Pun include extension'  			=>	'Unable to process user include %s from template %s. "%s" files are not allowed',
+'Pun include directory'				=>	'Unable to process user include %s from template %s. Directory traversal is not allowed',
 'Pun include error'					=>	'%s が、テンプレート（%s）からインクルードできません。ファイルが template ディレクトリにも include ディレクトリにも存在しません。',
 
 // Miscellaneous
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'ページ:',
 'Page'								=>	'ページ %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'[url] tag:',
 'img tag'							=>	'[img]タグ:',
 'Smilies'							=>	'スマイリー:',
 'and'								=>	'と',
@@ -69,7 +72,6 @@ $lang_common = array(
 'Write message legend'				=>	'メッセージを書いて送信してください。',
 'Previous'							=>	'前へ',
 'Next'								=>	'次へ',
-'Forum index'						=>	'フォーラムの索引',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -86,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s]の入れ子が正しくありません。これは許可されません。',
 'BBCode error no closing tag'		=>	'[%1$s]はエンドタグ[/%1$s]がありません。',
 'BBCode error empty attribute'		=>	'[%s]タグに属性が指定されていません。',
+'BBCode error tag not allowed'		=>	'You are not allowed to use [%s] tags',
+'BBCode error tag url not allowed'	=>	'You are not allowed to post links',
 'BBCode code problem'				=>	'[code]タグに問題があります。',
 'BBCode list size error'			=>	'リストが長すぎて解析できません。短くしてください！',
 
@@ -120,6 +124,7 @@ $lang_common = array(
 'Jump to'							=>	'フォーラムにジャンプ',
 'Go'								=>	' Go ', // Submit button in forum jump
 'Moderate topic'					=>	'トピックを管理',
+'All'					=>	'All',
 'Move topic'						=>	'トピックを移動',
 'Open topic'						=>	'トピックの閉鎖を解除',
 'Close topic'						=>	'トピックを閉鎖',
@@ -137,24 +142,6 @@ $lang_common = array(
 'Query'								=>	'クエリー',
 'Total query time'					=>	'クエリー総時間: %s',
 
-// Email related notifications
-'New user notification'				=>	'ユーザー登録のお知らせ',
-'New user message'					=>	'ユーザー \'%s\' が、%s フォーラムに登録しました。',
-'Banned email notification'			=>	'警告 - 規制されたメールが発見されました。',
-'Banned email register message'		=>	'ユーザー \'%s\' が、アクセス制限されたメールアドレスで登録しました: %s',
-'Banned email change message'		=>	'ユーザー \'%s\' が、アクセス制限されたメールアドレスに変更しました: %s',
-'Banned email post message'			=>	'ユーザー \'%s\' が、アクセス制限されたメールアドレスで投稿しました: %s',
-'Duplicate email notification'		=>	'メールアドレス重複のお知らせ',
-'Duplicate email register message'	=>	'ユーザー \'%s\' が、既存のメールアドレスで登録しました: %s',
-'Duplicate email change message'	=>	'ユーザー \'%s\' が、既存のメールアドレスに変更しました: %s',
-'Report notification'				=>	'通報(%d) - \'%s\'',
-'Report message 1'					=>	'ユーザー \'%s\' が、下記のメッセージで通報しました: %s',
-'Report message 2'					=>	'理由: %s',
-
-'User profile'						=>	'プロフィール: %s',
-'Post URL'							=>	'投稿 URL: %s',
-'Email signature'					=>	'フォーラム管理'."\n".'（このメッセージには返信しないでください）',
-
 // For extern.php RSS feed
 'RSS description'					=>	'%s の最近のトピック',
 'RSS description topic'				=>	' %s の最近の投稿',
@@ -169,5 +156,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'新しい通報があります。',
 'Maintenance mode enabled'			=>	'メンテナンスモード中',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

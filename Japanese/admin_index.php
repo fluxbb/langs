@@ -7,7 +7,6 @@ $lang_admin_index = array(
 'Upgrade check failed message'		=>	'アップグレードチェックに失敗しました（原因は不明）。',
 'Running latest version message'	=>	'FluxBBの最新バージョンが適用されています。',
 'New version available message'		=>	'FluxBBの新しいバージョンがリリースされています。最新バージョンをダウンロード： %s',
-'PHPinfo disabled message'			=>	'このサーバーではPHPのphpinfo関数が無効です。',
 'Not available'						=>	'利用不可',
 'Forum admin head'					=>	'フォーラム管理',
 'NA'								=>	'N/A',
@@ -21,10 +20,19 @@ $lang_admin_index = array(
 'Welcome 7'							=>	'ユーザーのランク設定',
 'Welcome 8'							=>	'古い投稿の整理',
 'Welcome 9'							=>	'通報処理',
-'Statistics head'					=>	'情報',
+'About head'						=>	'About FluxBB',
 'FluxBB version label'				=>	'FluxBBのバージョン',
 'Check for upgrade'					=>	'アップグレードをチェック',
 'FluxBB version data'				=>	'v%s - %s',
+'Server statistics label'			=>	'Server statistics',
+'View server statistics'			=>	'View server statistics',
+'Support label'						=>	'Support',
+'Forum label'						=>	'Forum',
+'IRC label'							=>	'IRC channel',
+
+// Language definitions used in admin_statistics.php
+'PHPinfo disabled message'			=>	'The PHP function phpinfo() has been disabled on this server.',
+'Server statistics head'			=>	'Server statistics',
 'Server load label'					=>	'サーバーの状態',
 'Server load data'					=>	'%s - %s 人のユーザーがオンライン',
 'Environment label'					=>	'環境',
@@ -47,5 +55,4 @@ $lang_admin_index = array(
 'Database label'					=>	'データベース',
 'Database data rows'				=>	'レコード数: %s',
 'Database data size'				=>	'サイズ: %s',
-
 );
