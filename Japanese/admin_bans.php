@@ -6,6 +6,7 @@ $lang_admin_bans = array(
 'No user message'			=>	'ユーザーが登録されていません。ユーザー名を特定せずに制限する場合はブランクにします。',
 'No user ID message'		=>	'このIDのユーザーは登録されていません。',
 'User is admin message'		=>	'%sは管理者のためアクセス制限できません。管理者を制限する場合は、モデレータか一般ユーザーに降格させます。',
+'User is mod message'		=>	'The user %s is a moderator and can\'t be banned. If you want to ban a moderator, you must first demote him/her.',
 'Must enter message'		=>	'ユーザー名、IPアドレス、メールアドレスのいずれかを指定してください。',
 'Cannot ban guest message'	=>	'ゲストは制限できません。',
 'Invalid IP message'		=>	'IPアドレス/IPアドレスの範囲に誤りがあります。',

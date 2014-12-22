@@ -12,6 +12,9 @@ $lang_update = array(
 'Database password info'		=>	'FluxBBがセットアップされているデータベースのパスワードを入力してください。パスワードを忘れた場合は\'config.php\'を参照してください。',
 'Database password note'		=>	'SQLiteで動かしている（パスワードが不要な）場合はデータベースのファイル名を入力してください。ファイル名は\'config.php\'内の文字列を厳密に入力します。',
 'Database password'				=>	'データベースパスワード',
+'Maintenance'					=>	'Maintenance',
+'Maintenance message info'		=>	'The message that will be displayed to users during the updating process. This text will not be parsed like regular posts and thus may contain HTML.',
+'Maintenance message'		    =>	'Maintenance message',
 'Next'							=>	'次へ',
 
 'You are running error'			=>	'%1$s のバージョン%2$sが動作しています。FluxBB %3$sが正しく動作するためには、%1$s %4$s以上の環境が必要です。アップグレードを続行する前に%1$sをアップグレードしてください。',
@@ -56,7 +59,6 @@ $lang_update = array(
 'forums'						=>	'フォーラム',
 'groups'						=>	'グループ',
 'post'							=>	'投稿',
-'ranks'							=>	'ランク',
 'report'						=>	'通報',
 'topic'							=>	'トピック',
 'user'							=>	'ユーザー',
@@ -69,9 +71,5 @@ $lang_update = array(
 'Username bad characters error'	=>	'ユーザー名に \', ", [ , ] などの文字は指定できません。他のユーザー名を指定してください。',
 'Username BBCode error'			=>	'ユーザー名にBBCodeを含むことはできません。他のユーザー名を指定してください。',
 'Username duplicate error'		=>	'%s というユーザー名は他のユーザーが使用しているか酷似しています。ユーザー名は少なくともアルファベット１文字(a-z または 0-9)が異なっていなければなりません。他のユーザー名を指定してください。',
-
-'JavaScript disabled'			=>	'JavaScript が無効なようです。 %s',
-'Click here to continue'		=>	'続行するにはここをクリック',
-'Required field'				=>	' は必須です。'
 
 );

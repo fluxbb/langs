@@ -5,8 +5,10 @@ $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'		=>	'タイトルを入力してください.',
+'No subject after censoring'	=>	'Topics must contain a subject. After applying censoring filters, your subject was empty.',
 'Too long subject'	=>	'タイトルは、７０文字（半角）以下で入力してください。',
 'No message'		=>	'メッセージを入力してください。',
+'No message after censoring'	=>	'You must enter a message. After applying censoring filters, your message was empty.',
 'Too long message'	=>	'投稿は、%s バイト以下で入力してください。',
 'All caps subject'	=>	'大文字のみのタイトルは入力できません。',
 'All caps message'	=>	'大文字のみのメッセージは入力できません。',
@@ -25,7 +27,6 @@ $lang_post = array(
 'Stay subscribed'	=>	'このトピックの購読を維持',
 'Topic review'		=>	'トピックレビュー（最新表示）',
 'Flood start'		=>	'前の投稿から少なくとも',
-'flood end'			=>	'秒は間を開けて投稿してください。少し待ってから試行してください。',
 'Preview'			=>	'プレビュー', // submit button to preview message
 
 // Edit post

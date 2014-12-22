@@ -12,5 +12,4 @@ Subject: <board_title> にようこそ！
 
 --
 <board_mailer>
-<base_url>
 （このメッセージには返信しないでください）
