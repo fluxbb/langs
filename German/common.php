@@ -90,7 +90,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'Der [%s]-Tag wurde ohne die erforderlichen Parameter verwendet',
 'BBCode error tag not allowed'		=>	'Du darfst keine [%s] Tags verwenden',
 'BBCode error tag url not allowed'	=>	'Du darfst keine Links absenden',
-'BBCode code problem'				=>	'Es gibt ein Problem innerhalb deines [code]-Tags',
 'BBCode list size error'			=>	'Deine Liste ist für eine Verarbeitung zu lang, bitte kürze die Liste!',
 
 // Links, die sich in der Navigation befinden (oben auf jeder Seite)

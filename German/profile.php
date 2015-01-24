@@ -30,7 +30,7 @@ $lang_profile = array(
 'Old pass'						=>	'Altes Passwort',
 'New pass'						=>	'Neues Passwort',
 'Confirm new pass'				=>	'Neues Passwort bestätigen',
-'Pass info'						=>	'Passwörter müssen mindestens 4 Zeichen lang sein. Groß-/Kleinschreibung wird unterschieden.',
+'Pass info'						=>	'Passwörter müssen mindestens 6 Zeichen lang sein. Groß-/Kleinschreibung wird unterschieden.',
 
 // E-Mail
 'Email key bad'					=>	'Der Aktivierungscode war falsch oder ist abgelaufen. Bitte fordere ein neues Passwort an. Falls es weiterhin zu Problemen kommt, kontaktiere den Administrator unter',
@@ -134,6 +134,7 @@ $lang_profile = array(
 'Delete posts'					=>	'Alle Beiträge und Themen dieses Mitglieds löschen.',
 'Delete'						=>	'Löschen', // Beschriftung des Absende-Buttons (Bestätigung der Mitgliederlöschung)
 'User delete redirect'			=>	'Mitglied gelöscht. Leite weiter …',
+'User promote redirect'			=>	'Mitglied befördert. Leite weiter …',
 'Group membership redirect'		=>	'Gruppenmitgliedschaft gespeichert. Leite weiter  …',
 'Update forums redirect'		=>	'Moderatorenrechte aktualisiert. Leite weiter …',
 'Ban redirect'					=>	'Leite weiter …',
