@@ -136,6 +136,7 @@ $lang_profile = array(
 'User delete redirect'		=>	'Utilisateur supprimé. Redirection&#160;…',
 'Group membership redirect'	=>	'Appartenance à un groupe enregistrée. Redirection&#160;…',
 'Update forums redirect'	=>	'Droits du modérateur mis à jour. Redirection&#160;…',
+'User promote redirect' => 'Utilisateur promu. Redirection …',
 'Ban redirect'			=>	'Redirection&#160;…',
 'No delete admin message'	=>	'Les administrateurs ne peuvent être supprimés. Pour supprimer cet utilisateur, vous devez d\'abord le/la déplacer vers un groupe d\'utilisateurs différent.',
  
