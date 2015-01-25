@@ -16,7 +16,6 @@ $lang_search = array(
 'Search in info'					=>	'Wybierz forum, które chcesz przeszukać i wybierz miejsce, gdzie mają być szukane słowa (temat wątku, treść posta).',
 'Search multiple forums info'		=>	'Jeśli żadne fora nie zostaną zaznaczone, to wszystkie fora zostaną przeszukane.',
 'Forum search'						=>	'Forum',
-'All forums'						=>	'Wszystkie fora',
 'Search in'							=>	'Szukaj w',
 'Message and subject'				=>	'Treść posta i temat wątku',
 'Message only'						=>	'Tylko treść posta',

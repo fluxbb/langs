@@ -30,7 +30,7 @@ $lang_profile = array(
 'Old pass'						=>	'Stare hasło',
 'New pass'						=>	'Nowe hasło',
 'Confirm new pass'				=>	'Potwierdź nowe hasło',
-'Pass info'						=>	'Hasło musi się z składać z co najmniej 4 znaków. Wielkość liter ma znaczenie.',
+'Pass info'						=>	'Hasło musi się z składać z co najmniej 6 znaków. Wielkość liter ma znaczenie.',
 
 // Email stuff
 'Email key bad'					=>	'Kod aktywacyjny dla adresu e-mail jest nieprawidłowy, bądź przedawniony. Złóż ponownie prośbę o zmianę adresu e-mail. Jeśli to zawiedzie, skontaktuj się z Administratorem forum -',
@@ -135,6 +135,7 @@ $lang_profile = array(
 'Delete'						=>	'Usuń', // submit button (confirm user delete)
 'User delete redirect'			=>	'Użytkownik został usunięty. Przekierowywanie…',
 'Group membership redirect'		=>	'Grupa użytkownika została zapisana. Przekierowywanie…',
+'User promote redirect'			=>	'Użytkownik został promowany. Przekierowywanie…',
 'Update forums redirect'		=>	'Prawa moderatora zostały zaktualizowane. Przekierowywanie…',
 'Ban redirect'					=>	'Przekierowywanie…',
 'No delete admin message'		=>	'Administratorzy nie mogą zostać usunięci. Jeśli chcesz usunąć takiego użytkownika, najpierw musisz go zdegradować do innej grupy użytkowników.',
