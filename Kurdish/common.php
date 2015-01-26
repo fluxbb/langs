@@ -72,7 +72,6 @@ $lang_common = array(
 'Write message legend'				=>	'پەیامەکەت بنووسە و بینێرە',
 'Previous'							=>	'پێشوو',
 'Next'								=>	'دواتر',
-'Forum index'						=>	'دەستپێکی مەکۆ',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -91,7 +90,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'[%s] تاق بەش دەستێکی نادیاری هەیە',
 'BBCode error tag not allowed'		=>	'تۆ ناتوانیت تاگی  [%s] بەکاربەریت',
 'BBCode error tag url not allowed'	=>	'تۆ ناتوانیت بەستەر دابنێی',
-'BBCode code problem'				=>	'[code] کێشەیەک هەیە لەگەڵ تاگەکانی',
 'BBCode list size error'			=>	'لیستەکەت زۆر درێژبوو بۆ جیاکردنەوە ،تکایە بچووکی بکەوە',
 
 // Stuff for the navigator (top of every page)

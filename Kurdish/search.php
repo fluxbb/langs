@@ -16,7 +16,6 @@ $lang_search = array(
 'Search in info'					=>	'هەڵبژێرە لەکام مەکۆ ئارەزوو دەکەیت بگەڕێی',
 'Search multiple forums info'		=>	'ئەگەر هیچ مەکۆیەکت دیاری نەکردبێت، ئەوە هەموو مەکۆکان دەگەڕێت.',
 'Forum search'						=>	'مەکۆ',
-'All forums'						=>	'هەموو مەکۆکان',
 'Search in'							=>	'گەڕان لە',
 'Message and subject'				=>	'سەردێڕی بابەت و دەقی پەیام',
 'Message only'						=>	'تەنها دەقی پەیام',

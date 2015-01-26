@@ -7,6 +7,8 @@ $lang_admin_index = array(
 'Upgrade check failed message'		=>	'بەهۆکارێکی نەزانراو پشکنینی نوێکردنەوە شکستی هێنا.',
 'Running latest version message'	=>	' تۆ دواهەمین وەشاندنی FluxBB بەکاردەبەیت.',
 'New version available message'		=>	'وەشاندنێکی نوێی  FluxBB وەشێندرا، دەتوانیت دایگریت لێرەوە %s.',
+'Deleted install.php redirect'		=>	'پەڕگەکە بە سەرکەوتوویی سڕدڕایەوە. گەڕانەوە ...',
+'Delete install.php failed'			=>	'نەتوانرا پەڕگەی  install.php. ــی بسڕدرێتەوە. تکایە خۆت بیسڕەوە.',
 'Not available'						=>	'بەردەست نییە',
 'Forum admin head'					=>	'بەڕێوبەرایەتی مەکۆ',
 'NA'								=>	'N/A',
@@ -20,6 +22,9 @@ $lang_admin_index = array(
 'Welcome 7'							=>	'دانانی پلەی بەکارهێنەران.',
 'Welcome 8'							=>	'بەشکردنی پەیامە کۆنەکان.',
 'Welcome 9'							=>	'چارەسەری ڕێپۆرتەکان.',
+'Alerts head'						=>	'ئاگادارییەکان',
+'Install file exists'				=>	'پەڕگەی install.php هێشتا ماوە, بەڵام دەبێت بسڕدرێتەوە. %s.',
+'Delete install file'				=>	'بیسڕەوە',
 'About head'					=>	'دۆخ و سەرژمێرییەکان',
 'FluxBB version label'				=>	'وەشاندنی FluxBB ',
 'Check for upgrade'					=>	'پشکنین بۆ نوێکردنەوە',
@@ -55,5 +60,4 @@ $lang_admin_index = array(
 'Database label'					=>	'بنکەدراوە',
 'Database data rows'				=>	'ڕیزەکان: %s',
 'Database data size'				=>	'قەبارە: %s',
-
 );

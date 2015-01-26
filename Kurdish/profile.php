@@ -136,6 +136,7 @@ $lang_profile = array(
 'Delete posts'					=>	'هەر پەیامێک و بابەتێک بسڕەوە کە ئەو بەکارهێنەرە کردوویەتی.',
 'Delete'						=>	'بسڕەوە', // submit button (confirm user delete)
 'User delete redirect'			=>	'بەکارهێنەر سڕایەوە. گەڕاندنەوە...',
+'User promote redirect'			=>	'بەکارهێنەر بەرزکرایەوە. گەڕاندنەوە …',
 'Group membership redirect'		=>	'ئەندامیەتی گرووپ پاشکەوتکرا. گەڕاندنەوە...',
 'Update forums redirect'		=>	'مافەکانی چاودێری مەکۆ نوێکرایەوە. گەڕاندنەوە...',
 'Ban redirect'					=>	'گەڕاندنەوە...',
