@@ -1,4 +1,4 @@
- <?php
+<?php
  
  // Language definitions for frequently used strings
  $lang_common                        = array(
