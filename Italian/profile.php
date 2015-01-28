@@ -32,7 +32,7 @@ $lang_profile = array(
 'Old pass'						=>	'Password precedente',
 'New pass'						=>	'Nuova password',
 'Confirm new pass'				=>	'Conferma nuova password',
-'Pass info'						=>	'La password deve essere composta da almeno 4 caratteri (&egrave; sensibile alle maiuscole/minuscole).',
+'Pass info'						=>	'La password deve essere composta da almeno 6 caratteri (&egrave; sensibile alle maiuscole/minuscole).',
 
 // Email
 'Email key bad'					=>	'La chiave di attivazione dell\'email &egrave; errata o scaduta. Richiedere nuovamente il cambio. Se il problema persiste contattare l\'amministratore del forum',
@@ -136,6 +136,7 @@ $lang_profile = array(
 'Delete posts'					=>	'Cancella ogni messaggio e discussione di questo utente.',
 'Delete'						=>	'Cancella', // pulsante per confermare la cancellazione
 'User delete redirect'			=>	'Utente cancellato. Reindirizzamento &hellip;',
+'User promote redirect'	=>	'Utente promosso. Reindirizzamento &hellip;',
 'Group membership redirect'		=>	'Iscrizione al gruppo salvata. Reindirizzamento &hellip;',
 'Update forums redirect'		=>	'Attribuzione salvata. Reindirizzamento &hellip;',
 'Ban redirect'					=>	'Reindirizzamento &hellip;',
