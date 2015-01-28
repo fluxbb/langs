@@ -18,7 +18,6 @@ $lang_search = array(
 'Search in info'                    =>	'Scegliere il forum da ricercare e il livello di profondit&agrave; (titolo discussione, testo messaggio o entrambi).',
 'Search multiple forums info'       =>  'Non selezionare alcun forum per cercare in tutti.',
 'Forum search'                      =>	'Forum',
-'All forums'                        =>	'Tutti i forum',
 'Search in'                         =>	'Cerca in',
 'Message and subject'               =>	'Testo messaggio e titolo discussione',
 'Message only'                      =>	'Testo messaggio',
