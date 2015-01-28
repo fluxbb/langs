@@ -31,8 +31,8 @@ $lang_register = array(
 'Desc 1'					=>	'La registrazione d&agrave; accesso a funzioni aggiuntive, tra queste: la possibilit&agrave; di modificare e cancellare i messaggi, inserire una firma personalizzata, un avatar e molto altro.',
 'Desc 2'					=>	'Per registrarsi compilare il modulo. Una volta effettuata la registrazione &egrave; possibile accedere alle personalizzazioni avanzate dal profilo utente.',
 'Username legend'			=>	'Inserire un nome utente (minimo 2 e massimo 25 caratteri)',
-'Pass legend'				=>	'Inserire e confermare una password (minimo 4 caratteri)',
-'Pass info'					=>	'Nota: le password considerano le lettere maiuscole e minuscole come differenti (<em>case sensitive</em>).',
+'Pass legend'				=>	'Inserire e confermare una password (minimo 6 caratteri)',
+'Pass info'					=>	'La password deve avere una lunghezza minima di 6 caratteri ed &egrave; sensibile alle maiuscole (<em>case sensitive</em>).',
 'Email info'				=>	'Inserire un indirizzo email valido per ricevere la password generata.',
 'Confirm email' 			=>	'Confermare l\'indirizzo email',
 
