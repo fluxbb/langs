@@ -16,7 +16,6 @@ $lang_update = array(
 'Maintenance'                   => 'Manutenzione',
 'Maintenance message info'      => 'Messaggio mostrato agli utenti durante l\'aggiornamento. Pu&ograve; contenere HTML.',
 'Maintenance message'           => 'Messaggio di manutenzione',
-'Next' 							=> 'Avanti',
 
 'You are running error' 		=> '&Egrave; attivo %1$s versione %2$s. FluxBB %3$s necessita almeno %1$s %4$s per funzionare correttamente. Effettuare l\'aggiornamento di %1$s prima di continuare.',
 'Version mismatch error' 		=> 'Incompatibilit&agrave;. Il database \'%s\' non sembra utilizzare una struttura compatibile con questo aggiornamento.',
