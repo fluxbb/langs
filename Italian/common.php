@@ -92,7 +92,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'[%s] ha un attributo sezione vuoto',
 'BBCode error tag not allowed'      =>  'Non &egrave; permesso l\'utilizzo dei tag [%s]',
 'BBCode error tag url not allowed'  =>  'Non &egrave; permessa la pubblicazione di link',
-'BBCode code problem'				=>	'Si &egrave; verificato un problema col marcatore [code]',
 'BBCode list size error'			=>	'La lista &egrave; troppo lunga per essere elaborata, si prega di riprovare!',
 
 // Barra di navigazione (in cima a ogni pagina)
