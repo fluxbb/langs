@@ -2,7 +2,7 @@
 
 // Language definitions used in both profile.php and register.php
 $lang_prof_reg = array(
- 
+
 'Email legend'			=>	'Indiquez une adresse électronique valide',
 'Email legend 2'		=>	'Saisissez et confirmez une adresse électronique valide',
 'Localisation legend'		=>	'Définissez vos options géographiques',
@@ -14,12 +14,12 @@ $lang_prof_reg = array(
 'Default'			=>	'Par défaut',
 'Language'			=>	'Langue&#160;',
 'Email setting info'		=>	'Indiquez si vous souhaitez que votre adresse électronique soit visible par les autres utilisateurs ou non et si vous voulez que les autres utilisateurs puissent vous envoyer des e-mails via ces forums (formulaire d\'envoi d\'e-mail) ou non.',
-'Email setting 1'		=>	'Divulguer votre adresse électronique.',
+'Email setting 1'		=>	'Divulguer votre adresse électronique aux autres utilisateurs',
 'Email setting 2'		=>	'Masquer votre adresse électronique mais autoriser l\'envoi via le formulaire d\'envoi d\'e-mail.',
 'Email setting 3'		=>	'Masquer votre adresse électronique et interdire l\'utilisation du formulaire d\'envoi d\'e-mail.',
 'Privacy options legend'	=>	'Définissez vos options de vie privée',
 'Confirm pass'			=>	'Confirmez votre mot de passe',
- 
+
 'Username too short'		=>	'Les noms d\'utilisateur doivent comporter au moins 2 caractères. Veuillez choisir un autre nom d\'utilisateur.',
 'Username too long'		=>	'Les noms d\'utilisateur ne doivent pas comporter plus de 25 caractères. Veuillez choisir un autre nom d\'utilisateur.',
 'Username guest'		=>	'Le nom d\'utilisateur «&#160;invité&#160;» est réservé. Veuillez choisir un autre nom d\'utilisateur.',
@@ -27,7 +27,7 @@ $lang_prof_reg = array(
 'Username reserved chars'	=>	'Les noms d\'utilisateurs ne peuvent pas contenir les caractères \', " et [ ou ]. Veuillez choisir un autre nom d\'utilisateur.',
 'Username BBCode'		=>	'Les noms d\'utilisateur ne peuvent pas contenir de balises (BBCode). Veuillez choisir un autre nom d\'utilisateur.',
 'Banned username'		=>	'Le nom d\'utilisateur que vous avez indiqué est banni. Veuillez choisir un autre nom d\'utilisateur.',
-'Pass too short'		=>	'Les mots de passe doivent comporter au moins 4 caractères. Veuillez choisir un autre mot de passe.',
+'Pass too short'		=>	'Les mots de passe doivent comporter au moins 6 caractères. Veuillez choisir un autre mot de passe.',
 'Pass not match'		=>	'Les mots de passe ne coïncident pas. Veuillez recommencer.',
 'Banned email'			=>	'L\'adresse électronique saisie est bannie de ces forums. Veuillez en choisir une autre.',
 'Dupe email'			=>	'Cette adresse électronique est déjà utilisée. Veuillez en choisir une autre.',
