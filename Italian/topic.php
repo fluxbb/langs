@@ -8,6 +8,7 @@ $lang_topic = array(
 'Post reply'		=>	'Rispondi',
 'Topic closed'		=>	'Discussione chiusa',
 'From'				=>	'Da',				// Provenienza dell'utente
+'Promote user'	=>	'Promuovi utente',
 'IP address logged'	=>	'Indirizzo IP registrato',
 'Note'				=>	'Nota',				// Nota dell'amministratore
 'Posts'				=>	'Messaggi:',
