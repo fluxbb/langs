@@ -87,7 +87,7 @@ $lang_common = array(
 // Testi per include/parser.php
 'BBCode error no opening tag'		=>	'[/%1$s] &egrave; stato trovato senza un rispettivo [%1$s]',
 'BBCode error invalid nesting'		=>	'[%1$s] &egrave; stato aperto dentro a [%2$s], ci&ograve; non &egrave; consentito',
-'BBCode error invalid self-nesting'	=>	'[%s] &egrave; stato aperto dentro s&eacute; stesso, ci&ograve; non &grave; consentito',
+'BBCode error invalid self-nesting'	=>	'[%s] &egrave; stato aperto dentro s&eacute; stesso, ci&ograve; non &egrave; consentito',
 'BBCode error no closing tag'		=>	'[%1$s] &egrave; stato trovato senza un rispettivo [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] ha un attributo sezione vuoto',
 'BBCode error tag not allowed'      =>  'Non &egrave; permesso l\'utilizzo dei tag [%s]',
