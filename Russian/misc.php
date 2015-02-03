@@ -5,17 +5,17 @@ $lang_misc = array(
     'Mark forum read redirect'   => 'Все темы выбранного форума помечены как прочтённые. Переадресация &hellip;',
 
 // Send email
-    'Form email disabled'        => 'Пользователь, которому вы пытаетесь отправить email, отключил такую возможность.',
+    'Form email disabled'        => 'Пользователь, которому вы пытаетесь отправить e-mail, отключил такую возможность.',
     'No email subject'           => 'Вы должны ввести заголовок.',
     'No email message'           => 'Вы должны ввести текст письма.',
     'Too long email message'     => 'Сообщение должно быть не длиннее 65535 символов (64 KB).',
-    'Email flood'                => 'По крайней мере %s секунд должно пройти между отправками email. Пожалуйста, сделайте паузу и попробуйте снова.',
-    'Email sent redirect'        => 'Email отправлен. Переадресация &hellip;',
+    'Email flood'                => 'По крайней мере %s секунд должно пройти между отправками e-mail. Пожалуйста, сделайте паузу и попробуйте снова.',
+    'Email sent redirect'        => 'E-mail отправлен. Переадресация &hellip;',
     'Send email to'              => 'Отправить сообщение',
     'Email subject'              => 'Заголовок',
     'Email message'              => 'Сообщение',
-    'Email disclosure note'      => 'Имейте в виду, что ваш email будет виден вашему адресату.',
-    'Write email'                => 'Напишите и отправьте ваше сообщение по email',
+    'Email disclosure note'      => 'Имейте в виду, что ваш e-mail будет виден вашему адресату.',
+    'Write email'                => 'Напишите и отправьте ваше сообщение по e-mail',
 
 // Report
     'No reason'                  => 'Пожалуйста, введите причину.',
@@ -38,7 +38,7 @@ $lang_misc = array(
     'Moderate'                   => 'Модерировать',
     'Select'                     => 'Выбор', // the header of a column of checkboxes
     'Move'                       => 'Перенести',
-    'Split'                      => 'Разбить',
+    'Split'                      => 'Разделить',
     'Delete'                     => 'Удалить',
     'Merge'                      => 'Склеить',
 
@@ -50,7 +50,7 @@ $lang_misc = array(
     'Move legend'                => 'Выберите форум назначения',
     'Move to'                    => 'Перенести в',
     'Nowhere to move'            => 'Нет форума, куда бы вы могли перенести темы.',
-    'Leave redirect'             => 'Оставить тему(ы) переадресации',
+    'Leave redirect'             => 'Создать тему(ы) с переадресацией',
     'Move topic redirect'        => 'Тема перенесена. Переадресация &hellip;',
     'Move topics redirect'       => 'Темы перенесены. Переадресация &hellip;',
     'Confirm delete legend'      => 'Пожалуйста, подтвердите удаление',
@@ -71,10 +71,10 @@ $lang_misc = array(
     'New subject'                => 'Новый заголовок',
 
 // Split multiple posts in topic
-    'Confirm split legend'       => 'Пожалуйста, подтвердите разбиение сообщений.',
-    'Split posts'                => 'Разбить сообщения',
-    'Split posts comply'         => 'Вы уверены, что хотите разбить выбранные сообщения?',
-    'Split posts redirect'       => 'Сообщения были разбиты. Переадресация &hellip;',
+    'Confirm split legend'       => 'Пожалуйста, подтвердите разделение сообщений.',
+    'Split posts'                => 'Разделить сообщения',
+    'Split posts comply'         => 'Вы уверены, что хотите разделить выбранные сообщения?',
+    'Split posts redirect'       => 'Сообщения были разделены. Переадресация &hellip;',
 
 // Delete multiple posts in topic
     'Delete posts'               => 'Удалить сообщения',
@@ -84,7 +84,7 @@ $lang_misc = array(
     'No posts selected'          => 'Вы должны выбрать хотя бы одно сообщение для удаления.',
 
 // Get host
-    'Host info 1'                => 'IP адрес: %s',
+    'Host info 1'                => 'IP-адрес: %s',
     'Host info 2'                => 'Имя хоста: %s',
     'Show more users'            => 'Показать еще информацию по IP'
 );

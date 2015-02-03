@@ -6,4 +6,4 @@ Subject: Жалоба(<forum_id>) - '<topic_subject>'
 
 --
 <board_mailer> Mailer
-(Не отвечайте на это сообщение)
+(Не отвечайте на это письмо)
