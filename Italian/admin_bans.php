@@ -5,7 +5,7 @@
 
 $lang_admin_bans = array(
 
-'No user message'			=>	'Il nome utente indicato non esiste. Se desideri attivare una interdizione non legata a uno specifico nome utente lascia il campo vuoto.',
+'No user message'			=>	'Il nome utente indicato non esiste. Per attivare una interdizione non legata a uno specifico nome utente lasciare il campo vuoto.',
 'No user ID message'		=>	'Non esistono utenti con l\'ID indicato.',
 'User is admin message'		=>	'L\'utente %s &egrave; un amministratore e non pu&ograve; essere interdetto. Per interdire un amministratore &egrave; necessario prima modificarne i privilegi.',
 +'User is mod message'      =>  'L\'utente %s &egrave; un moderatore e non pu&ograve; essere interdetto. Per interdire un moderatore &egrave; necessario prima modificarne i privilegi.',
@@ -23,11 +23,11 @@ $lang_admin_bans = array(
 'Add ban subhead'			=>	'Aggiungi interdizione',
 'Username label'			=>	'Nome utente',
 'Username help'				=>	'Nome utente da interdire (non sensibile a maiuscole/minuscole).',
-'Username advanced help'	=>	'Nome utente da interdire (non sensibile a maiuscole/minuscole). La pagina successiva permetter&agrave; di inserire un IP e una email. Se si desidera interdire uno specifico IP/IP-range o indirizzo email lasciare il campo vuoto.',
+'Username advanced help'	=>	'Nome utente da interdire (non sensibile a maiuscole/minuscole). La pagina successiva permetter&agrave; di inserire un IP e una email. Se si desidera interdire uno specifico IP, range di IP o indirizzo email lasciare il campo vuoto.',
 
 'Ban search head'			=>	'Cerca interdizione',
 'Ban search subhead'		=>	'Criteri di ricerca',
-'Ban search info'			=>	'Ricerca di interdizioni nel database. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly * &egrave; supportato. Per visualizzare tutte le interdizioni lasciare vuoto.',
+'Ban search info'			=>	'Ricerca di interdizioni nell\'archivio. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly * &egrave; supportato. Per visualizzare tutte le interdizioni lasciare vuoto.',
 'Date help'					=>	'(aaaa-mm-gg)',
 'Message label'				=>	'Messagio',
 'Expire after label'		=>	'Scade dopo il',
@@ -42,7 +42,7 @@ $lang_admin_bans = array(
 'Submit search'				=>	'Avvia ricerca',
 
 'E-mail label'				=>	'Email',
-'E-mail help'				=>	'L\'email o il dominio da interdire (esempio: nome@dominio.est o dominio.est). Si veda "Accetta indirizzi email interdetti" in Permessi per maggiori informazioni.',
+'E-mail help'				=>	'L\'email o il dominio da interdire (esempio: nome@dominio.est o dominio.est). Per maggiori informazioni, si veda "Accetta indirizzi email interdetti" in Permessi.',
 'IP label'					=>	'Indirizzo IP/range',
 'IP help'					=>	'L\'indirizzo IP o range da interdire (esempio: 150.11.110.1 o 150.11.110). Ogni indirizzo va separato con uno spazio. Se un IP &egrave; gi&agrave; indicato nel campo, &egrave; l\'ultimo indirizzo utilizzato dall\'utente nel forum.',
 'IP help link'				=>	'Clicca %s per visualizzare le statistiche IP dell\'utente.',
@@ -51,9 +51,9 @@ $lang_admin_bans = array(
 'Ban message label'			=>	'Messaggio di interdizione',
 'Ban message help'			=>	'Un messaggio sar&agrave; mostrato all\'utente interdetto alla sua prossima visita.',
 'Message expiry subhead'	=>	'Messaggio di interdizione e scadenza',
-'Ban IP range info'			=>	'Utilizzare molta cautela quando si interdice un range di IP-range, per la possibilit&agrave; che pi&ugrave; utenti condividano con l\'IP parziale.',
+'Ban IP range info'			=>	'Utilizzare molta cautela quando si interdice un range di IP, per la possibilit&agrave; che pi&ugrave; utenti condividano l\'IP parziale.',
 'Expire date label'			=>	'Data di scadenza',
-'Expire date help'			=>	'La data nella quale l\'interdizione sar&agrave; automaticamente rimossa (formato: aaaa-mm-gg). Lasciare vuoto per rimuoverla successivamente in modo manuale.',
+'Expire date help'			=>	'La data nella quale l\'interdizione sar&agrave; automaticamente rimossa (formato: aaaa-mm-gg). Lasciare vuoto per rimuoverla in seguito manualmente.',
 
 'Results head'				=>	'Risultati',
 'Results username head'		=>	'Nome utente',
