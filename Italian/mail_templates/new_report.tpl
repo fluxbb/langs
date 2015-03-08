@@ -1,4 +1,4 @@
-Subject: Segnalazione(<forum_id>) - '<topic_subject>'
+Subject: Segnalazione (<forum_id>) - '<topic_subject>'
 
 L'utente '<username>' ha segnalato il seguente messaggio: <post_url>
 
