@@ -5,8 +5,8 @@
 
 $lang_admin_index = array(
 
-'fopen disabled message'			=>	'Impossibile verificare la presenza di aggiornamenti. Abilitare la funzione <em>allow_url_fopen</em> all\'interno del documento di configurazione di PHP (PHP.ini).',
-'Upgrade check failed message'		=>	'La ricerca di aggiornamenti non &egrave; andata a termine per ragioni sconosciute.',
+'fopen disabled message'			=>	'Impossibile verificare la presenza di aggiornamenti. Abilitare la funzione <em>allow_url_fopen</em> nel documento di configurazione di PHP (PHP.ini).',
+'Upgrade check failed message'		=>	'La ricerca di aggiornamenti non &egrave; andata a buon fine per ragioni sconosciute.',
 'Running latest version message'	=>	'&Egrave; installata la versione pi&ugrave; recente di FluxBB.',
 'New version available message'		=>	'&egrave; stata pubblicata una nuova versione di FluxBB. &Egrave; possibile scaricarla da %s.',
 'Deleted install.php redirect'	=>	'Il file &egrave; stato eliminato con successo. Reindirizzamento &hellip;',
