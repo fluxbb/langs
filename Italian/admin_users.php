@@ -6,7 +6,7 @@
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'Il valore inserito non &egrave; un numero.',
-'Invalid date time message'	=>	'La inserita non &egrave; valida.',
+'Invalid date time message'	=>	'La data o il tempo inseriti non sono validi.',
 'Not verified'				=>	'Non verificato',
 
 // Azione: cancellazion/interdizione di massa, ecc.
@@ -18,7 +18,7 @@ $lang_admin_users = array(
 'Move users'                =>  'Cambiare gruppo utente',
 'Move users subhead'        =>  'Selezionare un nuovo gruppo utente',
 'New group label'           =>  'Nuovo gruppo',
-'New group help'            =>  'Selezionare il gruppo al quale assegnare l\'utente selezionato. Per ragioni di sicurezza, non &egrave; possibile spostare pi&ugrave, utenti al gruppo amministratori.',
+'New group help'            =>  'Selezionare il gruppo al quale assegnare l\'utente selezionato. Per ragioni di sicurezza, non &egrave; possibile spostare pi&ugrave; utenti al gruppo amministratori.',
 'Invalid group message'     =>  'ID del gruppo errato.',
 'Users move redirect'       =>  'Gruppo utente modificato. Reindirizzamento &hellip;',
 'Delete users'              =>  'Cancellare utenti',
@@ -41,10 +41,10 @@ $lang_admin_users = array(
 
 'User search head'			=>	'Ricerca utenti',
 'User search subhead'		=>	'Criteri di ricerca',
-'User search info'			=>	'Ricerca utenti nell\'archivio. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly (*) &egrave; accettato.',
+'User search info'			=>	'Ricerca utenti nell\'archivio. &Egrave; possibile inserire uno o pi&ugrave; termini. Il carattere jolly (*) &egrave; supportato.',
 'Username label'			=>	'Nome utente',
 'E-mail address label'		=>	'Indirizzo email',
-'Title label'				=>	'Titolo',
+'Title label'				=>	'Denominazione',
 'Real name label'			=>	'Nome reale',
 'Website label'				=>	'Sito web',
 'Jabber label'				=>	'Jabber',
