@@ -35,11 +35,11 @@ $lang_profile = array(
 'Pass info'						=>	'La password deve essere composta da almeno 6 caratteri (&egrave; sensibile alle maiuscole/minuscole).',
 
 // Email
-'Email key bad'					=>	'La chiave di attivazione dell\'email &egrave; errata o scaduta. Richiedere nuovamente il cambio. Se il problema persiste contattare l\'amministratore del forum',
+'Email key bad'					=>	'La chiave di attivazione &egrave; scaduta o errata. Richiedere nuovamente il cambio. Se il problema persiste contattare l\'amministratore del forum',
 'Email updated'					=>	'L\'email &egrave; stata aggiornata.',
-'Activate email sent'			=>	'Un\'email &egrave; stata spedita all\'indirizzo indicato con le istruzioni su come attivarlo. In caso di mancato arrivo contattare l\'amministratore del forum',
+'Activate email sent'			=>	'Un\'email &egrave; stata spedita all\'indirizzo indicato con le istruzioni per l\'attivazione. In caso di mancato arrivo contattare l\'amministratore del forum',
 'Email legend'					=>	'Inserire il nuovo indirizzo email',
-'Email instructions'			=>	'Un\'email verr&agrave; spedita all\'indirizzo indicato con le istruzioni su come attivarlo.',
+'Email instructions'			=>	'Un\'email sar&agrave; spedita all\'indirizzo indicato con le istruzioni per l\'attivazione.',
 'Change email'					=>	'Cambia indirizzo email',
 'New email'						=>	'Nuovo indirizzo email',
 
