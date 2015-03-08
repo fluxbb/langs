@@ -9,7 +9,7 @@ $lang_help = array(
 'produces'				=>	'genera',
 
 'BBCode'				=>	'BBCode',
-'BBCode info 1'			=>	'Il BBCode &egrave; una semplice collezione di marcatori utilizzati per attribuire caratteristiche al testo (grassetto, corsivo, collegamenti, ecc.). Segue una lista dei marcatori disponibili in questo forum e le indicazioni su come utilizzarli.',
+'BBCode info 1'			=>	'Il BBCode &egrave; una collezione di semplici marcatori utilizzati per attribuire caratteristiche o funzioni al testo (grassetto, corsivo, collegamenti ipertestuali, ecc.). Segue una lista dei marcatori disponibili in questo forum e le indicazioni su come utilizzarli.',
 'BBCode info 2'			=>	'Gli amministratori possono disabilitare il BBCode.',
 
 'Text style'			=>	'Stile dei testi',
@@ -40,13 +40,13 @@ $lang_help = array(
 'FluxBB bbcode test'  	=>  'Test BBcode',
 'Quotes'				=>	'Citazioni',
 'Quotes info'			=>	'Per citare un testo a cui fare riferimento o rispondere, utilizzare il marcatore [quote].',
-'Quotes info 2'			=>	'Per non citare qualcuno in particolare, utilizzare il marcatore senza specificare un nome utente.',
+'Quotes info 2'			=>	'Per non citare un utente in particolare, utilizzare il marcatore senza specificare un nome utente.',
 'Quote text'			=>	'Voglio citare questo testo!',
 'produces quote box'	=>	'genera un riquadro di citazione:',
-'quote note'			=>	'Nota: se un nome utente contiene i caratteri [ o ] si pu&ograve; ugualmente citare.',
+'quote note'			=>	'Nota: si possono citare anche i nomi utente che contengono i caratteri [ o ] senza generare conflitti tecnici.',
 
 'Code'					=>	'Codice',
-'Code info'				=>	'Per pubblicare del codice web &egrave; opportuno utilizzare il marcatore [code]. Il testo sar&agrave; visualizzato con un carattere monospazio non influenzato dagli altri marcatori.',
+'Code info'				=>	'Per pubblicare in un messaggio del codice, &egrave; opportuno utilizzare il marcatore [code]. Il testo sar&agrave; visualizzato con un carattere monospazio non influenzato dagli altri marcatori.',
 'Code text'				=>	'Questo &egrave; codice!',
 'produces code box'		=>	'genera un riquadro di codice:',
 
