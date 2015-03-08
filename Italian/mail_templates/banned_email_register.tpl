@@ -1,6 +1,6 @@
-Subject: Attenzione - Email interdetta rilevata
+Subject: Attenzione - Rilevata email interdetta
 
-L'utente '<username>' si è registrato con l'indirizzo interdetto: <email>
+L'utente '<username>' si Ã¨ registrato con l'indirizzo interdetto: <email>
 
 Profilo utente: <profile_url>
 
