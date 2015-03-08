@@ -7,7 +7,7 @@ $lang_post = array(
 
 // Validazioni
 'No subject'		=>	'Inserire un titolo.',
-'No subject after censoring'  =>  'Il titolo della discussione contiene solo parole vietate.',
+'No subject after censoring'  =>  'Il titolo della discussione contiene solo parole non permesse.',
 'Too long subject'	=>	'Il titolo non pu&ograve; eccedere i 70 caratteri.',
 'No message'		=>	'Inserire un messaggio.',
 'Too long message'	=>	'Il messaggio non pu&ograve; eccedere i %s byte.',
@@ -24,7 +24,7 @@ $lang_post = array(
 'Post a reply'		=>	'Rispondi',
 'Post new topic'	=>	'Nuova discussione',
 'Hide smilies'		=>	'Non convertire le emoticon testuali in icone grafiche',
-'Subscribe'			=>	'Avvertimi in caso di risposta!',
+'Subscribe'			=>	'Segnalami le risposte!',
 'Stay subscribed'	=>	'Resta iscritto alla discussione',
 'Topic review'		=>	'Revisione discussione (dal messaggio pi&ugrave; recente)',
 'Flood start'		=>	'Devono trascorrere almeno %s secondi fra la pubblicazione di ciascun messaggio. Si prega di attendere e riprovare.',
