@@ -1,6 +1,6 @@
-Subject: Attenzione - Email duplicata rilevata
+Subject: Attenzione - Rilevata email duplicata
 
-L'utente '<username>' si Ë registrato con un indirizzo email gi‡ appartenente a: <dupe_list>
+L'utente '<username>' si √® registrato con un indirizzo email gi√† appartenente a: <dupe_list>
 
 Profilo utente: <profile_url>
 
