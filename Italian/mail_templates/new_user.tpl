@@ -1,6 +1,6 @@
 Subject: Attenzione - Nuova registrazione
 
-L'utente '<username>' si e' registrato nel forum su <base_url>
+L'utente '<username>' si e' registrato al forum su <base_url>
 
 Profilo utente: <profile_url>
 
