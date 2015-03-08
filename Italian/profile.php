@@ -44,12 +44,12 @@ $lang_profile = array(
 'New email'						=>	'Nuovo indirizzo email',
 
 // Immagine personale
-'Avatars disabled'				=>	'Il caricamento delle immagini personali &egrave; disabilitato.',
+'Avatars disabled'				=>	'Il caricamento dell\'avatar &egrave; disabilitato.',
 'Too large ini'					=>	'L\'immagine selezionata &egrave; troppo larga.',
 'Partial upload'				=>	'L\'immagine selezionata &egrave; stata caricata solo parzialmente. Prova di nuovo, grazie.',
 'No tmp directory'				=>	'Si &egrave; verificato un problema nel salvataggio temporaneo dell\'immagine. Contatta l\'amministratore, grazie.',
 'No file'						=>	'Selezionare un\'immagine da caricare.',
-'Bad type'						=>	'L\'immagine caricata non &egrave; in uno dei formati permessi: gif, jpeg e png.',
+'Bad type'						=>	'L\'immagine caricata non &egrave; in uno dei formati supportati: gif, jpg, jpeg e png.',
 'Too wide or high'				=>	'L\'immagine eccede i limiti previsti',
 'Too large'						=>	'L\'immagine eccede i limiti previsti',
 'pixels'						=>	'pixel',
@@ -58,7 +58,7 @@ $lang_profile = array(
 'Unknown failure'				=>	'Si &egrave; verificato un errore sconosciuto. Prova nuovamente o contatta l\'amministratore, grazie.',
 'Avatar upload redirect'		=>	'Immagine caricata. Reindirizzamento &hellip;',
 'Avatar deleted redirect'		=>	'Immagine cancellata. Reindirizzamento &hellip;',
-'Avatar desc'					=>	'Un avatar &egrave; un\'immagine personale che viene visualizzata sotto il proprio nome utente in ciascun messaggio come identificativo. Non pu&ograve; eccedere i',
+'Avatar desc'					=>	'Un avatar &egrave; un\'immagine personale che &egrave; visualizzata sotto il proprio nome utente in ciascun messaggio come identificativo. Non pu&ograve; eccedere i',
 'Upload avatar'					=>	'Carica immagine',
 'Upload avatar legend'			=>	'Inserire una immagine da caricare',
 'Delete avatar'					=>	'Cancella avatar', // solo per amministratori
@@ -66,7 +66,7 @@ $lang_profile = array(
 'Upload'						=>	'Carica', // pulsante di invio
 
 // Validazione moduli
-'Forbidden title'				=>	'Il titolo inserito contiente parole poco carine (ovvero vietate). Scegli un titolo differente, grazie.',
+'Forbidden title'				=>	'Il titolo inserito contiente parole poco carine (ovvero non permesse). Scegli un titolo differente, grazie.',
 'Profile redirect'				=>	'Profilo aggiornato. Reindirizzamento &hellip;',
 
 // Visualizzazione profilo
@@ -100,14 +100,14 @@ $lang_profile = array(
 'Signature info'				=>	'La firma &egrave; un breve testo pubblicato in calce a ogni proprio messaggio. Pu&ograve; essere utilizzata per inserire una frase di saluto, una citazione rappresentativa o anche semplicemente il proprio nome.',
 'Sig preview'					=>	'Firma attuale:',
 'No sig'						=>	'Nessuna firma impostata nel profilo.',
-'Signature quote/code/list/h'	=>	'I marcatori [quote], [code], [list], and heading BBCodes are not allowed in signatures.',
+'Signature quote/code/list/h'	=>	'I marcatori [quote], [code], [list], e i BBCode di intestazione non sono permessi nelle firme.',
 'Topics per page'				=>	'Discussioni',
 'Posts per page'				=>	'Messaggi',
 'Leave blank'					=>	'lasciare vuoto per utilizzare il valore predefinito',
 'Subscription legend'			=>	'Opzioni iscrizioni',
 'Notify full'					=>	'Includere una copia delle risposte (in formato testo) nelle email di notifica.',
 'Auto notify full'				=>	'Iscrizione automatica a ogni discussione iniziata.',
-'Show smilies'					=>	'Converti emoticon testuali in icone grafice.',
+'Show smilies'					=>	'Converti emoticon testuali in icone grafiche.',
 'Show images'					=>	'Visualizza immagini nei messaggi.',
 'Show images sigs'				=>	'Visualizza immagini nelle firme degli utenti.',
 'Show avatars'					=>	'Visualizza gli avatar nei messaggi.',
@@ -131,7 +131,7 @@ $lang_profile = array(
 'Ban user'						=>	'Interdici utente',
 'Confirm delete legend'			=>	'Importante: leggere prima di cancellare l\'utente',
 'Confirm delete user'			=>	'Conferma la cancellazione',
-'Confirmation info'				=>	'Confermare la cancellazione dell\'utente', // il nome utente e' aggiunto a questa stringa
+'Confirmation info'				=>	'Confermare la cancellazione dell\'utente', // il nome utente e' aggiunto dopo questa stringa
 'Delete warning'				=>	'Attenzione! La cancellazione di un utente e/o dei suoi messaggi &egrave; irreversibile. Non cancellando in questo momento i messaggi dell\'utente, potranno poi essere cancellati solo manualmente.',
 'Delete posts'					=>	'Cancella ogni messaggio e discussione di questo utente.',
 'Delete'						=>	'Cancella', // pulsante per confermare la cancellazione
