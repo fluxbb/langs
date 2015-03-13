@@ -12,10 +12,10 @@ $lang_common = array(
 'lang_thousands_sep' => ',',
 
 // Notices
-'Bad request' => 'Невірний запит. Посилання помилкове або застаріле.',
+'Bad request' => 'Неправильний запит. Посилання помилкове або застаріле.',
 'No view' => 'У Вас немає прав для перегляду цього форуму.',
 'No permission' => 'У Вас немає прав для перегляду цієї сторінки.',
-'Bad referrer' => 'Поганий HTTP_REFERER. Ви перейшли на цю сторінку з неавторизованого джерела. Якщо проблема постійна, переконайтеся, що \'Base URL\' вірно прописано в Admin/Options и що Ви відвідуєте форум саме по такому URL. Додаткову інформацію Ви можете отримати з документації FluxBB.',
+'Bad referrer' => 'Неправильний HTTP_REFERER. Ви перейшли на цю сторінку з неавторизованого джерела. Якщо проблема постійна, переконайтеся, що \'Base URL\' правильно прописано в Admin/Options и що Ви відвідуєте форум саме по такому URL. Додаткову інформацію Ви можете отримати з документації FluxBB.',
 'No cookie' => 'Ви увійшли, але куки не були встановлені. Будь-ласка, перевірте Ваші налаштування і, якщо можливо, дозвольте куки для цього сайту.',
 'Pun include error' => 'Неможливо підключити файл %s з шаблона %s. немає такого файлу в %s.',
 
@@ -41,9 +41,9 @@ $lang_common = array(
 'Click redirect' => 'Клікніть тут, якщо Ви не бажаєте чекати (чи Ваш оглядач не підтримує перенаправлення).',
 'on' => 'увімк.',		// as in "BBCode is on"
 'off' => 'вимк.',
-'Invalid email' => 'Ви ввели невірний e-mail.',
+'Invalid email' => 'Ви ввели неправильний e-mail.',
 'Required' => '(Обов\'язково)',
-'required field' => 'необхідне поле в цій формі.',	// for javascript form validation
+'required field' => '-- обов\\\'язкове поле в цій формі.',	// for javascript form validation
 'Last post' => 'Останнє повідомлення',
 'by' => 'от',	// as in last post by someuser
 'New posts' => 'Нові&nbsp;повідомлення',	// the link that leads to the first new post (use &nbsp; for spaces)
@@ -68,7 +68,7 @@ $lang_common = array(
 'and' => 'и',
 'Image link' => 'картинка',	// This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote' => 'пише:',	// For [quote]'s
-'Mailer' => 'Відправник %s',	// As in "MyForums Mailer" in the signature of outgoing e-mails
+'Mailer' => 'Поштовий робот %s',	// As in "MyForums Mailer" in the signature of outgoing e-mails
 'Important information' => 'Важлива інформація',
 'Write message legend' => 'Введіть повідомлення і натисніть Надіслати',
 'Previous' => 'Назад',
@@ -78,7 +78,7 @@ $lang_common = array(
 
 // Title
 'Title' => 'Титул',
-'Member' => 'Участник',	// Default title
+'Member' => 'Учасник',	// Default title
 'Moderator' => 'Модератор',
 'Administrator' => 'Адміністратор',
 'Banned' => 'Забанений',
