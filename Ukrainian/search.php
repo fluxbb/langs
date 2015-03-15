@@ -37,7 +37,7 @@ $lang_search = array(
 // Results
 'Search'		=>		'Пошук',	
 'Search results'		=>		'Результати пошуку',	
-'Quick search show_new'		=>		'Теми с новими поідомленнями',	
+'Quick search show_new'		=>		'Теми з новими повідомленнями',	
 'Quick search show_recent'		=>		'Активні теми',	
 'Quick search show_unanswered'		=>		'Теми без відповіді',	
 'Quick search show_replies'		=>		'Теми з Вашими повідомленнями',	
