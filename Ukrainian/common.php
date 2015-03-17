@@ -15,11 +15,11 @@ $lang_common = array(
 'Bad request'		=>		'Неправильний запит. Посилання помилкове або застаріле.',	
 'No view'		=>		'У Вас немає прав для перегляду цього форуму.',	
 'No permission'		=>		'У Вас немає прав для перегляду цієї сторінки.',	
-'Bad referrer'		=>		'Неправильний HTTP_REFERER. Ви перейшли на цю сторінку з неавторизованого джерела. Якщо проблема постійна, переконайтеся, що \'Base URL\' правильно прописано в Admin/Options и що Ви відвідуєте форум саме по такому URL. Додаткову інформацію Ви можете отримати з документації FluxBB.',	
+'Bad referrer'		=>		'Неправильний HTTP_REFERER. Ви перейшли на цю сторінку з неавторизованого джерела. Якщо проблема постійна, переконайтеся, що параметр \'Base URL\' правильно прописаний в Адмінка/Опції і що Ви зайшли на форум саме за таким URL. Додаткову інформацію Ви можете отримати з документації FluxBB.',	
 'No cookie'		=>		'Ви увійшли, але куки не були встановлені. Будь-ласка, перевірте Ваші налаштування і, якщо можливо, дозвольте куки для цього сайту.',	
 'Pun include extension'		=>		'Неможливо підключити файл %s з шаблону %s. Файли \"%s\" неприпустимі',	
 'Pun include directory'		=>		'Неможливо підключити файл %s з шаблону %s. Вхід у каталог заборонено',	
-'Pun include error'		=>		'Неможливо підключити файл %s з шаблона %s. немає такого файлу в %s.',	
+'Pun include error'		=>		'Неможливо підключити файл %s з шаблону %s. Немає такого файлу в %s.',	
 
 // Miscellaneous
 'Announcement'		=>		'Оголошення',	
@@ -32,7 +32,7 @@ $lang_common = array(
 'Never'		=>		'Ніколи',	
 'Today'		=>		'Сьогодні',	
 'Yesterday'		=>		'Вчора',	
-'Info'		=>		'Інфо',	// A common table header
+'Info'		=>		'Інформація',	// A common table header
 'Go back'		=>		'Назад',	
 'Maintenance'		=>		'Обслуговування',	
 'Redirecting'		=>		'Перенаправлення',	
@@ -50,7 +50,7 @@ $lang_common = array(
 'Password'		=>		'Пароль',	
 'Email'		=>		'E-mail',	
 'Send email'		=>		'Надіслати e-mail',	
-'Moderated by'		=>		'Модерується',	
+'Moderated by'		=>		'Модерує',	
 'Registered'		=>		'Дата реєстрації',	
 'Subject'		=>		'Заголовок теми',	
 'Message'		=>		'Повідомлення',	
@@ -61,10 +61,10 @@ $lang_common = array(
 'Pages'		=>		'Сторінки',	
 'Page'		=>		'Сторінка %s',	
 'BBCode'		=>		'BBCode',	// You probably shouldn't change this
-'url tag'		=>		'Теґ [url]:',	
-'img tag'		=>		'[img] tag',	
+'url tag'		=>		'Теґи [url]',	
+'img tag'		=>		'Теґи [img]',	
 'Smilies'		=>		'Смайлики',	
-'and'		=>		'и',	
+'and'		=>		'і',	
 'Image link'		=>		'картинка',	// This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'		=>		'пише:',	// For [quote]'s
 'Mailer'		=>		'Поштовий робот %s',	// As in "MyForums Mailer" in the signature of outgoing emails
@@ -119,9 +119,9 @@ $lang_common = array(
 'Title separator'		=>		' / ',	
 
 // Stuff for the page footer
-'Board footer'		=>		'Ноги форуму',	
+'Board footer'		=>		'Підвал форуму',	
 'Jump to'		=>		'Перейти',	
-'Go'		=>		' Пішов ',	// Submit button in forum jump
+'Go'		=>		' Вперед',	// Submit button in forum jump
 'Moderate topic'		=>		'Модерувати тему',	
 'All'		=>		'Всі',	
 'Move topic'		=>		'Перенести тему',	
@@ -133,7 +133,7 @@ $lang_common = array(
 'Powered by'		=>		'Під керуванням %s',	
 
 // Debug information
-'Debug table'		=>		'Відкладочна інформація',	
+'Debug table'		=>		'Відлагоджувальна таблиця',	
 'Querytime'		=>		'Згенеровано за %1$s сек, %2$s запитів виконано',	
 'Memory usage'		=>		'Використано пам\'яті: %1$s',	
 'Peak usage'		=>		'(Пік: %1$s)',	
