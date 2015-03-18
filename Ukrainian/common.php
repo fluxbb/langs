@@ -114,8 +114,8 @@ $lang_common = array(
 'Show active topics'		=>		'Знайти теми з нещодавніми повідомленнями.',	
 'Show unanswered topics'		=>		'Знайти теми без відповідей.',	
 'Show posted topics'		=>		'Знайти теми з Вашою участю.',	
-'Mark all as read'		=>		'Помітити все як прочитане',	
-'Mark forum read'		=>		'Помітити розділ як прочитаний',	
+'Mark all as read'		=>		'Позначити все як прочитане',	
+'Mark forum read'		=>		'Позначити розділ як прочитаний',	
 'Title separator'		=>		' / ',	
 
 // Stuff for the page footer
