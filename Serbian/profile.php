@@ -6,7 +6,7 @@ $lang_profile = array(
 // Navigation and sections
 'Profile menu'					=>	'Meni za profil',
 'Section essentials'			=>	'Glavne stvari',
-'Section personal'				=>	'Personalni',
+'Section personal'				=>	'Lični',
 'Section messaging'				=>	'Poruke',
 'Section personality'			=>	'Ličnost',
 'Section display'				=>	'Prikaz',
@@ -15,7 +15,7 @@ $lang_profile = array(
 
 // Miscellaneous
 'Username and pass legend'		=>	'Unesite Vaše korisničko ime i šifru',
-'Personal details legend'		=>	'Unesite Vaše personalne detaǉe',
+'Personal details legend'		=>	'Unesite Vaše lične detaǉe',
 'Contact details legend'		=>	'Unesite Vaše detaǉe za poruke',
 'User activity'					=>	'Aktivnost korisnika',
 'Paginate info'					=>	'Unesite broj tema ili poruka koje želite da vidite na svakoj strani.',
@@ -103,7 +103,7 @@ $lang_profile = array(
 'Posts per page'				=>	'Poruke',
 'Leave blank'					=>	'Ostavi prazno za korišćeǌe podrazumevanog podešavanja foruma.',
 'Subscription legend'			=>	'Podesite Vaše opcije za prijavu',
-'Notify full'					=>	'Ukǉući običan tekst novih poruka u email obavešteǌa na teme gde ste upisani.',
+'Notify full'					=>	'Ukǉuči običan tekst novih poruka u email obavešteǌa na teme gde ste upisani.',
 'Auto notify full'				=>	'Automatski se upišite na svaku temu gde ste pisali.',
 'Show smilies'					=>	'Prikaži smeškove kao grafičke ikonice.',
 'Show images'					=>	'Prikaži slike u porukama.',
