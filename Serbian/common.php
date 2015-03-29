@@ -94,7 +94,7 @@ $lang_common = array(
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'Indeks',
-'User list'							=>	'Korisnička lista',
+'User list'							=>	'Lista korisnika',
 'Rules'								=>	'Pravila',
 'Search'							=>	'Pretraga',
 'Register'							=>	'Registrujte se',
@@ -108,8 +108,8 @@ $lang_common = array(
 'Topic searches'					=>	'Teme:',
 'New posts header'					=>	'Nove',
 'Active topics'						=>	'Aktivne',
-'Unanswered topics'					=>	'Na njih nije odgovoreno',
-'Posted topics'						=>	'Poslate poruke',
+'Unanswered topics'					=>	'Neodgovorene',
+'Posted topics'						=>	'Poslate',
 'Show new posts'					=>	'Prikaži teme sa novim porukama od vaše zadnje prijave.',
 'Show active topics'				=>	'Prikaži aktivne teme.',
 'Show unanswered topics'			=>	'Prikaži teme bez odgovora.',
