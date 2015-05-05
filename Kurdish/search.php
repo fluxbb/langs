@@ -14,8 +14,8 @@ $lang_search = array(
 'Author search'						=>	'گەڕانی نووسەر',
 'Search in legend'					=>	'دەستنیشانبکە لەکوێ بگەڕێ',
 'Search in info'					=>	'هەڵبژێرە لەکام مەکۆ ئارەزوو دەکەیت بگەڕێی',
+'Search multiple forums info'		=>	'ئەگەر هیچ مەکۆیەکت دیاری نەکردبێت، ئەوە هەموو مەکۆکان دەگەڕێت.',
 'Forum search'						=>	'مەکۆ',
-'All forums'						=>	'هەموو مەکۆکان',
 'Search in'							=>	'گەڕان لە',
 'Message and subject'				=>	'سەردێڕی بابەت و دەقی پەیام',
 'Message only'						=>	'تەنها دەقی پەیام',
@@ -35,9 +35,8 @@ $lang_search = array(
 'Show as posts'						=>	'پەیامەکان',
 
 // Results
-'Search results'					=>	'ئەنجامەکانی گەڕان',
-'Search topics'						=>	'گەڕانی بابەتەکان',
-'Search posts'						=>	'گەڕانی پەیامەکان',
+'Search'							=>	'گەڕان',
+'Search results'					=>	'ئەنجامی گەڕان',
 'Quick search show_new'				=>	'نوێ',
 'Quick search show_recent'			=>	'چالاک',
 'Quick search show_unanswered'		=>	'وەڵامنەدراو',

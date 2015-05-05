@@ -15,11 +15,11 @@ $lang_admin_common = array(
 'Options'				=>	'オプション',
 'Permissions'			=>	'パーミッション',
 'Censoring'				=>	'禁止用語',
-'Ranks'					=>	'ランク',
 'Bans'					=>	'アクセス制限',
 'Prune'					=>	'トピックの整理',
 'Maintenance'			=>	'メンテナンス',
 'Reports'				=>	'通報',
+'Server statistics'				=>	'Server statistics',
 
 'Admin'					=>	'管理者',
 'Go back'				=>	'戻る',

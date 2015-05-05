@@ -15,7 +15,6 @@ $lang_update = array(
 'Maintenance'					=>	'Tryb konserwacji',
 'Maintenance message info'		=>	'Informacja wyświetlana dla użytkowników podczas procesu aktualizacji. Teskt ten nie będzie przetwarzany jak posty, zatem może zawierać kod HTML.',
 'Maintenance message'		    =>	'Wiadomość',
-'Next'							=>	'Dalej',
 
 'You are running error'			=>	'Na serwerze uruchomiony jest %1$s w wersji %2$s. FluxBB %3$s wymaga co najmniej %1$s %4$s, aby działać poprawnie. Musisz zaktualizować %1$s do nowszej wersji, aby kontynuować.',
 'Version mismatch error'		=>	'Niezgodność wersji. Baza danych \'%s\' nie jest uruchomiona zgodnie ze schematem bazy FluxBB wpieranym przez ten skrypt aktualizacyjny.',

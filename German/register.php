@@ -30,7 +30,7 @@ $lang_register = array(
 'Desc 2'					=>	'Unten findest du ein Formular, mit dem du dich registrieren kannst. Nachdem du dich registriert hast, solltest du dein Mitgliedsprofil besuchen und deine Einstellungen kontrollieren bzw. fehlende Informationen ergänzen. Die folgenden Felder stellen nur einen kleinen Teil der Einstellungen dar, die im Profil vorgenommen werden können.',
 'Username legend'			=>	'Bitte gib einen Mitgliedsnamen mit einer Länge zwischen 2 und 25 Zeichen ein',
 'Pass legend'				=>	'Bitte gib ein Passwort ein und bestätige dies',
-'Pass info'					=>	'Passwörter müssen mindestens 4 Zeichen lang sein. Achte auf Groß-/Kleinschreibung.',
+'Pass info'					=>	'Passwörter müssen mindestens 6 Zeichen lang sein. Achte auf Groß-/Kleinschreibung.',
 'Email info'				=>	'Bitte gib eine gültige E-Mail-Adresse ein, an die dein zufällig erzeugtes Passwort gesendet werden kann.',
 'Confirm email'				=>	'E-Mail-Adresse zur Bestätigung wiederholen',
 

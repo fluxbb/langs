@@ -1,18 +1,18 @@
-<?php
+t<?php
 
 // Definizioni di lingua usate in admin_options.php
 /* Traduzione di: Oscon.it */
 
 $lang_admin_options = array(
 
-'Bad HTTP Referer message'			=>	'HTTP_REFERER non valido. Se il sistema &egrave; stato spostato da una cartella a un\'altra o il dominio &egrave; stato cambiato. Aggiornare manualmente il \"Base URL\" nel database (cambiando il valore di "o_base_url" nella tabella "config") e successivamente svuotare la cache eliminando tutti i documenti .php (solo quelli) nella cartella /cache.',
+'Bad HTTP Referer message'			=>	'HTTP_REFERER non valido. Se il sistema &egrave; stato spostato da una cartella a un\'altra o il dominio &egrave; stato cambiato, agiornare manualmente il \"Base URL\" nel database (cambiando il valore di "o_base_url" nella tabella "config") e successivamente svuotare la cache eliminando tutti i file .php (solo quelli) nella cartella /cache.',
 'Must enter title message'			=>	'Inserire un nome.',
 'Invalid e-mail message'			=>	'L\'indirizzo email inserito &egrave; errato.',
 'Invalid webmaster e-mail message'	=>	'L\'indirizzo email inserito &egrave; errato.',
-'SMTP passwords did not match' 		=>  'Inserire la password SMTP due volte esattamente per mofificarla.',
+'SMTP passwords did not match' 		=>  'Inserire due volte la password SMTP corretta per mofificarla.',
 'Enter announcement here'			=>	'Scrivere un annuncio.',
 'Enter rules here'					=>	'Scrivere le regole di utilizzo.',
-'Default maintenance message'		=>	'Il sistema &egrave; attualmente in manutenzione. Prova pi&ugrave; tardi, grazie.',
+'Default maintenance message'		=>	'Il sistema &egrave; attualmente in manutenzione. Torneremo al pi&ugrave; presto, riprova a breve, grazie!',
 'Timeout error message'				=>	'Il valore "Timeout online" deve essere minore al valore "Timeout visit".',
 'Options updated redirect'			=>	'Opzioni aggiornate. Reindirizzamento &hellip;',
 'Options head'						=>	'Opzioni',
@@ -87,7 +87,7 @@ $lang_admin_options = array(
 'Visit timeout label'				=>	'Scadenza di visita',
 'Visit timeout help'				=>	'Secondi che devono trascorrere prima che i dati di ultima visita di un utente siano aggiornati (influenza prevalentemente l\'indicazione dei nuovi messaggi).',
 'Online timeout label'				=>	'Scadenza attivit&agrave;',
-'Online timeout help'				=>	'Secondi che devono trascorrere prima che un utente venga rimosso dalla lista degli utenti online.',
+'Online timeout help'				=>	'Secondi che devono trascorrere prima che un utente sia rimosso dalla lista degli utenti online.',
 'Redirect time label'				=>	'Tempo di reindirizzamento',
 'Redirect time help'				=>	'Secondi da attendere durante il reindirizzamento. Se impostato su 0 la pagina di reindirizzamento non sar&agrave; visualizzata.',
 
@@ -106,7 +106,7 @@ $lang_admin_options = array(
 'Clickable links label'				=>	'Collegamenti',
 'Clickable links help'				=>	'Convertire automaticamente gli indirizzi web nei messaggi trasformandoli in collegamenti.',
 'Topic review label'				=>	'Revisione della discussione',
-'Topic review help'					=>	'Numero massimo di messaggi da mostrare in coda alla pagina durante la composizione di un messaggio (dal pi&ugrave; recente). Impostare 0 per disabilitare.',
+'Topic review help'					=>	'Numero massimo di messaggi da mostrare in coda alla pagina durante la scrittura di un nuovo messaggio (dal pi&ugrave; recente). Impostare 0 per disabilitare.',
 'Topics per page label'				=>	'Discussioni per pagina',
 'Topics per page help'				=>	'Il numero predefinito di discussioni da visualizzare per ogni pagina in un forum. Gli utenti possono personalizzare questa impostazione nel proprio profilo.',
 'Posts per page label'				=>	'Messaggi per pagina',
@@ -114,9 +114,9 @@ $lang_admin_options = array(
 'Indent label'						=>	'Dimensione di indentazione',
 'Indent help'						=>	'Se impostato su 8, sar&agrave; utilizzata una tabella per visualizzare il testo contenuto nei marcatori [code][/code]. Altrimenti sar&agrave; utilizzata una spaziatura corrispondente.',
 'Quote depth label'					=>	'Massima nidificazione del marcatore [quote]',
-'Quote depth help'					=>	'Il numero massimo di marcatori [quote] che pu&ograve; essere nidificato. Ogni marcatore ulteriore sar&agrave; scartato.',
+'Quote depth help'					=>	'Il numero massimo di marcatori [quote] che possono essere nidificati. Ogni marcatore ulteriore sar&agrave; scartato.',
 
-// Sezione "Funzionalità"
+// Sezione "FunzionalitÃ "
 'Features subhead'					=>	'Funzionalit&agrave;',
 'Quick post label'					=>	'Risposta celere',
 'Quick post help'					=>	'Visualizza un modulo per la risposta veloce in fondo a ogni discussione. In questo modo gli utenti potranno rispondere direttamente dalla pagina corrente.',
@@ -131,17 +131,17 @@ $lang_admin_options = array(
 'Topic views label'					=>	'Visulizzazioni',
 'Topic views help'					=>	'Mostra il numero di visite a ciascuna discussione. Disattivare in caso di alto carico del server.',
 'Quick jump label'					=>	'Salto veloce',
-'Quick jump help'					=>	'Visualizza un menu a cascata con reindirizzamento automatico al forum scelto.',
+'Quick jump help'					=>	'Visualizza un menu a cascata che permette il reindirizzamento automatico al forum scelto.',
 'GZip label'						=>	'Compressione Gzip',
 'GZip help'							=>	'Comprime tramite Gzip le informazioni inviate al browser. Questa funzione riduce il consumo di banda ma impiega maggiori risorse di server. Per funzionare, richiede che PHP sia configurato con le zlib (--with-zlib). Nota: se il server Apache dispone gi&agrave; di mod_gzip o mod_deflate per la compressione di script PHP, non attivare questa funzione.',
 'Search all label'					=>	'Ricerca globale',
 'Search all help'					=>	'Abilita la ricerca in tutti i forum. Se disabilitato, le ricerche saranno permesse solo in un forum per volta. Disattivare in caso di alto carico del server.',
 'Menu items label'					=>	'Collegamenti supplementari',
-'Menu items help'					=>	'Aggiunge collegamenti al menu di navigazione presente in cima a ogni pagina. Il formato &egrave; X = &lt;a href="URL"&gt;LINK&lt;/a&gt; dove X &egrave; la posizione alla quale il collegamento deve essere inserito (esempio: 0 per inserirlo all\'inizio, 2 per inserirlo dopo "Lista utenti", ecc.). Scrivere un collegamento per ogni riga.',
+'Menu items help'					=>	'Aggiunge collegamenti al menu di navigazione posto in cima a ogni pagina. Il formato &egrave; X = &lt;a href="URL"&gt;LINK&lt;/a&gt; dove X &egrave; la posizione alla quale il collegamento deve essere inserito (esempio: 0 per inserirlo all\'inizio, 2 per inserirlo dopo "Lista utenti", ecc.). Scrivere un collegamento per ogni riga.',
 
 // Sezione feed
 'Feed subhead'                      =>  'Syndication',
-'Default feed label'				=>	'Tipo di Feed predefinito',
+'Default feed label'				=>	'Tipo di feed predefinito',
 'Default feed help'					=>	'&Egrave; possibile presentare i feed dei forum in due differenti formati (RSS o Atom) o nasconderli.',
 'None'								=>	'Nascondi',
 'RSS'								=>	'RSS',

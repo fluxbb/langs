@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'HTTP_REFERERが不正です。フォーラムをある場所から他の場所へ移動したかドメインが変わった場合は、データベース内のベースURL（ configテーブルのo_base_url行）を更新してからキャッシュ（/cacheディレクトリ）をクリア（すべてのPHPファイルを削除）する必要があります。',
@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'フォーラムの簡単な説明（すべてのページの先頭に表示）。HTML使用可。',
 'Base URL label'					=>	'ベースアドレス',
 'Base URL help'						=>	'最後の/（スラッシュ）を除いたフォーラムの完全なURL（例：http://www.mydomain.com/forums）。管理やモデレーション機能が正しく動作するための <strong>必須</strong> 項目です。"不正なリファラー"エラーが表示される場合は、恐らくここが間違っています。',
+'Base URL problem'          =>  'Your installation does not support automatic conversion of internationalized domain names. As your base URL contains special characters, you <strong>must</strong> use an online converter in order to avoid "Bad referer" errors.',
 'Timezone label'					=>	'タイムゾーン',
 'Timezone help'						=>	'フォーラムに登録するユーザーのデフォルトタイムゾーン',
 'DST label'							=>	'夏時間',
@@ -123,8 +124,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'特定な語句の入力を抑制します。詳しくは %s を参照。',
 'Signatures label'					=>	'署名',
 'Signatures help'					=>	'投稿に署名を添付できます。',
-'User ranks label'					=>	'ランク',
-'User ranks help'					=>	'ユーザーのランクを表示します。詳しくは %s を参照。',
 'User has posted label'				=>	'投稿ラベル',
 'User has posted help'				=>	'ログイン中のユーザーが投稿したトピックの先頭にドットを表示します。サーバーに負荷が掛かる場合は無効にします。',
 'Topic views label'					=>	'閲覧カウント',
@@ -137,11 +136,18 @@ $lang_admin_options = array(
 'Search all help'					=>	'無効にすると一回の検索で１つのフォーラムしか検索できなくなります。サーバーに負荷が掛かる場合は無効にします。',
 'Menu items label'					=>	'追加メニューリンク',
 'Menu items help'					=>	'テキストボックスに入力したHTMLのリンクがメインナビに表示されます。リンクは、X = &lt;a href="URL"&gt;LINK&lt;/a&gt; の形式で指定します。X はリンクの挿入位置を指定します（例：0は先頭、2は"ユーザーリスト"の次）。複数のリンクを設定する場合は改行します。',
+
+// Feeds section
+'Feed subhead'						=>	'Syndication',
 'Default feed label'				=>	'デフォルトフィード',
 'Default feed help'					=>	'フィードの種類を指定します。注意： "なし"はリンクが表示されなくなるだけでフィード機能自体は有効です。',
 'None'								=>	'なし',
 'RSS'								=>	'RSS',
 'Atom'								=>	'Atom',
+'Feed TTL label'					=>	'Duration to cache feeds',
+'Feed TTL help'						=>	'Feeds can be cached to lower the resource usage of feeds.',
+'No cache'							=>	'Don\'t cache',
+'Minutes'							=>	'%d minutes',
 
 // Reports section
 'Reports subhead'					=>	'通報',

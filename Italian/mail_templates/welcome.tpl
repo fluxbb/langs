@@ -1,4 +1,4 @@
-Subject: Benvenuto in <board_title>!
+Subject: Benvenuto su <board_title>!
 
 Ciao <username>, benvenuto su <base_url>!
 

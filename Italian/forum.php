@@ -10,10 +10,10 @@ $lang_forum = array(
 'Moved'			=>	'Spostata:',
 'Sticky'		=>	'In evidenza:',
 'Closed'		=>	'Chiusa:',
-'Empty forum'	=>	'Il forum &egrave; vuoto!',
+'Empty forum'	=>	'Il forum &egrave; vuoto.',
 'Mod controls'	=>	'Controlli moderatore',
 'Is subscribed' =>  'Sei iscritto al forum',
 'Unsubscribe'   =>  'Disiscrizione',
-'Subscribe'     =>  'Avvertimi in caso di nuove discussioni!',
+'Subscribe'     =>  'Segnalami nuove discussioni!',
 
 );

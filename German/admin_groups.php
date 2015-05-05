@@ -40,7 +40,7 @@ $lang_admin_groups = array(
 'User title label'				=>	'Mitgliedertitel',
 'User title help'				=>	'Der Rang den Mitglieder in dieser Grupper erlangt haben. Ohne Vorgabe wird der voreingestellte Rang verwendet ("%s").',
 'Promote users label'			=>	'Mitglieder befördern',
-'Promote users help'			=>	'Du kannst Mitglieder automatisch zu einer Gruppe befördern wenn diese eine bestimmte Anzahl von Beiträgen erreicht haben. Wähle "%s" zum deaktivieren. Aus Sicherheitsgründen kannst Du hier keine Administrator-Gruppe auswählen. Beachte zusätzlich, dass Änderungen der Gruppe aufgrund dieser Einstellung erst nach dem nächsten Beitrag des Mitgliedes effektiv sind. Die Anzahl der Beiträge, die Du hier einträgst entpsricht der Gesamtzahl des Nutzers und nicht der Anzahl der Beiträge, die als Mitglied dieser Gruppe erstellt wurden.',
+'Promote users help'			=>	'Du kannst Mitglieder automatisch zu einer Gruppe befördern wenn diese eine bestimmte Anzahl von Beiträgen erreicht haben. Wähle "%s" zum deaktivieren. Aus Sicherheitsgründen kannst Du hier keine Administrator-Gruppe auswählen. Beachte zusätzlich, dass Änderungen der Gruppe aufgrund dieser Einstellung <strong>sofort</strong> wirksam werden. Die Anzahl der Beiträge, die Du hier einträgst entpsricht der Gesamtzahl des Nutzers und nicht der Anzahl der Beiträge, die als Mitglied dieser Gruppe erstellt wurden.',
 'Disable promotion'				=>	'Deaktiviere Beförderungen',
 
 'Mod privileges label'			=>	'Gibt Mitgliedern Moderator-Privilegien',
@@ -51,6 +51,8 @@ $lang_admin_groups = array(
 'Rename users help'				=>	'Wenn die Moderator-Privilegien aktiviert sind, können Mitglieder dieser Gruppe Mitglieder umbenennen.',
 'Change passwords label'		=>	'Erlaubt Moderatoren, Passwörter zu ändern',
 'Change passwords help'			=>	'Wenn die Moderator-Privilegien aktiviert sind, können Mitglieder dieser Gruppe Mitgliederpasswörter ändern.',
+'Mod promote users label'		=>	'Erlaube Moderatoren Mitglieder zu befördern',
+'Mod promote users help'		=>	'Wenn Moderatoren-Rechte aktiv sind, erlaube Mitgliedern dieser Gruppe andere Mitglieder zu befördern.',
 'Ban users label'				=>	'Erlaubt Moderatoren, Mitglieder zu sperren',
 'Ban users help'				=>	'Wenn die Moderator-Privilegien aktiviert sind, können Mitglieder andere Mitglieder dieser Gruppe sperren.',
 'Read board label'				=>	'Board lesen',

@@ -1,6 +1,6 @@
-Subject: Attenzione - Email duplicata rilevata
+Subject: Attenzione - Rilevata email duplicata
 
-L'utente '<username>' ha cambiato il proprio indirizzo email con uno gi‡ appartenente a: <dupe_list>
+L'utente '<username>' ha cambiato il proprio indirizzo email con uno gi√† appartenente a: <dupe_list>
 
 Profilo utente: <profile_url>
 

@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'						=>	'تۆ دەسەڵاتی گەیشتن بەو پەڕەیەت نییە',
 'Bad referrer'						=>	' ی خراپ ،تۆ گەڕێندرایتەوە بۆ ئەو پەڕەیە لە سەرچاوەی ئەگەر هەڵەکە بەردەوام بوو دڵنایبەوە لەوەی بەستەری بنچینە پێشتر دانراوە لە بەڕێوەبەرایەتی/هەڵبژاردنەکان هەڵەوەHTTP_REFERER',
 'No cookie'							=>	'وا دەردەکەوێ بە سەرکەوتووی هاتبیتە ژوورەوە ،هەرچۆنێکە شەکرۆکەیەک دانەنراوە ڕێکخستنەکانت بپشکنە وە ئەگەر گونجا شەکرۆکەکان چالاک بکە بۆ ئەو ماڵپەرە',
+'Pun include extension'  			=>	'Unable to process user include %s from template %s. "%s" files are not allowed',
+'Pun include directory'				=>	'Unable to process user include %s from template %s. Directory traversal is not allowed',
 'Pun include error'					=>	'هیچ پەڕگەیەکی لەو جۆرە نییە نە لە قاڵبەکە وە نە لە شوێناوی بەکارهێنەر، %s لە قاڵبی %s ناتوانرێ بگەیت بە بەکارهێنەر لەناو',
 
 // Miscellaneous
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	':پەڕەکان',
 'Page'								=>	'پەڕەی %s',
 'BBCode'							=>	'BBCode:', // You probably shouldn't change this
+'url tag'							=>	'[url] tag:',
 'img tag'							=>	'تاگی [img]:',
 'Smilies'							=>	'خەندەکان:',
 'and'								=>	'و',
@@ -69,7 +72,6 @@ $lang_common = array(
 'Write message legend'				=>	'پەیامەکەت بنووسە و بینێرە',
 'Previous'							=>	'پێشوو',
 'Next'								=>	'دواتر',
-'Forum index'						=>	'دەستپێکی مەکۆ',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
@@ -86,7 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] کرایەوە لەکاتی خۆیدا ،ئەمە ڕێپێنەدراوە',
 'BBCode error no closing tag'		=>	'[%1$s] دۆزرایەوە بەبێ گونجاندنێکی [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] تاق بەش دەستێکی نادیاری هەیە',
-'BBCode code problem'				=>	'[code] کێشەیەک هەیە لەگەڵ تاقەکانی',
+'BBCode error tag not allowed'		=>	'تۆ ناتوانیت تاگی  [%s] بەکاربەریت',
+'BBCode error tag url not allowed'	=>	'تۆ ناتوانیت بەستەر دابنێی',
 'BBCode list size error'			=>	'لیستەکەت زۆر درێژبوو بۆ جیاکردنەوە ،تکایە بچووکی بکەوە',
 
 // Stuff for the navigator (top of every page)
@@ -120,6 +123,7 @@ $lang_common = array(
 'Jump to'							=>	'بازدان بۆ',
 'Go'								=>	' بڕۆ ', // Submit button in forum jump
 'Moderate topic'					=>	'چاودێریکردنی بابەت',
+'All'					=>	'All',
 'Move topic'						=>	'بابەت بگوازەوە',
 'Open topic'						=>	'بابەت بکەوە',
 'Close topic'						=>	'داخستنی بابەت',
@@ -137,24 +141,6 @@ $lang_common = array(
 'Query'								=>	'پرس',
 'Total query time'					=>	'کاتی گشتی پرسگە %s',
 
-// Email related notifications
-'New user notification'				=>	'ئاگاداری - تۆماربوونی نوێ',
-'New user message'					=>	'%s تۆماربوو لە مەکۆکە لە \'%s\' بەکارهێنەر',
-'Banned email notification'			=>	'ئاگاداری - ئیمەیڵی ڕاگیراو دۆزرایەوە',
-'Banned email register message'		=>	'%s :تۆماربوو لەگەڵ پۆستی ئەلیکترۆنییەکی ڕاگیراو \'%s\' بەکارهێنەر',
-'Banned email change message'		=>	'%s :گۆڕا بۆ پۆستی ئەلیکترۆنی ڕاگیراو \'%s\' بەکارهێنەر',
-'Banned email post message'			=>	'%s :پەیامی نارد بە پۆستی ئەلیکترۆنی ڕاگیراو \'%s\' بەکارهێنەر',
-'Duplicate email notification'		=>	'ئاگاداری - ئیمەیڵی دووبارە دۆزرایەوە',
-'Duplicate email register message'	=>	'%s :تۆماربوو لەگەڵ پۆستی ئەلیکترۆنییەکی کە خاوەنەکەی \'%s\' بەکارهێنەر',
-'Duplicate email change message'	=>	'%s :ئیمەیڵی گۆرێ بۆ ئیمەیڵێک کە خاوەنەکەی \'%s\' بەکارهێنەر',
-'Report notification'				=>	'(%d) ڕاپۆرت- \'%s\'',
-'Report message 1'					=>	'%s :ئەم پەیامەی ڕاپۆرت کرد \'%s\' بەکارهێنەر',
-'Report message 2'					=>	'هۆکار: %s',
-
-'User profile'						=>	'پرۆفایلی بەکارهێنەر: %s',
-'Post URL'							=>	'بەستەری پەیام: %s',
-'Email signature'					=>	'پەیامبەری مەکۆ'."\n".'(وەڵامی ئەم پەیامە مەدەوە)',
-
 // For extern.php RSS feed
 'RSS description'					=>	'چالاکترین بابەتەکان لە: %s',
 'RSS description topic'				=>	'چالاکترین پەیامەکان لە: %s',
@@ -169,5 +155,14 @@ $lang_common = array(
 // Admin related stuff in the header
 'New reports'						=>	'پەیامی نوێ هەیە',
 'Maintenance mode enabled'			=>	'باری چاکسازی چالاکە',
+
+// Units for file sizes
+'Size unit B'						=>	'%s B',
+'Size unit KiB'						=>	'%s KiB',
+'Size unit MiB'						=>	'%s MiB',
+'Size unit GiB'						=>	'%s GiB',
+'Size unit TiB'						=>	'%s TiB',
+'Size unit PiB'						=>	'%s PiB',
+'Size unit EiB'						=>	'%s EiB',
 
 );

@@ -15,7 +15,6 @@ $lang_update = array(
 'Maintenance'					=>	'Wartung',
 'Maintenance message info'		=>	'Diese Nachricht wird dem Nutzer während der Aktualisierung angezeigt. Der Text wird nicht wie reguläre Beiträge interpretiert und darf daher HTML enhalten.',
 'Maintenance message'		    =>	'Wartungs-Nachricht',
-'Next'							=>	'Weiter',
 
 'You are running error'			=>	'Du verwendest %1$s Version %2$s. FluxBB %3$s benötigt für seine volle Funktionsfähigkeit mindestens %1$s %4$s. Bevor du weitermachen kannst, musst du zunächst deine %1$s Installation aktualisieren.',
 'Version mismatch error'		=>	'Versionsfehler. Die Datenbank \'%s\' scheint kein FluxBB-Datenbank-Schema zu verwenden, welches von diesem Aktualisierungs-Script unterstützt wird.',

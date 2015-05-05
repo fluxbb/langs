@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-forums.php
+// Language definitions used in admin_forums.php
 $lang_admin_forums = array(
 
 'Forum added redirect'		=>	'フォーラムが追加されました。リダイレクト中 …',
@@ -13,8 +13,8 @@ $lang_admin_forums = array(
 'New forum'					=>	'新しいフォーラム',
 
 // Entry page
-'Add forum head'			=>	'フォーラムの追加',
-'Create new subhead'		=>	'',
+'Add forum head'			=>	'フォーラムを追加',
+'Create new subhead'		=>	'フォーラムを新規作成',
 'Add forum label'			=>	'追加するカテゴリー',
 'Add forum help'			=>	'フォーラムを追加するカテゴリーを選択します。',
 'Add forum'					=>	'追加',

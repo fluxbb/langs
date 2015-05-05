@@ -3,7 +3,7 @@
 $lang_search = array(
 // The search form
     'User search'                     => 'Поиск пользователей',
-    'No search permission'            => 'У вас нет прав на поиск.',
+    'No search permission'            => 'У вас не хватает прав для поиска.',
     'Search flood'                    => 'Хотя бы %s сек. должно пройти до следующего поиска. Пожалуйста, подождите и попробуйте снова.',
     'Search'                          => 'Поиск',
     'Search criteria legend'          => 'Введите условия поиска',
@@ -14,7 +14,6 @@ $lang_search = array(
     'Search in info'                  => 'Выберите в каком форуме искать и где искать: в заголовке, сообщении или и там и там.',
     'Search multiple forums info'     => 'Если не выбран ни один, будем искать по всем.',
     'Forum search'                    => 'Форум',
-    'All forums'                      => '&lt;Все&gt;',
     'Search in'                       => 'Искать в',
     'Message and subject'             => 'сообщении и заголовке темы',
     'Message only'                    => 'только в сообщении',

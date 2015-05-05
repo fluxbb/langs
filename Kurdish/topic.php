@@ -6,6 +6,7 @@ $lang_topic = array(
 'Post reply'		=>	'وەڵام بنێرە',
 'Topic closed'		=>	'بابەت داخراوە',
 'From'				=>	'شوێن:', // User location
+'Promote user'		=>	'بەرزکردنەوەی بەکارهێنەر',
 'IP address logged'	=>	'لۆگەکانی ئایپییەکە',
 'Note'				=>	'تێبینی:', // Admin note
 'Posts'				=>	'پەیامەکان:',

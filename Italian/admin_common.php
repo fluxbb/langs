@@ -13,7 +13,7 @@ $lang_admin_common = array(
 'Categories'			=>	'Categorie',
 'Forums'				=>	'Forum',
 'Users'					=>	'Utenti',
-'User groups'			=>	'Gruppi utenti',
+'User groups'			=>	'Gruppi utente',
 'Options'				=>	'Opzioni',
 'Permissions'			=>	'Permessi',
 'Censoring'				=>	'Oscuramenti',
@@ -40,7 +40,7 @@ $lang_admin_common = array(
 'Maintenance mode'		=>	'modo manutenzione', // sfuttato in varie occasioni
 
 // Amministrazione
-'No plugin message'		=>	'Nella cartella dei plugin non &egrave; presente alcun plugin chiamato %s.',
-'Plugin failed message'	=>	'Caricamento del plugin - <strong>%s</strong> - fallito.',
+'No plugin message'		=>	'Nella cartella dei plugin non &egrave; presente alcun plugin denominato %s.',
+'Plugin failed message'	=>	'Caricamento del plugin - <strong>%s</strong> - non riuscito.',
 
 );

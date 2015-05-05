@@ -1,4 +1,4 @@
-Subject: Attenzione - Email interdetta rilevata
+Subject: Attenzione - Rilevata email interdetta
 
 L'utente '<username>' ha modificato la propria email nell'indirizzo interdetto: <email>
 

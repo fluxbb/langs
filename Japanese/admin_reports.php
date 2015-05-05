@@ -7,6 +7,7 @@ $lang_admin_reports = array(
 'New reports head'			=>	'新しい通報',
 'Deleted user'				=>	'削除されたユーザー',
 'Deleted'					=>	'削除済み',
+'Post ID'					=>	'Post #%s',
 'Report subhead'			=>	'%s の通報',
 'Reported by'				=>	'%s から',
 'Reason'					=>	'理由',

@@ -2,7 +2,7 @@
 
 // Language definitions used in profile.php
 $lang_profile = array(
- 
+
 // Navigation and sections
 'Profile menu'			=>	'Menu profil',
 'Section essentials'		=>	'Principal',
@@ -12,14 +12,14 @@ $lang_profile = array(
 'Section display'		=>	'Affichage',
 'Section privacy'		=>	'Vie privée',
 'Section admin'			=>	'Administration',
- 
+
 // Miscellaneous
 'Username and pass legend'	=>	'Nom d\'utilisateur et mot de passe',
 'Personal details legend'	=>	'Informations personnelles',
 'Contact details legend'	=>	'Informations sur les messageries instantanées',
 'User activity'			=>	'Activité de l\'utilisateur',
 'Paginate info'			=>	'Nombres de discussions et de messages à afficher par page.',
- 
+
 // Password stuff
 'Pass key bad'			=>	'La clef d\'activation du mot de passe est incorrecte ou a expiré. Veuillez demander un nouveau mot de passe. Si cela ne marche pas, contactez l\'administrateur.',
 'Pass updated'			=>	'Votre mot de passe a été mis à jour. Vous pouvez à présent vous identifier avec votre nouveau mot de passe.',
@@ -30,8 +30,8 @@ $lang_profile = array(
 'Old pass'			=>	'Ancien mot de passe',
 'New pass'			=>	'Nouveau mot de passe',
 'Confirm new pass'		=>	'Confirmez le nouveau mot de passe',
-'Pass info'			=>	'Les mots de passe doivent comporter au moins 4 caractères. Ils sont sensibles à la casse.',
- 
+'Pass info'			=>	'Les mots de passe doivent comporter au moins 6 caractères. Ils sont sensibles à la casse.',
+
 // E-mail stuff
 'Email key bad'			=>	'La clef d\'activation d\'adresse électronique est incorrecte ou a expiré. Veuillez demander à nouveau un changement d\'adresse électronique. Si cela échoue, contactez l\'administrateur',
 'Email updated'			=>	'Votre adresse électronique a été mise à jour.',
@@ -40,7 +40,7 @@ $lang_profile = array(
 'Email instructions'		=>	'Indiquez la nouvelle adresse électronique. Un e-mail comportant un lien d\'activation y sera envoyé. Vous devrez cliquer sur ce lien pour activer l\'adresse.',
 'Change email'			=>	'Changer l\'adresse électronique',
 'New email'			=>	'Nouvelle adresse électronique',
- 
+
 // Avatar upload stuff
 'Avatars disabled'		=>	'La prise en charge des avatars est désactivée.',
 'Too large ini'			=>	'Fichier trop volumineux. Le serveur refuse son envoi.',
@@ -62,11 +62,11 @@ $lang_profile = array(
 'Delete avatar'			=>	'Effacer l\'avatar',	// only for admins
 'File'				=>	'Fichier',
 'Upload'			=>	'Envoyer',	// submit button
- 
+
 // Form validation stuff
 'Forbidden title'		=>	'Votre titre contient un mot interdit. Choisissez un autre titre.',
 'Profile redirect'		=>	'Profil mis à jour. Redirection&#160;…',
- 
+
 // Profile display stuff
 'Users profile'			=>	'Profil de %s',
 'Username info'			=>	'Nom d\'utilisateur&#160;: %s',
@@ -117,7 +117,7 @@ $lang_profile = array(
 'Post display legend'		=>	'Définissez vos options de visualisation des messages',
 'Post display info'		=>	'En désactivant toutes les options d\'affichage des images et des signatures dans les messages, vous augmenterez la vitesse de chargement des pages.',
 'Instructions'			=>	'Après avoir mis à jour le profil vous serez redirigé(e) vers cette page.',
- 
+
 // Administration stuff
 'Group membership legend'	=>	'Choisissez un groupe d\'utilisateurs',
 'Save'				=>	'Enregistrer',
@@ -136,7 +136,8 @@ $lang_profile = array(
 'User delete redirect'		=>	'Utilisateur supprimé. Redirection&#160;…',
 'Group membership redirect'	=>	'Appartenance à un groupe enregistrée. Redirection&#160;…',
 'Update forums redirect'	=>	'Droits du modérateur mis à jour. Redirection&#160;…',
+'User promote redirect' => 'Utilisateur promu. Redirection …',
 'Ban redirect'			=>	'Redirection&#160;…',
 'No delete admin message'	=>	'Les administrateurs ne peuvent être supprimés. Pour supprimer cet utilisateur, vous devez d\'abord le/la déplacer vers un groupe d\'utilisateurs différent.',
- 
+
 );

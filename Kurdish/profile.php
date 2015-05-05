@@ -1,4 +1,3 @@
-\
 <?php
 
 // Language definitions used in profile.php
@@ -75,12 +74,15 @@ $lang_profile = array(
 'Posts info'					=>	'پەیامەکانی:  %s',
 'Registered info'				=>	'تۆماربووە: %s',
 'Last post info'				=>	'دوایین پەیام: %s',
+'Last visit info'				=>	'Last visit: %s',
 'Show posts'					=>	'نیشاندانی سەرجەم پەیامەکان',
 'Show topics'					=>	'نیشاندانی سەرجەم بابەتەکان',
 'Show subscriptions'			=>	'نیشاندانی سەرجەم بەشداریکردنەکان',
 'Realname'						=>	'ناوی تەواو',
 'Location'						=>	'شوێن',
 'Website'						=>	'وێبگە',
+'Invalid website URL'			=>	'بەستەری ماڵپەڕەکەت نادروستە.',
+'Website not allowed'			=>	'ڕێگەت پێ نەدراوە ماڵپەڕ لە نێو پرۆفایەلەکەت بنوسی.',
 'Jabber'						=>	'جابەر',
 'ICQ'							=>	'ICQ ژمارەی',
 'MSN'							=>	'MSN پەیامبەر',
@@ -134,6 +136,7 @@ $lang_profile = array(
 'Delete posts'					=>	'هەر پەیامێک و بابەتێک بسڕەوە کە ئەو بەکارهێنەرە کردوویەتی.',
 'Delete'						=>	'بسڕەوە', // submit button (confirm user delete)
 'User delete redirect'			=>	'بەکارهێنەر سڕایەوە. گەڕاندنەوە...',
+'User promote redirect'			=>	'بەکارهێنەر بەرزکرایەوە. گەڕاندنەوە …',
 'Group membership redirect'		=>	'ئەندامیەتی گرووپ پاشکەوتکرا. گەڕاندنەوە...',
 'Update forums redirect'		=>	'مافەکانی چاودێری مەکۆ نوێکرایەوە. گەڕاندنەوە...',
 'Ban redirect'					=>	'گەڕاندنەوە...',

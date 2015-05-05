@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'Uma breve descrição deste fórum (exibido no topo de todas as páginas). Este campo podem conter HTML.',
 'Base URL label'					=>	'URL Base',
 'Base URL help'						=>	'A URL completa do fórum sem a barra final (ex. http://www.meudominio.com.br/forum). Isto <strong>deve</strong> estar correto para que todas as funções de administração e moderação funcionem. Se você ver erros "Referenciador ruim", é provável que esteja incorreto.',
+'Base URL problem'					=>  'Sua instalção não suporta a conversão automática de nomes de domínio internacionalizados. Já que sua URL base contém caracteres especiais, você <strong>deve</strong> usar um conversor online para evitar erros de "Bad referer".',
 'Timezone label'					=>	'Fuso horário padrão',
 'Timezone help'						=>	'O fuso horário padrão para usuários e visitantes tentando se registrar no fórum.',
 'DST label'							=>	'Ajuste de Horário de Verão',
@@ -116,7 +117,7 @@ $lang_admin_options = array(
 // Features section
 'Features subhead'					=>	'Funções',
 'Quick post label'					=>	'Resposta rápida',
-'Quick post help'					=>	'Quando ativo, o FluxBB irá adicionar um formulário para resposta rápida no rodapé das páginas dos tópicos. Deste modo os usuários podem responder diretamente da página de visualização do tópico.',
+'Quick post help'					=>	'Quando ativo, o FluxBB irá adicionar um formulário de resposta rápida no rodapé dos tópicos. Deste modo os usuários podem responder diretamente da página de visualização do tópico.',
 'Users online label'				=>	'Usuários online',
 'Users online help'					=>	'Exibir na página principal informações sobre visitantes e usuários registrados navegando o site atualmente.',
 'Censor words label'				=>	'Palavras censuradas',

@@ -30,8 +30,8 @@ $lang_admin_forums = array(
 'Update positions'			=>	'Aggiorna posizione',
 'Confirm delete head'		=>	'Conferma cancellazione',
 'Confirm delete subhead'	=>	'Importante! Leggere prima di cancellare',
-'Confirm delete info'		=>	'Sei sicuro di voler cancellare il forum <strong>%s</strong>?',
-'Confirm delete warn'		=>	'ATTENZIONE! Cancellare un forum causer&agrave; l\'eliminazione degli eventuali messaggi contenuti!',
+'Confirm delete info'		=>	'Sicuro di voler cancellare il forum <strong>%s</strong>?',
+'Confirm delete warn'		=>	'ATTENZIONE! Cancellare un forum causer&agrave; l\'eliminazione degli eventuali messaggi in esso contenuti!',
 
 // Pagina di modifica dettagliata
 'Edit forum head'			=>	'Modifica forum',

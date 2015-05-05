@@ -16,7 +16,6 @@ $lang_search = array(
 'Search in info'					=>	'Wähle, in welchem Forum gesucht werden soll und ob sich die Suche nur auf Thementitel, Beitragstexte oder beides erstrecken soll.',
 'Search multiple forums info'		=>	'Wenn keine Foren ausgewählt sind, werden alle Foren durchsucht.',
 'Forum search'						=>	'Forum',
-'All forums'						=>	'Alle Foren',
 'Search in'							=>	'Suche in',
 'Message and subject'				=>	'Beitragstext und Thementitel',
 'Message only'						=>	'Nur im Beitragstext',

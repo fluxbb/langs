@@ -25,15 +25,15 @@ $lang_help = array(
 
 'Links and images'		=>	'Links e imagens',
 'Links info'			=>	'Você pode criar links para outros sites e documentos ou endereços de email usando as seguintes tags:',
-'This help page'	    =>  'Esta página de ajuda',
+'This help page'		=>	'Esta página de ajuda',
 'My email address'		=>	'Meu endereço de email',
 'Images info'			=>	'Se você deseja exibir uma imagem, você pode usar a tag img. O texto que aparece após o sinal "=" na tag de abertura é usado para o atributo alt e deve ser incluído sempre que possível.',
 'FluxBB bbcode test'	=>	'Teste de BBCode FluxBB',
 
-'Test topic'      =>  'Tópico de teste',
-'Test post'        =>  'Mensagem de teste',
-'Test forum'      =>  'Fórum de testes',
-'Test user'        =>  'Usuário de teste',
+'Test topic'			=>	'Tópico de teste',
+'Test post'				=>	'Mensagem de teste',
+'Test forum'			=>	'Fórum de testes',
+'Test user'				=>	'Usuário de teste',
 
 'Quotes'				=>	'Citações',
 'Quotes info'			=>	'Se você deseja citar alguém, você deve usar a tag quote.',

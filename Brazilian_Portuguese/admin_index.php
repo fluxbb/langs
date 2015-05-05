@@ -31,8 +31,8 @@ $lang_admin_index = array(
 'IRC label'              			=>  'Canal IRC',
 
 // Language definitions used in admin_statistics.php
-'PHPinfo disabled message'      	=>  'A função PHP phpinfo() foi desativada neste servidor.',
-'Server statistics head'      		=>  'Estatísticas do servidor',
+'PHPinfo disabled message'			=>	'A função PHP phpinfo() foi desativada neste servidor.',
+'Server statistics head'			=>	'Estatísticas do servidor',
 'Server load label'					=>	'Carga do servidor',
 'Server load data'					=>	'%s - %s usuário(s) online',
 'Environment label'					=>	'Ambiente',
