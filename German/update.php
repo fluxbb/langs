@@ -50,6 +50,8 @@ $lang_update = array(
 'Converting item'				=>	'Konvertiere %1$s %2$s …',
 'Preparsing item'				=>	'Verarbeite %1$s %2$s …',
 'Rebuilding index item'			=>	'Erstelle den Index für %1$s %2$s neu',
+'Click here'					=>	'Hier klicken',
+'Automatic redirect failed'		=>	'Automatische Weiterleitung war nicht erfolgreich. %s um fortzufahren…',
 
 'ban'							=>	'Mitgliedssperre',
 'categories'					=>	'Kategorien',

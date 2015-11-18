@@ -16,6 +16,7 @@ $lang_common = array(
 'No view'							=>	'Du hast keine Berechtigung, diese Foren zu betrachten.',
 'No permission'						=>	'Du hast keine Berechtigung für den Zugriff auf diese Seite.',
 'Bad referrer'						=>	'Ungültiger HTTP_REFERER. Du wurdest von einer ungültigen Quelle auf diese Seite weitergeleitet. Bitte gehe zurück und versuche es noch einmal. Wenn dieses Problem weiterhin besteht, kontrolliere bitte die \'Base URL\'-Variable unter Administration / Optionen und stelle sicher, dass du dieses Forum tatsächlich über die eingestellte URL ansteuerst. Weitere Informationen über den Referrer-Check kannst du der FluxBB-Dokumentation entnehmen.',
+'Bad csrf hash'						=>	'Ungültiger CSRF-Hash. Du wurdest von einer nicht authorisierten Quelle auf diese Seite geleitet.',
 'No cookie'							=>	'Du scheinst dich erfolgreich angemeldet zu haben, es konnte jedoch kein Cookie gesetzt werden. Bitte überprüfe die Einstellungen deines Browsers und aktiviere die Verwendung von Cookies für diese Webseite (wenn möglich).',
 'Pun include extension'  			=>	'Konnte User-Include %s von Template %s nicht verarbeiten. "%s" Dateien sind nicht erlaubt',
 'Pun include directory'				=>	'Konnte User-Include %s von Template %s nicht verarbeiten. Verzeichnis-Wechsel sind nicht erlaubt',
