@@ -47,6 +47,8 @@ $lang_update = array(
     'Converting item'               => 'Конвертация %1$s %2$s вЂ¦',
     'Preparsing item'               => 'Пре-парсинг %1$s %2$s вЂ¦',
     'Rebuilding index item'         => 'Перестройка индекса для %1$s %2$s',
+    'Click here'                    => 'Нажмите здесь',
+    'Automatic redirect failed'     => 'Автоматическое перенаправление не работает. %s, чтобы продолжить …',
 
     'ban'                           => 'бан',
     'categories'                    => 'категории',
