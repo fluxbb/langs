@@ -2,7 +2,7 @@
 
 // Language definitions used in post.php and edit.php
 $lang_post = array(
- 
+
 // Post validation stuff (many are similiar to those in edit.php)
 'No subject'			=>	'Vous devez indiquer un sujet.',
 'No subject after censoring'    =>      'Les discussions doivent comporter un sujet. Après application des filtres de censure, le sujet n\'est pas indiqué.',
@@ -26,14 +26,13 @@ $lang_post = array(
 'Subscribe'			=>	'Suivre cette discussion',
 'Stay subscribed'   		=>  	'Continuer à suivre cette discussion',
 'Topic review'			=>	'Résumé de la discussion (messages les plus récents en premier)',
-'Flood start'			=>	'Au moins',
-'flood end'			=>	'secondes doivent s\'écouler entre deux messages. Veuillez patienter quelques instants avant d\'essayer à nouveau.',
+'Flood start'			=>	'Au moins %s secondes doivent s\'écouler entre deux messages. Veuillez attendre %s secondes avant d\'essayer à nouveau.',
 'Preview'			=>	'Prévisualisation',	// submit button to preview message
- 
+
 // Edit post
 'Edit post legend'		=>	'Modifier le message et valider les modifications',
 'Silent edit'			=>	'Modification anonyme (la mention «&#160;Dernière modification par…&#160;» ne s\'affichera pas)',
 'Edit post'			=>	'Modifier le message',
 'Edit redirect'			=>	'Message mis à jour. Redirection&#160;…'
- 
+
 );

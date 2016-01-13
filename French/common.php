@@ -16,7 +16,10 @@ $lang_common = array(
 'No view'			=>	'Vous n\'êtes pas autorisé(e) à visiter ces forums.',
 'No permission'			=>	'Vous n\'êtes pas autorisé(e) à afficher cette page.',
 'Bad referrer'			=>	'Mauvais HTTP_REFERER. Vous avez été renvoyé(e) vers cette page par une source inconnue ou interdite. Si le problème persiste, assurez-vous que le champ «&#160;URL de base&#160;» de la page Administration&#160;» Options est correctement renseigné et que vous vous rendez sur ces forums en utilisant cette URL. Vous pourrez trouver davantage d\'informations dans la documentation de FluxBB.',
+'Bad csrf hash'						=>	'Mauvais hachage CSRF. Vous avez été renvoyé vers cette page à partir d\'une source non autorisée.',
 'No cookie'			=>	'Vous semblez avoir été identifié(e), cependant aucun cookie n\'a été envoyé. Veuillez vérifier vos paramètres et, si possible, activer les cookies pour ce site.',
+'Pun include extension'  			=>	'Impossible d\'utiliser l\include utilisateur %s depuis le modèle %s. "%s" fichiers non autorisés',
+'Pun include directory'				=>	'Impossible d\'utiliser l\include utilisateur %s depuis le modèle %s. traversée de dossier non autorisée',
 'Pun include error'		=>	'Impossible de procéder à l\'inclusion utilisateur %s à partir du gabarit %s. Ce fichier ne se trouve ni dans le dossier des gabarits, ni dans le dossier d\'inclusion d\'utilisateur.',
 
 // Miscellaneous
@@ -79,7 +82,7 @@ $lang_common = array(
 'Administrator'			=>	'Administrateur',
 'Banned'			=>	'Banni(e)',
 'Guest'				=>	'Invité',
- 
+
 // Stuff for include/parser.php
 'BBCode error no opening tag'		=>	'La balise [/%1$s] a été trouvée sans balise [%1$s] correspondante',
 'BBCode error invalid nesting'		=>	'La balise [%1$s] a été ouverte dans la balise [%2$s], ceci n\'est pas autorisé',
@@ -88,7 +91,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'La balise [%s] comporte un attribut non défini',
 'BBCode error tag not allowed'		=>	'Vous n\'êtes pas autorisé à utiliser la balise [%s]',
 'BBCode error tag url not allowed'	=>	'Vous n\'êtes pas autorisé à mettre des liens',
-'BBCode code problem'			=>	'Il y a un problème avec vos balises [code]',
 'BBCode list size error'		=>	'Votre liste étant trop longue pour être analysée, veuillez la réduire s\'il vous plaît&#160;!',
 
 // Stuff for the navigator (top of every page)
@@ -122,6 +124,7 @@ $lang_common = array(
 'Jump to'			=>	'Atteindre',
 'Go'				=>	'Aller',		// submit button in forum jump
 'Moderate topic'                =>      'Modérer la discussion',
+'All'					=>	'Tous',
 'Move topic'			=>  	'Déplacer la discussion',
 'Open topic'			=>  	'Ouvrir la discussion',
 'Close topic'			=>  	'Fermer la discussion',
@@ -129,7 +132,7 @@ $lang_common = array(
 'Stick topic'			=>  	'Épingler la discussion',
 'Moderate forum'		=>	'Modérer le forum',
 'Powered by'                    =>      'Propulsé par %s',
- 
+
 // Debug information
 'Debug table'                   =>        'Informations de débogage',
 'Querytime'                     =>        'Générées en %1$s secondes, %2$s requêtes exécutées',
@@ -163,4 +166,4 @@ $lang_common = array(
 'Size unit PiB'            =>  '%s Pio',
 'Size unit EiB'            =>  '%s Eio',
 
-); 
+);

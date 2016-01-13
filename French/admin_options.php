@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'				=>	'Une courte description de ce forum (affichée en haut de chaque page). Ce champ peut contenir du code HTML.',
 'Base URL label'				=>	'URL de base',
 'Base URL help'					=>	'L\'URL complète du forum sans barre oblique finale (ex. : http://www.mondomaine.com/forums). Ceci <strong>doit</strong> être correct pour que les fonctionnalités dédiées aux administrateurs et aux modérateurs puissent être conservées. Si vous obtenez des erreurs «&#160;Bad referer&#160;», elle est sûrement incorrecte.',
+'Base URL problem'          =>  'Votre installation ne supporte pas la conversion automatique des noms de domaine internationalisés. Comme votre URL de base contient des caractères spéciaux, vous <strong>devez</strong> utiliser un convertisseur en ligne afin d\'éviter les erreurs "Bad referer".',
 'Timezone label'				=>	'Fuseau horaire par défaut',
 'Timezone help'					=>	'Le fuseau horaire par défaut pour les invités et les utilisateurs qui s\'inscrivent sur le forum.',
 'DST label'					=>	'Ajustement pour l\'heure d\'été',
