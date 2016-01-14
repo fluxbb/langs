@@ -16,6 +16,7 @@
  'No view'                           =>	'Vous n\'êtes pas autorisé(e) à visiter ces forums.',
  'No permission'                     =>	'Vous n\'êtes pas autorisé(e) à afficher cette page.',
  'Bad referrer'                      =>	'Mauvais HTTP_REFERER. Vous avez été renvoyé(e) vers cette page par une source inconnue ou interdite. Si le problème persiste, assurez-vous que le champ «&#160;URL de base&#160;» de la page Administration&#160;» Options est correctement renseigné et que vous vous rendez sur ces forums en utilisant cette URL. Vous pourrez trouver davantage d\'informations dans la documentation de FluxBB.',
+ 'Bad csrf hash'                     => 'Mauvais hachage CSRF. Vous avez été renvoyé vers cette page à partir d\'une source non autorisée.',
  'No cookie'                         =>	'Vous semblez avoir été identifié(e), cependant aucun cookie n\'a été envoyé. Veuillez vérifier vos paramètres et, si possible, activer les cookies pour ce site.',
  'Pun include extension'             =>	'Impossible de procéder à l\'inclusion utilisateur %s depuis le gabarit %s. Fichiers "%s" non autorisés',
  'Pun include directory'             =>	'Impossible de procéder à l\'inclusion utilisateur %s depuis le gabarit %s. Ouverture de dossier non autorisé',
