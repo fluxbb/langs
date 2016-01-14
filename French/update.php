@@ -51,6 +51,8 @@ $lang_update = array(
 'Converting item'		     =>	'Conversion de %1$s %2$s …',
 'Preparsing item'		     =>	'Analyse préliminaire de %1$s %2$s …',
 'Rebuilding index item'		     =>	'Reconstruction de l\'index pour %1$s %2$s',
+'Click here'			     =>	'Cliquez ici',
+'Automatic redirect failed'    => 'Redirection automatique infructueuse. %s pour continuer …',
 
 'ban'				     =>	'bannissement',
 'categories'			     =>	'catégories',
