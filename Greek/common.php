@@ -91,7 +91,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'Η ετικέτα [%s] είχε ένα κενό τμήμα χαρακτηριστικού',
 'BBCode error tag not allowed'		=>	'Δεν επιτρέπεται να χρησιμοποιήσετε ετικέτες [%s]',
 'BBCode error tag url not allowed'	=>	'Δεν επιτρέπεται να δημοσιεύσετε συνδέσμους',
-'BBCode code problem'				=>	'Υπάρχει ένα πρόβλημα με τις ετικέτες σας [code]',
 'BBCode list size error'			=>	'Η λίστα σας είναι πολύ μεγάλη για ανάλυση. Παρακαλούμε κάντε την μικρότερη!',
 
 // Stuff for the navigator (top of every page)
@@ -125,6 +124,7 @@ $lang_common = array(
 'Jump to'							=>	'Μετάβαση σε',
 'Go'								=>	' Μετάβαση ', // Submit button in forum jump
 'Moderate topic'					=>	'Συντονισμός θέματος',
+'All'								=>	'Όλα',
 'Move topic'						=>	'Μετακίνηση θέματος',
 'Open topic'						=>	'Άνοιγμα θέματος',
 'Close topic'						=>	'Κλείδωμα θέματος',
