@@ -6,6 +6,7 @@ $lang_topic = array(
 'Post reply'		=>	'Απάντηση',
 'Topic closed'		=>	'Κλειδωμένο θέμα',
 'From'				=>	'Από:', // User location
+'Promote user'		=>	'Προώθηση χρήστη',
 'IP address logged'	=>	'Καταγεγραμμένη διεύθυνση ΙΡ',
 'Note'				=>	'Σημείωση:', // Admin note
 'Posts'				=>	'Δημοσιεύσεις:',
