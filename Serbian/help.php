@@ -60,7 +60,7 @@ $lang_help = array(
 'produces decimal list'	=>	'generiše listu brojeva.',
 'produces alpha list'	=>	'generiše u abecednom redu označenu listu.',
 
-'Smilies'				=>	'Smeškovi',
-'Smilies info'			=>	'Ako želite (i ako je omogućeno), forum može konvertovati seriju smeškova u sliku koja prestavǉa taj smešak. Ovaj forum prepoznaje sledeće smeškove i menja ih sa slikama:'
+'Smilies'				=>	'Emotikoni',
+'Smilies info'			=>	'Ako želite (i ako je omogućeno), forum može konvertovati seriju emotikona u sliku koja prestavǉa taj emotikon. Ovaj forum prepoznaje sledeće emotikone i menja ih sa slikama:'
 
 );
