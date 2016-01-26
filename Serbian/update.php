@@ -50,6 +50,8 @@ $lang_update = array(
 'Converting item'				=>	'Konvertovaǌe %1$s %2$s …',
 'Preparsing item'				=>	'Predrasčlaǌivaǌe %1$s %2$s …',
 'Rebuilding index item'			=>	'Novo kreiraǌe indeksa za %1$s %2$s',
+'Click here'					=>	'Kliknite ovde',
+'Automatic redirect failed'		=>	'Automatsko preusmeravaǌe neuspešno. %s da bi ste nastavili …',
 
 'ban'							=>	'zabrana',
 'categories'					=>	'kategorije',
