@@ -8,7 +8,7 @@ $lang_help = array(
 
 'BBCode'				=>	'BBCode',
 'BBCode info 1'			=>	'BBCode ist den HTML Tags, die du sicherlich kennst, ähnlich. BBCode erlaubt es dir, ohne dass du HTML Tags benutzen musst, verschiedene Dinge in Elemente in deine Beiträge einzubauen bzw. Text zu formatieren. Du kannst BBCode nur verwenden, wenn der Administrator dies in dem jeweiligen Forum aktiviert hat. Selbst wenn HTML in einem Forum aktiviert ist, wirst du den BBCode benutzen wollen, da er einfacher als HTML Tags zu verwenden ist.',
-'BBCode info 2'			=>	'Der Administrator kann BBCode aktivieren und deaktivieren. Ob BBCode erlaubt ist, kannst du immer links von dem Texteingabefeld sehen, wenn du einen Beitrag schreibst oder deine Signatur bearbeitest.',
+'BBCode info 2'			=>	'Der Administrator kann BBCode aktivieren und deaktivieren. Ob BBCode erlaubt ist, kannst du immer sehen, wenn du einen Beitrag schreibst oder deine Signatur bearbeitest.',
 
 'Text style'			=>	'Formatierter Text',
 'Text style info'		=>	'Mit folgenden BBCodes kannst du Text formatieren:',

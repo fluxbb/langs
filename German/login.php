@@ -4,6 +4,8 @@
 $lang_login = array(
 
 // Verschiedenes
+'Login errors'		=>	'Anmelde-Fehler',
+'Login errors info'	=>	'Der folgende Fehler muss behoben werden, bevor Du Dich anmelden kannst:',
 'Wrong user/pass'			=>	'Der Mitgliedsname und/oder das Passwort sind falsch.',
 'Forgotten pass'			=>	'Hast du dein Passwort vergessen?',
 'Login redirect'			=>	'Anmeldung erfolgreich. Leite weiter …',

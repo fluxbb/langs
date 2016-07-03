@@ -11,7 +11,7 @@ Dies ist die Nachricht:
 
 -----------------------------------------------------------------------
 
-Du kannst dieses Abonnement über den Link <unsubscribe_url> abbestellen.
+Du kannst dieses Abonnement über den Link <unsubscribe_url> abbestellen, indem Du auf am Ende der Seite auf "Abonnement abbestellen" klickst.
 
 --
 <board_mailer> Mailer

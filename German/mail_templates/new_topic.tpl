@@ -4,7 +4,7 @@ Subject: Neues Thema im Forum: '<forum_name>'
 
 Das Thema ist unter <topic_url> zu finden
 
-Du kannst dieses Abonnement über den Link <unsubscribe_url> abbestellen.
+Du kannst dieses Abonnement über den Link <unsubscribe_url> abbestellen, indem Du auf am Ende der Seite auf "Abonnement abbestellen" klickst.
 
 --
 <board_mailer> Mailer
