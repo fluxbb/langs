@@ -11,7 +11,7 @@ $lang_forum = array(
 'Empty forum'	=>	'Forum jest puste.',
 'Mod controls'	=>	'Opcje moderatora',
 'Is subscribed' =>  'Aktualnie subskrybujesz to forum',
-'Unsubscribe'   =>  'Przerwij subskybcję',
+'Unsubscribe'   =>  'Przerwij subskypcję',
 'Subscribe'     =>  'Subskrybuj to forum',
 
 );

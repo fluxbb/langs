@@ -8,7 +8,7 @@ $lang_help = array(
 
 'BBCode'				=>	'BBCode',
 'BBCode info 1'			=>	'BBCode to kolekcja specjalnych tagów, która umożliwia szybką zmianę wyglądu tekstu w postach. BBCode bazuje po części na języku HTML, tym samym jest do niego bardzo podobny. Poniżej znajduje się lista dostępnych tagów BBCode wraz z instrukcjami, jak ich używać.',
-'BBCode info 2'			=>	'Administratorzy mają możliwość włączenia lub wyłączenia BBCode na forum. Informacja o tym, czy funkcja jest włączona, czy nie, znajduje się po lewej stronie pola "Szybkiej odpowiedzi".',
+'BBCode info 2'			=>	'Administratorzy mają możliwość włączenia lub wyłączenia BBCode na forum. Informacja o tym, czy funkcja jest włączona lub wyłączona, dostępna jest gdy piszesz wiadomość lub edytujesz podpis (sygnaturę).',
 
 'Text style'			=>	'Styl tekstu',
 'Text style info'		=>	'Możesz zmienić wygląd tekstu w następujący sposób:',

@@ -4,7 +4,7 @@ Temat:   Nowy post w wątku - '<topic_subject>'
 
 Adres do posta: <post_url>
 
-Możesz wypisać się z subskrypcji: <unsubscribe_url>
+Możesz wypisać się z subskrypcji: <unsubscribe_url>, klikając na "Przerwij subskypcję" na dole strony.
 
 --
 <board_mailer> Mailer

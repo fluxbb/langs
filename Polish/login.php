@@ -4,6 +4,8 @@
 $lang_login = array(
 
 // Miscellaneous
+'Login errors'				=>	'Błąd logowania',
+'Login errors info'			=>	'Popraw następujące błędy zanim zalogujesz się na forum:',
 'Wrong user/pass'			=>	'Niepoprawna nazwa użytkownika, bądź hasło.',
 'Forgotten pass'			=>	'Zapomniałeś hasła?',
 'Login redirect'			=>	'Zalogowałeś się poprawnie. Przekierowywanie…',
