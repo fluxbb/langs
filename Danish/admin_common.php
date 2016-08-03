@@ -7,24 +7,24 @@ $lang_admin_common = array(
 'Admin menu'			=>	'Admin menu',
 'Plugins menu'			=>	'Plugins menu',
 'Moderator menu'		=>	'Moderator menu',
-'Index'					=>	'Index',
-'Categories'			=>	'Categorier',
-'Forums'				=>	'Fora',
+'Index'					=>	'Indeks',
+'Categories'			=>	'Kategorier',
+'Forums'				=>	'Forummer',
 'Users'					=>	'Brugere',
-'User groups'			=>	'Bruger grupper',
+'User groups'			=>	'Brugergrupper',
 'Options'				=>	'Valgmuligheder',
 'Permissions'			=>	'Rettigheder',
 'Censoring'				=>	'Censurering',
 'Bans'					=>	'Banlysninger',
 'Prune'					=>	'Oprydning',
-'Maintenance'			=>	'Veligeholdelse',
+'Maintenance'			=>	'Vedligeholdelse',
 'Reports'				=>	'Rapporter',
 
 'Admin'					=>	'Admin',
 'Go back'				=>	'Gå tilbage',
 'Delete'				=>	'Slet',
 'Update'				=>	'Opdater',
-'Add'					=>	'tiløj',
+'Add'					=>	'tilføj',
 'Edit'					=>	'Rediger',
 'Remove'				=>	'Slet',
 'Yes'					=>	'Ja',
@@ -37,8 +37,8 @@ $lang_admin_common = array(
 'Maintenance mode'		=>	'Vedligeholdelses tilstand', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'Der er ikke noget plugin med navnet %s in the plugin directory.',
-'Plugin failed message'	=>	'Indlæsning af pluginet - <strong>%s</strong> - fejlet.',
+'No plugin message'		=>	'Der er ikke noget plugin med navnet %s i plugin mappen.',
+'Plugin failed message'	=>	'Indlæsning af pluginet - <strong>%s</strong> - fejlede.',
 
 );
 
