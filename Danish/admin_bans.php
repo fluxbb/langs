@@ -12,9 +12,9 @@ $lang_admin_bans = array(
 'Invalid IP message'		=>	'Du indtastede en ugyldig IP eller IP-interval.',
 'Invalid e-mail message'	=>	'Email adressen (f.eks. bruger@domæne.com) eller delvise email adresse (f.eks. domæne.com) du indtastede er ugyldig.',
 'Invalid date message'		=>	'Du indtastede en ugyldig udløbsdato.',
-'Invalid date reasons'		=>	'Formattet skal være YYYY-MM-DD og datoen skal mindst være een dag ud i fremtiden.',
-'Ban added redirect'		=>	'Ban added. Omdirigere …' ,
-'Ban edited redirect'		=>	'Ban edited. Omdirigere …',
+'Invalid date reasons'		=>	'Formattet skal være YYYY-MM-DD og datoen skal mindst være en dag ud i fremtiden.',
+'Ban added redirect'		=>	'Banlysning tilføjet. Omdirigere …' ,
+'Ban edited redirect'		=>	'Banlysning redigeret. Omdirigere …',
 'Ban removed redirect'		=>	'Banlysning fjernet. Omdirigere …',
 
 'New ban head'				=>	'Ny banlysning',
@@ -24,7 +24,7 @@ $lang_admin_bans = array(
 'Username advanced help'	=>	'Brugernavn som skal banlyses (ingen forskel på store og små bogstaver). Den næste side vil lade dig indtaste brugerdefinerede IP adresser og email adresser. Hvis du bare ønsker at banlyse en specifik IP eller et IP-interval eller email, efterlad blot feltet blankt.',
 
 'Ban search head'			=>	'Søg i banlysninger',
-'Ban search subhead'		=>	'Indtast sasterisksgekriterier',
+'Ban search subhead'		=>	'Indtast søgekriterier',
 'Ban search info'			=>	'Søg efter banlysninger i databasen. Du kan indtaste et eller flere søgekriterier du ønsker at søge efter. Wildcards i form af stjerner (*) er accepteret. For at vise alle banlysninger efterlad alle felter tomme.',
 'Date help'					=>	'(yyyy-mm-dd)',
 'Message label'				=>	'Besked',
@@ -40,7 +40,7 @@ $lang_admin_bans = array(
 'Submit search'				=>	'Indsend søgning',
 
 'E-mail label'				=>	'Email',
-'E-mail help'				=>	'Email adressen eller domænet du ønsker at banlyse (f.eks. enperson@etsted.com or etsted.com). Se "Tillad banlyst email adresser" i tilladelser for mere info.',
+'E-mail help'				=>	'Email adressen eller domænet du ønsker at banlyse (f.eks. enperson@etsted.dk eller etsted.dk). Se "Tillad banlyst email adresser" i tilladelser for mere info.',
 'IP label'					=>	'IP adresse/IP-intervaller',
 'IP help'					=>	'IP adressen eller IP-intervallet du ønsker at banlyse (f.eks. 150.11.110.1 or 150.11.110). Separate adresser adskilles med et mellemrum. Hvis en IP adresse allerede er banlyst vil den sidst kendte IP i databasen blive brugt for denne bruger.',
 'IP help link'				=>	'Klik %s for at se IP statistik for denne bruger.',
