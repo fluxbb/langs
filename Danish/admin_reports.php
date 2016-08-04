@@ -14,8 +14,8 @@ $lang_admin_reports = array(
 'Zap'						=>	'Marker som læst',
 'No new reports'			=>	'Der er ingen nye rapporter.',
 'Last 10 head'				=>	'10 sidst læste rapporter',
-'NA'						=>	'N/A',
-'Zapped subhead'			=>	'Maker som læst %s af %s',
+'NA'						=>	'Ingen relevans',
+'Zapped subhead'			=>	'Marker som læst %s af %s',
 'No zapped reports'			=>	'Der er ingen læste rapporter.',
 
 );
