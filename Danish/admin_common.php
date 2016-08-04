@@ -34,10 +34,10 @@ $lang_admin_common = array(
 'here'					=>	'her',
 'Action'				=>	'Handling',
 'None'					=>	'Ingen',
-'Maintenance mode'		=>	'Vedligeholdelses tilstand', // Used for link text in more than one file
+'Maintenance mode'		=>	'Vedligeholdelsestilstand', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'Der er ikke noget plugin med navnet %s i plugin mappen.',
+'No plugin message'		=>	'Der er intet plugin med navnet %s i plugin mappen.',
 'Plugin failed message'	=>	'Indlæsning af pluginet - <strong>%s</strong> - fejlede.',
 
 );
