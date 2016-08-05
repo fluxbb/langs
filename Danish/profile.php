@@ -14,15 +14,15 @@ $lang_profile = array(
 'Section admin'					=>	'Administration',
 
 // Miscellaneous
-'Username and pass legend'		=>	'Indtast din brugernavn og adgangskode',
+'Username and pass legend'		=>	'Indtast dit brugernavn og adgangskode',
 'Personal details legend'		=>	'Indtast dine personlige detaljer',
 'Contact details legend'		=>	'Indtast dine besked detaljer',
 'User activity'					=>	'Bruger aktivitet',
 'Paginate info'					=>	'Indtast antallet af emner og indlæg du ønsker at se pr. side.',
 
 // Password stuff
-'Pass key bad'					=>	'Denne adgangskode aktiveringsnøgle er forkert er for gammel. Prøv at anmod om en ny nøgle. Hvis dette heller ikke hjælper, så kontakt forummets administrator på ',
-'Pass updated'					=>	'Din adganskode er blevet opdateret. Du kan nu logge ind med din nye adgangskode.',
+'Pass key bad'					=>	'Denne adgangskode er ugyldig. Prøv at anmod om en ny nøgle. Hvis dette heller ikke hjælper, så kontakt forummets administrator på ',
+'Pass updated'					=>	'Din adgangskode er blevet opdateret. Du kan nu logge ind med din nye adgangskode.',
 'Pass updated redirect'			=>	'Adgangskode opdateret. Omdirigerer …',
 'Wrong pass'					=>	'Forkert gammel adgangskode.',
 'Change pass'					=>	'Skift adgangskode',
@@ -33,13 +33,13 @@ $lang_profile = array(
 'Pass info'						=>	'Adgangskoder skal være mindst 4 tegn lange. Adgangskoder skelner mellem store og små bogstaver.',
 
 // Email stuff
-'Email key bad'					=>	'The specified email activation key was incorrect or has expired. Please re-request change of email address. If that fails, contact the forum administrator at',
+'Email key bad'					=>	'Den angivne e-mail aktiveringskode var ugyldig eller er uløbet. Anmod venligst påny om ændring af e-mail adresse. Hvis det fejler kontakt da en forum administrator på',
 'Email updated'					=>	'Your email address has been updated.',
 'Activate email sent'			=>	'An email has been sent to the specified address with instructions on how to activate the new email address. If it doesn\'t arrive you can contact the forum administrator at',
 'Email legend'					=>	'Enter your new email address',
 'Email instructions'			=>	'An email will be sent to your new address with an activation link. You must click the link in the email you receive to activate the new address.',
-'Change email'					=>	'Change email address',
-'New email'						=>	'New email',
+'Change email'					=>	'Skift e-mail addresse',
+'New email'						=>	'Ny e-mail',
 
 // Avatar upload stuff
 'Avatars disabled'				=>	'Administratoren har deaktiveret profilbillede understøttelse.',
