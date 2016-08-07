@@ -10,7 +10,7 @@ $lang_delete = array(
 'Reply by'				=>	'Svar til %s - %s',
 'Topic by'				=>	'Emne startet af %s - %s',
 'Delete'				=>	'Slet', // The submit button
-'Post del redirect'		=>	'Indlæg slettet. Omdirigere …',
-'Topic del redirect'	=>	'Emne slettet. Omdirigere …'
+'Post del redirect'		=>	'Indlæg slettet. Omdirigerer …',
+'Topic del redirect'	=>	'Emne slettet. Omdirigerer …'
 
 );
