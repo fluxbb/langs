@@ -3,10 +3,10 @@
 // Language definitions used in viewforum.php
 $lang_forum = array(
 
-'Post topic'	=>	'Poster nyt emne',
+'Post topic'	=>	'Opret nyt emne',
 'Views'			=>	'Visninger',
 'Moved'			=>	'Flyttet:',
-'Sticky'		=>	'Sticky:',
+'Sticky'		=>	'Fremhævet:',
 'Closed'		=>	'Lukket:',
 'Empty forum'	=>	'Forumet er tomt.',
 'Mod controls'	=>	'Moderator panel',
