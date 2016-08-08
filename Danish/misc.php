@@ -3,30 +3,30 @@
 // Language definitions used in various scripts
 $lang_misc = array(
 
-'Mark read redirect'			=>	'Alle emner og fora er blevet markeret som læst. Omdirigerer …',
-'Mark forum read redirect'		=>	'Alle emner i det specificerede forum er blever markeret som læst. Omdirigerer …',
+'Mark read redirect'			=>	'Alle emner og forummer er nu markeret som læst. Omdirigerer …',
+'Mark forum read redirect'		=>	'Alle emner i det valgte forum er nu markeret som læst. Omdirigerer …',
 
 // Send email
-'Form email disabled'			=>	'Brugeren du prøver at sende en email til har deaktiveret formular email.',
-'No email subject'				=>	'Du skal indtaste et emnet.',
+'Form email disabled'			=>	'Brugeren du prøver at sende en e-mail til har deaktiveret formular e-mail.',
+'No email subject'				=>	'Du skal indtaste et emne.',
 'No email message'				=>	'Du skal indtaste en besked.',
 'Too long email message'		=>	'Beskeder kan ikke være længere end 65535 tegn (64 KB).',
-'Email flood'					=>	'Der skal gå mindst %s sekunder mellem sendte emails. Vent venlisgt et øjeblik og prøv at send igen.',
-'Email sent redirect'			=>	'Email sendt. Omdirigerer …',
-'Send email to'					=>	'Send email til',
+'Email flood'					=>	'Der skal gå mindst %s sekunder mellem sendte e-mails. Vent venlisgt et øjeblik og prøv derefter igen.',
+'Email sent redirect'			=>	'E-mail sendt. Omdirigerer …',
+'Send email to'					=>	'Send e-mail til',
 'Email subject'					=>	'Emne',
 'Email message'					=>	'Besked',
-'Email disclosure note'			=>	'Bemærk venligst at ved at bruge denne formular vil din email blive videregivet til modtageren',
+'Email disclosure note'			=>	'Bemærk venligst at ved at bruge denne formular vil din e-mail blive sendt til modtageren',
 'Write email'					=>	'Skriv og indsend din email besked',
 
 // Report
 'No reason'						=>	'Du skal skrive en årsag.',
 'Reason too long'				=>	'Din besked skal være mindre end 65535 bytes (~64kb).',
-'Report flood'					=>	'Der skal gå mindst %s sekunder mellem rapporter. Vent venligst et øjeblik og prøv at sende igen.',
+'Report flood'					=>	'Der skal gå mindst %s sekunder mellem rapporter. Vent venligst et øjeblik og prøv derefter igen.',
 'Report redirect'				=>	'Indlæg rapporteret. Omdirigerer …',
 'Report post'					=>	'Rapportér indlæg',
 'Reason'						=>	'Årsag',
-'Reason desc'					=>	'Skriv venligst en kort grund til hvorfor du rapporterer dette indlæg',
+'Reason desc'					=>	'Skriv venligst en årsag til hvorfor du rapporterer dette indlæg',
 
 // Subscriptions
 'Already subscribed topic'		=>	'Du abonnerer allerede på dette emne.',
@@ -48,11 +48,11 @@ $lang_misc = array(
 'Open'							=>	'Åbm',
 'Close'							=>	'Luk',
 'Move topic'					=>	'Flyt emne',
-'Move topics'					=>	'Flyt Emner',
+'Move topics'					=>	'Flyt emner',
 'Move legend'					=>	'Vælg destination af flytning',
 'Move to'						=>	'Flyt til',
-'Nowhere to move'				=>	'Der er ingen fora hvori du kan flytte emner.',
-'Leave redirect'				=>	'Efterlad omdirigerende emne(r)',
+'Nowhere to move'				=>	'Der er ingen forummer hvori du kan flytte emner.',
+'Leave redirect'				=>	'Efterlad omdirigerende emner',
 'Move topic redirect'			=>	'Emne flyttet. Omdirigerer …',
 'Move topics redirect'			=>	'Emner flyttet. Omdirigerer …',
 'Confirm delete legend'			=>	'Bekræft venligst sletning',
@@ -65,8 +65,8 @@ $lang_misc = array(
 'Close topics redirect'			=>	'Emner lukket. Omdirigerer …',
 'No topics selected'			=>	'Du skal vælge mindst ét emne at flytte/slette/åbne/lukke.',
 'Not enough topics selected'	=>	'Du skal vælge midnst to emner for at flette.',
-'Stick topic redirect'			=>	'Emne klæbet. Omdirigerer …',
-'Unstick topic redirect'		=>	'Emne afklæbet. Omdirigerer …',
+'Stick topic redirect'			=>	'Emne fremhævet. Omdirigerer …',
+'Unstick topic redirect'		=>	'Emne ikke fremhævet mere. Omdirigerer …',
 'Merge topics'					=>	'Flet emner',
 'Merge topics redirect'			=>	'Emner flettet. Omdirigerer …',
 'Confirm merge legend'			=>	'Bekræft venligst denne fletning',
@@ -87,7 +87,7 @@ $lang_misc = array(
 
 // Get host
 'Host info 1'					=>	'IP adressen er: %s',
-'Host info 2'					=>	'Host navnet er: %s',
-'Show more users'				=>	'Show more users for this IP',
+'Host info 2'					=>	'Vært navnet er: %s',
+'Show more users'				=>	'Vi flere brugere med denne IP',
 
 );
