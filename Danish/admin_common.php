@@ -38,7 +38,7 @@ $lang_admin_common = array(
 
 // Admin loader
 'No plugin message'		=>	'Der er intet plugin med navnet %s i plugin mappen.',
-'Plugin failed message'	=>	'Indlæsning af pluginet - <strong>%s</strong> - fejlede.',
+'Plugin failed message'	=>	'Indlæsning af plugin - <strong>%s</strong> - fejlede.',
 
 );
 
