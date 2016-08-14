@@ -19,4 +19,3 @@ $lang_admin_censoring = array(
 'No words in list'			=>	'Ingen censur ord i listen.',
 
 );
-aaaaaa
