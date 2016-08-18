@@ -3,7 +3,7 @@
 // Language definitions used in admin-permissions.php
 $lang_admin_permissions = array(
 
-'Perms updated redirect'	=>	'Rettigheder opdateret. Omdirigere …',
+'Perms updated redirect'	=>	'Rettigheder opdateret. Omdirigerer …',
 'Permissions head'			=>	'Rettigheder',
 'Posting subhead'			=>	'Indlæg',
 'BBCode label'				=>	'BBKode',
