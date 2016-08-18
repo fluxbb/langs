@@ -12,10 +12,10 @@ $lang_common = array(
 'lang_thousands_sep'				=>	'.',
 
 // Notices
-'Bad request'						=>	'Bad request. Det link, du fulgte, er forkert eller forældet.',
-'No view'							=>	'Du har ikke tilladelse til at se disse fora.',
-'No permission'						=>	'Du har ikke adgang til denne side.',
-'Bad referrer'						=>	'Bad HTTP_REFERER. Du blev henvist til denne side fra en uautoriseret kilde. Hvis problemet fortsætter, kan du sørge for, at \'Base-URL\' er indstillet korrekt i admin / Indstillinger, og at du besøger dette forum ved at navigere til den pågældende webadresse. Yderligere oplysninger om henvisende check kan findes i FluxBB dokumentationen.',
+'Bad request'						=>	'Dårlig anmodning. Det link, du fulgte, er forkert eller forældet.',
+'No view'							=>	'Du har ikke rettigheder til at se disse forummer.',
+'No permission'						=>	'Du har ikke rettigheder nok til at se denne side.',
+'Bad referrer'						=>	'Dårlig HTTP_REFERER. Du blev henvist til denne side fra en uautoriseret kilde. Hvis problemet fortsætter, kan du sørge for, at \'Base-URL\' er indstillet korrekt i admin / Indstillinger, og at du besøger dette forum ved at navigere til den pågældende webadresse. Yderligere oplysninger om henvisende check kan findes i FluxBB dokumentationen.',
 'No cookie'							=>	'Det ser ud til at du har logget ind succesfuldt, men en cookie er ikke blevet indstillet. Tjek venligst dine indstillinger og eventuelt aktivere cookies for denne hjemmeside.',
 'Pun include error'					=>	'Kunne ikke behandle bruger omfatter %s fra skabelon %s. Der er ingen sådan fil i hverken skabelon bibliotek eller i brugerens bibliotek.',
 
@@ -23,10 +23,10 @@ $lang_common = array(
 'Announcement'						=>	'Meddelelse',
 'Options'							=>	'Indstillinger',
 'Submit'							=>	'Send', // "Name" of submit buttons
-'Ban message'						=>	'Du er udelukket fra dette forum.',
-'Ban message 2'						=>	'Forbuddet udløber ved udgangen af',
-'Ban message 3'						=>	'Administratoren eller moderator der banlyste dig efterlod den følgende meddelelse:',
-'Ban message 4'						=>	'Eventuelle henvendelser bedes rettet til forum administratoren på',
+'Ban message'						=>	'Du er banlyst fra dette forum.',
+'Ban message 2'						=>	'banlysningen udløber ved udgangen af',
+'Ban message 3'						=>	'Administratoren eller moderatoren der banlyste dig efterlod følgende besked:',
+'Ban message 4'						=>	'Eventuelle henvendelser bedes rettes til forum administrator på:',
 'Never'								=>	'Aldrig',
 'Today'								=>	'I dag',
 'Yesterday'							=>	'I går',
@@ -37,7 +37,7 @@ $lang_common = array(
 'Click redirect'					=>	'Klik her, hvis du ikke ønsker at vente længere (eller hvis din browser ikke automatisk sende dig)',
 'on'								=>	'Aktiveret', // As in "BBCode is on"
 'off'								=>	'Deaktiveret',
-'Invalid email'						=>	'Den e-mail-adresse, du har indtastet, er ugyldig.',
+'Invalid email'						=>	'E-mail adressen du har indtastet er ugyldig.',
 'Required'							=>	'(Påkrævet)',
 'required field'					=>	'er et obligatorisk felt i denne form.', // For javascript form validation
 'Last post'							=>	'Sidste indlæg',
@@ -59,8 +59,8 @@ $lang_common = array(
 'Pages'								=>	'Sider:',
 'Page'								=>	'Side %s',
 'BBCode'							=>	'BBKode:', // You probably shouldn't change this
-'url tag'							=>	'[url] tag:',
-'img tag'							=>	'[img] tag:',
+'url tag'							=>	'[url] tags:',
+'img tag'							=>	'[img] tags:',
 'Smilies'							=>	'Smilier:',
 'and'								=>	'og',
 'Image link'						=>	'billede', // This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
@@ -86,8 +86,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] blev åbnet i sig selv, er dette ikke tilladt',
 'BBCode error no closing tag'		=>	'[%1$s] blev fundet uden et matchende [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] tag havde en tom attribut sektion',
-'BBCode error tag not allowed'		=>	'Du har ikke tilladelse til at bruge [%s] tags',
-'BBCode error tag url not allowed'	=>	'Du har ikke tilladelse til at bruge links i indlæg',
+'BBCode error tag not allowed'		=>	'Du har ikke rettigheder til at bruge [%s] tags',
+'BBCode error tag url not allowed'	=>	'Du har ikke rettigheder til at bruge links i indlæg',
 'BBCode code problem'				=>	'Der er et problem med din [code] tags',
 'BBCode list size error'			=>	'Din liste var for lang til at parse, skal du gøre det mindre!',
 
@@ -131,13 +131,13 @@ $lang_common = array(
 'Powered by'						=>	'Drevet af %s',
 
 // Debug information
-'Debug table'						=>	'Debug information',
-'Querytime'							=>	'Genereret på %1$s sekunder, %2$s afviklet forespørgsler',
-'Memory usage'						=>	'Hukommelse brugt: %1$s',
-'Peak usage'						=>	'(Peak: %1$s)',
+'Debug table'						=>	'Fejlfindings information',
+'Querytime'							=>	'Genereret på %1$s sekunder, %2$s afviklede forespørgsler',
+'Memory usage'						=>	'RAM forbrug: %1$s',
+'Peak usage'						=>	'(Højest: %1$s)',
 'Query times'						=>	'Tid (s)',
 'Query'								=>	'Forespørgsel',
-'Total query time'					=>	'Total forespørgselstid: %s',
+'Total query time'					=>	'Total forespørgelsestid: %s',
 
 // For extern.php RSS feed
 'RSS description'					=>	'De seneste emner på %s.',
