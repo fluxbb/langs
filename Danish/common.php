@@ -104,11 +104,11 @@ $lang_common = array(
 'Logged in as'						=>	'Logget ind som',
 'Admin'								=>	'Administration',
 'Last visit'						=>	'Sidste besøg: %s',
-'Topic searches'					=>	'Emner:',
-'New posts header'					=>	'Ny',
-'Active topics'						=>	'Aktiv',
-'Unanswered topics'					=>	'Ubesvaret',
-'Posted topics'						=>	'Sendt',
+'Topic searches'					=>	'Hurtige links:',
+'New posts header'					=>	'Nye indlæg',
+'Active topics'						=>	'Aktive emner',
+'Unanswered topics'					=>	'Ubesvarede emner',
+'Posted topics'						=>	'Dine indlæg',
 'Show new posts'					=>	'Find emner med nye indlæg siden dit sidste besøg.',
 'Show active topics'				=>	'Find emner med seneste indlæg.',
 'Show unanswered topics'			=>	'Find emner uden nogen svar.',
@@ -118,20 +118,20 @@ $lang_common = array(
 'Title separator'					=>	' / ',
 
 // Stuff for the page footer
-'Board footer'						=>	'Board footer',
+'Board footer'						=>	'Sidefod',
 'Jump to'							=>	'Gå til',
 'Go'								=>	' Gå ', // Submit button in forum jump
 'Moderate topic'					=>	'Moderer emne',
 'Move topic'						=>	'Flyt emne',
 'Open topic'						=>	'Åben emne',
 'Close topic'						=>	'luk emne',
-'Unstick topic'						=>	'Lås emne op',
-'Stick topic'						=>	'Lås emne',
+'Unstick topic'						=>	'Fjern fremhævning',
+'Stick topic'						=>	'Fremhæv emne',
 'Moderate forum'					=>	'Moderer forum',
 'Powered by'						=>	'Drevet af %s',
 
 // Debug information
-'Debug table'						=>	'Fejlfindings information',
+'Debug table'						=>	'Fejlfindingsinformation',
 'Querytime'							=>	'Genereret på %1$s sekunder, %2$s afviklede forespørgsler',
 'Memory usage'						=>	'RAM forbrug: %1$s',
 'Peak usage'						=>	'(Højest: %1$s)',
@@ -152,7 +152,7 @@ $lang_common = array(
 
 // Admin related stuff in the header
 'New reports'						=>	'Der er nye rapporter',
-'Maintenance mode enabled'			=>	'Vedligeholdelse er aktiveret!',
+'Maintenance mode enabled'			=>	'Vedligeholdelsestilstand er aktiveret!',
 
 // Units for file sizes
 'Size unit B'						=>	'%s B',
