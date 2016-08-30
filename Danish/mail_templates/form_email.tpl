@@ -1,13 +1,12 @@
 Subject: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
+<sender> fra <board_title> har sendt dig en besked. Du kan svare <sender> ved at svare på denne e-mail.
 
-The message reads as follows:
------------------------------------------------------------------------
+Beskeden kan læses herunder:
+
 
 <mail_message>
 
------------------------------------------------------------------------
 
---
-<board_mailer> Mailer
+
+<board_mailer> teamet
