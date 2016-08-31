@@ -26,9 +26,9 @@ $lang_post = array(
 'Subscribe'			=>	'Abonnér på dette emne',
 'Stay subscribed'	=>	'Forbliv abonnent til dette emne',
 'Topic review'		=>	'Emne revision (nyeste først)',
-'Flood start'		=>	'Mindst',
-'flood end'			=>	'sekunder skal gå mellem opslag. Vent lidt og prøv at opslå igen.',
+'Flood start'		=>	'Der skal mindst være %s sekunder mellem dine posteringer. Vent venligst %s sekunder.',
 'Preview'			=>	'Forhåndsvisning', // submit button to preview message
+
 // Edit post
 'Edit post legend'	=>	'Redigér dette indlæg og insend ændringerne',
 'Silent edit'		=>	'Lydløs redigering(vis ikke "Redigeret af ..." i Tema oversigten)',
