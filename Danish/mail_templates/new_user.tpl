@@ -1,9 +1,9 @@
-Subject: Alert - New registration
+Subject: Info - Ny registrering
 
-User '<username>' registered in the forums at <base_url>
+Bruger <username> har registreret en bruger på <base_url>
 
-User profile: <profile_url>
+Brugerprofil: <profile_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer> teamet
+(Besvar IKKE denne mail)
