@@ -1,12 +1,12 @@
-Subject: Welcome to <board_title>!
+Subject: Velkommen til <board_title>!
 
-Thank you for registering in the forums at <base_url>. Your account details are:
+Tak for din registrering på <base_url>. Dine bruger detaljer er:
 
-Username: <username>
-Password: <password>
+Brugernavn: <username>
+Kodeord...: <password>
 
-Login at <login_url> to activate the account.
+Log ind på <login_url> for at aktivere brugeren.
 
---
-<board_mailer> Mailer
-(Do not reply to this message)
+
+<board_mailer> teamet
+(Besvar IKKE denne mail)
