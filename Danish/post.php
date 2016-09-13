@@ -17,7 +17,7 @@ $lang_post = array(
 // Posting
 'Post errors'		=>	'Indlæg fejl',
 'Post errors info'	=>	'De følgende fejl skal rettes før beskeden kan sendes:',
-'Post preview'		=>	'forhåndsvisning af dit indlæg',
+'Post preview'		=>	'Forhåndsvisning af dit indlæg',
 'Guest name'		=>	'Navn', // For guests (instead of Username)
 'Post redirect'		=>	'Indlæg indtastet. omdirigerer …',
 'Post a reply'		=>	'Skriv et svar',
