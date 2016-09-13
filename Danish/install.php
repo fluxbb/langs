@@ -6,8 +6,7 @@ $lang_install = array(
 
 'Install message'				=>	'Filen \'config.php\' eksistere ikke eller er beskadiget. Dette forudsætter dog at FluxBB endnu ikke er blevet installeret.',
 'Choose install language'		=>	'Vælg sprog til installationen',
-'Choose install language info'	=>	'
-Sproget der anvendes for denne installation. Standard sproget for forummet selv kan vælges nedenfor.',
+'Choose install language info'	=>	'Sproget til denne installation. Standard sproget for forummet tilpasses nedenfor.',
 'Install language'				=>	'Installation sprog',
 'Change language'				=>	'Skift sprog',
 'Next'							=>	'Næste',
