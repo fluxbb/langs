@@ -17,16 +17,16 @@ $lang_post = array(
 // Posting
 'Post errors'		=>	'Indlæg fejl',
 'Post errors info'	=>	'De følgende fejl skal rettes før beskeden kan sendes:',
-'Post preview'		=>	'Indlægs forhåndsvisning',
+'Post preview'		=>	'Forhåndsvisning af dit indlæg',
 'Guest name'		=>	'Navn', // For guests (instead of Username)
 'Post redirect'		=>	'Indlæg indtastet. omdirigerer …',
 'Post a reply'		=>	'Skriv et svar',
 'Post new topic'	=>	'Skriv nyt emne',
-'Hide smilies'		=>	'Vis aldrig smilies som ikoner i dette indlæg',
+'Hide smilies'		=>	'Vis aldrig smilieer som ikoner i dette indlæg',
 'Subscribe'			=>	'Abonnér på dette emne',
 'Stay subscribed'	=>	'Forbliv abonnent til dette emne',
 'Topic review'		=>	'Emne revision (nyeste først)',
-'Flood start'		=>	'Der skal mindst være %s sekunder mellem dine posteringer. Vent venligst %s sekunder.',
+'Flood start'		=>	'Der skal gå %s sekunder mellem dine posteringer. Vent venligst %s sekunder.',
 'Preview'			=>	'Forhåndsvisning', // submit button to preview message
 
 // Edit post
