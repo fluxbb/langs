@@ -4,7 +4,7 @@ Naslov: Odgovori na temu: '<topic_subject>'
 
 Poruka je locirana na <post_url>
 
-Možete se odjaviti odlaskom na <unsubscribe_url>
+Možete se odjaviti odlaskom na <unsubscribe_url> ili klikom na link za Odjavu na dnu strane.
 
 --
 <board_mailer> Mailer
