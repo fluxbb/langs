@@ -4,7 +4,7 @@ Naslov: Nova tema na forumu: '<forum_name>'
 
 Tema je locirana na <topic_url>
 
-Možete se odjaviti odlaskom na <unsubscribe_url>
+Možete se odjaviti odlaskom na <unsubscribe_url> ili klikom na link za Odjavu na dnu strane.
 
 --
 <board_mailer> Mailer

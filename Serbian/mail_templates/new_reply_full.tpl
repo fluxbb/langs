@@ -11,7 +11,7 @@ Poruka glasi sledeće:
 
 -----------------------------------------------------------------------
 
-Možete se odjaviti odlaskom na <unsubscribe_url>
+Možete se odjaviti odlaskom na <unsubscribe_url> ili klikom na link za Odjavu na dnu strane.
 
 --
 <board_mailer> Mailer

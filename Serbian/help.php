@@ -8,7 +8,7 @@ $lang_help = array(
 
 'BBCode'				=>	'BBCode',
 'BBCode info 1'			=>	'BBCode je kolecija oznaka za formatiraǌe koje se koriste da promene izgled teksta na ovom forumu. BBCode je zasnovan na istom principu kao HTML i veoma mu je sličan. Ispod je lista svih raspoloživih BBCode kao i instrukcije kako ih koristiti.',
-'BBCode info 2'			=>	'Administratori mogu da omoguće ili onemoguće BBCode. Da li je BBCode omogućen ili ne, možete proveriti unutar leve margine kada god šaǉete poruku ili meǌate Vaš potpis.',
+'BBCode info 2'			=>	'Administratori imaju sposobnost da omoguće ili onemoguće BBCode. Vi možete odrediti da li je BBCode omogućen ili ne, svaki put kada šaǉete poruku ili meǌate Vaš potpis.',
 
 'Text style'			=>	'Stil teksta',
 'Text style info'		=>	'Sledeće ozanke meǌaju izgled teksta:',
