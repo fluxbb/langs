@@ -5,7 +5,7 @@ $lang_login = array(
 
 // Miscellaneous
 'Login errors'		=>	'Greška prilikom prijave',
-'Login errors info'	=>	'Sledeća greška mora biti ispravǉena pre nego što se prijavite:'
+'Login errors info'	=>	'Sledeća greška mora biti ispravǉena pre nego što se prijavite:',
 'Wrong user/pass'			=>	'Pogrešno korisničko ime i/ili šifra.',
 'Forgotten pass'			=>	'Zaboravili ste šifru?',
 'Login redirect'			=>	'Uspešno ste se prijavili. Preusmeravam …',
