@@ -4,6 +4,8 @@
 $lang_login = array(
 
 // Miscellaneous
+'Login errors'			=>	'Помилка входу',
+'Login errors info'		=>	'Потрібно виправити наступні помилки, перш ніж ви зможете увійти:',
 'Wrong user/pass'		=>		'Невірний нікнейм та/або пароль. Нікнейм і пароль чуттєві до реєстру!',	
 'Forgotten pass'		=>		'Забули пароль?',	
 'Login redirect'		=>		'Успішний вхід. Переадресація &hellip;',	
