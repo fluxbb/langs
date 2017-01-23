@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-groups.php
+// Language definitions used in admin_groups.php
 $lang_admin_groups = array(
 
 'Must enter title message'		=>	'您必須輸入會員群組名稱。',
@@ -39,6 +39,9 @@ $lang_admin_groups = array(
 'Group title label'				=>	'會員群組頭銜',
 'User title label'				=>	'會員頭銜',
 'User title help'				=>	'頭銜會取代群組成員的所有等級名稱。如果您要使用預設的頭銜或使用等級名稱，請在此處留空。',
+'Promote users label'			=>	'晉級會員',
+'Promote users help'			=>	'自動晉級會員至新群組當會員發文數到達某一數量。選擇  "%s" 以停用此功能。安全起見，不允許加入管理員。註：此項設定可能只於會員下次發文後生效。請注意您輸入的發文數係指此會員的發文數量，不是群組成員皆適用。',
+'Disable promotion'				=>	'停用晉級',
 'Mod privileges label'			=>	'允許行使版主權限',
 'Mod privileges help'			=>	'要允許某會員行使版主權限，您必須指派他/她為一個或多個版面的版主。這項設定在這位會員的個人資料欄下的管理頁面中。',
 'Edit profile label'			=>	'允許版主編輯會員的個人資料',
@@ -63,6 +66,8 @@ $lang_admin_groups = array(
 'Delete posts help'				=>	'允許群組會員刪除自己發表的文章。',
 'Delete topics label'			=>	'刪除主題',
 'Delete topics help'			=>	'允許群組會員刪除自己發表的主題(包括主題下的所有回覆)。',
+'Post links label'				=>	'文章連結',
+'Post links help'				=>	'允許群組會員於文章內使用連結。會員個人資料的簽名及網站欄位也適用這項設定。',
 'Set own title label'			=>	'自訂頭銜',
 'Set own title help'			=>	'允許群組會員自訂個性的頭銜。',
 'User search label'				=>	'使用搜尋',

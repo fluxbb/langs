@@ -59,7 +59,6 @@ $lang_update = array(
 'forums'						=>	'版面',
 'groups'						=>	'會員群組',
 'post'							=>	'文章',
-'ranks'							=>	'等級',
 'report'						=>	'舉報',
 'topic'							=>	'主題',
 'user'							=>	'一般會員',

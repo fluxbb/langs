@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-options.php
+// Language definitions used in admin_options.php
 $lang_admin_options = array(
 
 'Bad HTTP Referer message'			=>	'HTTP_REFERER錯誤。如果您將論壇從一個目錄轉移到另一個目錄或是變更了域名，您需要在資料庫中手動更新根目錄URL(尋找config資料表中的o_base_url)然後刪除/cache目錄下的所有.php檔以清空cache。',
@@ -23,6 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'關於論壇的簡短敘述(顯示在每個頁面的頂部)。這個欄位可包含HTML標記。',
 'Base URL label'					=>	'網址的根目錄',
 'Base URL help'						=>	'不包含結尾斜線 的完整網址(例如：http://www.mydomain.com/forums)。此處<strong>必須</strong>輸入正確才能使所有管理及版主功能運作。如果您收到「錯誤引用」的報錯，此處很可能未輸入正確。',
+'Base URL problem'          =>  '您的安裝不支援國際化網域名稱的自動轉換。您的 URL 包含特殊字元，此處<strong>必須</strong>使用線上轉換器以避免出現 「錯誤引用」的報錯。',
 'Timezone label'					=>	'預設時區',
 'Timezone help'						=>	'訪客以及會員準備在論壇註冊時顯示的時區。',
 'DST label'							=>	'日光節約時間調整',
@@ -51,27 +52,27 @@ $lang_admin_options = array(
 'UTC'								=>	'(UTC) Western European, Greenwich',
 'UTC+01:00'							=>	'(UTC+01:00) Central European, West African',
 'UTC+02:00'							=>	'(UTC+02:00) Eastern European, Central African',
-'UTC+03:00'							=>	'(UTC+03:00) Moscow, Eastern African',
+'UTC+03:00'							=>	'(UTC+03:00) Eastern African',
 'UTC+03:30'							=>	'(UTC+03:30) Iran',
-'UTC+04:00'							=>	'(UTC+04:00) Gulf, Samara',
+'UTC+04:00'							=>	'(UTC+04:00) Moscow, Gulf, Samara',
 'UTC+04:30'							=>	'(UTC+04:30) Afghanistan',
-'UTC+05:00'							=>	'(UTC+05:00) Pakistan, Yekaterinburg',
+'UTC+05:00'							=>	'(UTC+05:00) Pakistan',
 'UTC+05:30'							=>	'(UTC+05:30) India, Sri Lanka',
 'UTC+05:45'							=>	'(UTC+05:45) Nepal',
-'UTC+06:00'							=>	'(UTC+06:00) Bangladesh, Bhutan, Novosibirsk',
+'UTC+06:00'							=>	'(UTC+06:00) Bangladesh, Bhutan, Yekaterinburg',
 'UTC+06:30'							=>	'(UTC+06:30) Cocos Islands, Myanmar',
-'UTC+07:00'							=>	'(UTC+07:00) Indochina, Krasnoyarsk',
-'UTC+08:00'							=>	'(UTC+08:00) 大中華, Australian Western, Irkutsk',
+'UTC+07:00'							=>	'(UTC+07:00) Indochina, Novosibirsk',
+'UTC+08:00'							=>	'(UTC+08:00) 大中華, Australian Western, Krasnoyarsk',
 'UTC+08:45'							=>	'(UTC+08:45) Southeastern Western Australia',
-'UTC+09:00'							=>	'(UTC+09:00) Japan, Korea, Chita',
+'UTC+09:00'							=>	'(UTC+09:00) Japan, Korea, Chita, Irkutsk',
 'UTC+09:30'							=>	'(UTC+09:30) Australian Central',
-'UTC+10:00'							=>	'(UTC+10:00) Australian Eastern, Vladivostok',
+'UTC+10:00'							=>	'(UTC+10:00) Australian Eastern',
 'UTC+10:30'							=>	'(UTC+10:30) Lord Howe',
-'UTC+11:00'							=>	'(UTC+11:00) Solomon Island, Magadan',
+'UTC+11:00'							=>	'(UTC+11:00) Solomon Island, Vladivostok',
 'UTC+11:30'							=>	'(UTC+11:30) Norfolk Island',
-'UTC+12:00'							=>	'(UTC+12:00) New Zealand, Fiji, Kamchatka',
+'UTC+12:00'							=>	'(UTC+12:00) New Zealand, Fiji, Magadan',
 'UTC+12:45'							=>	'(UTC+12:45) Chatham Islands',
-'UTC+13:00'							=>	'(UTC+13:00) Tonga, Phoenix Islands',
+'UTC+13:00'							=>	'(UTC+13:00) Tonga, Phoenix Islands, Kamchatka',
 'UTC+14:00'							=>	'(UTC+14:00) Line Islands',
 
 // Timeout Section
@@ -123,8 +124,6 @@ $lang_admin_options = array(
 'Censor words help'					=>	'這個功能可幫助論壇過濾敏感詞彙。參見%s檢視更多資訊。',
 'Signatures label'					=>	'簽名',
 'Signatures help'					=>	'允許會員在文章下附加簽名。',
-'User ranks label'					=>	'會員等級',
-'User ranks help'					=>	'啟用它以使會員等級生效。參見%s檢視更多資訊。',
 'User has posted label'				=>	'會員參與討論的主題',
 'User has posted help'				=>	'讓目前登入的會員通過主題前面的小點識別已參與過的主題。伺服器負荷過高時建議停用。',
 'Topic views label'					=>	'主題瀏覽次數',
@@ -163,7 +162,7 @@ $lang_admin_options = array(
 // Avatars section
 'Avatars subhead'					=>	'頭像',
 'Use avatars label'					=>	'使用頭像',
-'Use avatars help'					=>	'啟用後，會員可上傳頭像，頭像顯示在會員的頭銜/等級之下。',
+'Use avatars help'					=>	'啟用後，會員可上傳頭像，頭像顯示在會員的頭銜下。',
 'Upload directory label'			=>	'上傳目錄',
 'Upload directory help'				=>	'頭像上傳目錄(相對於FluxBB的根目錄)。必須為PHP設定此目錄的寫入權限。',
 'Max width label'					=>	'最大寬度',

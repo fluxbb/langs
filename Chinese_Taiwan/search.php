@@ -6,7 +6,7 @@ $lang_search = array(
 // The search form
 'User search'						=>	'會員搜尋',
 'No search permission'				=>	'您沒有使用搜尋功能的權限。',
-'Search flood'						=>	'您所在的會員群組兩次搜尋之間至少需要間隔 %s 秒。請稍等一會後再嘗試搜尋。',
+'Search flood'						=>	'您所在的會員群組兩次搜尋之間至少需要間隔 %s 秒。，請等後 %s 秒再嘗試搜尋。',
 'Search'							=>	'搜尋',
 'Search criteria legend'			=>	'輸入搜尋準則',
 'Search info'						=>	'按關鍵詞搜尋時，可輸入一個或多個詞語。多個關鍵詞請以空格分隔。支援使用 AND, OR 和 NOT 以縮小搜尋範圍。按作者搜尋時請輸入您希望搜尋的內容的作者名稱。可使用萬用字元 * 作部分符合。',

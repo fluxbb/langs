@@ -17,6 +17,8 @@ $lang_common = array(
 'No permission'						=>	'您沒有權限訪問這個頁面。',
 'Bad referrer'						=>	'HTTP_REFERER 錯誤。您從一個未經授權的位址接入本頁。如果這問題再次發生，請檢查設定 論壇管理設定/選項 中的 \'根目錄網址\' 輸入是否正確，並確認您訪問的連結版面正是指向該網址。要獲得關於此問題的更多資訊請訪問FluxBB官方論壇。',
 'No cookie'							=>	'您似乎已經登入成功，但是cookie未能正確設定。請檢查您的相關設定，如果這個功能可用，請對本站啟用cookies。',
+'Pun include extension'  			=>	'無法處理使用者包括 %s 從範本 %s。不接受檔案 "%s"',
+'Pun include directory'				=>	'無法處理使用者包括 %s 從範本 %s。不接受 Directory traversal',
 'Pun include error'					=>	'無法處理使用者包括 %s 從範本 %s。不在範本目錄中也不在使用者包括的目錄中有此檔案。',
 
 // Miscellaneous
@@ -41,7 +43,7 @@ $lang_common = array(
 'Required'							=>	'(必需)',
 'required field'					=>	'不能為空。', // For javascript form validation
 'Last post'							=>	'最後發表',
-'by'								=>	'by', // As in last post by someuser
+'by'								=>	'by', // As in last post by some user
 'New posts'							=>	'檢視最新文章', // The link that leads to the first new post
 'New posts info'					=>	'檢視這個主題中最新的文章。', // The popup text for new posts links
 'Username'							=>	'會員名稱',
@@ -59,6 +61,7 @@ $lang_common = array(
 'Pages'								=>	'頁次：',
 'Page'								=>	'第 %s 頁',
 'BBCode'							=>	'BBCode：', // You probably shouldn't change this
+'url tag'							=>	'[url] 標籤:',
 'img tag'							=>	'[img] 貼圖：',
 'Smilies'							=>	'表情符號：',
 'and'								=>	'以及',
@@ -85,6 +88,8 @@ $lang_common = array(
 'BBCode error invalid self-nesting'	=>	'[%s] 標籤不允許在其自身內部使用',
 'BBCode error no closing tag'		=>	'[%1$s] 缺少符合的標籤 [/%1$s]',
 'BBCode error empty attribute'		=>	'[%s] 標籤屬性不允許為空',
+'BBCode error tag not allowed'		=>	'不允許你使用 [%s] 標籤',
+'BBCode error tag url not allowed'	=>	'不允許你使用文章連結',
 'BBCode code problem'				=>	'[code] 標籤出現錯誤。',
 'BBCode list size error'			=>	'列表內容過長無法解析，請縮短後再試！',
 
@@ -119,13 +124,14 @@ $lang_common = array(
 'Jump to'							=>	'快速轉移到',
 'Go'								=>	'前往', // Submit button in forum jump
 'Moderate topic'					=>	'管理主題',
+'All'								=>	'全部',
 'Move topic'						=>	'移動主題',
 'Open topic'						=>	'開放主題',
 'Close topic'						=>	'關閉主題',
 'Unstick topic'						=>	'解除置頂',
 'Stick topic'						=>	'置頂主題',
 'Moderate forum'					=>	'管理版面',
-'Powered by'						=>	'Powered by %s',
+'Powered by'						=>	'Powered by %s, 中文(臺灣)語系製作維護 <a href="http://web.dhjh.tc.edu.tw/~gzqbyr/fluxbb/">CRLin</a>',
 
 // Debug information
 'Debug table'						=>	'Debug資訊',

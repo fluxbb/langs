@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in admin-users.php
+// Language definitions used in admin_users.php
 $lang_admin_users = array(
 
 'Non numeric message'		=>	'您在一個僅接受數值的列中輸入了非數值。',
@@ -44,10 +44,10 @@ $lang_admin_users = array(
 'E-mail address label'		=>	'電子信箱位址',
 'Title label'				=>	'頭銜',
 'Real name label'			=>	'真實姓名',
-'Website label'				=>	'個人網站',
+'Website label'				=>	'網址',
 'Jabber label'				=>	'Jabber',
 'ICQ label'					=>	'ICQ',
-'MSN label'					=>	'MSN Messenger',
+'MSN label'					=>	'Microsoft Account',
 'AOL label'					=>	'AOL IM',
 'Yahoo label'				=>	'Yahoo Messenger',
 'Location label'			=>	'所在地',

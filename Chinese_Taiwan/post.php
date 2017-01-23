@@ -26,8 +26,7 @@ $lang_post = array(
 'Subscribe'			=>	'訂閱主題',
 'Stay subscribed'	=>	'繼續訂閱這個主題',
 'Topic review'		=>	'主題回顧 (新文章優先)',
-'Flood start'		=>	'您所在的會員群組兩次發文之間至少須間隔',//根據中文語法作了修改，下同。
-'flood end'			=>	'秒。請稍後再嘗試發文。',
+'Flood start'		=>	'您所在的會員群組兩次發文之間至少須間隔 %s 秒，請等後 %s 秒再嘗試發送。',
 'Preview'			=>	'預覽', // submit button to preview message
 
 // Edit post

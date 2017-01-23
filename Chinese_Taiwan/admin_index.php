@@ -7,7 +7,6 @@ $lang_admin_index = array(
 'Upgrade check failed message'		=>	'未知原因導致升級檢查失敗。',
 'Running latest version message'	=>	'您使用的是FluxBB的最新版本。',
 'New version available message'		=>	'已經有新的FluxBB版本發佈。您可在 %s 下載。',
-'PHPinfo disabled message'			=>	'伺服器停用PHP函數 phpinfo()。',
 'Not available'						=>	'停用',
 'Forum admin head'					=>	'論壇管理設定',
 'NA'								=>	'N/A',
@@ -18,13 +17,22 @@ $lang_admin_index = array(
 'Welcome 4'							=>	'檢視使用者的 IP 統計資訊。',
 'Welcome 5'							=>	'封鎖惡意的使用者。',
 'Welcome 6'							=>	'過濾敏感詞彙。',
-'Welcome 7'							=>	'自訂會員的等級。',
+'Welcome 7'							=>	'設定會員群組與晉級。',
 'Welcome 8'							=>	'清理舊文章。',
 'Welcome 9'							=>	'處理舉報訊息。',
-'Statistics head'					=>	'統計',
+'About head'						=>	'關於 FluxBB',
 'FluxBB version label'				=>	'FluxBB版本',
 'Check for upgrade'					=>	'檢查升級',
 'FluxBB version data'				=>	'v%s - %s',
+'Server statistics label'			=>	'伺服器統計資訊',
+'View server statistics'			=>	'檢視伺服器統計資訊',
+'Support label'						=>	'支援',
+'Forum label'						=>	'版面',
+'IRC label'							=>	'IRC 頻道',
+
+// Language definitions used in admin_statistics.php
+'PHPinfo disabled message'			=>	'伺服器停用 PHP 函式 phpinfo()。',
+'Server statistics head'			=>	'伺服器統計資訊',
 'Server load label'					=>	'伺服器負荷',
 'Server load data'					=>	'%s - 目前有 %s 人在線上',
 'Environment label'					=>	'環境',
@@ -47,5 +55,4 @@ $lang_admin_index = array(
 'Database label'					=>	'資料庫',
 'Database data rows'				=>	'列: %s',
 'Database data size'				=>	'大小: %s',
-
 );
