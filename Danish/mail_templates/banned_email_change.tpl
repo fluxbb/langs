@@ -1,9 +1,9 @@
-Subject: Alert - Banned email detected
+Subject: Alarm - Banlyst mail opdaget
 
-User '<username>' changed to banned email address: <email>
+Brugeren '<username>' ændrede til en banlyst mail: <email>
 
-User profile: <profile_url>
+Brugerens profil kan ses her: <profile_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
