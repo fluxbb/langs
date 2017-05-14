@@ -1,14 +1,17 @@
-Subject: New password requested
+Subject: Anmodning om nyt kodeord
 
-Hello <username>,
+Hej <username>,
 
-You have requested to have a new password assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your password you should just ignore this message. Only if you visit the activation page below will your password be changed.
+Du har anmodet om at få et nyt kodeord til din konto på: 
+<base_url>.
 
-Your new password is: <new_password>
+Hvis du ikke lavede anmodningen, eller hvis du ikke vil ændre dit kodeord, bedes du ignorere denne besked. Dit kodeord vil kun blive ændret, hvis du besøger aktiveringsadressen herunder.
 
-To change your password, please visit the following page:
+Dit nye kodeord er: <new_password>
+
+For at ændre dit kodeord, besøg følgende side:
 <activation_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
