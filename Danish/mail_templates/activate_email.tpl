@@ -1,12 +1,15 @@
-Subject: Change email address requested
+Subject: Anmodning om ændring af mail
 
-Hello <username>,
+Hej <username>,
 
-You have requested to have a new email address assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your email address you should just ignore this message. Only if you visit the activation page below will your email address be changed. In order for the activation page to work, you must be logged in to the forum.
+Du har anmodet om at få en ny mail knyttet til din konto på:
+<base_url>.
 
-To change your email address, please visit the following page:
+Hvis du ikke lavede anmodningen, eller hvis du ikke vil udskifte din mail bedes du ignorere denne besked. Din mail vil kun blive ændret hvis du besøger aktiveringsadressen herunder. For at aktiveringsadressen skal fungere, skal du være logget ind på forummet.
+
+For at ændre din mail, skal du besøge følgende side:
 <activation_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
