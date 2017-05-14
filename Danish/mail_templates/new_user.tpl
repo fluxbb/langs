@@ -1,9 +1,12 @@
-Subject: Info - Ny registrering
+Subject: Alarm - Ny registrering
 
-Bruger <username> har registreret en bruger på <base_url>
+Brugeren '<username>' registrerede på forummet på <base_url>
 
-Brugerprofil: <profile_url>
+Konto: <profile_url>
+
+For at administrere denne konto, besøg følgende side:
+<admin_url>
 
 --
-<board_mailer> teamet
-(Besvar IKKE denne mail)
+<board_mailer>
+(Svar ikke på denne besked)
