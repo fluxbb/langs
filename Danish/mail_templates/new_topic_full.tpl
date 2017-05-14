@@ -1,18 +1,18 @@
-Subject: New topic in forum: '<forum_name>'
+Subject: Nyt emne i forummet: '<forum_name>'
 
-<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
+<poster> har oprettet et nyt emne '<topic_subject>' i forummet '<forum_name>', som du abonnerer på.
 
-The topic is located at <topic_url>
+Emnet findes her <topic_url>
 
-The message reads as follows:
+Beskeden er:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-You can unsubscribe by going to <unsubscribe_url>
+Du kan afmelde dit abonnement ved at besøge <unsubscribe_url> og klikke på afbryd abonnering linket i bunden af siden.
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
