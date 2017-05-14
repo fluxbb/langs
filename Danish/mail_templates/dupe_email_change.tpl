@@ -1,9 +1,9 @@
-Subject: Alert - Duplicate email detected
+Subject: Alarm - Dublet mail opdaget
 
-User '<username>' changed to an email address that also belongs to: <dupe_list>
+Brugeren '<username>' ændrede til en ny mail der anvendes af: <dupe_list>
 
-User profile: <profile_url>
+Brugerprofilen kan ses her: <profile_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
