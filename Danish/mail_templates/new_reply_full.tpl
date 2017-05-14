@@ -1,18 +1,18 @@
-Subject: Reply to topic: '<topic_subject>'
+Subject: Svar på emne: '<topic_subject>'
 
-<replier> has replied to the topic '<topic_subject>' to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> har svaret på emnet <topic_subject> som du abonnerer på. Der kan være flere svar, men dette er den eneste underretning du vil modtage, indtil du besøger forummet igen.
 
-The post is located at <post_url>
+Indlægget findes her <post_url>
 
-The message reads as follows:
+Beskeden er:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-You can unsubscribe by going to <unsubscribe_url>
+Du kan afmelde dit abonnement ved at besøge <unsubscribe_url> og klikke på afbryd abonnering linket i bunden af siden.
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(Svar ikke på denne besked)
