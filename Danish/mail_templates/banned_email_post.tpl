@@ -1,9 +1,9 @@
-Subject: Alert - Banned email detected
+Subject: Alarm - Banlyst mail opdaget
 
-User '<username>' posted with banned email address: <email>
+Brugeren '<username>' svarede med en banlyst mail: <email>
 
-Post URL: <post_url>
+Indlæg URL: <post_url>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
