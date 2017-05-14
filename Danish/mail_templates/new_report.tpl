@@ -1,9 +1,10 @@
-Subject: Report(<forum_id>) - '<topic_subject>'
+Subject: Rapport(<forum_id>) - '<topic_subject>'
 
-User '<username>' has reported the following message: <post_url>
+Brugeren '<username>' har rapporteret den følgende besked:
+<post_url>
 
-Reason: <reason>
+Årsag: <reason>
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
