@@ -1,12 +1,12 @@
-Subject: User account renamed
+Subject: Brugernavn omdøbt
 
-During an upgrade to the forums at <base_url> it was determined your username is too similar to an existing user. Your username has been changed accordingly.
+Under en opgradering af forummet på <base_url> blev det besluttet at dit brugernavn er for identisk med en eksisterende bruger. Dit brugernavn er ændret til:
 
-Old username: <old_username>
-New username: <new_username>
+Forrige brugernavn: <old_username>
+Nye brugernavn: <new_username>
 
-We apologise for any inconvenience caused.
+Vi beklager ulejligheden.
 
 --
-<board_mailer> Mailer
-(Do not reply to this message)
+<board_mailer>
+(Svar ikke på denne besked)
