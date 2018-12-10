@@ -30,7 +30,7 @@ $lang_register = array(
 'Desc 2'					=>	'Abaixo está um formulário que você deve preencher para fazer o registro. Uma vez que estiver registrado você deve acessar seu perfil e rever as várias configurações lá disponíveis. Os campos abaixo são apenas uma pequena parte de todas as configurações que você pode alterar em seu perfil.',
 'Username legend'			=>	'Por favor digite um nome de usuário entre 2 e 25 caracteres',
 'Pass legend'				=>	'Por favor digite e confirme a sua senha',
-'Pass info'					=>	'Senhas devem ter ao menos 4 caracteres. Senhas são sensíveis à caixa.',
+'Pass info'					=>	'Senhas devem ter ao menos 6 caracteres. Senhas diferenciam maiúsculo de minúsculo.',
 'Email info'				=>	'Você deve digitar um endereço de email válido para o qual será enviada uma senha gerada aleatoriamente.',
 'Confirm email'				=>	'Confirmar endereço de email',
 

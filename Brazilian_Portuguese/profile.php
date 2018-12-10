@@ -30,7 +30,7 @@ $lang_profile = array(
 'Old pass'						=>	'Antiga senha',
 'New pass'						=>	'Nova senha',
 'Confirm new pass'				=>	'Confirmar nova senha',
-'Pass info'						=>	'Senhas devem ter ao menos 4 caracteres. Senhas são sensíveis à caixa.',
+'Pass info'						=>	'Senhas devem ter ao menos 6 caracteres. Senhas diferenciam maiúsculo de minúsculo.',
 
 // Email stuff
 'Email key bad'					=>	'A chave de ativação de email especificada está errada ou expirou. Por favor faça outra solicitação de alteração de email. Se isto falhar, contate o administrador do fórum em',
@@ -134,6 +134,7 @@ $lang_profile = array(
 'Delete posts'					=>	'Excluir quaisquer mensagens e tópicos que este usuário tenha criado.',
 'Delete'						=>	'Excluir', // submit button (confirm user delete)
 'User delete redirect'			=>	'Usuário excluído. Redirecionando …',
+'User promote redirect'			=>	'Usuário promovido. Redirecionando …',
 'Group membership redirect'		=>	'Adesão ao grupo salva. Redirecionando …',
 'Update forums redirect'		=>	'Direitos de moderação do fórum atualizados. Redirecionando …',
 'Ban redirect'					=>	'Redirecionando …',

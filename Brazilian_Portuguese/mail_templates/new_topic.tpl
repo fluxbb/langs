@@ -4,7 +4,7 @@ Subject: Novo tópico no fórum: '<forum_name>'
 
 O tópico está localizado em <topic_url>
 
-Você pode cancelar sua inscrição indo em <unsubscribe_url>
+Você pode cancelar sua inscrição indo em <unsubscribe_url> e clicando no link 'Cancelar inscrição' na parte inferior da página.
 
 --
 Correio do <board_mailer>

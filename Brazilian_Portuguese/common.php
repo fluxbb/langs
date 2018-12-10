@@ -4,7 +4,7 @@
 $lang_common = array(
 
 // Text orientation and encoding
-'lang_direction'					=>	'EPD', // ltr (Left-To-Right) or rtl (Right-To-Left)
+'lang_direction'					=>	'ltr', // ltr (Left-To-Right) or rtl (Right-To-Left)
 'lang_identifier'					=>	'pt_br',
 
 // Number formatting
@@ -16,6 +16,7 @@ $lang_common = array(
 'No view'							=>	'Você não possui permissão para ver este fórum.',
 'No permission'						=>	'Você não possui permissão para acessar esta página.',
 'Bad referrer'						=>	'HTTP_REFERER ruim. Você foi encaminhado à esta página a partir de uma fonte não autorizada. Se o problema continuar, por favor, certifique-se que a \'URL Base\' está corretamente definida em Administração/Opções e que você está visitando o fórum através desse mesmo endereço. Mais informações sobre a verificação de encaminhamento podem ser encontradas na documentação do FluxBB.',
+'Bad csrf hash'						=>	'Hash de CSRF inválida. Você foi encaminhado para esta página de uma fonte não autorizada.',
 'No cookie'							=>	'Você parece ter autenticado corretamente, porém um cookie não pôde ser criado. Por favor, verifique suas configurações e se aplicável, ative cookies para este website.',
 'Pun include extension'				=>	'Impossível processar inclusão do usuário %s do estilo %s. Arquivos "%s" não são permitidos',
 'Pun include directory'				=>	'Impossível processar inclusão do usuário %s do estilo %s. Passagem de diretório não é permitida',
@@ -41,7 +42,7 @@ $lang_common = array(
 'off'								=>	'Desativado',
 'Invalid email'						=>	'O endereço de email digitado é inválido.',
 'Required'							=>	'(Obrigatório)',
-'required field'					=>	'é um campo obrigatório neste formuário.', // For javascript form validation
+'required field'					=>	'é um campo obrigatório neste formulário.', // For javascript form validation
 'Last post'							=>	'Última mensagem',
 'by'								=>	'por', // As in last post by some user
 'New posts'							=>	'Novas mensagens', // The link that leads to the first new post
@@ -90,7 +91,6 @@ $lang_common = array(
 'BBCode error empty attribute'		=>	'a tag [%s] está com uma seção de atributo em vazio',
 'BBCode error tag not allowed'		=>	'Você não tem permissão para usar tags [%s]',
 'BBCode error tag url not allowed'	=>	'Você não tem permissão para publicar links',
-'BBCode code problem'				=>	'Há um problema com suas tags [code]',
 'BBCode list size error'			=>	'Sua lista está muito longa para processar, por favor, torne-a menor!',
 
 // Stuff for the navigator (top of every page)

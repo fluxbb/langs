@@ -15,7 +15,6 @@ $lang_update = array(
 'Maintenance'					=>	'Manutenção',
 'Maintenance message info'		=>	'A mensagem que será exibida aos usuários durante o processo de atualização. Este texto não será processado como mensagens comuns, e portanto, pode conter HTML.',
 'Maintenance message'			=>	'Mensagem de manutenção',
-'Next'							=>	'Próximo',
 
 'You are running error'			=>	'Você está usando %1$s versão %2$s. FluxBB %3$s requer ao menos %1$s %4$s para rodar corretamente. Você deve atualizar sua instalação %1$s antes de continuar.',
 'Version mismatch error'		=>	'Incompatibilidade de versão. O banco de dados \'%s\' não parece estar rodando um esquema de banco de dados FluxBB suportado por este script de atualização.',
@@ -51,6 +50,8 @@ $lang_update = array(
 'Converting item'				=>	'Convertendo %1$s %2$s …',
 'Preparsing item'				=>	'Pré-analisando %1$s %2$s …',
 'Rebuilding index item'			=>	'Reconstruindo índice para %1$s %2$s',
+'Click here'					=>	'Clique aqui',
+'Automatic redirect failed'		=>	'Redirecionamento automático falhou. %s para continuar …',
 
 'ban'							=>	'banimentos',
 'categories'					=>	'categorias',

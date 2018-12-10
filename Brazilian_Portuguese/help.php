@@ -8,7 +8,7 @@ $lang_help = array(
 
 'BBCode'				=>	'BBCode',
 'BBCode info 1'			=>	'BBCode é uma coleção de tags de formatação que são usadas para alterar a aparência do texto neste fórum. BBCode é baseado no mesmo princípio que, o HTML. Abaixo está uma lista de todos os BBCodes e instruções de como usá-los.',
-'BBCode info 2'			=>	'Administradores têm a habilidade de ativar ou desativar o BBCode. Você pode saber se o BBCode está ativado ou desativado na margem inferior na página de envio de mensagens e de edição de assinatura.',
+'BBCode info 2'			=>	'Administradores têm a habilidade de ativar ou desativar o BBCode. Você pode saber se o BBCode está ativado ou desativado sempre que você postar uma mensagem ou editar sua assinatura.',
 
 'Text style'			=>	'Estilo do texto',
 'Text style info'		=>	'As tags a seguir alterar a aparência do texto:',
