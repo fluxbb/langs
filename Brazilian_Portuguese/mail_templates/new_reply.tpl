@@ -4,7 +4,7 @@ Subject: Resposta ao tópico: '<topic_subject>'
 
 A resposta está localizada em <post_url>
 
-Você pode cancelar sua inscrição indo em <unsubscribe_url>
+Você pode cancelar sua inscrição indo em <unsubscribe_url> e clicando no link 'Cancelar inscrição' na parte inferior da página.
 
 --
 Correio do <board_mailer>

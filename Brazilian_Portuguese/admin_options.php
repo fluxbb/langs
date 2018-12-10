@@ -23,7 +23,7 @@ $lang_admin_options = array(
 'Board desc help'					=>	'Uma breve descrição deste fórum (exibido no topo de todas as páginas). Este campo podem conter HTML.',
 'Base URL label'					=>	'URL Base',
 'Base URL help'						=>	'A URL completa do fórum sem a barra final (ex. http://www.meudominio.com.br/forum). Isto <strong>deve</strong> estar correto para que todas as funções de administração e moderação funcionem. Se você ver erros "Referenciador ruim", é provável que esteja incorreto.',
-'Base URL problem'					=>  'Sua instalção não suporta a conversão automática de nomes de domínio internacionalizados. Já que sua URL base contém caracteres especiais, você <strong>deve</strong> usar um conversor online para evitar erros de "Bad referer".',
+'Base URL problem'					=>  'Sua instalação não suporta a conversão automática de nomes de domínio internacionalizados. Já que sua URL base contém caracteres especiais, você <strong>deve</strong> usar um conversor online para evitar erros de "Bad referer".',
 'Timezone label'					=>	'Fuso horário padrão',
 'Timezone help'						=>	'O fuso horário padrão para usuários e visitantes tentando se registrar no fórum.',
 'DST label'							=>	'Ajuste de Horário de Verão',
@@ -109,8 +109,8 @@ $lang_admin_options = array(
 'Topics per page help'				=>	'O número padrão de tópicos a exibir por página em um fórum. Usuários podem personalizar esta configuração.',
 'Posts per page label'				=>	'Mensagens por página',
 'Posts per page help'				=>	'O número padrão de mensagens a exibir por página em um tópico. Usuários podem personalizar esta configuração.',
-'Indent label'						=>	'Tamanho de indentação',
-'Indent help'						=>	'Se definido como 8, um tab comum será usado quando exibir textos com a tag [code][/code]. Caso contrário esta quantia de espaços será usada para indentar o texto.',
+'Indent label'						=>	'Tamanho de recuo',
+'Indent help'						=>	'Se definido como 8, um tab comum será usado quando exibir textos com a tag [code][/code]. Caso contrário esta quantia de espaços será usada para recuo do texto.',
 'Quote depth label'					=>	'Profundidade máxima de citações [quote]',
 'Quote depth help'					=>	'O número máximo de vezes que a tag [quote] pode ser inserida dentro de outra tag [quote], todas as tags excedentes serão eliminadas.',
 
@@ -135,7 +135,7 @@ $lang_admin_options = array(
 'Search all label'					=>	'Pesquisar todos os fóruns',
 'Search all help'					=>	'Quando desativado, pesquisas só serão permitidas em um fórum por vez. Desative se o servidor estiver sobrecarregado devido ao excesso de pesquisas.',
 'Menu items label'					=>	'Itens de menu adicionais',
-'Menu items help'					=>	'Ao inserir hyperlinks HTML nesta caixa de texto, qualquer número de itens pode ser adicionado ao menu de navegação no topo de todas as páginas. O formato para adicionar novos links é X = &lt;a href="URL"&gt;LINK&lt;/a&gt; onde X é a posição na qual o link deverá ser inserido (ex. 0 para inserir no início e 2 para inserir após "Lista de usuários"). Separe cada item com uma quebra de linha.',
+'Menu items help'					=>	'Ao inserir hiperlinks HTML nesta caixa de texto, qualquer número de itens pode ser adicionado ao menu de navegação no topo de todas as páginas. O formato para adicionar novos links é X = &lt;a href="URL"&gt;LINK&lt;/a&gt; onde X é a posição na qual o link deverá ser inserido (ex. 0 para inserir no início e 2 para inserir após "Lista de usuários"). Separe cada item com uma quebra de linha.',
 
 // Feeds section
 'Feed subhead'						=>	'Feeds',

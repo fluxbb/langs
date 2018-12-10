@@ -4,7 +4,9 @@
 $lang_login = array(
 
 // Miscellaneous
-'Wrong user/pass'			=>	'Nome de usuário e/ou senha errados.',
+'Login errors'		=>	'Erro de login',
+'Login errors info'	=>	'O seguinte erro precisa ser corrigido antes que você possa fazer login:',
+'Wrong user/pass'			=>	'Nome de usuário e/ou senha incorretos.',
 'Forgotten pass'			=>	'Esqueceu a sua senha?',
 'Login redirect'			=>	'Autenticado com sucesso. Redirecionando …',
 'Logout redirect'			=>	'Desconectado. Redirecionando …',
