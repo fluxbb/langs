@@ -11,7 +11,7 @@ Contenu du message :
 
 La discussion se trouve ici : <topic_url>
 
-Vous pouvez interrompre le suivi en cliquant ici : <unsubscribe_url>
+Vous pouvez interrompre le suivi de cette discussion en suivant ce lien <unsubscribe_url> et en cliquant sur le bouton en bas de page.
 
 --
 <board_mailer>
