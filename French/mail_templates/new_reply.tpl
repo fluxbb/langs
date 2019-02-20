@@ -4,7 +4,7 @@ Subject: Réponse à la discussion « <topic_subject> »
 
 Le message est situé ici : <post_url>
 
-Vous pouvez interrompre le suivi de cette discussion en cliquant ici : <unsubscribe_url>
+Vous pouvez interrompre le suivi de cette discussion en suivant ce lien <unsubscribe_url> et en cliquant sur le bouton en bas de page. 
 
 -- 
 <board_mailer>
