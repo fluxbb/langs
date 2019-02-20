@@ -1,11 +1,9 @@
-Subject: 'گزارش(<forum_id>) - '<topic_subject>'
+موضوع: گزارش(<forum_id>) - '<topic_subject>'
 
-کاربری به نام '<username>' مطلب زیر را گزارش کرده است: 
-<post_url>
+کاربر '<username>' ارسال روبرو را گزارش کرده است: <post_url>
 
-دلیل: <reason>
+دلیل گزارش: <reason>
 
 --
-ارسال کننده ایمیل <board_mailer>
-(به این پیغام پاسخ ندهید)
-
+<board_mailer> پیام رسان
+(به این پیام پاسخ ندهید)

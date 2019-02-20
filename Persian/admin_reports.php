@@ -3,18 +3,19 @@
 // Language definitions used in admin_reports.php
 $lang_admin_reports = array(
 
-'Report zapped redirect'	=>	'گزارش خوانده شد. در حال انتقال...',
-'New reports head'			=>	'گزارشات جدید',
+'Report zapped redirect'	=>	'علامتگذاری گزارش بعنوان خوانده شده. درحال تغییر مسیر …',
+'New reports head'			=>	'گزارش های جدید',
 'Deleted user'				=>	'کاربر حذف شده',
-'Deleted'					=>	'حذف شد.',
-'Post ID'					=>	'ارسال شماره %s',
+'Deleted'					=>	'حذف شده',
+'Post ID'					=>	'ارسال #%s',
 'Report subhead'			=>	'گزارش شده %s',
 'Reported by'				=>	'گزارش شده توسط %s',
-'Reason'					=>	'به علت',
-'Zap'						=>	'برچسب خوانده شده',
-'No new reports'			=>	'گزارش جدید وجود ندارد.',
-'NA'						=>	'N/A',
-'Zapped subhead'			=>	'%s برچسب خوانده شده گرفته است توسط %s',
-'No zapped reports'			=>	'گزارش خوانده شده ای وجود ندارد.',
+'Reason'					=>	'دلیل گزارش',
+'Zap'						=>	'علامتگذاری بعنوان خوانده شده',
+'No new reports'			=>	'هیچ گزارشی وجود ندارد.',
+'Last 10 head'				=>	'10 گزارش خوانده شده آخر',
+'NA'						=>	'نامشخص',
+'Zapped subhead'			=>	'علامتگذاری شده بعنوان خوانده شده %s توسط %s',
+'No zapped reports'			=>	'هیچ گزارش خوانده شده ای وجود ندارد.',
 
 );
