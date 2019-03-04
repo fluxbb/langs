@@ -1,32 +1,44 @@
 <?php
 
+
+
 // Taaldefinities gebruikt in verschillende bestanden
+
 $lang_common = array(
 
+
+
 // Text oriëntatie
+
 'lang_direction'					=>	'ltr',
 'lang_identifier'					=>	'nl',
 
+
 // Nummer formaat
+
 'lang_decimal_point'				=>	'.',
 'lang_thousands_sep'				=>	',',
 
+
 // Nota's
+
 'Bad request'						=>	'Foute aanvraag, de link die je volgt is fout of verouderd.',
-'No view'							=>	'Je hebt niet de permissie om dit forum te bekijken.',
+'No view'							=>	'U dient geregistreerd te zijn om toegang te krijgen tot dit forum.<br>Leden kunnen <a style="font-weight:bold" href="login.php">inloggen</a> of zich hier <a style="font-weight:bold" href="register.php">registreren</a>.',
 'No permission'						=>	'Je hebt niet de permissie om deze pagina te bekijken.',
-'Bad referrer'						=>	'Fout HTTP_REFERER. Je bent naar deze pagina gestuurd door een ongeïndentificeerde bron. De URL die je volgde leid naar een Admin/Opties pagina en je hebt niet de permissie om verder te gaan. Meer informatie vind je in de FluxBB documentatie.',
+'Bad referrer'						=>	'Fout HTTP_REFERER. Je bent naar deze pagina gestuurd door een ongeïndentificeerde bron. De URL die je volgde leidt naar een Beheerder/Opties pagina en je hebt niet de permissie om verder te gaan. Meer informatie vind je in de FluxBB documentatie.',
 'No cookie'							=>	'Je bent met succes ingelogd, maar de website kan geen coockie aanmaken. Controleer je instellingen en zorg ervoor dat cookies van deze website worden toegestaan.',
 'Pun include error'					=>	'Kan geen user includes %s van template %s. Er is geen bestand gevonden dat kan worden gebruikt.',
 
+
 // Algemeen
+
 'Announcement'						=>	'Aankondigingen',
 'Options'							=>	'Opties',
 'Submit'							=>	'Verzenden',
 'Ban message'						=>	'Je bent verbannen van dit forum.',
 'Ban message 2'						=>	'De ban verloopt op',
 'Ban message 3'						=>	'De admin of mod die je heeft verbanen liet het volgende bericht achter:',
-'Ban message 4'						=>	'Je kan vragen stellen aan de forum admin op',
+'Ban message 4'						=>	'Je kan vragen stellen aan de forum-beheerder op',
 'Never'								=>	'Nooit',
 'Today'								=>	'Vandaag',
 'Yesterday'							=>	'Gisteren',
@@ -34,10 +46,10 @@ $lang_common = array(
 'Go back'							=>	'Terug',
 'Maintenance'						=>	'Onderhoud',
 'Redirecting'						=>	'Doorverwijzen',
-'Click redirect'					=>	'Klik hier als je niet langer wil wachten (of je browser je niet automatisch doorstuurd).',
+'Click redirect'					=>	'Klik hier als je niet langer wil wachten (of je browser je niet automatisch doorstuurt).',
 'on'								=>	'aan',
 'off'								=>	'uit',
-'Invalid email'						=>	'Het mailadres dat je hebt opgegeven klopt niet.',
+'Invalid email'						=>	'Het e-mailadres dat je hebt opgegeven klopt niet.',
 'Required'							=>	'(Verplicht)',
 'required field'					=>	'is een verplicht veld in dit formulier.',
 'Last post'							=>	'Laatste post',
@@ -72,37 +84,46 @@ $lang_common = array(
 'Next'								=>	'Volgende',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
+
+
 // Titel
+
 'Title'								=>	'Titel',
-'Member'							=>	'Gebruikers',
+'Member'							=>	'Gebruiker',
 'Moderator'							=>	'Moderator',
-'Administrator'						=>	'Administrator',
+'Administrator'						=>	'Beheerder',
 'Banned'							=>	'Verbannen',
 'Guest'								=>	'Gast',
 
+
 // include/parser.php
+
 'BBCode error no opening tag'		=>	'[/%1$s] is gesloten maar niet geopend met [%1$s].',
 'BBCode error invalid nesting'		=>	'[%1$s] is geopend en gevolgd door [%2$s], dit mag niet, sluit de tag eerst.',
 'BBCode error invalid self-nesting'	=>	'[%s] is geopend binnen zichzelf, dit mag niet.',
 'BBCode error no closing tag'		=>	'[%1$s] is geopend maar niet meer gesloten met [/%1$s]',
 'BBCode error empty attribute'		=>	'De kenmerksectie van de tag [%s] is leeg!',
 'BBCode error tag not allowed'    	=>  'Je hebt niet de permissie om de [%s] tags te gebruiken', 
+
 +'BBCode error tag url not allowed' =>  'Je hebt niet de permissie om links te posten', 
+
 'BBCode code problem'				=>	'Er is een probleem met je gebruikte [code] tags',
 'BBCode list size error'			=>	'Je lijst is te lang om te parsen, maak hem korter!',
 
+
 // Navigatie
+
 'Index'								=>	'Index',
 'User list'							=>	'Gebruikerslijst',
 'Rules'								=>	'Regels',
 'Search'							=>	'Zoeken',
-'Register'							=>	'Registeren',
+'Register'							=>	'Registreren',
 'Login'								=>	'Log in',
-'Not logged in'						=>	'Je bent niet ingelogd.',
+'Not logged in'						=>	'U bent niet ingelogd.',
 'Profile'							=>	'Profiel',
 'Logout'							=>	'Log uit',
 'Logged in as'						=>	'Ingelogd als',
-'Admin'								=>	'Admin paneel',
+'Admin'								=>	'Beheer',
 'Last visit'						=>	'Laatste bezoek op: %s',
 'Topic searches'					=>	'Topics:',
 'New posts header'					=>	'Nieuw',
@@ -117,12 +138,14 @@ $lang_common = array(
 'Mark forum read'					=>	'Markeer forum als gelezen',
 'Title separator'					=>	' / ',
 
+
 // Footer
+
 'Board footer'						=>	'Forum footer',
 'Jump to'							=>	'Ga naar',
 'Go'								=>	' Ga ', // Submit button in forum jump
+
 'Moderate topic'					=>	'Modereer topic',
-'All'								=>	'Alles',
 'Move topic'						=>	'Verplaats topic',
 'Open topic'						=>	'Open topic',
 'Close topic'						=>	'Sluit topic',
@@ -131,7 +154,9 @@ $lang_common = array(
 'Moderate forum'					=>	'Modereer forum',
 'Powered by'						=>	'Powered by %s',
 
+
 // Debug informatie
+
 'Debug table'						=>	'Debug informatie',
 'Querytime'							=>	'Gegenereerd in %1$s seconden, %2$s queries uitgevoerd',
 'Memory usage'						=>	'Geheugen gebruik: %1$s',
@@ -140,7 +165,9 @@ $lang_common = array(
 'Query'								=>	'Query',
 'Total query time'					=>	'Totaal query tijd: %s',
 
+
 // Voor extern.php RSS Feed
+
 'RSS description'					=>	'De meest recente topics in %s.',
 'RSS description topic'				=>	'De meest recente posts in %s.',
 'RSS reply'							=>	'Re: ',
@@ -151,11 +178,15 @@ $lang_common = array(
 'RSS topic feed'					=>	'RSS topic feed',
 'Atom topic feed'					=>	'Atom topic feed',
 
+
 // Admin gerelateerd
+
 'New reports'						=>	'Er zijn nieuwe rapporten',
 'Maintenance mode enabled'			=>	'Onderhoud modus staat aan!',
 
+
 // Bestandgrote
+
 'Size unit B'						=>	'%s B',
 'Size unit KiB'						=>	'%s KiB',
 'Size unit MiB'						=>	'%s MiB',
