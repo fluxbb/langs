@@ -1,26 +1,31 @@
 <?php
 
+
 // Taaldefinities gebruikt in admin-users.php
+
 $lang_admin_users = array(
+
 
 'Non numeric message'		=>	'Je hebt een niet-nummerieke waarde in een nummeriek veld geplaatst.',
 'Invalid date time message'	=>	'Je hebt een ongeldige datum/tijd opgegeven.',
 'Not verified'				=>	'Niet geverifieerd',
 
+
 // Actions: mass delete/ban etc.
+
 'No users selected'			=>	'Geen gebruiker geselecteerd.',
-'No move admins message'	=>	'Omwillen van veiligheid kan je niet meerdere admins naar een andere groep verplaatsen. Als je deze admins wilt verplaatsen kan dat via hun gebruikersprofiel.',
-'No delete admins message'	=>	'Admins kunnen niet worden verwijderd. Als je dit toch wilt doen moet je ze eerst naar een andere groep verplaatsen.',
-'No ban admins message'		=>	'Admins kunnen niet worden verbannen. Als je dit toch wilt doen moet je ze eerst naar een andere groep verplaatsen.',
+'No move admins message'	=>	'Om veiligheidsredenen kan je niet meerdere beheerders naar een andere groep verplaatsen. Als je deze beheerders wilt verplaatsen kan dat via hun gebruikersprofiel.',
+'No delete admins message'	=>	'Beheerders kunnen niet worden verwijderd. Als je dit toch wilt doen moet je ze eerst naar een andere groep verplaatsen.',
+'No ban admins message'		=>	'Beheerders kunnen niet worden verbannen. Als je dit toch wilt doen moet je ze eerst naar een andere groep verplaatsen.',
 'No ban mods message'		=>	'Moderators kunnen niet worden verbannen. Als je dit toch wilt doen moet je ze eerst naar een andere groep verplaatsen.',
 'Move users'				=>	'Verander gebruikersgroep',
 'Move users subhead'		=>	'Selecteer nieuwe gebruikersgroep',
 'New group label'			=>	'Nieuwe groep',
-'New group help'			=>	'Selecteer de groep waar je de gebruiker naar wilt verplaatsen. Omwillen van veiligheid is het onmogelijk om meerdere gebruikers te verplaatsen naar de admin groep.',
+'New group help'			=>	'Selecteer de groep waar je de gebruiker naar wilt verplaatsen. Om veiligheidsredenen is het onmogelijk om meerdere gebruikers te verplaatsen naar de beheerder-groep.',
 'Invalid group message'		=>	'Ongeldig groep ID.',
 'Users move redirect'		=>	'Gebruikersgroep veranderd. Doorverwijzen …',
 'Delete users'				=>	'Verwijder gebruikers',
-'Confirm delete legend'		=>	'Belangrijk: lees voordat je een gebruiker verwijderd',
+'Confirm delete legend'		=>	'Belangrijk: lees voordat je een gebruiker verwijdert',
 'Confirm delete info'		=>	'Bevestig dat je deze gebruiker wil verwijderen.',
 'Delete posts'				=>	'Verwijder alle topics en posts die deze gebruiker heeft gemaakt.',
 'Delete warning'			=>	'Waarschuwing! Het verwijderen van deze gebruiker en/of zijn posts kan niet worden hersteld. Als je er voor kiest om de posts te bewaren, kunnen deze op een later tijdstip enkel handmatig worden verwijderd.',
@@ -37,17 +42,18 @@ $lang_admin_users = array(
 'Invalid date reasons'		=>	'Het formaat moet JJJJ-MM-DD zijn en de datum moet minstens 1 dag later zijn.',
 'Users banned redirect'		=>	'Gebruiker verbannen. Doorverwijzen …',
 
+
 'User search head'			=>	'Gebruiker zoeken',
 'User search subhead'		=>	'Geef zoekopdracht in',
 'User search info'			=>	'Zoek naar gebruikers in de database. Je kan meerdere velden invullen om te zoeken. Jokertekens en sterretjes (*) zijn toegestaan.',
 'Username label'			=>	'Gebruikersnaam',
-'E-mail address label'		=>	'E-mail adres',
+'E-mail address label'		=>	'E-mailadres',
 'Title label'				=>	'Titel',
 'Real name label'			=>	'Echte naam',
 'Website label'				=>	'Website',
 'Jabber label'				=>	'Jabber',
 'ICQ label'					=>	'ICQ',
-'MSN label'					=>	'Microsoft Account',
+'MSN label'					=>	'Windows Live Messenger',
 'AOL label'					=>	'AOL IM',
 'Yahoo label'				=>	'Yahoo Messenger',
 'Location label'			=>	'Plaats',
@@ -81,9 +87,10 @@ $lang_admin_users = array(
 'IP address help'			=>	'Het IP adres waar op moet worden gezocht in de database.',
 'Find IP address'			=>	'Zoek IP adres',
 
+
 'Results head'				=>	'Zoek resultaten',
 'Results username head'		=>	'Gebruikersnaam',
-'Results e-mail head'		=>	'E-ail',
+'Results e-mail head'		=>	'E-mail',
 'Results title head'		=>	'Titel/status',
 'Results posts head'		=>	'Posts',
 'Results admin note head'	=>	'Admin nota\'s',
@@ -107,4 +114,7 @@ $lang_admin_users = array(
 'Results no IP found'		=>	'Het opgegeven IP adres is niet gevonden in de database.',
 'No match'					=>	'Geen resultaten'
 
+
+
 );
+
