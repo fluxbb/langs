@@ -4,14 +4,14 @@
 $lang_admin_index = array(
 
 'fopen disabled message'			=>	'Kan niet controleren op update omdat \'allow_url_fopen\' is uitgeschakeld op dit systeem.',
-'Upgrade check failed message'		=>	'Controleren op updates is gefaald om onbekende reden.',
+'Upgrade check failed message'		=>	'Controleren op updates is om onbekende reden mislukt.',
 'Running latest version message'	=>	'Je gebruikt de laatste versie van FluxBB.',
-'New version available message'		=>	'Er is een nieuwe versie van FluxBB beschikbaar, je kan hem downloaden op %s.',
+'New version available message'		=>	'Er is een nieuwe versie van FluxBB beschikbaar, je kunt hem downloaden op %s.',
 'Not available'						=>	'Niet beschikbaar',
-'Forum admin head'					=>	'Forum administratie',
+'Forum admin head'					=>	'Forum beheer',
 'NA'								=>	'NB',
 'Welcome to admin'					=>	'Welkom op het FluxBB administratie controle paneel. Hier kan je het hele forum instellen. Enkele voorbeelden van wat je allemaal kan doen:',
-'Welcome 1'							=>	'Orden categorieën en forums.',
+'Welcome 1'							=>	'Orden categorieĂ«n en forums.',
 'Welcome 2'							=>	'Stel je forum in.',
 'Welcome 3'							=>	'Permissies aan gebruikers en gasten toekennen.',
 'Welcome 4'							=>	'Bekijk IP statistieken van gebruikers.',
@@ -31,7 +31,7 @@ $lang_admin_index = array(
 'IRC label'							=>	'IRC kanaal',
 
 // Language definitions used in admin_statistics.php
-'PHPinfo disabled message'			=>	'De PHP functie phpinfo() is uitgeschakelt op deze server.',
+'PHPinfo disabled message'			=>	'De PHP functie phpinfo() is uitgeschakeld op deze server.',
 'Server statistics head'			=>	'Server statistieken',
 'Server load label'					=>	'Server load',
 'Server load data'					=>	'%s - %s gebruiker(s) online',
