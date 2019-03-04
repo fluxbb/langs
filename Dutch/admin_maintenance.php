@@ -1,7 +1,12 @@
 <?php
 
+
+
 // Taaldefinities gebruikt inn admin_maintenance.php
+
 $lang_admin_maintenance = array(
+
+
 
 'Maintenance head'				=>	'Forum onderhoud',
 'Rebuild index subhead'			=>	'Herbouw zoek index',
@@ -32,9 +37,11 @@ $lang_admin_maintenance = array(
 'Prune from label'				=>	'Opruimen van forum',
 'All forums'					=>	'Alle forums',
 'Prune from help'				=>	'De forums die moeten worden opgeruimd.',
-'Prune info'					=>	'Gebruik deze functie met vol verstand. <strong>Opgeruimde posts kunnen niet worden hersteld.</strong> Voor de beste prestaties kan je het forum in %s zetten tijdens het proces.',
+'Prune info'					=>	'Gebruik deze functie voorzichtig! <strong>Opgeruimde posts kunnen niet worden hersteld.</strong> Voor de beste prestaties kan je het forum in %s zetten tijdens het proces.',
 'Confirm prune subhead'			=>	'Bevestig posts opruimen.',
 'Confirm prune info'			=>	'Ben je zeker dat je alle topics ouder dan %s dagen van %s (%s topics) wilt opruimen?',
 'Confirm prune warn'			=>	'WAARSCHUWING! Posts opruimen verwijderd alle in aanmerking komende posts permanent.',
 
+
 );
+
