@@ -1,7 +1,10 @@
 <?php
 
+
 // Taaldefinities gebruikt in admin-categories.php
+
 $lang_admin_categories = array(
+
 
 'Must enter name message'		=>	'Je moet een naam voor de categorie opgeven',
 'Category added redirect'		=>	'Categorie toegevoegd. Doorverwijzen …',
@@ -20,10 +23,12 @@ $lang_admin_categories = array(
 'Delete categories head'		=>	'Verwijder categorieën',
 'Delete categories subhead'		=>	'Verwijder categorieën',
 'Delete category label'			=>	'Verwijder categorie',
-'Delete category help'			=>	'Selecteer de naam van de categorie die je wilt verwijderen. Je wordt gevraagd of je zeker bent dat je deze categorie wilt verwijderen, voordat dit ook echt gebeurd.',
+'Delete category help'			=>	'Selecteer de naam van de categorie die je wilt verwijderen. Je wordt gevraagd of je zeker bent dat je deze categorie wilt verwijderen, voordat dit ook echt gebeurt.',
 'Edit categories head'			=>	'Bewerk categorieën',
-'Edit categories subhead'		=>	'Bewerk categorieën',
+'Edit categories subhead'		=>	'Bewerk onderschrift categorieën',
 'Category position label'		=>	'Positie',
 'Category name label'			=>	'Naam',
 
+
 );
+
