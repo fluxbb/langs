@@ -1,6 +1,7 @@
 <?php
 
 // Taaldefinities gebruikt in viewtopic.php
+
 $lang_topic = array(
 
 'Post reply'		=>	'Reageren',
@@ -23,7 +24,7 @@ $lang_topic = array(
 'Is subscribed'		=>	'Je bent geabonneerd op dit topic',
 'Unsubscribe'		=>	'Beëindig abonnement',
 'Subscribe'			=>	'Abonneer op dit topic',
-'Quick post'		=>	'Snel reageren',
+'Quick post'		=>	'Snelle post',
 'Mod controls'		=>	'Mod opties',
 'New icon'			=>	'Nieuwe post',
 'Re'				=>	'Re:',
