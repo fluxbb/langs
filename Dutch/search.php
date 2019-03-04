@@ -1,9 +1,11 @@
 <?php
 
 // Taaldefinities gebruikt in search.php
+
 $lang_search = array(
 
 // Zoek veld
+
 'User search'						=>	'Gebruiker zoeken',
 'No search permission'				=>	'Je hebt niet het recht om de zoekmachine te gebruiken.',
 'Search flood'						=>	'Je moet minstens %s seconden wachten tussen verschillende zoekopdrachten. Wacht even en probeer opnieuw.',
@@ -22,8 +24,8 @@ $lang_search = array(
 'Message only'						=>	'Enkel berichten',
 'Topic only'						=>	'Enkel onderwerpen',
 'Sort by'							=>	'Sorteer op',
-'Sort order'						=>	'Vollegorde',
-'Search results legend'				=>	'Kies het de resultaten moeten worden weergegeven',
+'Sort order'						=>	'Volgorde',
+'Search results legend'				=>	'Kies hoe de resultaten moeten worden weergegeven',
 'Search results info'				=>	'Je kan hier kiezen hoe de resultaten moeten worden gerangschikt.',
 'Sort by post time'					=>	'Tijd',
 'Sort by author'					=>	'Auteur',
@@ -36,6 +38,7 @@ $lang_search = array(
 'Show as posts'						=>	'Posts',
 
 // Resultaten
+
 'Search'							=>	'Zoeken',
 'Search results'					=>	'Zoekresultaten',
 'Quick search show_new'				=>	'Nieuw',
