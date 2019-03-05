@@ -1,11 +1,9 @@
 <?php
 
 // Taaldefinities gebruikt in profile.php
-
 $lang_profile = array(
 
 // Navigatie
-
 'Profile menu'					=>	'Profiel menu',
 'Section essentials'			=>	'Algemeen',
 'Section personal'				=>	'Persoonlijk',
@@ -16,7 +14,6 @@ $lang_profile = array(
 'Section admin'					=>	'Beheer',
 
 // Diversen
-
 'Username and pass legend'		=>	'Gebruikersnaam en wachtwoord',
 'Personal details legend'		=>	'Persoonlijke details',
 'Contact details legend'		=>	'Geef een e-mailadres op',
@@ -24,8 +21,7 @@ $lang_profile = array(
 'Paginate info'					=>	'Geef aan hoeveel posts en topics je wilt zien per pagina.',
 
 // Wachtwoord
-
-'Pass key bad'					=>	'Deze wachtwoord activatie sleutel is incorrect of verouderd. Vraag een nieuwe aanvraag aan om je wachtwoord te wijzigen. Als ook die poging niet lukt kan je een beheerder contacteren op',
+'Pass key bad'					=>	'Deze activatie-sleutel is incorrect of verouderd. Dien een nieuwe aanvraag in om je wachtwoord te wijzigen. Als ook die poging niet lukt kan je een beheerder contacteren op',
 'Pass updated'					=>	'Je wachtwoord is bijgewerkt. Je kan nu inloggen met je nieuwe wachtwoord.',
 'Pass updated redirect'			=>	'Wachtwoord bijgewerkt. Doorverwijzen…',
 'Wrong pass'					=>	'Fout oud wachtwoord.',
@@ -37,25 +33,23 @@ $lang_profile = array(
 'Pass info'						=>	'Een wachtwoord moet minstens 4 tekens bevatten.',
 
 // Mail
-
-'Email key bad'					=>	'Deze e-mail activatie sleutel is incorrect of verouderd. Dien een nieuw verzoek in om je e-mailadres te wijzigen. Als ook die poging niet lukt kan je een beheerder contacteren op',
+'Email key bad'					=>	'Deze activatie-sleutel is incorrect of verouderd. Dien een nieuw verzoek in om je e-mailadres te wijzigen. Als ook die poging niet lukt kan je de beheerder contacteren op',
 'Email updated'					=>	'Je e-mailadres is bijgewerkt.',
-'Activate email sent'			=>	'Er is een e-mail verstuurd naar het opgegeven adres met instructies om het nieuwe adres te activeren. Als dit niet werkt kun je de beheerder contacteren op',
+'Activate email sent'			=>	'Er is een e-mail verstuurd naar het opgegeven adres met instructies om het nieuwe e-mailadres te activeren. Als dit niet werkt kun je de beheerder contacteren op',
 'Email legend'					=>	'Geef je nieuwe e-mailadres op',
 'Email instructions'			=>	'Er is een e-mail verstuurd naar je nieuwe e-mailadres. Klik op de bijgevoegde link om je e-mailadres te wijzigen.',
 'Change email'					=>	'Bewerk e-mailadres',
 'New email'						=>	'Nieuwe e-mail',
 
 // Avatar
-
 'Avatars disabled'				=>	'De beheerder heeft ondersteuning voor avatars uitgeschakeld.',
 'Too large ini'					=>	'De geselecteerde afbeelding was te groot. De avatar is niet geüpload.',
 'Partial upload'				=>	'De geselecteerde afbeelding is deels geüpload. Probeer het opnieuw.',
 'No tmp directory'				=>	'Het is niet gelukt om de afbeelding te verplaatsen naar de juiste map, probeer opnieuw.',
 'No file'						=>	'Er is geen bestand geselecteerd.',
 'Bad type'						=>	'Het bestandsformaat wordt niet ondersteund. Enkel jpg, png en gif afbeeldingen zijn toegestaan',
-'Too wide or high'				=>	'De afbeelding die je probeert te uploaden is breder of hoger dan wat is toegestaan',
-'Too large'						=>	'De afbeelding die je probeert te uploaden is groter dan wat is toegestaan',
+'Too wide or high'				=>	'De afbeelding die je probeert te uploaden is breder of hoger dan is toegestaan',
+'Too large'						=>	'De afbeelding die je probeert te uploaden is groter dan is toegestaan',
 'pixels'						=>	'pixels',
 'bytes'							=>	'bytes',
 'Move failed'					=>	'De server heeft de afbeelding niet kunnen opslaan. Contacteer een beheerder op',
@@ -71,12 +65,10 @@ $lang_profile = array(
 'Upload'						=>	'Upload', // verzenden
 
 // Validatie
-
 'Forbidden title'				=>	'De titel die je hebt opgegeven bevat een verboden woord, kies een andere titel',
 'Profile redirect'				=>	'Profiel bijgewerkt. Doorverwijzen…',
 
 // Profiel
-
 'Users profile'					=>	'%s\'s profiel',
 'Username info'					=>	'Gebruikersnaam: %s',
 'Email info'					=>	'E-mailadres: %s',
@@ -104,7 +96,7 @@ $lang_profile = array(
 'Avatar info'					=>	'Een avatar is een kleine afbeelding die wordt weergegeven onder je naam bij je posts. Je kan een avatar uploaden door op de volgende link te klikken.',
 'Change avatar'					=>	'Bewerk avatar',
 'Signature legend'				=>	'Bewerk je sig',
-'Signature info'				=>	'Een sig is een klein stukje tekst (signature = handtekening) dat onder je posts wordt weergegeven. Je kan er in schrijven wat je maar wil: bijvoorbeeld een citaat, welke films je leuk vind, enz. Het is jou keuze! Je kan BBCode gebruiken indien dit is toegestaan door de forum-beheerder. De opties die toegestaan zijn vind je altijd van onder tijdens het bewerken en bekijken.',
+'Signature info'				=>	'Een sig (handtekening) is een klein stukje tekst dat onder je posts wordt weergegeven. Je kunt er in schrijven wat je maar wilt: een citaat, welke films je leuk vind, enz. Je kan BBCode gebruiken indien dit is toegestaan door de forum-beheerder. De opties die toegestaan zijn vind je altijd onderaan tijdens het bewerken.',
 'Sig preview'					=>	'Voorbeeld van sig:',
 'No sig'						=>	'Er is geen sig aan jou profiel gekoppeld.',
 'Signature quote/code/list/h'	=>	'BBCodes zijn niet toegestaan in sigs.',
@@ -128,7 +120,6 @@ $lang_profile = array(
 'Instructions'					=>	'Als je je profiel bewerkt, wordt je doorverwezen naar deze pagina.',
 
 // Administratie
-
 'Group membership legend'		=>	'Kies gebruikersgroep',
 'Save'							=>	'Opslaan',
 'Set mods legend'				=>	'Bewerk mod toegang',
@@ -141,7 +132,7 @@ $lang_profile = array(
 'Confirm delete user'			=>	'Bevestig het verwijderen van deze gebruiker',
 'Confirmation info'				=>	'Bevestig dat je deze gebruiker wilt verwijderen',
 'Delete warning'				=>	'Waarschuwing! Het verwijderen van een gebruiker en/of diens posts kan niet worden terug gedraaid. Indien je een gebruiker verwijdert zonder zijn posts te verwijderen kunnen de posts enkel manueel worden verwijderd.',
-'Delete posts'					=>	'Verwijder alle posts en topic die gemaakt zijn door deze gebruiker.',
+'Delete posts'					=>	'Verwijder alle posts en topics die gemaakt zijn door deze gebruiker.',
 'Delete'						=>	'Verwijderen', // submit knop
 
 'User delete redirect'			=>	'Gebruiker verwijderd. Doorverwijzen…',
@@ -151,3 +142,4 @@ $lang_profile = array(
 'No delete admin message'		=>	'Beheerders kunnen niet worden verwijderd. Om dit toch te doen moet de gebruikersgroep van deze beheerder eerst worden aangepast.',
 
 );
+
