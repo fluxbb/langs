@@ -1,34 +1,27 @@
 <?php
 
-
-
 // Taaldefinities gebruikt in verschillende bestanden
 
 $lang_common = array(
-
-
 
 // Text oriëntatie
 
 'lang_direction'					=>	'ltr',
 'lang_identifier'					=>	'nl',
 
-
 // Nummer formaat
 
 'lang_decimal_point'				=>	'.',
 'lang_thousands_sep'				=>	',',
 
-
 // Nota's
 
 'Bad request'						=>	'Foute aanvraag, de link die je volgt is fout of verouderd.',
-'No view'							=>	'U dient geregistreerd te zijn om toegang te krijgen tot dit forum.<br>Leden kunnen <a style="font-weight:bold" href="login.php">inloggen</a> of zich hier <a style="font-weight:bold" href="register.php">registreren</a>.',
+'No view'							=>	'U dient geregistreerd te zijn om toegang te krijgen tot dit forum.<br>U kunt <a style="font-weight:bold" href="login.php">inloggen</a> of zich hier <a style="font-weight:bold" href="register.php" target="_blank">registreren</a>.',
 'No permission'						=>	'Je hebt niet de permissie om deze pagina te bekijken.',
 'Bad referrer'						=>	'Fout HTTP_REFERER. Je bent naar deze pagina gestuurd door een ongeïndentificeerde bron. De URL die je volgde leidt naar een Beheerder/Opties pagina en je hebt niet de permissie om verder te gaan. Meer informatie vind je in de FluxBB documentatie.',
 'No cookie'							=>	'Je bent met succes ingelogd, maar de website kan geen coockie aanmaken. Controleer je instellingen en zorg ervoor dat cookies van deze website worden toegestaan.',
 'Pun include error'					=>	'Kan geen user includes %s van template %s. Er is geen bestand gevonden dat kan worden gebruikt.',
-
 
 // Algemeen
 
@@ -84,8 +77,6 @@ $lang_common = array(
 'Next'								=>	'Volgende',
 'Spacer'							=>	'…', // Ellipsis for paginate
 
-
-
 // Titel
 
 'Title'								=>	'Titel',
@@ -94,7 +85,6 @@ $lang_common = array(
 'Administrator'						=>	'Beheerder',
 'Banned'							=>	'Verbannen',
 'Guest'								=>	'Gast',
-
 
 // include/parser.php
 
@@ -109,7 +99,6 @@ $lang_common = array(
 
 'BBCode code problem'				=>	'Er is een probleem met je gebruikte [code] tags',
 'BBCode list size error'			=>	'Je lijst is te lang om te parsen, maak hem korter!',
-
 
 // Navigatie
 
@@ -138,7 +127,6 @@ $lang_common = array(
 'Mark forum read'					=>	'Markeer forum als gelezen',
 'Title separator'					=>	' / ',
 
-
 // Footer
 
 'Board footer'						=>	'Forum footer',
@@ -154,7 +142,6 @@ $lang_common = array(
 'Moderate forum'					=>	'Modereer forum',
 'Powered by'						=>	'Powered by %s',
 
-
 // Debug informatie
 
 'Debug table'						=>	'Debug informatie',
@@ -164,7 +151,6 @@ $lang_common = array(
 'Query times'						=>	'Tijd (s)',
 'Query'								=>	'Query',
 'Total query time'					=>	'Totaal query tijd: %s',
-
 
 // Voor extern.php RSS Feed
 
@@ -178,12 +164,10 @@ $lang_common = array(
 'RSS topic feed'					=>	'RSS topic feed',
 'Atom topic feed'					=>	'Atom topic feed',
 
-
 // Admin gerelateerd
 
 'New reports'						=>	'Er zijn nieuwe rapporten',
 'Maintenance mode enabled'			=>	'Onderhoud modus staat aan!',
-
 
 // Bestandgrote
 
@@ -196,3 +180,4 @@ $lang_common = array(
 'Size unit EiB'						=>	'%s EiB',
 
 );
+
