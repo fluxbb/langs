@@ -7,8 +7,8 @@ $lang_help = array(
 'produces'				=>	'geeft',
 
 'BBCode'				=>	'BBCode',
-'BBCode info 1'			=>	'BBCode is een verzameling van tags waarmee je berichten, posts, reacties, je sig, etc. kan opmaken. BBCode is gebasseerd op hetzelfde principe als HTML. Hieronder staat een lijst met alle beschikbare BBCode en hoe je ze moet gebruiken.',
-'BBCode info 2'			=>	'Admins hebben het recht om BBCode in of uit te schakelen. Je kan zien of BBCode aan of uit staat bij het typen van een post, een bericht, etc.',
+'BBCode info 1'			=>	'BBCode is een verzameling van tags waarmee je berichten, posts, reacties, je sig, etc. kunt opmaken. BBCode is gebasseerd op hetzelfde principe als HTML. Hieronder staat een lijst met alle beschikbare BBCode en hoe je ze moet gebruiken.',
+'BBCode info 2'			=>	'Beheerders hebben het recht om BBCode in of uit te schakelen. Je kan zien of BBCode aan of uit staat bij het typen van een post, een bericht, etc.',
 
 'Text style'			=>	'Tekst stijl',
 'Text style info'		=>	'De volgende tags hebben betrekking tot de opmaak van tekst:',
@@ -24,10 +24,10 @@ $lang_help = array(
 'Emphasised text'		=>	'Benadrukte tekst',
 
 'Links and images'		=>	'Links en afbeeldingen',
-'Links info'			=>	'Je kan links naar andere documenten of mail adressen maken met volgende tags:',
+'Links info'			=>	'Je kan links naar andere documenten of e-mailadressen maken met de volgende tags:',
 'This help page'		=>	'De help pagina',
-'My email address'		=>	'Mijn e-mail adres',
-'Images info'			=>	'Als je een afbeelding wilt gebruiken kan je de img-tag gebruiken. The tekst achter de "=" van de tag waarmee je de img-tag opend gebruik je voor alternative tekst indien je afbeelding niet meer bestaat.',
+'My email address'		=>	'Mijn e-mailadres',
+'Images info'			=>	'Als je een afbeelding wilt gebruiken kan je de img-tag gebruiken. The tekst achter de "=" van de tag waarmee je de img-tag opent gebruik je voor alternative tekst indien je afbeelding niet meer bestaat.',
 'FluxBB bbcode test'	=>	'FluxBB BBCode test',
 
 'Test topic'			=>	'Test topic',
@@ -40,7 +40,7 @@ $lang_help = array(
 'Quotes info 2'			=>	'Als je niemand persoonlijk wilt quoten, kan je deze tag gebruiken zonder naam.',
 'Quote text'			=>	'Deze tekst wil ik quoten.',
 'produces quote box'	=>	'maakt een quote zoals:',
-'quote note'			=>	'Nota: Als een gebruikersnaam de tekens [ of ] bevat kan je de naam sluiten met " en ".',
+'quote note'			=>	'Nota: Als een gebruikersnaam de tekens [ of ] bevat kan je de naam plaatsen tussen dubbele aanhalingstekens: "gebruikersnaam".',
 
 'Code'					=>	'Code',
 'Code info'				=>	'Als je code wilt weergeven kan je de code-tag gebruiken. Tekst krijgt dan een monospaced lettertype en andere BBCode heeft geen invloed meer op de tekst.',
@@ -61,6 +61,6 @@ $lang_help = array(
 'produces alpha list'	=>	'geeft een alfabetische lijst.',
 
 'Smilies'				=>	'Emoticons',
-'Smilies info'			=>	'Als je het wil (en het is mogelijk), kan je op dit forum een reeks emoticons gebruiken. Dit forum ondersteund de volgende emoticons en vervangt ze met een afbeelding:'
+'Smilies info'			=>	'Als je het wil (en het is mogelijk), kan je op dit forum een reeks emoticons gebruiken. Dit forum ondersteunt de volgende emoticons en vervangt ze met een afbeelding:'
 
 );
