@@ -1,5 +1,4 @@
 <?php
-
 // Taaldefinities gebruikt in search.php
 $lang_search = array(
 
@@ -9,7 +8,7 @@ $lang_search = array(
 'Search flood'						=>	'Je moet minstens %s seconden wachten tussen verschillende zoekopdrachten. Wacht even en probeer opnieuw.',
 'Search'							=>	'Zoeken',
 'Search criteria legend'			=>	'Geef een zoekopdracht',
-'Search info'						=>	'Geef een zoekterm of zoektermen op om op te zoeken, splits verschillende termen met een spatie. Om op gebruikers te zoeken geef je een naam op om naar te zoeken.',
+'Search info'						=>	'Geef &#233;&#233;n of meerdere zoektermen op. Splits verschillende termen met een spatie. Geef een naam op om op gebruikers te zoeken.',
 'Keyword search'					=>	'Zoekterm',
 'Author search'						=>	'Gebruiker',
 'Search in legend'					=>	'Kies waar er moet worden gezocht',
@@ -22,8 +21,8 @@ $lang_search = array(
 'Message only'						=>	'Enkel berichten',
 'Topic only'						=>	'Enkel onderwerpen',
 'Sort by'							=>	'Sorteer op',
-'Sort order'						=>	'Vollegorde',
-'Search results legend'				=>	'Kies het de resultaten moeten worden weergegeven',
+'Sort order'						=>	'Volgorde',
+'Search results legend'				=>	'Kies hoe de resultaten moeten worden weergegeven',
 'Search results info'				=>	'Je kan hier kiezen hoe de resultaten moeten worden gerangschikt.',
 'Sort by post time'					=>	'Tijd',
 'Sort by author'					=>	'Auteur',
