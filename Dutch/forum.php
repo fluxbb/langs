@@ -11,7 +11,7 @@ $lang_forum = array(
 'Empty forum'	=>	'Leeg forum.',
 'Mod controls'	=>	'Moderator paneel',
 'Is subscribed'	=>	'Je bent geabonneerd op dit forum',
-'Unsubscribe'	=>	'Beëindig abonnement',
+'Unsubscribe'	=>	'Be&#235;indig abonnement',
 'Subscribe'		=>	'Abonneer op dit forum'
 
 );
