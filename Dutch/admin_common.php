@@ -4,11 +4,11 @@
 $lang_admin_common = array(
 
 // Menu
-'Admin menu'			=>	'Admin menu',
+'Admin menu'			=>	'Beheerder menu',
 'Plugins menu'			=>	'Plug-ins menu',
 'Moderator menu'		=>	'Moderator menu',
 'Index'					=>	'Index',
-'Categories'			=>	'Categorieën',
+'Categories'			=>	'Categorie&#235;n',
 'Forums'				=>	'Forum',
 'Users'					=>	'Gebruikers',
 'User groups'			=>	'Gebruikers groepen',
@@ -20,7 +20,7 @@ $lang_admin_common = array(
 'Maintenance'			=>	'Onderhoud',
 'Reports'				=>	'Rapporten',
 
-'Admin'					=>	'Admin',
+'Admin'					=>	'Beheerder',
 'Go back'				=>	'Terug',
 'Delete'				=>	'Verwijderen',
 'Update'				=>	'Update',
@@ -37,7 +37,8 @@ $lang_admin_common = array(
 'Maintenance mode'		=>	'onderhoud modus',
 
 // Admin loader
-'No plugin message'		=>	'Er s geen plug-in met de naam %s in de plug-in map.',
+'No plugin message'		=>	'Er is geen plug-in met de naam %s in de plug-in map.',
 'Plugin failed message'	=>	'Het laden van de plug-in - <strong>%s</strong> - is mislukt.',
 
 );
+
