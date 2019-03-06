@@ -16,7 +16,7 @@ $lang_misc = array(
 'Send email to'					=>	'Verzend e-mail naar',
 'Email subject'					=>	'Onderwerp',
 'Email message'					=>	'Bericht',
-'Email disclosure note'			=>	'Houd er rekening mee dat je e-mail adres wordt weergegeven bij de ontvanger als je dit formulier gebruikt',
+'Email disclosure note'			=>	'Houd er rekening mee dat je e-mailadres wordt weergegeven bij de ontvanger als je dit formulier gebruikt',
 'Write email'					=>	'Schrijf en verstuur een e-mail',
 
 // Rapporteren
@@ -26,12 +26,12 @@ $lang_misc = array(
 'Report redirect'				=>	'Post gerapporteerd. Doorverwijzen …',
 'Report post'					=>	'Rapporteer post',
 'Reason'						=>	'Reden',
-'Reason desc'					=>	'Geef een kortere reden op die verklaard waarom je deze post rapporteerd',
+'Reason desc'					=>	'Geef een kortere reden op die verklaart waarom je deze post rapporteert',
 
 // Abonnementen
 'Already subscribed topic'		=>	'Je bent al geabonneerd op dit topic.',
 'Already subscribed forum'		=>	'Je bent al geabonneerd op dit forum.',
-'Subscribe redirect'			=>	'Je abonnement is toegevoerd. Doorverwijzen …',
+'Subscribe redirect'			=>	'Je abonnement is toegevoegd. Doorverwijzen …',
 'Not subscribed topic'			=>	'Je bent niet geabonneerd op dit topic.',
 'Not subscribed forum'			=>	'Je bent niet geabonneerd op dit forum.',
 'Unsubscribe redirect'			=>	'Je abonnement is verwijderd. Doorverwijzen …',
@@ -57,7 +57,7 @@ $lang_misc = array(
 'Move topics redirect'			=>	'Topics verplaatst. Doorverwijzen …',
 'Confirm delete legend'			=>	'Bevestig verwijdering',
 'Delete topics'					=>	'Verwijder topics',
-'Delete topics comply'			=>	'Ben je zeker dat je de geselecteerde topics wilt verwijderen?',
+'Delete topics comply'			=>	'Weet je zeker dat je de geselecteerde topics wilt verwijderen?',
 'Delete topics redirect'		=>	'Topics verwijderd. Doorverwijzen …',
 'Open topic redirect'			=>	'Topic geopend. Doorverwijzen …',
 'Open topics redirect'			=>	'Topics geopend. Doorverwijzen …',
@@ -73,20 +73,20 @@ $lang_misc = array(
 'New subject'					=>	'Nieuw onderwerp',
 
 // Splits verschillende posts in een topic
-'Confirm split legend'			=>	'Bevestig het splitsen van de geselecteerde topics en duid een locatie aan om naar te verplaatsen.',
+'Confirm split legend'			=>	'Bevestig het splitsen van de geselecteerde topics en geef een locatie aan om naar te verplaatsen.',
 'Split posts'					=>	'Splits posts',
-'Split posts comply'			=>	'Ben je zeker dat je de geselecteerde posts wilt splitsen?',
+'Split posts comply'			=>	'Weet je zeker dat je de geselecteerde posts wilt splitsen?',
 'Split posts redirect'			=>	'Posts zijn gesplitst. Doorverwijzen …',
 
 // Verwijder verschillende posts in een topic
 'Delete posts'					=>	'Verwijder posts',
 'Cannot select first'			=>	'Je kan de eerste post niet selecteren om te splitsen/verwijderen.',
-'Delete posts comply'			=>	'Ben je zeker dat je de geselecteerde post wilt verwijderen?',
+'Delete posts comply'			=>	'Weet je zeker dat je de geselecteerde post wilt verwijderen?',
 'Delete posts redirect'			=>	'Posts verwijderd. Doorverwijzen …',
 'No posts selected'				=>	'Je moet minstens een post kiezen om te splitsen/verwijderen.',
 
 // Get host
-'Host info 1'					=>	'IP adres: %s',
+'Host info 1'					=>	'IP-adres: %s',
 'Host info 2'					=>	'Host naam: %s',
 'Show more users'				=>	'Geef meer gebruikers met dit IP weer',
 
