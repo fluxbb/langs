@@ -1,7 +1,6 @@
 <?php
 
 // Taaldefinities gebruikt inn admin_maintenance.php
-
 $lang_admin_maintenance = array(
 
 'Maintenance head'				=>	'Forum onderhoud',
@@ -13,21 +12,21 @@ $lang_admin_maintenance = array(
 'Starting post help'			=>	'Het ID van de post waar de herbouw van de zoek index moet beginnen. De standaard waarde is het eerst beschikbare ID in de database, het aanpassen van deze instelling is niet nodig.',
 'Empty index label'				=>	'Verwijder index',
 'Empty index help'				=>	'Selecteer dit als je wilt dat de huidige zoek index wordt verwijderd voor het herbouwen ervan begint (zie hieronder).',
-'Rebuild completed info'		=>	'Als dit proces klaar is wordt je automatisch terug gestuurd naar deze pagina. Het wordt aangeraden om JavaScript aan te zetten voor je browser tijdens dit proces (zo kan de pagina worden herladen als een cycli klaar is). Als het proces wordt onderbroken, onthoud dan het ID van de post die als laatst werd gebruikt. Later kan je dan dit ID+1 invoeren in het veld "Start post ID" om verder te gaan (Let wel op dat "Verwijder index" uit staat!).',
+'Rebuild completed info'		=>	'Als dit proces klaar is wordt je automatisch terug gestuurd naar deze pagina. Het wordt aangeraden om JavaScript aan te zetten voor je browser tijdens dit proces (zo kan de pagina worden herladen als een cyclus klaar is). Als het proces wordt onderbroken, onthoud dan het ID van de post die als laatst werd gebruikt. Later kan je dan dit ID+1 invoeren in het veld "Start post ID" om verder te gaan (Let wel op dat "Verwijder index" uit staat!).',
 'Rebuild index'					=>	'Herbouw index',
 'Rebuilding search index'		=>	'Herbouwen van de zoek index',
 'Rebuilding index info'			=>	'Herbouwen van de zoek index. Dit is waarschijnlijk een goed moment om kofie te gaan halen :-)',
 'Processing post'				=>	'Bezig met post <strong>%s</strong> …',
 'Click here'					=>	'Klik hier',
 'Javascript redirect failed'	=>	'JavaScript doorsturen is niet mogelijk. %s om verder te gaan …',
-'Posts must be integer message'	=>	'Posts per cycli moet een positief natuurlijk getal zijn.',
+'Posts must be integer message'	=>	'Posts per cyclus moet een positief natuurlijk getal zijn.',
 'Days must be integer message'	=>	'Aantal dagen oud moet een positief natuurlijk getal zijn.',
-'No old topics message'			=>	'Er zijn geen topics die %s dagen oud zijn. Gebruik een lagere waarden voor "Dagen oud" en probeer het opnieuw.',
+'No old topics message'			=>	'Er zijn geen topics die %s dagen oud zijn. Gebruik een lagere waarde voor "Dagen oud" en probeer het opnieuw.',
 'Posts pruned redirect'			=>	'Posts opgeruimd. Doorverwijzen …',
 'Prune head'					=>	'Opruimen',
 'Prune subhead'					=>	'Ruim oude posts op',
 'Days old label'				=>	'Dagen oud',
-'Days old help'					=>	'Hoe oud (in dagen) dat posts mogen zijn voordat ze worden opgeruimd. Als je bijvoorbeeld 30 invult, worden alle topics die in 30 dagen geen nieuw bericht hebben gehad opgeruimd.',
+'Days old help'					=>	'Hoe oud (in dagen) posts mogen zijn voordat ze worden opgeruimd. Als je bijvoorbeeld 30 invult, worden alle topics die in 30 dagen geen nieuw bericht hebben gehad opgeruimd.',
 'Prune sticky label'			=>	'Sticky topics opruimen',
 'Prune sticky help'				=>	'Als dit op "Ja" staat worden sticky topics ook opgeruimd.',
 'Prune from label'				=>	'Opruimen van forum',
@@ -35,7 +34,7 @@ $lang_admin_maintenance = array(
 'Prune from help'				=>	'De forums die moeten worden opgeruimd.',
 'Prune info'					=>	'Gebruik deze functie voorzichtig! <strong>Opgeruimde posts kunnen niet worden hersteld.</strong> Voor de beste prestaties kan je het forum in %s zetten tijdens het proces.',
 'Confirm prune subhead'			=>	'Bevestig posts opruimen.',
-'Confirm prune info'			=>	'Ben je zeker dat je alle topics ouder dan %s dagen van %s (%s topics) wilt opruimen?',
+'Confirm prune info'			=>	'Weet je zeker dat je alle topics ouder dan %s dagen van %s (%s topics) wilt opruimen?',
 'Confirm prune warn'			=>	'WAARSCHUWING! Posts opruimen verwijdert alle in aanmerking komende posts permanent.',
 
 );
