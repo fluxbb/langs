@@ -10,7 +10,7 @@ $lang_delete = array(
 'Reply by'				=>	'Gereageerd door %s - %s',
 'Topic by'				=>	'Topic gestard door %s - %s',
 'Delete'				=>	'Verwijderen',
-'Post del redirect'		=>	'Post verwijderd. Doorverwijzen …',
-'Topic del redirect'	=>	'Topic verwijderd. Doorverwijzen …'
+'Post del redirect'		=>	'Post verwijderd. Doorverwijzen…',
+'Topic del redirect'	=>	'Topic verwijderd. Doorverwijzen…'
 
 );
