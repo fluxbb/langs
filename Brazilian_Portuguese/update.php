@@ -18,6 +18,7 @@ $lang_update = array(
 
 'You are running error'			=>	'Você está usando %1$s versão %2$s. FluxBB %3$s requer ao menos %1$s %4$s para rodar corretamente. Você deve atualizar sua instalação %1$s antes de continuar.',
 'Version mismatch error'		=>	'Incompatibilidade de versão. O banco de dados \'%s\' não parece estar rodando um esquema de banco de dados FluxBB suportado por este script de atualização.',
+'Password cost missing error'   =>  'A atualização não pode prosseguir até que você adicione uma linha contendo <code>$password_hash_cost = 10;</code> a seu arquivo config.php no diretório raiz do FluxBB',
 'Invalid file error'			=>	'Nome de arquivo de banco de dados inválido. Quando usar um banco de dados SQLite, o nome do arquivo do banco de dados deve ser digitado exatamente como registrado no seu \'%s\'',
 'Invalid password error'		=>	'Senha do banco de dados inválida. Para atualizar o FluxBB você deve digitar a senha do seu banco de dados exatamente como registrada no seu \'%s\'',
 'No password error'				=>	'Nenhuma senha do banco de dados foi fornecida',
