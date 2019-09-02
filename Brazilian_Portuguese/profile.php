@@ -30,7 +30,7 @@ $lang_profile = array(
 'Old pass'						=>	'Antiga senha',
 'New pass'						=>	'Nova senha',
 'Confirm new pass'				=>	'Confirmar nova senha',
-'Pass info'						=>	'Senhas devem ter ao menos 6 caracteres. Senhas diferenciam maiúsculo de minúsculo.',
+'Pass info'						=>	'Senhas devem ter ao menos 9 caracteres. Senhas diferenciam maiúsculo de minúsculo.',
 
 // Email stuff
 'Email key bad'					=>	'A chave de ativação de email especificada está errada ou expirou. Por favor faça outra solicitação de alteração de email. Se isto falhar, contate o administrador do fórum em',
@@ -86,7 +86,6 @@ $lang_profile = array(
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
 'MSN'							=>	'Conta Microsoft',
-'AOL IM'						=>	'AOL IM',
 'Yahoo'							=>	'Yahoo! Messenger',
 'Avatar'						=>	'Avatar',
 'Signature'						=>	'Assinatura',
