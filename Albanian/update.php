@@ -1,0 +1,77 @@
+<?php
+
+// Language definitions used in db_update.php
+
+$lang_update = array(
+
+'Update'						=>	'Përditësoni FluxBB-në',
+'Update message'				=>	'Baza e të dhënave e FluxBB-së tuaj është e vjetruar dhe duhet përmirësuar, që të vazhdohet. Nëse jeni përgjegjësi i platformës, ju lutemi, ndiqni udhëzimet më poshtë që të plotësoni përmirësimin.',
+'Note'							=>	'Shënim:',
+'Members message'				=>	'Ky procesi është vetëm për përgjegjës platforme. Nëse jeni një anëtar, s’ka asgjë për t’u shqetësuar - forumet do të rikthehen pas pak!',
+'Administrator only'			=>	'Ky hap është vetëm për përgjegjës platforme!',
+'Database password info'		=>	'Që të kryeni një përditësim baze të dhënash, ju lutemi, jepni fjalëkalimin për bazën e të dhënave me të cilën u instalua FluxBB. Nëse s’e mbani mend, ky është depozituar te kartela juaj \'config.php\'.',
+'Database password note'		=>	'Nëse xhironi SQLite (dhe, si pasojë, s’keni fjalëkalim baze të dhënash) ju lutemi, përdorni emrin e kartelës së bazës së të dhënave, në vend të tij. Ky duhet të përputhet saktësisht me emrin e kartelës së bazës së të dhënave që është dhënë të kartelën e formësimit tuaj.',
+'Database password'				=>	'Fjalëkalim baze të dhënash',
+'Maintenance'					=>	'Mirëmbajtje',
+'Maintenance message info'		=>	'Mesazhi do t’u shfaqet përdoruesve gjatë procesit të përditësimit. Ky tekst s’do të trajtohet si postimet e rregullta, ndaj mund të përmbajë HTML.',
+'Maintenance message'		    =>	'Mesazh mirëmbajtje',
+
+'You are running error'			=>	'Po xhironi %1$s version %2$s. FluxBB %3$s lyp të paktën %1$s %4$s që të xhirojë si duhet. Duhet të përmirësoni instalimin tuaj të %1$s, përpara se të mund të vazhdoni.',
+'Version mismatch error'		=>	'Mos përputhje versionesh. Baza e të dhënave \'%s\' s’duket se punon me një skemë baze të dhënash FluxBB të mbuluar nga ky programth përditësimi.',
+'Password cost missing error'	=>	'Përditësimi s’mund të vazhdojë, para se të shtoni një rresht që përmban <code>$password_hash_cost = 10;</code> te kartela juaj config.php te drejtoria rrënjë e FluxBB-së',
+'Invalid file error'			=>	'Emër i pavlefshëm kartele baze të dhënash. Kur përdoret SQLite, emri i kartelës së bazës së të dhënave duhet dhënë saktësisht siç duket te \'%s\' juaj',
+'Invalid password error'		=>	'Fjalëkalim i pavlefshëm baze të dhënash. Që të përmirësoni FluxBB-në duhet të jepni fjalëkalimin tuaj për bazën e të dhënave saktësisht siç duket në \'%s\' kartelën tuaj',
+'No password error'				=>	'S’u dha fjalëkalim baze të dhënash',
+'Script runs error'				=>	'Duket se programthi i përditësimit po xhirohet tashmë nga dikush tjetër. Nëse s’është kështu, ju lutemi, fshijeni dorazi kartelën \'%s\' dhe riprovoni',
+'No update error'				=>	'Forumi juaj është tashmë aq i përditësuar, sa mund ta bënte ky programth',
+
+'Intro 1'						=>	'Ky programth do të përditësojë bazën e të dhënave të forumit tuaj. Procesi i përditësimit mund të dojë nga një sekondë deri në orë për t’u kryer, varet nga shpejtësia e shërbyesit dhe madhësia e bazës së të dhënave të forumit. Mos harroni të bëni një kopjeruajtje të bazës së të dhënave, përpara se të vazhdoni.',
+'Intro 2'						=>	'I lexuat udhëzimet e përditësimit te dokumentimi? Nëse jo, fillojani prej atje.',
+'No charset conversion'			=>	'<strong>E RËNDËSISHME!</strong> FluxBB-ka la pikasur se ky mjedis PHP s’ka mbulim për mekanizma kodimi të domosdoshëm për të kryer shndërrim në UTF-8 nga grupe shkronjash të ndryshëm nga ISO-8859-1. Kjo do të thotë që, nëse grupi i tanishëm i shkronja s’është ISO-8859-1, FluxBB-ja s’do të jetë në gjendje të shndërrojë bazën tuaj të të dhënave të forumit në UTF-8 dhe do t’ju duhet ta bëni dorazi. Udhëzime se si të bëhen shndërrime grupe shkronjash dorazi mund të gjeni te udhëzimet mbi përditësimin.',
+'Enable conversion'				=>	'<strong>Aktivizoni shndërrim:</strong> Kur aktivizohet, programi i përditësimit, pasi të ketë bërë ndryshimet e domosdoshme strukturore te baza e të dhënave, do të kalojë krejt tekstet në bazën e të dhënave nga grupi i tanishëm i shkronjave në atë UTF-8. Ky shndërrim është i domosdoshëm vetëm nëse po e përmirësoni nga 1.2.',
+'Current character set'			=>	'<strong>Grupi i tanishëm i shkronjave:</strong> Nëse gjuha parësore në forumin tuaj është anglishtja, këtë mund ta lini sa vlera parazgjedhje. Por, nëse forumi juaj është në gjuhë tjetër nga anglishtja, duhet të jepni llojin e grupit të shkronjave për paketën e gjuhës parësore të përdorur te forumi. <em>Vënia gabim e kësaj mund të dëmtojë bazën tuaj të të dhënave, ndaj mos ia futni kot!</em> Shënim: Kjo është e domosdoshme, edhe nëse baza e vjetër e të dhënave është UTF-8.',
+'Charset conversion'			=>	'Shndërrim kodimi grupi shkronjash',
+'Enable conversion label'		=>	'<strong>Aktivizo shndërrim</strong> (kryej shndërrim grupi shkronjash të bazës së të dhënave).',
+'Current character set label'	=>	'Grupi i tanishëm i shkronjave',
+'Current character set info'	=>	'Për forume në anglisht, pranoni parazgjedhjen, përndryshe kodin e grupit të shkronjave të paketës së gjuhës parësore.',
+'Start update'					=>	'Nis përditësimin',
+'Error converting users'		=>	'Gabim në shndërrimin e përdoruesve',
+'Error info 1'					=>	'Pati një gabim në shndërrimin e disa përdoruesve. Kjo mund të ndodhë kur bëhet shndërrim nga FluxBB v1.2, nëse disa përdorues janë regjistruar me emra përdoruesish shumë të ngjashëm, për shembull "hëna" dhe "hena".',
+'Error info 2'					=>	'Më poshtë keni një listë të përdoruesve për të cilët dështoi shndërrimi. Ju lutemi, për secilin prej tyre zgjidhni një emër të ri përdoruesi. Përdoruesve që janë riemërtuar do t’u dërgohet një email për t’i vënë në dijeni të ndryshimit.',
+'New username'					=>	'Emër i ri përdoruesi',
+'Required'						=>	'(E domosdoshme)',
+'Correct errors'				=>	'Duhen ndrequr gabimet vijuese:',
+'Rename users'					=>	'Riemërtoni përdorues',
+'Successfully updated'			=>	'Baza juaj e të dhënave të forumit u përditësua me sukses. Tani mund të %s.',
+'go to index'					=>	'kaloni te treguesi i forumeve',
+
+'Unable to lock error'			=>	'S’arrihet të shkruhet kyçje përditësimi. Ju lutemi, sigurohuni se PHP-ja gëzon të drejta shkrimi mbi drejtorinë \'%s\' dhe se programthin e xhirimit nuk e xhiron kush tjetër.',
+
+'Converting'					=>	'Po shndërrohet %s …',
+'Converting item'				=>	'Po shndërrohet %1$s %2$s …',
+'Preparsing item'				=>	'Po paratrajtohen %1$s %2$s …',
+'Rebuilding index item'			=>	'Po rikrijohet treguesi për %1$s %2$s',
+'Click here'					=>	'Klikoni këtu',
+'Automatic redirect failed'		=>	'Ridrejtim i automatizuar i pasuksesshëm. %s që të vazhdohet …',
+
+'ban'							=>	'dëbim',
+'categories'					=>	'kategori',
+'censor words'					=>	'fjalë censurimi',
+'configuration'					=>	'formësim',
+'forums'						=>	'forume',
+'groups'						=>	'grupe',
+'post'							=>	'postim',
+'report'						=>	'raportim',
+'topic'							=>	'temë',
+'user'							=>	'përdorues',
+'signature'						=>	'nënshkrim',
+
+'Username too short error'		=>	'Emrat e përdoruesve duhet të jenë të paktën 2 shenja të gjatë. Ju lutemi, zgjidhni një tjetër emër përdoruesi (më të gjatë).',
+'Username too long error'		=>	'Emrat e përdoruesve s’duhet të jenë më shumë se 25 shenja të gjatë. Ju lutemi, zgjidhni një tjetër emër përdoruesi (më të shkurtër).',
+'Username Guest reserved error'	=>	'Emri i përdoruesit mysafir është i rezervuar. Ju lutemi, zgjidhni një tjetër emër përdoruesi.',
+'Username IP format error'		=>	'Emrat e përdoruesve s’mund të jenë në formën e një adrese IP. Ju lutemi, zgjidhni një tjetër emër përdoruesi.',
+'Username bad characters error'	=>	'Emrat e përdoruesve s’mund të përmbajnë njëherësh shenjat \', " dhe [ or ]. Ju lutemi, zgjidhni një tjetër emër përdoruesi.',
+'Username BBCode error'			=>	'Emrat e përdoruesve s’mund të përmbajnë ndonjë nga etiketat për formatim teksti (BBCode) të cilat përdorur forumi. Ju lutemi, zgjidhni një tjetër emër përdoruesi.',
+'Username duplicate error'		=>	'Dikush është regjistruar tashmë me emrin e përdoruesit %s. Emri i përdoruesit që dhatë është shumë i ngjashëm. Emri i përdoruesit duhet të jetë ndryshe nga ai me të paktën një shenjë alfanumerike (a-z ose 0-9). Ju lutemi, zgjidhni një emër përdoruesi të ndryshëm.',
+
+);
