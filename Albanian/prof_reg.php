@@ -5,7 +5,7 @@ $lang_prof_reg = array(
 
 'Email legend'				=>	'Jepni një adresë email të vlefshme',
 'Email legend 2'			=>	'Jepni dhe ripohoni një adresë email të vlefshme',
-'Localisation legend'		=>	'Caktoni mundësitë tuaj të lokalizimit',
+'Localisation legend'		=>	'Ujdisni mundësitë tuaja për lokalizimin',
 'Time zone'					=>	'Zonë kohore',
 'Time zone info'			=>	'Që forumi të shfaqë saktë kohët, duhet të përzgjidhni një zonë kohore vendore. Nëse është në fuqi Kohë Kursimi Dite, duhet t’i vini shenjë edhe mundësisë përkatëse, çka do ta shpjerë kohën përpara me 1 orë.',
 'DST'						=>	'Koha e Kursimit të Ditës është në fuqi (shpjere kohën përpara me 1 orë).',

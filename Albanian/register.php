@@ -11,7 +11,7 @@ $lang_register = array(
 'Registration flood'		=>	'Një përdorues i ri u regjistrua me të njëjtën adresë IP si ju, brenda orës së fundit. Që të parandalohet përmbytje regjistrimesh, duhet të kalojë të paktën një orë mes regjistrimeve nga e njëjta IP. Na ndjeni për bezdinë.',
 'Agree'						=>	'Pajtohem',
 'Cancel'					=>	'Anuloje',
-'Register'					=>	'Regjistrojmë',
+'Register'					=>	'Regjistromë',
 
 // Form validation stuff (some of these are also used in post.php)
 'Registration errors'		=>	'Gabime regjistrimi',
