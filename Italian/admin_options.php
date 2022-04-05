@@ -1,4 +1,4 @@
-t<?php
+<?php
 
 // Definizioni di lingua usate in admin_options.php
 /* Traduzione di: Oscon.it */
